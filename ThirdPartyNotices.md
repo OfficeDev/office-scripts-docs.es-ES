@@ -1,15 +1,10 @@
-## Legal Notices
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+## <a name="legal-notices"></a>Avisos legales
+Microsoft y todos los colaboradores le conceden una licencia para la documentación de Microsoft y otro contenido de este repositorio en la [licencia pública internacional de Creative Commons atribution 4,0](https://creativecommons.org/licenses/by/4.0/legalcode), vea el archivo de [licencia](LICENSE) y conceda una licencia a cualquier código del repositorio en la [licencia MIT](https://opensource.org/licenses/MIT), vea el archivo de [código de licencia](LICENSE-CODE) .
 
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
+Microsoft, Windows, Microsoft Azure y otros productos y servicios de Microsoft a los que se hace referencia en la documentación pueden ser marcas comerciales o marcas comerciales registradas de Microsoft en Estados Unidos u otros países.
+Las licencias de este proyecto no le conceden derechos para usar nombres, logotipos o marcas comerciales de Microsoft.
+Puede encontrar instrucciones generales de la marca comercial de http://go.microsoft.com/fwlink/?LinkID=254653Microsoft en.
 
-Privacy information can be found at https://privacy.microsoft.com/en-us/
+La información de privacidad se puede encontrar enhttps://privacy.microsoft.com/en-us/
 
-Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+Microsoft y todos los colaboradores reservan todos los demás derechos, ya sea bajo sus respectivos derechos de autor, patentes o marcas comerciales, ya sea por implicación, por exclusión o de otro modo.

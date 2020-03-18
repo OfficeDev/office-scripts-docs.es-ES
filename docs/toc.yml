@@ -1,0 +1,38 @@
+- name: Documentación de scripts de Office
+  href: index.md
+- name: Scripts de Office en Excel en la web
+  items:
+    - name: Información general
+      href: overview/excel.md
+    - name: Tutoriales
+      items:
+        - name: Conceptos básicos de los scripts de Office
+          href: tutorials/excel-tutorial.md
+        - name: Leer datos de un libro con un script
+          href: tutorials/excel-read-tutorial.md
+    - name: Conceptos básicos sobre scripts
+      href: develop/scripting-fundamentals.md
+    - name: Conceptos
+      items:
+        - name: Objetos de JavaScript integrados
+          href: develop/javascript-objects.md
+        - name: Entorno del editor de código
+          href: overview/code-editor-environment.md
+        - name: Diferencias entre scripts de Office y complementos de Office
+          href: resources/add-ins-differences.md
+        - name: Deshacer los efectos de un script de Office
+          href: testing/undo.md
+    - name: Solución de problemas
+      href: testing/troubleshooting.md
+    - name: Ejemplos
+      items:
+        - name: Scripts de ejemplo
+          href: resources/excel-samples.md
+        - name: Escenarios
+          items:
+            - name: Información general
+              href: resources/scenarios/sample-scenario-overview.md
+            - name: Analizar descargas Web
+              href: resources/scenarios/analyze-web-downloads.md
+            - name: Calculadora de grado
+              href: resources/scenarios/grade-calculator.md

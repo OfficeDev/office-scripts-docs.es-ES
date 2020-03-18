@@ -1,0 +1,40 @@
+---
+title: Entorno de editor de código de scripts de Office
+description: Los requisitos previos e información del entorno para los scripts de Office en Excel en la Web.
+ms.date: 01/21/2020
+localization_priority: Normal
+ms.openlocfilehash: 06318305e4e0091ce4fd8d1cd8130c474e18aed9
+ms.sourcegitcommit: b075eed5a6f275274fbbf6d62633219eac416f26
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42700398"
+---
+# <a name="office-scripts-code-editor-environment"></a>Entorno de editor de código de scripts de Office
+
+Los scripts de Office se escriben en [TypeScript o JavaScript](#scripting-language-typescript-or-javascript) , y usan las [API de JavaScript de scripts de Office](#office-scripts-javascript-api) para interactuar con un libro de Excel.
+
+## <a name="scripting-language-typescript-or-javascript"></a>Lenguaje de scripting: TypeScript o JavaScript
+
+Los scripts de Office se escriben en [TypeScript](https://www.typescriptlang.org/docs/home.html) o [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript). La grabadora de acciones genera código en TypeScript (que es un superconjunto de JavaScript). La documentación de scripts de Office usa TypeScript, pero si está más familiarizado con JavaScript, puede usarlo en su lugar.
+
+Los scripts de Office son en gran medida fragmentos de código independientes. Solo se usa una pequeña parte de la funcionalidad de TypeScript. Por lo tanto, puede editar scripts sin tener que aprender las complejidades de TypeScript. El editor de código también controla la instalación, la compilación y la ejecución de código, por lo que no tiene que preocuparse de nada excepto de la propia secuencia de comandos. Es posible aprender el lenguaje y crear scripts sin conocimientos previos de programación. Sin embargo, si no está familiarizado con la programación, le recomendamos que conozca algunos conceptos básicos antes de continuar con los scripts de Office:
+
+- Obtenga información sobre los conceptos básicos de JavaScript. Debe sentirse cómodo con conceptos como variables, flujo de control, funciones y tipos de datos. [Mozilla ofrece un buen y completo tutorial sobre JavaScript](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
+- Obtenga información sobre los tipos de TypeScript. TypeScript se basa en JavaScript al garantizar en tiempo de compilación los tipos correctos se usan para las llamadas de método y las asignaciones. La documentación de TypeScript en [interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html), [clases](https://www.typescriptlang.org/docs/handbook/classes.html), [inferencia de tipos](https://www.typescriptlang.org/docs/handbook/type-inference.html)y compatibilidad de [tipos](https://www.typescriptlang.org/docs/handbook/type-compatibility.html) será la más útil.
+
+## <a name="office-scripts-javascript-api"></a>API de JavaScript de scripts de Office
+
+Los scripts de Office usan una versión especializada las API de JavaScript de Office que usan los [Complementos de Office](/office/dev/add-ins/overview/index). Las diferencias entre las dos plataformas se describen en el artículo [diferencias entre scripts de Office y complementos de Office](../resources/add-ins-differences.md#apis) . Puede ver todas las API disponibles para el script en la documentación de referencia de la [API de scripts de Office](/javascript/api/office-scripts/overview).
+
+## <a name="intellisense"></a>Característica
+
+IntelliSense es una característica del editor de código que ayuda a evitar errores tipográficos y sintácticos mientras se edita el script. Muestra los nombres de campo y de objeto posibles mientras se escribe, así como documentación en línea para cada API.
+
+El editor de código de Excel usa el mismo motor de IntelliSense que Visual Studio Code. Para obtener más información acerca de la característica, visite [las características de IntelliSense de Visual Studio Code](https://code.visualstudio.com/docs/editor/intellisense#_intellisense-features).
+
+## <a name="see-also"></a>Vea también
+
+- [Referencia de la API de scripts de Office](/javascript/api/office-scripts/overview)
+- [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
+- [Uso de objetos de JavaScript integrados en scripts de Office](../develop/javascript-objects.md)
