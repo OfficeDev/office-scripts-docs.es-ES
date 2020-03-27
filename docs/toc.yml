@@ -1,6 +1,6 @@
 - name: Documentación de scripts de Office
   href: index.md
-- name: Scripts de Office en Excel en la web
+- name: Scripts de Office en Excel en la Web
   items:
     - name: Información general
       href: overview/excel.md
@@ -10,7 +10,7 @@
           href: tutorials/excel-tutorial.md
         - name: Leer datos de un libro con un script
           href: tutorials/excel-read-tutorial.md
-    - name: Conceptos básicos sobre scripts
+    - name: Aspectos básicos de los scripts
       href: develop/scripting-fundamentals.md
     - name: Conceptos
       items:
@@ -18,6 +18,8 @@
           href: develop/javascript-objects.md
         - name: Entorno del editor de código
           href: overview/code-editor-environment.md
+        - name: Diferencias entre scripts de Office y macros de VBA
+          href: resources/vba-differences.md
         - name: Diferencias entre scripts de Office y complementos de Office
           href: resources/add-ins-differences.md
         - name: Deshacer los efectos de un script de Office
