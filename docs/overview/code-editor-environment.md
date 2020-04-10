@@ -1,14 +1,14 @@
 ---
 title: Entorno de editor de código de scripts de Office
 description: Los requisitos previos e información del entorno para los scripts de Office en Excel en la Web.
-ms.date: 01/21/2020
+ms.date: 04/08/2020
 localization_priority: Normal
-ms.openlocfilehash: 06318305e4e0091ce4fd8d1cd8130c474e18aed9
-ms.sourcegitcommit: b075eed5a6f275274fbbf6d62633219eac416f26
+ms.openlocfilehash: 6b26adf886172f085980bed0488b4aa7a6815991
+ms.sourcegitcommit: b13dedb5ee2048f0a244aa2294bf2c38697cb62c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42700398"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215269"
 ---
 # <a name="office-scripts-code-editor-environment"></a>Entorno de editor de código de scripts de Office
 
@@ -33,8 +33,12 @@ IntelliSense es una característica del editor de código que ayuda a evitar err
 
 El editor de código de Excel usa el mismo motor de IntelliSense que Visual Studio Code. Para obtener más información acerca de la característica, visite [las características de IntelliSense de Visual Studio Code](https://code.visualstudio.com/docs/editor/intellisense#_intellisense-features).
 
+## <a name="external-library-support"></a>Compatibilidad con bibliotecas externas
+
+Los scripts de Office no admiten el uso de bibliotecas externas de JavaScript de terceros. Actualmente no puede llamar a ninguna biblioteca que no sea las API de scripts de Office desde un script. Todavía tiene acceso a cualquier [objeto de JavaScript integrado](../develop/javascript-objects.md), como [Math](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math).
+
 ## <a name="see-also"></a>Vea también
 
-- [Referencia de la API de scripts de Office](/javascript/api/office-scripts/overview)
+- [Referencia de API de scripts de Office](/javascript/api/office-scripts/overview)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
-- [Uso de objetos de JavaScript integrados en scripts de Office](../develop/javascript-objects.md)
+- [Usar objetos integrados de JavaScript en los scripts de Office](../develop/javascript-objects.md)
