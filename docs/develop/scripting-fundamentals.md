@@ -1,14 +1,14 @@
 ---
 title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
-ms.date: 01/27/2020
+ms.date: 04/24/2020
 localization_priority: Priority
-ms.openlocfilehash: 5a709c16e23c00ffc7ee7949a3cb11459dc2d530
-ms.sourcegitcommit: d556aaefac80e55f53ac56b7f6ecbc657ebd426f
+ms.openlocfilehash: 8449654e359f665677f3d416a8e28fa4d6930f26
+ms.sourcegitcommit: 350bd2447f616fa87bb23ac826c7731fb813986b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42978736"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43919801"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web-preview"></a>Conceptos básicos de los scripts de Office en Excel en la Web (vista previa)
 
@@ -29,7 +29,7 @@ Para comprender las API de Excel, debe comprender cómo se relacionan entre sí 
 
 ### <a name="ranges"></a>Rangos
 
-Un rango es un grupo de celdas adyacentes en el libro. Normalmente, los scripts usan la notación de estilo A1 (por ejemplo, **B3** para la única celda de la fila **B** y la columna **3** o **C2:F4** para las celdas de las filas **C** a **F** y las columnas **2** a **4**) para definir rangos.
+Un rango es un grupo de celdas adyacentes en el libro. Normalmente, los scripts usan la notación de estilo A1 (por ejemplo, **B3** para la única celda de la columna **B** y la fila **3** o **C2:F4** para las celdas de las columnas de **C** a **F** y las filas de **2** a **4**) para definir rangos. 
 
 Los rangos tienen tres propiedades básicas: `values`, `formulas` y `format`. Estas propiedades obtienen o establecen los valores de celda, las fórmulas que se deben evaluar y el formato visual de las celdas.
 
@@ -155,7 +155,7 @@ El objeto `context` es necesario porque el script y Excel se ejecutan en diferen
 
 Como el script y el libro se ejecutan en distintas ubicaciones, cualquier transferencia de datos entre ambos necesita tiempo. Para mejorar el rendimiento del script, los comandos se ponen en cola hasta que el script llama explícitamente a la operación `sync` para sincronizar el script y el libro. El script puede funcionar de forma independiente hasta que necesite realizar cualquiera de las siguientes acciones:
 
-- Leer datos del libro (siguiendo una operación `load`).
+- Lea los datos del libro (después de una operación `load` o método que devuelve un [ClientResult](/javascript/api/office-scripts/excel/excel.clientresult)).
 - Escribir datos en el libro (por lo general, porque el script ha terminado).
 
 En la imagen siguiente se muestra un ejemplo de flujo de control entre el script y el libro:
@@ -173,7 +173,7 @@ await context.sync();
 > [!NOTE]
 > Se llama de forma implícita a `context.sync()` cuando finaliza un script.
 
-Una vez completada la operación `sync`, el libro se actualiza para reflejar las operaciones de escritura que haya especificado el script. Una operación de escritura consiste en establecer cualquier propiedad en un objeto de Excel (por ejemplo, `range.format.fill.color = "red"`) o llamar a un método para cambiar una propiedad (por ejemplo, `range.format.autoFitColumns()`). La operación `sync` también lee cualquier valor del libro solicitado por el script mediante una operación `load` (como se describe en la sección siguiente).
+Una vez completada la operación `sync`, el libro se actualiza para reflejar las operaciones de escritura que haya especificado el script. Una operación de escritura consiste en establecer cualquier propiedad en un objeto de Excel (por ejemplo, `range.format.fill.color = "red"`) o llamar a un método para cambiar una propiedad (por ejemplo, `range.format.autoFitColumns()`). La operación `sync` también lee cualquier valor del libro solicitado por el script mediante una operación `load` o un método que devuelve un `ClientResult`(como se describe en la sección siguiente).
 
 Sincronizar el script con el libro puede tardar un tiempo, según la red. Debe minimizar el número de llamadas `sync` para que el script se ejecute con rapidez.  
 
@@ -211,7 +211,26 @@ await context.sync(); // Synchronize with the workbook to get the properties.
 > [!TIP]
 > Para obtener más información sobre cómo trabajar con colecciones en scripts de Office, consulte el artículo [Sección Array de Usar objetos integrados de JavaScript en los scripts de Office](javascript-objects.md#array).
 
-## <a name="see-also"></a>Consulte también
+### <a name="clientresult"></a>ClientResult
+
+Los métodos que devuelven información del libro tienen un patrón similar al paradigma `load`/`sync`. Por ejemplo, `TableCollection.getCount` obtiene el número de tablas de la colección. `getCount` devuelve un `ClientResult<number>`, lo que significa que la propiedad `value` en el `ClientResult` de retorno es un número. El script no puede acceder a ese valor hasta que se llama a `context.sync()`. De forma muy similar a la carga de una propiedad, el `value` es un valor local "vacío" hasta esa llamada `sync`.
+
+El siguiente script obtiene el número total de tablas en el libro y registra ese número en la consola.
+
+```TypeScript
+async function main(context: Excel.RequestContext) {
+  let tableCount = context.workbook.tables.getCount();
+
+  // This sync call implicitly loads tableCount.value.
+  // Any other ClientResult values are loaded too.
+  await context.sync();
+
+  // Trying to log the value before calling sync would throw an error.
+  console.log(tableCount.value);
+}
+```
+
+## <a name="see-also"></a>Vea también
 
 - [Grabar, editar y crear scripts de Office en Excel en la Web](../tutorials/excel-tutorial.md)
 - [Leer datos de libros con scripts de Office en Excel en la Web](../tutorials/excel-read-tutorial.md)
