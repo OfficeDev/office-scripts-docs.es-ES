@@ -1,14 +1,14 @@
 ---
 title: Entorno de editor de código de scripts de Office
 description: Los requisitos previos e información del entorno para los scripts de Office en Excel en la Web.
-ms.date: 04/08/2020
+ms.date: 04/24/2020
 localization_priority: Normal
-ms.openlocfilehash: 6b26adf886172f085980bed0488b4aa7a6815991
-ms.sourcegitcommit: b13dedb5ee2048f0a244aa2294bf2c38697cb62c
+ms.openlocfilehash: efe6ddbe39a1ea3850b4dc6fea0fa885b80c0c28
+ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43215269"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44878671"
 ---
 # <a name="office-scripts-code-editor-environment"></a>Entorno de editor de código de scripts de Office
 
@@ -25,7 +25,7 @@ Los scripts de Office son en gran medida fragmentos de código independientes. S
 
 ## <a name="office-scripts-javascript-api"></a>API de JavaScript de scripts de Office
 
-Los scripts de Office usan una versión especializada las API de JavaScript de Office que usan los [Complementos de Office](/office/dev/add-ins/overview/index). Las diferencias entre las dos plataformas se describen en el artículo [diferencias entre scripts de Office y complementos de Office](../resources/add-ins-differences.md#apis) . Puede ver todas las API disponibles para el script en la documentación de referencia de la [API de scripts de Office](/javascript/api/office-scripts/overview).
+Los scripts de Office usan una versión especializada de las API de JavaScript para Office para [Complementos de Office](/office/dev/add-ins/overview/index). Aunque existen similitudes en las dos API, no debe suponer que el código se puede trasladar entre las dos plataformas. Las diferencias entre las dos plataformas se describen en el artículo [diferencias entre scripts de Office y complementos de Office](../resources/add-ins-differences.md#apis) . Puede ver todas las API disponibles para el script en la documentación de referencia de la [API de scripts de Office](/javascript/api/office-scripts/overview).
 
 ## <a name="intellisense"></a>Característica
 

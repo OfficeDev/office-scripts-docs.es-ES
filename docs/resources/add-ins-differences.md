@@ -1,18 +1,18 @@
 ---
-title: Diferencias entre scripts de Office y complementos de Office
+title: Diferencias entre los scripts de Office y los complementos de Office
 description: El comportamiento y las diferencias de API entre scripts de Office y complementos de Office.
-ms.date: 03/23/2020
+ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 2290d4e34b7a7286d67443de9e9c64bad4fcd4b7
-ms.sourcegitcommit: d556aaefac80e55f53ac56b7f6ecbc657ebd426f
+ms.openlocfilehash: fc2029780190672c633e00e26f44273e4311c754
+ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42978730"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44878664"
 ---
-# <a name="differences-between-office-scripts-and-office-add-ins"></a>Diferencias entre scripts de Office y complementos de Office
+# <a name="differences-between-office-scripts-and-office-add-ins"></a>Diferencias entre los scripts de Office y los complementos de Office
 
-Los complementos de Office y los scripts de Office tienen mucho en común. Ambos ofrecen el control automatizado de un libro de Excel `Excel` a través del espacio de nombres de la API de JavaScript de Office. Sin embargo, las secuencias de comandos de Office están más limitadas en su ámbito.
+Los complementos de Office y los scripts de Office tienen mucho en común. Ambos ofrecen un control automatizado de un libro de Excel con una API de JavaScript. Sin embargo, las API de scripts de Office son una versión de la API de JavaScript de Office especializada.
 
 ![Un diagrama de cuatro fases que muestra las áreas de enfoque para diferentes soluciones de extensibilidad de Office. Los scripts de Office y los complementos Web de Office se centran en la web y la colaboración, pero los scripts de Office se adaptan a los usuarios finales (mientras que los complementos Web de Office tienen como objetivo desarrolladores profesionales)).](../images/office-programmability-diagram.png)
 
@@ -28,17 +28,19 @@ Los scripts de Office solo están actualmente admitidos por para Excel en la Web
 
 ## <a name="apis"></a>API
 
-Los scripts de Office admiten la mayoría de las API de JavaScript de Excel, lo que significa que hay mucha funcionalidad superpuesta entre las dos plataformas. Hay dos excepciones: Events y Common API.
+No hay ninguna versión sincrónica de las API de JavaScript para Office para complementos de Office. Las API de scripts estándar de Office son únicas para la plataforma y tienen numerosas optimizaciones y alteraciones para evitar el uso del `load` / `sync` paradigma.
+
+Algunas de las [API de JavaScript de Excel](/javascript/api/excel?view=excel-js-preview) son compatibles con las [API asincrónicas de scripts de Office](../develop/excel-async-model.md). Algunos ejemplos y bloques de código de complementos se pueden trasladar a `Excel.run` bloques con una traducción mínima. Mientras que las dos plataformas comparten la funcionalidad, hay brechas. Los dos conjuntos de API principales que tienen los complementos de Office, pero los scripts de Office no son eventos y las API comunes.
 
 ### <a name="events"></a>Eventos
 
-Los scripts de Office no admiten [eventos](/office/dev/add-ins/excel/excel-add-ins-events). Cada secuencia de comandos ejecuta el código en `main` un solo método y, a continuación, finaliza. No se reactiva cuando se desencadenan eventos y, por lo tanto, no pueden registrar los eventos.
+Los scripts de Office no admiten [eventos](/office/dev/add-ins/excel/excel-add-ins-events). Cada secuencia de comandos ejecuta el código en un solo `main` método y, a continuación, finaliza. No se reactiva cuando se desencadenan eventos y, por lo tanto, no pueden registrar los eventos.
 
 ### <a name="common-apis"></a>API comunes
 
 Los scripts de Office no pueden usar [API comunes](/javascript/api/office). Si necesita la autenticación, ventanas de cuadro de diálogo u otras características que solo se admiten en las API comunes, es probable que deba crear un complemento de Office en lugar de un script de Office.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Diferencias entre scripts de Office y macros de VBA](vba-differences.md)

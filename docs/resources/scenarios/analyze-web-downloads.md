@@ -1,14 +1,14 @@
 ---
 title: 'Escenario de ejemplo de scripts de Office: analizar descargas Web'
 description: Un ejemplo que toma datos de tráfico de Internet sin procesar en un libro de Excel y determina la ubicación del origen antes de organizar dicha información en una tabla.
-ms.date: 02/20/2020
+ms.date: 06/15/2020
 localization_priority: Normal
-ms.openlocfilehash: 9ee12c8d4ca7c191168e3734d7cd9eadc333c165
-ms.sourcegitcommit: b075eed5a6f275274fbbf6d62633219eac416f26
+ms.openlocfilehash: 2a74fada55115faf79f0b625b8a7cd6352deb651
+ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42700410"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44878650"
 ---
 # <a name="office-scripts-sample-scenario-analyze-web-downloads"></a>Escenario de ejemplo de scripts de Office: analizar descargas Web
 
@@ -33,7 +33,7 @@ Este ejemplo se ha demodo como parte de la llamada de la comunidad de desarrolla
 
 ## <a name="setup-instructions"></a>Instrucciones de instalación
 
-1. Descargue <a href="analyze-web-downloads.xlsx">Analyze-web-downloads. xlsx</a> en su OneDrive.
+1. Descargue <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> a su OneDrive.
 
 2. Abra el libro con Excel para la Web.
 
@@ -42,147 +42,181 @@ Este ejemplo se ha demodo como parte de la llamada de la comunidad de desarrolla
 4. En el panel de tareas **Editor de código** , presione **nueva secuencia** de comandos y pegue el siguiente script en el editor.
 
     ```TypeScript
-      async function main(context: Excel.RequestContext) {
-        let currentWorksheet = context.workbook.worksheets
-          .getActiveWorksheet();
-        // Get the values of the active range of the active worksheet.
-        let logRange = currentWorksheet.getUsedRange().load("values");
-
-        // Get the Summary worksheet and table.
-        let summaryWorksheet = context.workbook.worksheets.getItem("Summary");
-        let summaryTable = context.workbook.tables.getItem("Table1");
-
-        // Get the range that will contain TRUE/FALSE if the IP address is from the United States (US).
-        let isUSColumn = logRange
-          .getLastColumn()
-          .getOffsetRange(0, 1)
-          .load("address");
-
-        // Get the values of all the US IP addresses.
-        let ipRange = context.workbook.worksheets
-          .getItem("USIPAddresses")
-          .getUsedRange()
-          .load("values");
-        await context.sync();
-
-        // Remove the first row.
-        let topRow = logRange.values.shift();
-
-        // Create a new array to contain the boolean representing if this is a US IP address.
-        let newCol = [[]];
-
-        // Go through each row in worksheet and add Boolean.
-        for (let i = 0; i < logRange.values.length; i++) {
-          let curRowIP = logRange.values[i][1];
-          if (findIP(ipRange.values, ipAddressToInteger(curRowIP)) > 0) {
-            newCol.push([true]);
-          } else {
-            newCol.push([false]);
-          }
-        }
-
-        // Remove the empty column header and add proper heading.
-        newCol.shift();
-        newCol.unshift(["Is US IP"]);
-
-        // Write the result to the spreadsheet.
-        isUSColumn.values = newCol;
-        addSummaryData();
-        applyConditionalFormatting();
-        currentWorksheet.getUsedRange().format.autofitColumns();
-
-        // Get the calculated summary data.
-        let summaryRange = currentWorksheet.getRange("J2:M2").load("values");
-        await context.sync();
-
-        // Add the corresponding row to the summary table.
-        summaryTable.rows.add(null, summaryRange.values);
-
-        // Function to apply conditional formatting to the new column.
-        function applyConditionalFormatting() {
-          // Add conditional formatting to the new column.
-          let conditionalFormatTrue = isUSColumn.conditionalFormats.add(
-            Excel.ConditionalFormatType.cellValue
-          );
-          let conditionalFormatFalse = isUSColumn.conditionalFormats.add(
-            Excel.ConditionalFormatType.cellValue
-          );
-          // Set TRUE to light blue and FALSE to light orange.
-          conditionalFormatTrue.cellValue.format.fill.color = "#8FA8DB";
-          conditionalFormatTrue.cellValue.rule = {
-            formula1: "=TRUE",
-            operator: "EqualTo"
-          };
-          conditionalFormatFalse.cellValue.format.fill.color = "#F8CCAD";
-          conditionalFormatFalse.cellValue.rule = {
-            formula1: "=FALSE",
-            operator: "EqualTo"
-          };
-        }
-
-        // Adds the summary data to the current sheet and to the summary table.
-        function addSummaryData() {
-          // Add a summary row and table.
-          let summaryHeader = [["Year", "Week", "US", "Other"]];
-          let countTrueFormula =
-            "=COUNTIF(" + isUSColumn.address + ', "=TRUE")/' + (newCol.length - 1);
-          let countFalseFormula =
-            "=COUNTIF(" + isUSColumn.address + ', "=FALSE")/' + (newCol.length - 1);
-
-          let summaryContent = [
-            [
-              '=TEXT(A2,"YYYY")',
-              '=TEXTJOIN(" ", FALSE, "Wk", WEEKNUM(A2))',
-              countTrueFormula,
-              countFalseFormula
-            ]
-          ];
-          let summaryHeaderRow = context.workbook.worksheets
-            .getActiveWorksheet()
-            .getRange("J1:M1");
-          let summaryContentRow = context.workbook.worksheets
-            .getActiveWorksheet()
-            .getRange("J2:M2");
-          summaryHeaderRow.values = summaryHeader;
-          summaryContentRow.values = summaryContent;
-          let formats = [[".000", ".000"]];
-          summaryContentRow
-            .getOffsetRange(0, 2)
-            .getResizedRange(0, -2).numberFormat = formats;
-        }
+    function main(workbook: ExcelScript.Workbook) {
+      // Get the Summary worksheet and table.
+      let summaryWorksheet = workbook.getWorksheet("Summary");
+      let summaryTable = summaryWorksheet?.getTable("Table1");
+      if (!summaryWorksheet || !summaryTable) {
+          console.log("The script expects the Summary worksheet with a summary table named Table1. Please download the correct template and try again.");
+          return;
       }
+  
+      // Get the current worksheet.
+      let currentWorksheet = workbook.getActiveWorksheet();
+      if (!currentWorksheet.getName().toLocaleLowerCase().startsWith("week")) {
+          console.log("Please switch worksheet to one of the weekly data sheets and try again.")
+          return;
+      }
+  
+      // Get the values of the active range of the active worksheet.
+      let logRange = currentWorksheet.getUsedRange();
+  
+        if (logRange.getColumnCount() !== 8) {
+        console.log(`Verify that you are on the correct worksheet. Either the week's data has been already processed or the content is incorrect. The following columns are expected: ${[
+          "Time Stamp", "IP Address", "kilobytes", "user agent code", "milliseconds", "Request", "Results", "Referrer"
+        ]}`);
+        return;
+      }
+      // Get the range that will contain TRUE/FALSE if the IP address is from the United States (US).
+      let isUSColumn = logRange
+          .getLastColumn()
+          .getOffsetRange(0, 1);
+  
+      // Get the values of all the US IP addresses.
+      let ipRange = workbook.getWorksheet("USIPAddresses").getUsedRange();
+      let ipRangeValues = ipRange.getValues();
+      let logRangeValues = logRange.getValues();
+      // Remove the first row.
+      let topRow = logRangeValues.shift();
+      console.log(`Analyzing ${logRangeValues.length} entries.`);
+  
+      // Create a new array to contain the boolean representing if this is a US IP address.
+      let newCol = [];
+  
+      // Go through each row in worksheet and add Boolean.
+      for (let i = 0; i < logRangeValues.length; i++) {
+          let curRowIP = logRangeValues[i][1];
+          if (findIP(ipRangeValues, ipAddressToInteger(curRowIP)) > 0) {
+              newCol.push([true]);
+          } else {
+              newCol.push([false]);
+          }
+      }
+  
+      // Remove the empty column header and add proper heading.
+      newCol = [["Is US IP"], ...newCol];
+  
+      // Write the result to the spreadsheet.
+      console.log(`Adding column to indicate whether IP belongs to US region or not at address: ${isUSColumn.getAddress()}`);
+      console.log(newCol.length);
+      console.log(newCol);
+      isUSColumn.setValues(newCol);
+  
+      // Call the local function to add summary data to the worksheet.
+      addSummaryData();
+  
+      // Call the local function to apply conditional formatting.
+  
+      applyConditionalFormatting(isUSColumn);
+  
+      // Autofit columns.
+      currentWorksheet.getUsedRange().getFormat().autofitColumns();
+  
+      // Get the calculated summary data.
+      let summaryRangeValues = currentWorksheet.getRange("J2:M2").getValues();
+  
+      // Add the corresponding row to the summary table.
+      summaryTable.addRow(null, summaryRangeValues[0]);
+      console.log("Complete.");
+      return;
 
-      // Translate an IP address into an integer.
-      function ipAddressToInteger(ipAddress: string) {
+    /**
+     * A function to add summary data on the worksheet.
+     */
+    function addSummaryData() {
+        // Add a summary row and table.
+        let summaryHeader = [["Year", "Week", "US", "Other"]];
+        let countTrueFormula =
+            "=COUNTIF(" + isUSColumn.getAddress() + ', "=TRUE")/' + (newCol.length - 1);
+        let countFalseFormula =
+            "=COUNTIF(" + isUSColumn.getAddress() + ', "=FALSE")/' + (newCol.length - 1);
+
+        let summaryContent = [
+            [
+                '=TEXT(A2,"YYYY")',
+                '=TEXTJOIN(" ", FALSE, "Wk", WEEKNUM(A2))',
+                countTrueFormula,
+                countFalseFormula
+            ]
+        ];
+        let summaryHeaderRow = currentWorksheet
+            .getRange("J1:M1");
+        let summaryContentRow = currentWorksheet
+            .getRange("J2:M2");
+        console.log("2");
+
+        summaryHeaderRow.setValues(summaryHeader);
+        console.log("3");
+
+        summaryContentRow.setValues(summaryContent);
+        console.log("4");
+
+        let formats = [[".000", ".000"]];
+        summaryContentRow
+            .getOffsetRange(0, 2)
+            .getResizedRange(0, -2).setNumberFormats(formats);
+        }
+    }
+    /**
+     * Apply conditional formatting based on TRUE/FALSE values of the Is US IP column.
+     */
+    function applyConditionalFormatting(isUSColumn: ExcelScript.Range) {
+        // Add conditional formatting to the new column.
+        let conditionalFormatTrue = isUSColumn.addConditionalFormat(
+            ExcelScript.ConditionalFormatType.cellValue
+        );
+        let conditionalFormatFalse = isUSColumn.addConditionalFormat(
+            ExcelScript.ConditionalFormatType.cellValue
+        );
+        // Set TRUE to light blue and FALSE to light orange.
+        conditionalFormatTrue.getCellValue().getFormat().getFill().setColor("#8FA8DB");
+        conditionalFormatTrue.getCellValue().setRule({
+            formula1: "=TRUE",
+            operator: ExcelScript.ConditionalCellValueOperator.equalTo
+        });
+        conditionalFormatTrue.getCellValue().getFormat().getFill().setColor("#F8CCAD");
+        conditionalFormatTrue.getCellValue().setRule({
+            formula1: "=FALSE",
+            operator: ExcelScript.ConditionalCellValueOperator.equalTo
+        });
+    }
+    /**
+     * Translate an IP address into an integer.
+     * @param ipAddress: IP address to verify.
+     */
+    function ipAddressToInteger(ipAddress: string): number {
         // Split the IP address into octets.
         let octets = ipAddress.split(".");
 
         // Create a number for each octet and do the math to create the integer value of the IP address.
         let fullNum =
-          // Define an arbitrary number for the last octet.
-          111 +
-          parseInt(octets[2]) * 256 +
-          parseInt(octets[1]) * 65536 +
-          parseInt(octets[0]) * 16777216;
+            // Define an arbitrary number for the last octet.
+            111 +
+            parseInt(octets[2]) * 256 +
+            parseInt(octets[1]) * 65536 +
+            parseInt(octets[0]) * 16777216;
         return fullNum;
-      }
-
-      // Return the row number where the ip address is found.
-      function findIP(ipLookupTable: number[][], n: number) {
+    }
+    /**
+     * Return the row number where the ip address is found.
+     * @param ipLookupTable IP look-up table.
+     * @param n IP address to number value.  
+     */
+    function findIP(ipLookupTable: number[][], n: number): number {
         for (let i = 0; i < ipLookupTable.length; i++) {
-          if (ipLookupTable[i][0] <= n && ipLookupTable[i][1] >= n) {
-            return i;
-          }
+            if (ipLookupTable[i][0] <= n && ipLookupTable[i][1] >= n) {
+                return i;
+            }
         }
         return -1;
-      }
+    }
     ```
 
 5. Cambie el nombre del script para **analizar las descargas Web** y guardarlas.
 
 ## <a name="running-the-script"></a>Ejecución del script
 
-Navegue a cualquiera de las hojas de cálculo de la **semana\* ** y ejecute el script **analizar descargas Web** . El script aplicará el formato condicional y el etiquetado de ubicación en la hoja actual. También se actualizará la hoja de cálculo de **Resumen** .
+Navegue a cualquiera de las hojas de cálculo de la **semana \* \* ** y ejecute el script **analizar descargas Web** . El script aplicará el formato condicional y el etiquetado de ubicación en la hoja actual. También se actualizará la hoja de cálculo de **Resumen** .
 
 ### <a name="before-running-the-script"></a>Antes de ejecutar el script
 

@@ -1,14 +1,14 @@
 ---
 title: Scripts de ejemplo para scripts de Office en Excel en la web
 description: Una colección de ejemplos de código para usar con scripts de Office en Excel en la Web.
-ms.date: 04/06/2020
+ms.date: 06/18/2020
 localization_priority: Normal
-ms.openlocfilehash: abf6b87b63ad027cca8ee5c947b687f54815409c
-ms.sourcegitcommit: 0b2232c4c228b14d501edb8bb489fe0e84748b42
+ms.openlocfilehash: bfa6679595e6e28cc5d2ae3e3e487fd3e77738aa
+ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191007"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44878678"
 ---
 # <a name="sample-scripts-for-office-scripts-in-excel-on-the-web-preview"></a>Scripts de ejemplo para scripts de Office en Excel en la web (vista previa)
 
@@ -30,18 +30,80 @@ Estos ejemplos muestran bloques de creación fundamentales para los scripts de O
 
 En este ejemplo se lee el valor de **a1** y se imprime en la consola.
 
-``` TypeScript
-async function main(context: Excel.RequestContext) {
+```typescript
+function main(workbook: ExcelScript.Workbook) {
   // Get the current worksheet.
-  let selectedSheet = context.workbook.worksheets.getActiveWorksheet();
+  let selectedSheet = workbook.getActiveWorksheet();
 
   // Get the value of cell A1.
   let range = selectedSheet.getRange("A1");
-  range.load("values");
-  await context.sync();
-
+  
   // Print the value of A1.
-  console.log(range.values);
+  console.log(range.getValue());
+}
+```
+
+### <a name="read-the-active-cell"></a>Leer la celda activa
+
+Esta secuencia de comandos registra el valor de la celda activa actual. Si se seleccionan varias celdas, se registrará la celda superior izquierda.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+  // Get the current active cell in the workbook.
+  let cell = workbook.getActiveCell();
+
+  // Log that cell's value.
+  console.log(`The current cell's value is ${cell.getValue()}`);
+}
+```
+
+### <a name="change-an-adjacent-cell"></a>Cambiar una celda adyacente
+
+Este script obtiene las celdas adyacentes mediante referencias relativas. Tenga en cuenta que si la celda activa está en la fila superior, se producirá un error en parte del script porque hace referencia a la celda por encima de la selección actualmente seleccionada.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+  // Get the currently active cell in the workbook.
+  let activeCell = workbook.getActiveCell();
+  console.log(`The active cell's address is: ${activeCell.getAddress()}`);
+
+  // Get the cell to the right of the active cell and set its value and color.
+  let rightCell = activeCell.getOffsetRange(0,1);
+  rightCell.setValue("Right cell");
+  console.log(`The right cell's address is: ${rightCell.getAddress()}`);
+  rightCell.getFormat().getFont().setColor("Magenta");
+  rightCell.getFormat().getFill().setColor("Cyan");
+
+  // Get the cell to the above of the active cell and set its value and color.
+  // Note that this operation will fail if the active cell is in the top row.
+  let aboveCell = activeCell.getOffsetRange(-1, 0);
+  aboveCell.setValue("Above cell");
+  console.log(`The above cell's address is: ${aboveCell.getAddress()}`);
+  aboveCell.getFormat().getFont().setColor("White");
+  aboveCell.getFormat().getFill().setColor("Black");
+}
+```
+
+### <a name="change-all-adjacent-cells"></a>Cambiar todas las celdas adyacentes
+
+Este script copia el formato de la celda activa en las celdas vecinas. Tenga en cuenta que este script sólo funciona cuando la celda activa no está en un borde de la hoja de cálculo.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+  // Get the active cell.
+  let activeCell = workbook.getActiveCell();
+
+  // Get the cell that's one row above and one column to the left of the active cell.
+  let cornerCell = activeCell.getOffsetRange(-1,-1);
+
+  // Get a range that includes all the cells surrounding the active cell.
+  let surroundingRange = cornerCell.getResizedRange(2, 2)
+
+  // Copy the formatting from the active cell to the new range.
+  surroundingRange.copyFrom(
+    activeCell, /* The source range. */
+    ExcelScript.RangeCopyType.formats /* What to copy. */
+    );
 }
 ```
 
@@ -52,33 +114,31 @@ Los ejemplos de esta sección muestran cómo usar el objeto [Date](https://devel
 En el ejemplo siguiente se obtiene la fecha y hora actuales y, a continuación, se escriben los valores en dos celdas de la hoja de cálculo activa.
 
 ```TypeScript
-async function main(context: Excel.RequestContext) {
+function main(workbook: ExcelScript.Workbook) {
   // Get the cells at A1 and B1.
-  let dateRange = context.workbook.worksheets.getActiveWorksheet().getRange("A1");
-  let timeRange = context.workbook.worksheets.getActiveWorksheet().getRange("B1");
+  let dateRange = workbook.getActiveWorksheet().getRange("A1");
+  let timeRange = workbook.getActiveWorksheet().getRange("B1");
 
   // Get the current date and time with the JavaScript Date object.
   let date = new Date(Date.now());
 
   // Add the date string to A1.
-  dateRange.values = [[date.toLocaleDateString()]];
-  
+  dateRange.setValue(date.toLocaleDateString());
+
   // Add the time string to B1.
-  timeRange.values = [[date.toLocaleTimeString()]];
+  timeRange.setValue(date.toLocaleTimeString());
 }
 ```
 
 El siguiente ejemplo lee una fecha que está almacenada en Excel y la convierte en un objeto Date de JavaScript. Usa el [número de serie numérico de la fecha](https://support.office.com/article/now-function-3337fd29-145a-4347-b2e6-20c904739c46) como entrada para la fecha de JavaScript.
 
 ```TypeScript
-async function main(context: Excel.RequestContext) {
+function main(workbook: ExcelScript.Workbook) {
   // Read a date at cell A1 from Excel.
-  let dateRange = context.workbook.worksheets.getActiveWorksheet().getRange("A1");
-  dateRange.load("values");
-  await context.sync();
+  let dateRange = workbook.getActiveWorksheet().getRange("A1");
 
   // Convert the Excel date to a JavaScript Date object.
-  let excelDateValue = dateRange.values[0][0];
+  let excelDateValue = dateRange.getValue();
   let javaScriptDate = new Date(Math.round((excelDateValue - 25569) * 86400 * 1000));
   console.log(javaScriptDate);
 }
@@ -93,20 +153,20 @@ En estos ejemplos se muestra cómo trabajar con los datos de la hoja de cálculo
 En este ejemplo se aplica formato condicional al intervalo que se usa actualmente en la hoja de cálculo. El formato condicional es un relleno verde para el 10% de los valores principales.
 
 ```TypeScript
-async function main(context: Excel.RequestContext) {
+function main(workbook: ExcelScript.Workbook) {
   // Get the current worksheet.
-  let selectedSheet = context.workbook.worksheets.getActiveWorksheet();
+  let selectedSheet = workbook.getActiveWorksheet();
 
   // Get the used range in the worksheet.
   let range = selectedSheet.getUsedRange();
 
   // Set the fill color to green for the top 10% of values in the range.
-  let conditionalFormat = range.conditionalFormats.add(Excel.ConditionalFormatType.topBottom);
-  conditionalFormat.topBottom.format.fill.color = "green";
-  conditionalFormat.topBottom.rule = {
+  let conditionalFormat = range.addConditionalFormat(ExcelScript.ConditionalFormatType.topBottom)
+  conditionalFormat.getTopBottom().getFormat().getFill().setColor("green");
+  conditionalFormat.getTopBottom().setRule({
     rank: 10, // The percentage threshold.
-    type: Excel.ConditionalTopBottomCriterionType.topPercent // The type of the top/bottom condition.
-  };
+    type: ExcelScript.ConditionalTopBottomCriterionType.topPercent // The type of the top/bottom condition.
+  });
 }
 ```
 
@@ -115,42 +175,43 @@ async function main(context: Excel.RequestContext) {
 En este ejemplo se crea una tabla a partir del rango usado de la hoja de cálculo actual y, a continuación, se ordena basándose en la primera columna.
 
 ```TypeScript
-async function main(context: Excel.RequestContext) {
+function main(workbook: ExcelScript.Workbook) {
   // Get the current worksheet.
-  let selectedSheet = context.workbook.worksheets.getActiveWorksheet();
+  let selectedSheet = workbook.getActiveWorksheet();
 
   // Create a table with the used cells.
   let usedRange = selectedSheet.getUsedRange();
-  let newTable = selectedSheet.tables.add(usedRange, true);
+  let newTable = selectedSheet.addTable(usedRange, true);
 
   // Sort the table using the first column.
-  newTable.sort.apply([{ key: 0, ascending: true }]);
+  newTable.getSort().apply([{ key: 0, ascending: true }]);
 }
 ```
 
-## <a name="collaboration"></a>Colaboración
+### <a name="log-the-grand-total-values-from-a-pivottable"></a>Registrar los valores de "total general" de una tabla dinámica
 
-En estos ejemplos se muestra cómo trabajar con las características relacionadas con la colaboración de Excel, como los comentarios.
+En este ejemplo se busca la primera tabla dinámica del libro y se registran los valores de las celdas de "Grand total" (resaltado en verde en la imagen siguiente).
 
-### <a name="delete-resolved-comments"></a>Eliminar comentarios resueltos
-
-Este ejemplo elimina todos los comentarios resueltos de la hoja de cálculo actual.
+![Una tabla dinámica ventas de frutas con la fila total general resaltada en verde.](../images/sample-pivottable-grand-total-row.png)
 
 ```TypeScript
-async function main(context: Excel.RequestContext) {
-  // Get the current worksheet.
-  let selectedSheet = context.workbook.worksheets.getActiveWorksheet();
+function main(workbook: ExcelScript.Workbook) {
+  // Get the first PivotTable in the workbook.
+  let pivotTable = workbook.getPivotTables()[0];
 
-  // Get the comments on this worksheet.
-  let comments = selectedSheet.comments;
-  comments.load("items/resolved");
-  await context.sync();
+  // Get the names of each data column in the PivotTable.
+  let pivotColumnLabelRange = pivotTable.getLayout().getColumnLabelRange();
 
-  // Delete the resolved comments.
-  comments.items.forEach((comment) => {
-      if (comment.resolved) {
-          comment.delete();
-      }
+  // Get the range displaying the pivoted data.
+  let pivotDataRange = pivotTable.getLayout().getRangeBetweenHeaderAndTotal();
+
+  // Get the range with the "grand totals" for the PivotTable columns.
+  let grandTotalRange = pivotDataRange.getLastRow();
+
+  // Print each of the "Grand Totals" to the console.
+  grandTotalRange.getValues()[0].forEach((column, columnIndex) => {
+    console.log(`Grand total of ${pivotColumnLabelRange.getValues()[0][columnIndex]}: ${grandTotalRange.getValues()[0][columnIndex]}`);
+    // Example log: "Grand total of Sum of Crates Sold Wholesale: 11000"
   });
 }
 ```

@@ -1,14 +1,14 @@
 ---
 title: Solución de problemas de scripts de Office
 description: Sugerencias y técnicas de depuración de scripts de Office, así como recursos de ayuda.
-ms.date: 12/13/2019
+ms.date: 05/14/2020
 localization_priority: Normal
-ms.openlocfilehash: 959faff875f342dc1b1ab158ad9ded24732b0894
-ms.sourcegitcommit: b075eed5a6f275274fbbf6d62633219eac416f26
+ms.openlocfilehash: 6448980eec45214a589444229db0fd781b9fea13
+ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42700356"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44878622"
 ---
 # <a name="troubleshooting-office-scripts"></a>Solución de problemas de scripts de Office
 
@@ -19,16 +19,11 @@ Al desarrollar scripts de Office, puede cometer errores. Es correcto. Tenemos he
 En ocasiones, durante la solución de problemas, querrá imprimir los mensajes en la pantalla. Estos pueden mostrar el valor actual de las variables o las rutas de código que se están desencadenando. Para ello, registre el texto en la consola.
 
 ```TypeScript
-console.log("Logging my range's address.");
-myRange.load("address");
-await context.sync();
-console.log(myRange.address);
+console.log("Logging myRange's address.");
+console.log(myRange.getAddress());
 ```
 
-> [!IMPORTANT]
-> No olvide los `load` datos de la `sync` hoja de cálculo y con el libro antes de registrar las propiedades del objeto.
-
-Las cadenas pasadas`console.log` a se mostrarán en la consola de registro del editor de código. Para activar la consola, presione el botón de **puntos suspensivos** y seleccione **registros...**
+Las cadenas pasadas a `console.log` se mostrarán en la consola de registro del editor de código. Para activar la consola, presione el botón de **puntos suspensivos** y seleccione **registros...**
 
 Los registros no afectan al libro.
 
@@ -46,6 +41,7 @@ Si hay un problema con el grabador de acciones o con el editor, envíe sus comen
 
 ## <a name="see-also"></a>Vea también
 
-- [Scripts de Office en Excel en la web](../overview/excel.md)
+- [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Conceptos básicos sobre el scripting de los scripts de Office en Excel en la web](../develop/scripting-fundamentals.md)
 - [Deshacer los efectos de un script de Office](undo.md)
+- [Mejorar el rendimiento de los scripts de Office](../develop/web-client-performance.md)
