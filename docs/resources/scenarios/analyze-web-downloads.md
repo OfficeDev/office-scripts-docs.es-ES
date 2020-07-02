@@ -1,45 +1,48 @@
 ---
 title: 'Escenario de ejemplo de scripts de Office: analizar descargas Web'
 description: Un ejemplo que toma datos de tráfico de Internet sin procesar en un libro de Excel y determina la ubicación del origen antes de organizar dicha información en una tabla.
-ms.date: 06/15/2020
+ms.date: 06/25/2020
 localization_priority: Normal
-ms.openlocfilehash: 2a74fada55115faf79f0b625b8a7cd6352deb651
-ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
+ms.openlocfilehash: 425d2af432d6b3c4b7604daf7935d2cc1ec059a8
+ms.sourcegitcommit: 30750c4392db3ef057075a5702abb92863c93eda
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44878650"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44999270"
 ---
-# <a name="office-scripts-sample-scenario-analyze-web-downloads"></a><span data-ttu-id="357ab-103">Escenario de ejemplo de scripts de Office: analizar descargas Web</span><span class="sxs-lookup"><span data-stu-id="357ab-103">Office Scripts sample scenario: Analyze web downloads</span></span>
+# <a name="office-scripts-sample-scenario-analyze-web-downloads"></a><span data-ttu-id="bd621-103">Escenario de ejemplo de scripts de Office: analizar descargas Web</span><span class="sxs-lookup"><span data-stu-id="bd621-103">Office Scripts sample scenario: Analyze web downloads</span></span>
 
-<span data-ttu-id="357ab-104">En este escenario, usted tiene la tarea de analizar los informes de descarga desde el sitio web de su empresa.</span><span class="sxs-lookup"><span data-stu-id="357ab-104">In this scenario, you're tasked with analyzing download reports from your company's website.</span></span> <span data-ttu-id="357ab-105">El objetivo de este análisis es determinar si el tráfico web procede de Estados Unidos o de otros lugares del mundo.</span><span class="sxs-lookup"><span data-stu-id="357ab-105">The goal of this analysis is to determine if the web traffic is coming from the United States or elsewhere in the world.</span></span>
+<span data-ttu-id="bd621-104">En este escenario, usted tiene la tarea de analizar los informes de descarga desde el sitio web de su empresa.</span><span class="sxs-lookup"><span data-stu-id="bd621-104">In this scenario, you're tasked with analyzing download reports from your company's website.</span></span> <span data-ttu-id="bd621-105">El objetivo de este análisis es determinar si el tráfico web procede de Estados Unidos o de otros lugares del mundo.</span><span class="sxs-lookup"><span data-stu-id="bd621-105">The goal of this analysis is to determine if the web traffic is coming from the United States or elsewhere in the world.</span></span>
 
-<span data-ttu-id="357ab-106">Los compañeros cargan los datos sin procesar en el libro.</span><span class="sxs-lookup"><span data-stu-id="357ab-106">Your colleagues upload the raw data to your workbook.</span></span> <span data-ttu-id="357ab-107">El conjunto de datos de cada semana tiene su propia hoja de cálculo.</span><span class="sxs-lookup"><span data-stu-id="357ab-107">Each week's set of data has its own worksheet.</span></span> <span data-ttu-id="357ab-108">También hay una hoja de cálculo de **Resumen** con una tabla y un gráfico que muestra tendencias semanales sobre la semana.</span><span class="sxs-lookup"><span data-stu-id="357ab-108">There is also the **Summary** worksheet with a table and chart that shows week-over-week trends.</span></span>
+<span data-ttu-id="bd621-106">Los compañeros cargan los datos sin procesar en el libro.</span><span class="sxs-lookup"><span data-stu-id="bd621-106">Your colleagues upload the raw data to your workbook.</span></span> <span data-ttu-id="bd621-107">El conjunto de datos de cada semana tiene su propia hoja de cálculo.</span><span class="sxs-lookup"><span data-stu-id="bd621-107">Each week's set of data has its own worksheet.</span></span> <span data-ttu-id="bd621-108">También hay una hoja de cálculo de **Resumen** con una tabla y un gráfico que muestra tendencias semanales sobre la semana.</span><span class="sxs-lookup"><span data-stu-id="bd621-108">There is also the **Summary** worksheet with a table and chart that shows week-over-week trends.</span></span>
 
-<span data-ttu-id="357ab-109">Desarrollará un script que analiza los datos de descarga semanal de la hoja de cálculo activa.</span><span class="sxs-lookup"><span data-stu-id="357ab-109">You'll develop a script that analyzes weekly downloads data in the active worksheet.</span></span> <span data-ttu-id="357ab-110">Analizará la dirección IP asociada con cada descarga y determinará si llegó o no con nosotros.</span><span class="sxs-lookup"><span data-stu-id="357ab-110">It will parse the IP address associated with each download and determine whether or not it came from the US.</span></span> <span data-ttu-id="357ab-111">La respuesta se insertará en la hoja de cálculo como un valor booleano ("TRUE" o "FALSE") y se aplicará el formato condicional a esas celdas.</span><span class="sxs-lookup"><span data-stu-id="357ab-111">The answer will be inserted in the worksheet as a boolean value ("TRUE" or "FALSE") and conditional formatting will be applied to those cells.</span></span> <span data-ttu-id="357ab-112">Los resultados de la ubicación de la dirección IP se totalizarán en la hoja de cálculo y se copiarán en la tabla de resumen.</span><span class="sxs-lookup"><span data-stu-id="357ab-112">The IP address location results will be totaled on the worksheet and copied to the summary table.</span></span>
+<span data-ttu-id="bd621-109">Desarrollará un script que analiza los datos de descarga semanal de la hoja de cálculo activa.</span><span class="sxs-lookup"><span data-stu-id="bd621-109">You'll develop a script that analyzes weekly downloads data in the active worksheet.</span></span> <span data-ttu-id="bd621-110">Analizará la dirección IP asociada con cada descarga y determinará si llegó o no con nosotros.</span><span class="sxs-lookup"><span data-stu-id="bd621-110">It will parse the IP address associated with each download and determine whether or not it came from the US.</span></span> <span data-ttu-id="bd621-111">La respuesta se insertará en la hoja de cálculo como un valor booleano ("TRUE" o "FALSE") y se aplicará el formato condicional a esas celdas.</span><span class="sxs-lookup"><span data-stu-id="bd621-111">The answer will be inserted in the worksheet as a boolean value ("TRUE" or "FALSE") and conditional formatting will be applied to those cells.</span></span> <span data-ttu-id="bd621-112">Los resultados de la ubicación de la dirección IP se totalizarán en la hoja de cálculo y se copiarán en la tabla de resumen.</span><span class="sxs-lookup"><span data-stu-id="bd621-112">The IP address location results will be totaled on the worksheet and copied to the summary table.</span></span>
 
-## <a name="scripting-skills-covered"></a><span data-ttu-id="357ab-113">Habilidades de scripting cubiertas</span><span class="sxs-lookup"><span data-stu-id="357ab-113">Scripting skills covered</span></span>
+## <a name="scripting-skills-covered"></a><span data-ttu-id="bd621-113">Habilidades de scripting cubiertas</span><span class="sxs-lookup"><span data-stu-id="bd621-113">Scripting skills covered</span></span>
 
-- <span data-ttu-id="357ab-114">Análisis de texto</span><span class="sxs-lookup"><span data-stu-id="357ab-114">Text parsing</span></span>
-- <span data-ttu-id="357ab-115">Subfunciones en scripts</span><span class="sxs-lookup"><span data-stu-id="357ab-115">Subfunctions in scripts</span></span>
-- <span data-ttu-id="357ab-116">Formato condicional</span><span class="sxs-lookup"><span data-stu-id="357ab-116">Conditional formatting</span></span>
-- <span data-ttu-id="357ab-117">Tablas</span><span class="sxs-lookup"><span data-stu-id="357ab-117">Tables</span></span>
+- <span data-ttu-id="bd621-114">Análisis de texto</span><span class="sxs-lookup"><span data-stu-id="bd621-114">Text parsing</span></span>
+- <span data-ttu-id="bd621-115">Subfunciones en scripts</span><span class="sxs-lookup"><span data-stu-id="bd621-115">Subfunctions in scripts</span></span>
+- <span data-ttu-id="bd621-116">Formato condicional</span><span class="sxs-lookup"><span data-stu-id="bd621-116">Conditional formatting</span></span>
+- <span data-ttu-id="bd621-117">Tablas</span><span class="sxs-lookup"><span data-stu-id="bd621-117">Tables</span></span>
 
-## <a name="demo-video"></a><span data-ttu-id="357ab-118">Vídeo de demostración</span><span class="sxs-lookup"><span data-stu-id="357ab-118">Demo video</span></span>
+## <a name="demo-video"></a><span data-ttu-id="bd621-118">Vídeo de demostración</span><span class="sxs-lookup"><span data-stu-id="bd621-118">Demo video</span></span>
 
-<span data-ttu-id="357ab-119">Este ejemplo se ha demodo como parte de la llamada de la comunidad de desarrolladores de complementos de Office para febrero de 2020.</span><span class="sxs-lookup"><span data-stu-id="357ab-119">This sample was demoed as part of the Office Add-ins developer community call for February 2020.</span></span>
+<span data-ttu-id="bd621-119">Este ejemplo se ha demodo como parte de la llamada de la comunidad de desarrolladores de complementos de Office para febrero de 2020.</span><span class="sxs-lookup"><span data-stu-id="bd621-119">This sample was demoed as part of the Office Add-ins developer community call for February 2020.</span></span>
 
 > [!VIDEO https://www.youtube.com/embed/vPEqbb7t6-Y?start=154]
 
-## <a name="setup-instructions"></a><span data-ttu-id="357ab-120">Instrucciones de instalación</span><span class="sxs-lookup"><span data-stu-id="357ab-120">Setup instructions</span></span>
+> [!NOTE]
+> <span data-ttu-id="bd621-120">El código que se muestra en este vídeo usa un modelo de API anterior (las [API asincrónicas de scripts de Office](../../develop/excel-async-model.md)).</span><span class="sxs-lookup"><span data-stu-id="bd621-120">The code shown in this video uses an older API model (the [Office Scripts Async APIs](../../develop/excel-async-model.md)).</span></span> <span data-ttu-id="bd621-121">El ejemplo presentado en esta página se ha actualizado, pero el código es un poco diferente de la grabación.</span><span class="sxs-lookup"><span data-stu-id="bd621-121">The sample presented on this page has been updated, but the code looks a little different from the recording.</span></span> <span data-ttu-id="bd621-122">Los cambios no afectan el comportamiento del script o del otro contenido de la demostración del moderador.</span><span class="sxs-lookup"><span data-stu-id="bd621-122">The changes don't affect the behavior of the script or the other content in the presenter's demo.</span></span>
 
-1. <span data-ttu-id="357ab-121">Descargue <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> a su OneDrive.</span><span class="sxs-lookup"><span data-stu-id="357ab-121">Download <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> to your OneDrive.</span></span>
+## <a name="setup-instructions"></a><span data-ttu-id="bd621-123">Instrucciones de instalación</span><span class="sxs-lookup"><span data-stu-id="bd621-123">Setup instructions</span></span>
 
-2. <span data-ttu-id="357ab-122">Abra el libro con Excel para la Web.</span><span class="sxs-lookup"><span data-stu-id="357ab-122">Open the workbook with Excel for the web.</span></span>
+1. <span data-ttu-id="bd621-124">Descargue <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> a su OneDrive.</span><span class="sxs-lookup"><span data-stu-id="bd621-124">Download <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> to your OneDrive.</span></span>
 
-3. <span data-ttu-id="357ab-123">En la ficha **automatizar** , abra el **Editor de código**.</span><span class="sxs-lookup"><span data-stu-id="357ab-123">Under the **Automate** tab, open the **Code Editor**.</span></span>
+2. <span data-ttu-id="bd621-125">Abra el libro con Excel para la Web.</span><span class="sxs-lookup"><span data-stu-id="bd621-125">Open the workbook with Excel for the web.</span></span>
 
-4. <span data-ttu-id="357ab-124">En el panel de tareas **Editor de código** , presione **nueva secuencia** de comandos y pegue el siguiente script en el editor.</span><span class="sxs-lookup"><span data-stu-id="357ab-124">In the **Code Editor** task pane, press **New Script** and paste the following script into the editor.</span></span>
+3. <span data-ttu-id="bd621-126">En la ficha **automatizar** , abra el **Editor de código**.</span><span class="sxs-lookup"><span data-stu-id="bd621-126">Under the **Automate** tab, open the **Code Editor**.</span></span>
+
+4. <span data-ttu-id="bd621-127">En el panel de tareas **Editor de código** , presione **nueva secuencia** de comandos y pegue el siguiente script en el editor.</span><span class="sxs-lookup"><span data-stu-id="bd621-127">In the **Code Editor** task pane, press **New Script** and paste the following script into the editor.</span></span>
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook) {
@@ -212,17 +215,17 @@ ms.locfileid: "44878650"
     }
     ```
 
-5. <span data-ttu-id="357ab-125">Cambie el nombre del script para **analizar las descargas Web** y guardarlas.</span><span class="sxs-lookup"><span data-stu-id="357ab-125">Rename the script to **Analyze Web Downloads** and save it.</span></span>
+5. <span data-ttu-id="bd621-128">Cambie el nombre del script para **analizar las descargas Web** y guardarlas.</span><span class="sxs-lookup"><span data-stu-id="bd621-128">Rename the script to **Analyze Web Downloads** and save it.</span></span>
 
-## <a name="running-the-script"></a><span data-ttu-id="357ab-126">Ejecución del script</span><span class="sxs-lookup"><span data-stu-id="357ab-126">Running the script</span></span>
+## <a name="running-the-script"></a><span data-ttu-id="bd621-129">Ejecución del script</span><span class="sxs-lookup"><span data-stu-id="bd621-129">Running the script</span></span>
 
-<span data-ttu-id="357ab-127">Navegue a cualquiera de las hojas de cálculo de la \*\*semana \* \* \*\* y ejecute el script **analizar descargas Web** .</span><span class="sxs-lookup"><span data-stu-id="357ab-127">Navigate to any of the **Week\*\*** worksheets and run the **Analyze Web Downloads** script.</span></span> <span data-ttu-id="357ab-128">El script aplicará el formato condicional y el etiquetado de ubicación en la hoja actual.</span><span class="sxs-lookup"><span data-stu-id="357ab-128">The script will apply the conditional formatting and location labelling on the current sheet.</span></span> <span data-ttu-id="357ab-129">También se actualizará la hoja de cálculo de **Resumen** .</span><span class="sxs-lookup"><span data-stu-id="357ab-129">It will also update the **Summary** worksheet.</span></span>
+<span data-ttu-id="bd621-130">Navegue a cualquiera de las hojas de cálculo de la \*\*semana \* \* \*\* y ejecute el script **analizar descargas Web** .</span><span class="sxs-lookup"><span data-stu-id="bd621-130">Navigate to any of the **Week\*\*** worksheets and run the **Analyze Web Downloads** script.</span></span> <span data-ttu-id="bd621-131">El script aplicará el formato condicional y el etiquetado de ubicación en la hoja actual.</span><span class="sxs-lookup"><span data-stu-id="bd621-131">The script will apply the conditional formatting and location labelling on the current sheet.</span></span> <span data-ttu-id="bd621-132">También se actualizará la hoja de cálculo de **Resumen** .</span><span class="sxs-lookup"><span data-stu-id="bd621-132">It will also update the **Summary** worksheet.</span></span>
 
-### <a name="before-running-the-script"></a><span data-ttu-id="357ab-130">Antes de ejecutar el script</span><span class="sxs-lookup"><span data-stu-id="357ab-130">Before running the script</span></span>
+### <a name="before-running-the-script"></a><span data-ttu-id="bd621-133">Antes de ejecutar el script</span><span class="sxs-lookup"><span data-stu-id="bd621-133">Before running the script</span></span>
 
 ![Una hoja de cálculo que muestra datos de tráfico web sin formato.](../../images/scenario-analyze-web-downloads-before.png)
 
-### <a name="after-running-the-script"></a><span data-ttu-id="357ab-132">Después de ejecutar el script</span><span class="sxs-lookup"><span data-stu-id="357ab-132">After running the script</span></span>
+### <a name="after-running-the-script"></a><span data-ttu-id="bd621-135">Después de ejecutar el script</span><span class="sxs-lookup"><span data-stu-id="bd621-135">After running the script</span></span>
 
 ![Una hoja de cálculo que muestra información de ubicación IP con formato con las filas de tráfico web anteriores.](../../images/scenario-analyze-web-downloads-after.png)
 
