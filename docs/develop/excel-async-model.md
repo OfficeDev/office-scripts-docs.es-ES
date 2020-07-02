@@ -1,14 +1,14 @@
 ---
 title: Uso de las API asincrónicas de scripts de Office para admitir scripts heredados
 description: Un manual sobre las API asincrónicas de scripts de Office y cómo usar el patrón Load/Sync para scripts heredados.
-ms.date: 06/22/2020
+ms.date: 06/29/2020
 localization_priority: Normal
-ms.openlocfilehash: c7b3c1401ecc2b4d0371590e71f61ae6e9ad8a9d
-ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
+ms.openlocfilehash: 78a09232060d862a4e0944356ba2f33f7a264ea1
+ms.sourcegitcommit: 30750c4392db3ef057075a5702abb92863c93eda
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44878852"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44999280"
 ---
 # <a name="using-the-office-scripts-async-apis-to-support-legacy-scripts"></a>Uso de las API asincrónicas de scripts de Office para admitir scripts heredados
 
@@ -37,7 +37,7 @@ El objeto `context` es necesario porque el script y Excel se ejecutan en diferen
 
 Como el script y el libro se ejecutan en distintas ubicaciones, cualquier transferencia de datos entre ambos necesita tiempo. En la API asincrónica, los comandos se ponen en cola hasta que el script llame explícitamente `sync` a la operación para sincronizar el script y el libro. El script puede funcionar de forma independiente hasta que necesite realizar cualquiera de las siguientes acciones:
 
-- Lea los datos del libro (después de una operación `load` o método que devuelve un [ClientResult](/javascript/api/office-scripts/excel/excel.clientresult?view=office-scripts-async)).
+- Lea los datos del libro (después de una operación `load` o método que devuelve un [ClientResult](/javascript/api/office-scripts/excelscript/excel.clientresult?view=office-scripts-async)).
 - Escribir datos en el libro (por lo general, porque el script ha terminado).
 
 En la imagen siguiente se muestra un ejemplo de flujo de control entre el script y el libro:

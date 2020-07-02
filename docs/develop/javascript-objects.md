@@ -1,14 +1,14 @@
 ---
 title: Usar objetos integrados de JavaScript en los scripts de Office
 description: Cómo llamar a las API de JavaScript integradas desde un script de Office en Excel en la Web.
-ms.date: 04/24/2020
+ms.date: 06/29/2020
 localization_priority: Normal
-ms.openlocfilehash: b5d70e77aef79c38a8cfd680c9d03bb126c402b2
-ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
+ms.openlocfilehash: 1c8ac757574e8c4be64b373f8d4bf421ddfa0c79
+ms.sourcegitcommit: 30750c4392db3ef057075a5702abb92863c93eda
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44878538"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44999263"
 ---
 # <a name="using-built-in-javascript-objects-in-office-scripts"></a>Usar objetos integrados de JavaScript en los scripts de Office
 
@@ -50,10 +50,10 @@ function main(workbook: ExcelScript.Workbook) {
 
 ### <a name="working-with-collections"></a>Trabajar con colecciones
 
-Muchos objetos de Excel están incluidos en una colección. La colección se administra mediante la API de scripts de Office y se expone como una matriz. Por ejemplo, todas las [formas](/javascript/api/office-scripts/excel/excelscript.shape) de una hoja de cálculo están contenidas en un `Shape[]` devuelto por el `Worksheet.getShapes` método. Puede usar esta matriz para leer valores de la colección o puede obtener acceso a objetos específicos desde los métodos del objeto primario `get*` .
+Muchos objetos de Excel están incluidos en una colección. La colección se administra mediante la API de scripts de Office y se expone como una matriz. Por ejemplo, todas las [formas](/javascript/api/office-scripts/excelscript/excelscript.shape) de una hoja de cálculo están contenidas en un `Shape[]` devuelto por el `Worksheet.getShapes` método. Puede usar esta matriz para leer valores de la colección o puede obtener acceso a objetos específicos desde los métodos del objeto primario `get*` .
 
 > [!NOTE]
-> No agregue ni quite objetos manualmente de estas matrices de colecciones. Use los `add` métodos de los objetos primarios y los `delete` métodos de los objetos de tipo de colección. Por ejemplo, agregue una [tabla](/javascript/api/office-scripts/excel/excelscript.table) a una [hoja de cálculo](/javascript/api/office-scripts/excel/excelscript.worksheet) con el `Worksheet.addTable` método y quite el `Table` using `Table.delete` .
+> No agregue ni quite objetos manualmente de estas matrices de colecciones. Use los `add` métodos de los objetos primarios y los `delete` métodos de los objetos de tipo de colección. Por ejemplo, agregue una [tabla](/javascript/api/office-scripts/excelscript/excelscript.table) a una [hoja de cálculo](/javascript/api/office-scripts/excelscript/excelscript.worksheet) con el `Worksheet.addTable` método y quite el `Table` using `Table.delete` .
 
 La siguiente secuencia de comandos registra el tipo de cada forma de la hoja de cálculo actual.
 
@@ -144,7 +144,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Los scripts de Office no admiten el uso de bibliotecas externas de terceros. El script solo puede usar los objetos de JavaScript integrados y las API de scripts de Office.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 - [Objetos integrados estándar](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects)
 - [Entorno de editor de código de scripts de Office](../overview/code-editor-environment.md)
