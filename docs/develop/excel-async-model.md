@@ -3,12 +3,11 @@ title: Uso de las API asincrónicas de scripts de Office para admitir scripts he
 description: Un manual sobre las API asincrónicas de scripts de Office y cómo usar el patrón Load/Sync para scripts heredados.
 ms.date: 06/29/2020
 localization_priority: Normal
-ms.openlocfilehash: 78a09232060d862a4e0944356ba2f33f7a264ea1
-ms.sourcegitcommit: 30750c4392db3ef057075a5702abb92863c93eda
-ms.translationtype: MT
+ms.openlocfilehash: 6c31a39c8e1fe53f2f5587183a6b32e100d2b457
+ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44999280"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043401"
 ---
 # <a name="using-the-office-scripts-async-apis-to-support-legacy-scripts"></a>Uso de las API asincrónicas de scripts de Office para admitir scripts heredados
 
@@ -37,7 +36,7 @@ El objeto `context` es necesario porque el script y Excel se ejecutan en diferen
 
 Como el script y el libro se ejecutan en distintas ubicaciones, cualquier transferencia de datos entre ambos necesita tiempo. En la API asincrónica, los comandos se ponen en cola hasta que el script llame explícitamente `sync` a la operación para sincronizar el script y el libro. El script puede funcionar de forma independiente hasta que necesite realizar cualquiera de las siguientes acciones:
 
-- Lea los datos del libro (después de una operación `load` o método que devuelve un [ClientResult](/javascript/api/office-scripts/excelscript/excel.clientresult?view=office-scripts-async)).
+- Lea los datos del libro (después de una operación `load` o método que devuelve un [ClientResult](/javascript/api/office-scripts/excelscript/excelscript.clientresult?view=office-scripts-async)).
 - Escribir datos en el libro (por lo general, porque el script ha terminado).
 
 En la imagen siguiente se muestra un ejemplo de flujo de control entre el script y el libro:
@@ -116,7 +115,7 @@ async function main(context: Excel.RequestContext){
 
 ### <a name="clientresult"></a>ClientResult
 
-Los métodos de la API asíncrona que devuelven información del libro tienen un patrón similar al `load` / `sync` paradigma. Por ejemplo, `TableCollection.getCount` obtiene el número de tablas de la colección. `getCount` devuelve un `ClientResult<number>`, lo que significa que la propiedad `value` en el `ClientResult` de retorno es un número. El script no puede acceder a ese valor hasta que se llama a `context.sync()`. De forma muy similar a la carga de una propiedad, el `value` es un valor local "vacío" hasta esa llamada `sync`.
+Los métodos de la API asíncrona que devuelven información del libro tienen un patrón similar al `load` / `sync` paradigma. Por ejemplo, `TableCollection.getCount` obtiene el número de tablas de la colección. `getCount`devuelve a `ClientResult<number>` , lo que significa que la `value` propiedad en el devuelto [`ClientResult`](/javascript/api/office-scripts/excelscript/excelscript.clientresult?view=office-scripts-async) es un número. El script no puede acceder a ese valor hasta que se llama a `context.sync()`. De forma muy similar a la carga de una propiedad, el `value` es un valor local "vacío" hasta esa llamada `sync`.
 
 El siguiente script obtiene el número total de tablas en el libro y registra ese número en la consola.
 

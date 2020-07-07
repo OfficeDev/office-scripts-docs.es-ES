@@ -1,14 +1,13 @@
 ---
 title: Diferencias entre scripts de Office y macros de VBA
 description: El comportamiento y las diferencias de API entre scripts de Office y macros de VBA de Excel.
-ms.date: 03/23/2020
+ms.date: 06/30/2020
 localization_priority: Normal
-ms.openlocfilehash: 3a0f2c9a2ed7181a10e41d1f45b3af695877a680
-ms.sourcegitcommit: d556aaefac80e55f53ac56b7f6ecbc657ebd426f
-ms.translationtype: MT
+ms.openlocfilehash: 8a8929f0c6a73a8e9041bb4b55cce1edd539e166
+ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42978725"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043394"
 ---
 # <a name="differences-between-office-scripts-and-vba-macros"></a>Diferencias entre scripts de Office y macros de VBA
 
@@ -21,7 +20,7 @@ En este artículo se describen las principales diferencias entre las macros de V
 
 ## <a name="platform-and-ecosystem"></a>Plataforma y ecosistema
 
-VBA está diseñado para el escritorio y los scripts de Office están diseñados para la Web. VBA puede interactuar con el escritorio de un usuario. Esto permite la integración con tecnologías similares, como COM y OLE. Sin embargo, VBA no tiene ninguna forma cómoda de llamar a Internet.
+VBA está diseñado para el escritorio y los scripts de Office están diseñados para la Web. VBA puede interactuar con el escritorio de un usuario para conectarse con tecnologías similares, como COM y OLE. Sin embargo, VBA no tiene ninguna forma cómoda de llamar a Internet.
 
 Los scripts de Office usan un tiempo de ejecución universal o JavaScript. Esto proporciona un comportamiento y una accesibilidad coherentes, independientemente del equipo que se use para ejecutar el script. También pueden realizar llamadas a otros servicios Web.
 
@@ -35,15 +34,15 @@ Los administradores tienen tres opciones para las macros de VBA: permitir todas 
 
 Actualmente, VBA ofrece una cobertura más completa de las características de Excel, especialmente las que están disponibles en el cliente de escritorio. Los scripts de Office cubren casi todos los escenarios para Excel en la Web. Además, como nuevas características del lanzamiento en la web, las secuencias de comandos de Office serán compatibles con la grabadora de acciones y las API de JavaScript.
 
-## <a name="power-automate"></a>Automatizar la alimentación
+## <a name="power-automate"></a>Power Automate
 
 Los scripts de Office se pueden ejecutar a través de la automatización de energía. El libro se puede actualizar mediante flujos programados o controlados por eventos, lo que permite automatizar flujos de trabajo sin necesidad de abrir Excel. Esto significa que, siempre que el libro se almacene en OneDrive (y sea accesible para la automatización automática), un flujo puede ejecutar los scripts independientemente de si usted y su organización usan el cliente de escritorio, Mac o Web de Excel.
 
-VBA no tiene integración con la automatización. Todos los escenarios de VBA admitidos involucrados en un usuario que asiste a la ejecución de la macro.
+VBA no tiene un conector de automatización de la alimentación. Todos los escenarios de VBA admitidos involucrados en un usuario que asiste a la ejecución de la macro.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
-- [Diferencias entre scripts de Office y complementos de Office](add-ins-differences.md)
+- [Diferencias entre los scripts de Office y los complementos de Office](add-ins-differences.md)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
 - [Referencia de VBA para Excel](/office/vba/api/overview/excel)

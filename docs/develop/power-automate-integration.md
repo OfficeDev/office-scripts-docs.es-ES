@@ -1,25 +1,24 @@
 ---
-title: Integración de scripts de Office con la automatización de energía
+title: Ejecutar scripts de Office con Power automatization
 description: Cómo obtener scripts de Office para Excel en la web trabajar con un flujo de trabajo de Power automatization.
-ms.date: 06/24/2020
+ms.date: 06/29/2020
 localization_priority: Normal
-ms.openlocfilehash: 977d9c88d75c8070eb729a443b4e8bc9a32e456d
-ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
-ms.translationtype: MT
+ms.openlocfilehash: 0ea58324998d23020e04cb37dfeea065791757f5
+ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44878851"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043387"
 ---
-# <a name="integrate-office-scripts-with-power-automate"></a>Integración de scripts de Office con la automatización de energía
+# <a name="run-office-scripts-with-power-automate"></a>Ejecutar scripts de Office con Power automatization
 
-La automatización de la [energía](https://flow.microsoft.com) integra el script en un flujo de trabajo más grande. Puede usar la función automatizar acciones, como agregar el contenido de un correo electrónico a una tabla de una hoja de cálculo o crear acciones en las herramientas de administración de proyectos en función de los comentarios del libro. Si es la novedad de la automatización de energía, le recomendamos que visite [Introducción a Power Automate](/power-automate/getting-started). Aquí puede obtener más información sobre cómo automatizar los flujos de trabajo en varios servicios.
+La [automatización de energía](https://flow.microsoft.com) permite agregar scripts de Office a un flujo de trabajo más grande y automatizado. Puede usar la función automatizar acciones, como agregar el contenido de un correo electrónico a una tabla de una hoja de cálculo o crear acciones en las herramientas de administración de proyectos en función de los comentarios del libro. Si es la novedad de la automatización de energía, le recomendamos que visite [Introducción a Power Automate](/power-automate/getting-started). Aquí puede obtener más información sobre cómo automatizar los flujos de trabajo en varios servicios.
 
 > [!IMPORTANT]
 > Actualmente, no se pueden ejecutar scripts de Office desde un [flujo compartido](/power-automate/share-buttons). Solo el usuario que creó un script puede ejecutarlo, incluso a través de la automatización de la energía.
 
 ## <a name="getting-started"></a>Introducción
 
-Para empezar a combinar la automatización de la alimentación y los scripts de Office, siga el tutorial [comenzar a usar scripts con Power automatization](../tutorials/excel-power-automate-manual.md). Esto le enseñará a crear un flujo que llame a un script sencillo. Después de completar ese tutorial y [ejecutar automáticamente scripts con el tutorial de Power automatization](../tutorials/excel-power-automate-trigger.md) , vuelva aquí para obtener información detallada sobre las integraciones de la plataforma.
+Para empezar a combinar la automatización de la alimentación y los scripts de Office, siga el tutorial [comenzar a usar scripts con Power automatization](../tutorials/excel-power-automate-manual.md). Esto le enseñará a crear un flujo que llame a un script sencillo. Después de completar ese tutorial y [ejecutar automáticamente scripts con el tutorial de Power automatization](../tutorials/excel-power-automate-trigger.md) , vuelva aquí para obtener información detallada sobre la conexión de scripts de Office para automatizar los flujos de alimentación.
 
 ## <a name="excel-online-business-connector"></a>Conector de Excel online (Business)
 
@@ -135,7 +134,7 @@ function main(
 ## <a name="see-also"></a>Vea también
 
 - [Ejecutar scripts de Office en Excel en la web con la automatización de energía](../tutorials/excel-power-automate-manual.md)
-- [Ejecutar scripts automáticamente con la automatización de la alimentación](../tutorials/excel-power-automate-trigger.md)
+- [Ejecutar automáticamente scripts con Power Automate](../tutorials/excel-power-automate-trigger.md)
 - [Conceptos básicos de los scripts de Office en Excel en la Web](scripting-fundamentals.md)
 - [Introducción a Power Automate](/power-automate/getting-started)
 - [Documentación de referencia de Excel online (Business) Connector](/connectors/excelonlinebusiness/)

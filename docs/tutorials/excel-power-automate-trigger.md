@@ -1,14 +1,13 @@
 ---
-title: Ejecutar scripts automáticamente con la automatización de la alimentación
-description: Un tutorial sobre cómo integrar Power automatizada con los scripts de Office para Excel en la web mediante desencadenadores externos automáticos, como la recepción de correo a través de Outlook.
-ms.date: 06/09/2020
+title: Ejecutar automáticamente scripts con Power Automate
+description: Un tutorial sobre la ejecución de scripts de Office para Excel en la web mediante la automatización automática mediante el uso de un desencadenador externo automático (recepción de correo a través de Outlook).
+ms.date: 06/29/2020
 localization_priority: Priority
-ms.openlocfilehash: 538a6533e4628a0f555d08eadda060a20830a7ae
-ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
-ms.translationtype: MT
+ms.openlocfilehash: a750197d6b5ae770ad7d2e17b3ee00dc65ee8875
+ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44878845"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043422"
 ---
 # <a name="automatically-run-scripts-with-power-automate-preview"></a>Ejecutar scripts automáticamente con Power automatization (versión preliminar)
 
@@ -261,8 +260,8 @@ Cuando el flujo se desencadene y se ejecute correctamente el script, debería ve
 
 ![La tabla dinámica después de que el flujo se haya ejecutado un par de veces.](../images/power-automate-params-tutorial-5.png)
 
-## <a name="next-steps"></a>Pasos siguientes
+## <a name="next-steps"></a>Siguientes pasos
 
-Visite [integrar scripts de Office con Power Automate](../develop/power-automate-integration.md) para obtener más información sobre la conexión de scripts de Office con la automatización de energía.
+Visite [ejecutar scripts de Office con Power Automate](../develop/power-automate-integration.md) para obtener más información sobre la conexión de scripts de Office con la automatización de energía.
 
 También puede consultar el escenario de [ejemplo de avisos de tareas automatizadas](../resources/scenarios/task-reminders.md) para obtener información sobre cómo combinar scripts de Office y automatizar la automatización con tarjetas adaptables de Teams.
