@@ -26,7 +26,9 @@
           href: resources/vba-differences.md
         - name: Diferencias entre los scripts de Office y los complementos de Office
           href: resources/add-ins-differences.md
-        - name: Integración con Power Automate
+        - name: Soporte de llamadas de API externas en Scripts de Office
+          href: develop/external-calls.md
+        - name: Ejecutar scripts con Power Automate
           href: develop/power-automate-integration.md
     - name: Solución de problemas
       items:
