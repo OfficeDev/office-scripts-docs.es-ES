@@ -1,18 +1,20 @@
 ---
 title: Scripts de Office en Excel en la Web
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
-ms.date: 02/24/2020
+ms.date: 06/29/2020
 localization_priority: Priority
-ms.openlocfilehash: fb1d32068f9a738bb99412c2892cf22b4119b9b1
-ms.sourcegitcommit: d556aaefac80e55f53ac56b7f6ecbc657ebd426f
+ms.openlocfilehash: 046dd4eac0cce14117da75199841f0b2f72031bc
+ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42978352"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043408"
 ---
 # <a name="office-scripts-in-excel-on-the-web-preview"></a>Scripts de Office en Excel en la Web (vista previa)
 
-Los scripts de Office en Excel en la Web le permiten automatizar las tareas cotidianas. Puede grabar las acciones de Excel con la Grabadora de acciones, lo que creará automáticamente un script. También puede crear y editar los scripts con el Editor de código. En esta serie de documentos aprenderá a usar estas herramientas. Le presentaremos la Grabadora de acciones, para que pueda grabar las acciones que realiza en Excel de forma habitual. También le informaremos de cómo escribir o actualizar sus propios scripts con el Editor de código.
+Los scripts de Office en Excel en la Web le permiten automatizar las tareas cotidianas. Puede grabar las acciones de Excel con la Grabadora de acciones, lo que creará automáticamente un script. También puede crear y editar los scripts con el Editor de código. Puede compartir scripts en la organización para que los compañeros de trabajo también puedan automatizar sus flujos de trabajo.
+
+En esta serie de documentos aprenderá a usar estas herramientas. Le presentaremos la Grabadora de acciones, para que pueda grabar las acciones que realiza en Excel de forma habitual. También le informaremos de cómo escribir o actualizar sus propios scripts con el Editor de código.
 
 <br>
 
@@ -40,14 +42,27 @@ Todos los scripts registrados en la Grabadora de acciones se pueden editar con e
 
 Una forma sencilla de descubrir de lo que son capaces los scripts de Office es grabar scripts en Excel en la Web y ver el código resultante. Una forma más detallada y estructurada de aprender es seguir nuestros [tutoriales](../tutorials/excel-tutorial.md).
 
-## <a name="next-steps"></a>Pasos siguientes
+## <a name="sharing-scripts"></a>Compartir scripts
+
+![La página Detalles del script que muestra la opción de compartir con otros en este libro.](../images/script-sharing.png)
+
+Los Scripts de Office se pueden compartir con otros usuarios de un libro de Excel. Al compartir un script con otros usuarios de un libro, el script se adjunta al libro. Los scripts se almacenan en su OneDrive y, cuando comparte uno, se crea un vínculo a él en el libro que ha abierto.
+
+Puede obtener más información sobre scripts compartidos y no compartidos en el artículo [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b?storagetype=live&ui=en-US&rs=en-US&ad=US).
+
+## <a name="connecting-office-scripts-to-power-automate"></a>Conectar Scripts de Office a Power Automate
+
+[Power Automate](https://flow.microsoft.com/) es un servicio que le ayuda a crear flujos de trabajo automatizados entre varias aplicaciones y servicios. Es posible usar Scripts de Office en estos flujos de trabajo, lo que le proporciona el control de los scripts externos al libro. Puede ejecutar los scripts según una programación, activarlos como respuesta a mensajes de correo electrónico y mucho más. Visite el tutorial [Ejecutar Scripts de Office con Power Automate](../tutorials/excel-power-automate-manual.md) para conocer los conceptos básicos de la conexión de estos servicios de automatización.
+
+## <a name="next-steps"></a>Siguientes pasos
 
 Complete el [Tutorial de scripts de Office en Excel en la Web](../tutorials/excel-tutorial.md) para descubrir cómo crear sus primeros scripts de Office.
 
 ## <a name="see-also"></a>Vea también
 
-- [Conceptos básicos de los scripts de Office en Excel en la Web](../develop/scripting-fundamentals.md)
+- [Conceptos básicos de los Scripts de Office en Excel en la web](../develop/scripting-fundamentals.md)
 - [Referencia de API de scripts de Office](/javascript/api/office-scripts/overview)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
 - [Configuración de scripts de Office en M365](https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf)
 - [Introducción a los scripts de Office en Excel (en support.office.com)](https://support.office.com/article/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)
+- [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b?storagetype=live&ui=en-US&rs=en-US&ad=US)
