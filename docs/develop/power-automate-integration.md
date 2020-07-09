@@ -1,13 +1,14 @@
 ---
 title: Ejecutar scripts de Office con Power automatization
 description: Cómo obtener scripts de Office para Excel en la web trabajar con un flujo de trabajo de Power automatization.
-ms.date: 06/29/2020
+ms.date: 07/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0ea58324998d23020e04cb37dfeea065791757f5
-ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
+ms.openlocfilehash: 40a67f3d0e8f049a8ec5516c0af54c5fc6fb9319
+ms.sourcegitcommit: edf58aed3cd38f57e5e7227465a1ef5515e15703
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043387"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45081596"
 ---
 # <a name="run-office-scripts-with-power-automate"></a>Ejecutar scripts de Office con Power automatization
 
@@ -18,7 +19,7 @@ La [automatización de energía](https://flow.microsoft.com) permite agregar scr
 
 ## <a name="getting-started"></a>Introducción
 
-Para empezar a combinar la automatización de la alimentación y los scripts de Office, siga el tutorial [comenzar a usar scripts con Power automatization](../tutorials/excel-power-automate-manual.md). Esto le enseñará a crear un flujo que llame a un script sencillo. Después de completar ese tutorial y [ejecutar automáticamente scripts con el tutorial de Power automatization](../tutorials/excel-power-automate-trigger.md) , vuelva aquí para obtener información detallada sobre la conexión de scripts de Office para automatizar los flujos de alimentación.
+Para empezar a combinar la automatización de la alimentación y los scripts de Office, siga el tutorial [comenzar a usar scripts con Power automatization](../tutorials/excel-power-automate-manual.md). Esto le enseñará a crear un flujo que llame a un script sencillo. Una vez que haya completado ese tutorial y el tutorial de [ejecutar scripts automáticamente con flujos automáticos de alimentación automatizada](../tutorials/excel-power-automate-trigger.md) , vuelva aquí para obtener información detallada sobre la conexión de scripts de Office para automatizar los flujos de alimentación.
 
 ## <a name="excel-online-business-connector"></a>Conector de Excel online (Business)
 
@@ -27,7 +28,16 @@ Los [conectores](/connectors/connectors) son los puentes entre las aplicaciones 
 > [!IMPORTANT]
 > La acción "ejecutar script" da a los usuarios que usan el conector de Excel acceso significativo al libro y a sus datos. Además, existen riesgos de seguridad con los scripts que realizan llamadas externas a la API, como se explica en [llamadas externas de la automatización de la alimentación](external-calls.md). Si su administrador está preocupado por la exposición de datos extremadamente confidenciales, puede desactivar el conector de Excel online o restringir el acceso a los scripts de Office a través de los [controles de administrador de scripts de Office](https://support.microsoft.com/office/19d3c51a-6ca2-40ab-978d-60fa49554dcf).
 
-## <a name="passing-data-from-power-automate-into-a-script"></a>Pasar datos de Automatic Power a un script
+## <a name="data-transfer-in-flows-for-scripts"></a>Transferencia de datos en flujos para scripts
+
+La automatización de energía permite pasar datos entre los pasos de su flujo. Los scripts se pueden configurar para que acepten los tipos de información que necesite y devuelvan cualquier elemento del libro que desee en su flujo. La entrada para el script se especifica agregando parámetros a la `main` función (además de `workbook: ExcelScript.Workbook` ). El resultado del script se declara agregando un tipo de valor devuelto a `main` .
+
+> [!NOTE]
+> Cuando se crea un bloque "ejecutar secuencia de comandos" en el flujo, se rellenan los parámetros y los tipos devueltos aceptados. Si cambia los parámetros o tipos de valores devueltos del script, deberá rehacer el bloque "ejecutar script" del flujo. Esto garantiza que los datos se analizan correctamente.
+
+En las secciones siguientes se describen los detalles de entrada y salida de las secuencias de comandos que se usan en la automatización de la energía. Si desea obtener un enfoque práctico para aprender este tema, pruebe el tutorial de [ejecución automática de secuencias de comandos con flujos de energía automatizada](../tutorials/excel-power-automate-trigger.md) automatizada o explorar el escenario de ejemplo de [avisos de tareas automatizadas](../resources/scenarios/task-reminders.md) .
+
+### <a name="main-parameters-passing-data-to-a-script"></a>`main`Parámetros: pasar datos a un script
 
 Todas las entradas de script se especifican como parámetros adicionales para la `main` función. Por ejemplo, si desea que un script acepte un `string` que represente un nombre como entrada, cambiaría la `main` firma a `function main(workbook: ExcelScript.Workbook, name: string)` .
 
@@ -72,7 +82,7 @@ Al agregar parámetros de entrada a la función de una secuencia de comandos `ma
 
 10. Se permiten los valores predeterminados de parámetro (por ejemplo,) `async function main(workbook: ExcelScript.Workbook, Name: string = 'Jane Doe')` .
 
-## <a name="returning-data-from-a-script-back-to-power-automate"></a>Devolución de datos de un script a la automatización de la energía
+## <a name="returning-data-from-a-script"></a>Devolución de datos de un script
 
 Los scripts pueden devolver datos del libro que se van a usar como contenido dinámico en un flujo de automatización energética. Al igual que con los parámetros de entrada, la automatización de energía coloca algunas restricciones en el tipo de valor devuelto.
 
@@ -134,7 +144,7 @@ function main(
 ## <a name="see-also"></a>Vea también
 
 - [Ejecutar scripts de Office en Excel en la web con la automatización de energía](../tutorials/excel-power-automate-manual.md)
-- [Ejecutar automáticamente scripts con Power Automate](../tutorials/excel-power-automate-trigger.md)
-- [Conceptos básicos de los scripts de Office en Excel en la Web](scripting-fundamentals.md)
+- [Ejecutar scripts automáticamente con flujos automatizar la alimentación automatizada](../tutorials/excel-power-automate-trigger.md)
+- [Conceptos básicos de los Scripts de Office en Excel en la web](scripting-fundamentals.md)
 - [Introducción a Power Automate](/power-automate/getting-started)
 - [Documentación de referencia de Excel online (Business) Connector](/connectors/excelonlinebusiness/)
