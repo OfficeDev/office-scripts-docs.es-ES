@@ -1,14 +1,14 @@
 ---
 title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
-ms.date: 04/24/2020
+ms.date: 06/29/2020
 localization_priority: Priority
-ms.openlocfilehash: 8449654e359f665677f3d416a8e28fa4d6930f26
-ms.sourcegitcommit: 350bd2447f616fa87bb23ac826c7731fb813986b
+ms.openlocfilehash: 9ea24f26052877bc70862c8a05321d588f409b11
+ms.sourcegitcommit: 30750c4392db3ef057075a5702abb92863c93eda
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43919801"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44999305"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web-preview"></a>Conceptos básicos de los scripts de Office en Excel en la Web (vista previa)
 
@@ -16,9 +16,24 @@ En este artículo se presentan los aspectos técnicos de los scripts de Office. 
 
 [!INCLUDE [Preview note](../includes/preview-note.md)]
 
+## <a name="main-function"></a>`main` Función
+
+Cada Script de Office debe contener la función `main` con el tipo de `ExcelScript.Workbook` como primer parámetro. Cuando se ejecuta la función, la aplicación Excel invoca a esta función `main` al proporcionar el libro como primer parámetro. Por lo tanto, es importante no modificar la firma básica de la función `main` una vez que se haya grabado el script o se haya creado un nuevo script desde el editor de código.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+// Your code goes here
+}
+```
+
+El código incluido en la función `main` se ejecuta cuando se ejecuta el script. `main` puede llamar a otras funciones en el script, pero no se ejecutará el código que no esté contenido en una función.
+
+> [!CAUTION]
+> Si su `main` función es similar a `async function main(context: Excel.RequestContext)`, el script usa el modelo de API asincrónica heredado. Para obtener más información, vea el tema sobre cómo[usar las API asíncronas de Scripts de Office compatible con los scripts heredados,](excel-async-model.md) incluido cómo convertir el script antiguo en el modelo de API actual.
+
 ## <a name="object-model"></a>Modelo de objetos
 
-Para comprender las API de Excel, debe comprender cómo se relacionan entre sí los componentes de un libro.
+Para escribir un script, debe comprender cómo se encajan entre sí las API de Script de Office. Los componentes de un libro tienen relaciones específicas entre sí. En muchos aspectos, estas relaciones coinciden con las de la Interfaz de Usuario de Excel.
 
 - Un **Libro** contiene una o varias **Hojas de cálculo**.
 - Una **Hoja de cálculo** proporciona acceso a las celdas mediante objetos de **Rango**.
@@ -27,52 +42,68 @@ Para comprender las API de Excel, debe comprender cómo se relacionan entre sí 
 - Una **Hoja de cálculo** contiene colecciones de aquellos objetos de datos presentes en la hoja individual.
 - Los **Libros** contiene colecciones de algunos de esos objetos de datos (como **Tablas**) para todo el **Libro**.
 
-### <a name="ranges"></a>Rangos
+### <a name="workbook"></a>Libro de trabajo
+
+Todas las secuencias de script proporcionan un objeto `workbook`de tipo`Workbook` por la función`main`. Esto representa el objeto de nivel superior con el cual su script interactúa con el libro de trabajo de Excel.
+
+El siguiente script obtiene la hoja de cálculo activa del libro y registra su nombre.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+    // Get the active worksheet.
+    let sheet = workbook.getActiveWorksheet();
+
+    // Display the current worksheet's name.
+    console.log(sheet.getName());
+}
+```
+
+### <a name="ranges"></a>Ranges
 
 Un rango es un grupo de celdas adyacentes en el libro. Normalmente, los scripts usan la notación de estilo A1 (por ejemplo, **B3** para la única celda de la columna **B** y la fila **3** o **C2:F4** para las celdas de las columnas de **C** a **F** y las filas de **2** a **4**) para definir rangos. 
 
-Los rangos tienen tres propiedades básicas: `values`, `formulas` y `format`. Estas propiedades obtienen o establecen los valores de celda, las fórmulas que se deben evaluar y el formato visual de las celdas.
+Los rangos tienen tres propiedades fundamentales: valores, fórmulas y formato. Estas propiedades obtienen o establecen los valores de celda, las fórmulas que se deben evaluar y el formato visual de las celdas. Se obtiene acceso a ellos a través de `getValues`, `getFormulas`y `getFormat`. Se pueden cambiar los valores y las fórmulas con `setValues` y `setFormulas`, mientras que el formato es un `RangeFormat` objeto formado por varios objetos más pequeños que se configuran por separado.
+
+Los rangos usan matrices bidimensionales para administrar la información. Para obtener más información sobre cómo administrar estas matrices en el marco de Scripts de Office, consulte la sección [que trabaja con rangos en el uso de objetos de JavaScript integrados en los scripts de Office](javascript-objects.md#working-with-ranges).
 
 #### <a name="range-sample"></a>Ejemplo de rango
 
 En el siguiente ejemplo se muestra cómo crear registros de ventas. Este script usa objetos `Range` para establecer los valores, fórmulas y formatos.
 
 ```TypeScript
-async function main(context: Excel.RequestContext) {
-  // Get the active worksheet.
-  let sheet = context.workbook.worksheets.getActiveWorksheet();
+function main(workbook: ExcelScript.Workbook) {
+    // Get the active worksheet.
+    let sheet = workbook.getActiveWorksheet();
 
-  // Create the headers and format them to stand out.
-  let headers = [
-    ["Product", "Quantity", "Unit Price", "Totals"]
-  ];
-  let headerRange = sheet.getRange("B2:E2");
-  headerRange.values = headers;
-  headerRange.format.fill.color = "#4472C4";
-  headerRange.format.font.color = "white";
+    // Create the headers and format them to stand out.
+    let headers = [["Product", "Quantity", "Unit Price", "Totals"]];
+    let headerRange = sheet.getRange("B2:E2");
+    headerRange.setValues(headers);
+    headerRange.getFormat().getFill().setColor("#4472C4");
+    headerRange.getFormat().getFont().setColor("white");
 
-  // Create the product data rows.
-  let productData = [
-    ["Almonds", 6, 7.5],
-    ["Coffee", 20, 34.5],
-    ["Chocolate", 10, 9.56],
-  ];
-  let dataRange = sheet.getRange("B3:D5");
-  dataRange.values = productData;
+    // Create the product data rows.
+    let productData = [
+        ["Almonds", 6, 7.5],
+        ["Coffee", 20, 34.5],
+        ["Chocolate", 10, 9.56],
+    ];
+    let dataRange = sheet.getRange("B3:D5");
+    dataRange.setValues(productData);
 
-  // Create the formulas to total the amounts sold.
-  let totalFormulas = [
-    ["=C3 * D3"],
-    ["=C4 * D4"],
-    ["=C5 * D5"],
-    ["=SUM(E3:E5)"]
-  ];
-  let totalRange = sheet.getRange("E3:E6");
-  totalRange.formulas = totalFormulas;
-  totalRange.format.font.bold = true;
+    // Create the formulas to total the amounts sold.
+    let totalFormulas = [
+        ["=C3 * D3"],
+        ["=C4 * D4"],
+        ["=C5 * D5"],
+        ["=SUM(E3:E5)"],
+    ];
+    let totalRange = sheet.getRange("E3:E6");
+    totalRange.setFormulas(totalFormulas);
+    totalRange.getFormat().getFont().setBold(true);
 
-  // Display the totals as US dollar amounts.
-  totalRange.numberFormat = [["$0.00"]];
+    // Display the totals as US dollar amounts.
+    totalRange.setNumberFormat("$0.00");
 }
 ```
 
@@ -82,7 +113,7 @@ Al ejecutar este script se crean los siguientes datos en la hoja de cálculo act
 
 ### <a name="charts-tables-and-other-data-objects"></a>Gráficos, tablas y otros objetos de datos
 
-Los scripts pueden crear y manipular las estructuras y visualizaciones de datos en Excel. Las tablas y los gráficos son dos de los objetos más usados, pero las API son compatibles con tablas dinámicas, formas, imágenes, etc.
+Los scripts pueden crear y manipular las estructuras y visualizaciones de datos en Excel. Las tablas y los gráficos son dos de los objetos más usados, pero las API son compatibles con tablas dinámicas, formas, imágenes, etc. Se almacenan en colecciones, que se tratan más adelante en este artículo.
 
 #### <a name="creating-a-table"></a>Crear una tabla
 
@@ -91,9 +122,12 @@ Cree tablas con rangos con datos. El formato y los controles de tabla (como filt
 El siguiente script crea una tabla con los rangos del ejemplo anterior.
 
 ```TypeScript
-async function main(context: Excel.RequestContext) {
-   let sheet = context.workbook.worksheets.getActiveWorksheet();
-   sheet.tables.add("B2:E5", true);
+function main(workbook: ExcelScript.Workbook) {
+    // Get the active worksheet.
+    let sheet = workbook.getActiveWorksheet();
+
+    // Add a table that has headers using the data from B2:E5.
+    sheet.addTable("B2:E5", true);
 }
 ```
 
@@ -108,10 +142,18 @@ Cree gráficos para visualizar los datos de un rango. Los scripts permiten decen
 El siguiente script crea un gráfico de columnas simple para tres elementos y los coloca 100 píxeles por debajo de la parte superior de la hoja de cálculo.
 
 ```TypeScript
-async function main(context: Excel.RequestContext) {
-  let sheet = context.workbook.worksheets.getActiveWorksheet();
-  let chart = sheet.charts.add(Excel.ChartType.columnStacked, sheet.getRange("B3:C5"));
-  chart.top = 100;
+function main(workbook: ExcelScript.Workbook) {
+    // Get the active worksheet.
+    let sheet = workbook.getActiveWorksheet();
+
+    // Create a column chart using the data from B3:C5.
+    let chart = sheet.addChart(
+        ExcelScript.ChartType.columnStacked,
+        sheet.getRange("B3:C5")
+    );
+
+    // Set the margin of the chart to be 100 pixels from the top of the screen.
+    chart.setTop(100);
 }
 ```
 
@@ -119,118 +161,83 @@ Ejecutar este script en la hoja de cálculo con la tabla anterior crea el gráfi
 
 ![Un gráfico de columnas que muestra cantidades de tres elementos del registro de ventas anterior.](../images/chart-sample.png)
 
+### <a name="collections-and-other-object-relations"></a>Colecciones y otras relaciones de objeto
+
+Se puede acceder a cualquier objeto secundario a través de su objeto primario. Por ejemplo, puede leer `Worksheets` del objeto `Workbook`. Se producirá un método de`get` relacionado en la clase principal (por ejemplo, `Workbook.getWorksheets()`o `Workbook.getWorksheet(name)`). Los métodos `get` que son singulares devuelven un único objeto y requieren un identificador o nombre para el objeto específico (como el nombre de una hoja de cálculo). Los métodos `get`que están en plural devuelven la colección de objetos completa como una matriz. Si la colección está vacía, obtendrá una matriz vacía (`[]`).
+
+Una vez que se ha recuperado la colección, puede usar operaciones de matriz normales como obtener su `length` o usar `for`, `for..of`,`while`bucles para la iteración o usar métodos de matriz TypeScript como `map`, `forEach` en ellas. También puede obtener acceso a objetos individuales de la colección con el valor del índice de matriz. Por ejemplo, `workbook.getTables()[0]` devuelve la primera tabla de la colección. Para obtener más información sobre la funcionalidad de estas matrices integradas en el marco de Scripts de Office, consulte la sección [que trabaja con rangos en el uso de objetos de JavaScript integrados en los scripts de Office ](javascript-objects.md#working-with-collections)
+
+El siguiente script obtiene todas las tablas del libro. Luego, asegura que se muestran los encabezados, que los botones de filtro están visibles y que el estilo de tabla está establecido en "TableStyleLight1".
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+  /* Get table collection */
+  const tables = workbook.getTables();
+  /* Set table formatting properties */
+  tables.forEach(table => {
+    table.setShowHeaders(true);
+    table.setShowFilterButton(true);
+    table.setPredefinedTableStyle("TableStyleLight1");
+  })
+}
+```
+
+#### <a name="adding-excel-objects-with-a-script"></a>Agregar objetos de Excel con un script
+
+Puede agregar mediante programación objetos de documento, como tablas o gráficos, llamando al método `add` correspondiente disponible en el objeto primario.
+
+> [!NOTE]
+> No agregue objetos manualmente a matrices de colección. Usar los métodos `add` en los objetos primarios por ejemplo, agregue un `Table` a un `Worksheet` con el método `Worksheet.addTable`.
+
+El siguiente script crea una tabla en Excel en la primera hoja de cálculo del libro. Tenga en cuenta que el método `addTable` devuelve la tabla creada.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+    // Get the first worksheet.
+    let sheet = workbook.getWorksheets()[0];
+
+    // Add a table that uses the data in C3:G10.
+    let table = sheet.addTable(
+      "C3:G10",
+       true /* True because the table has headers. */
+    );
+}
+```
+
+## <a name="removing-excel-objects-with-a-script"></a>Quitar objetos de Excel con un script
+
+Para eliminar un objeto, llame al método `delete`del objeto.
+
+> [!NOTE]
+> Al igual que con la adición de objetos, no elimine objetos de matrices de colecciones de forma manual. Use los métodos `delete` en los objetos de tipo de colección. Por ejemplo, quitar un `Table` de un `Worksheet` con `Table.delete`.
+
+El siguiente script elimina la primera hoja de trabajo del libro de trabajo.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+    // Get first worksheet.
+    let sheet = workbook.getWorksheets()[0];
+
+    // Remove that worksheet from the workbook.
+    sheet.delete();
+}
+```
+
 ### <a name="further-reading-on-the-object-model"></a>Más información sobre el modelo de objetos
 
 La [Documentación de referencia de las API de scripts de Office](/javascript/api/office-scripts/overview) es una lista completa de los objetos que se usan en los scripts de Office. Allí, puede usar la tabla de contenido para navegar hasta cualquier clase de la que quiera obtener más información. Las siguientes son algunas de las páginas habitualmente consultadas.
 
-- [Chart](/javascript/api/office-scripts/excel/excel.chart)
-- [Comment](/javascript/api/office-scripts/excel/excel.comment)
-- [PivotTable](/javascript/api/office-scripts/excel/excel.pivottable)
-- [Range](/javascript/api/office-scripts/excel/excel.range)
-- [RangeFormat](/javascript/api/office-scripts/excel/excel.rangeformat)
-- [Shape](/javascript/api/office-scripts/excel/excel.shape)
-- [Table](/javascript/api/office-scripts/excel/excel.table)
-- [Workbook](/javascript/api/office-scripts/excel/excel.workbook)
-- [Worksheet](/javascript/api/office-scripts/excel/excel.worksheet)
+- [Chart](/javascript/api/office-scripts/excelscript/excelscript.chart)
+- [Comment](/javascript/api/office-scripts/excelscript/excelscript.comment)
+- [PivotTable](/javascript/api/office-scripts/excelscript/excelscript.pivottable)
+- [Range](/javascript/api/office-scripts/excelscript/excelscript.range)
+- [RangeFormat](/javascript/api/office-scripts/excelscript/excelscript.rangeformat)
+- [Shape](/javascript/api/office-scripts/excelscript/excelscript.shape)
+- [Table](/javascript/api/office-scripts/excelscript/excelscript.table)
+- [Workbook](/javascript/api/office-scripts/excelscript/excelscript.workbook)
+- [Worksheet](/javascript/api/office-scripts/excelscript/excelscript.worksheet)
 
-## <a name="main-function"></a>Función `main`
-
-Todos los scripts de Office deben contener una función `main` con la siguiente firma, incluyendo la definición de tipo de `Excel.RequestContext`:
-
-```TypeScript
-async function main(context: Excel.RequestContext) {
-    // Your Excel Script
-}
-```
-
-El código incluido en la función `main` se ejecuta cuando se ejecuta el script. `main` puede llamar a otras funciones en el script, pero no se ejecutará el código que no esté contenido en una función.
-
-## <a name="context"></a>Context
-
-La función `main` acepta un parámetro de `Excel.RequestContext`, denominado `context`. Considere `context` como el puente entre el script y el libro. El script obtiene acceso al libro con el objeto `context` y usa ese `context` para enviar datos hacia adelante y hacia atrás.
-
-El objeto `context` es necesario porque el script y Excel se ejecutan en diferentes procesos y ubicaciones. El script tendrá que realizar cambios o consultar datos en el libro en la nube. El objeto `context` administra estas transacciones.
-
-## <a name="sync-and-load"></a>Sync y Load
-
-Como el script y el libro se ejecutan en distintas ubicaciones, cualquier transferencia de datos entre ambos necesita tiempo. Para mejorar el rendimiento del script, los comandos se ponen en cola hasta que el script llama explícitamente a la operación `sync` para sincronizar el script y el libro. El script puede funcionar de forma independiente hasta que necesite realizar cualquiera de las siguientes acciones:
-
-- Lea los datos del libro (después de una operación `load` o método que devuelve un [ClientResult](/javascript/api/office-scripts/excel/excel.clientresult)).
-- Escribir datos en el libro (por lo general, porque el script ha terminado).
-
-En la imagen siguiente se muestra un ejemplo de flujo de control entre el script y el libro:
-
-![Diagrama en el que se muestran las operaciones de lectura y escritura en el libro desde el script.](../images/load-sync.png)
-
-### <a name="sync"></a>Sync
-
-Siempre que el script tenga que leer o escribir datos en el libro, llama al método `RequestContext.sync` como se muestra a continuación:
-
-```TypeScript
-await context.sync();
-```
-
-> [!NOTE]
-> Se llama de forma implícita a `context.sync()` cuando finaliza un script.
-
-Una vez completada la operación `sync`, el libro se actualiza para reflejar las operaciones de escritura que haya especificado el script. Una operación de escritura consiste en establecer cualquier propiedad en un objeto de Excel (por ejemplo, `range.format.fill.color = "red"`) o llamar a un método para cambiar una propiedad (por ejemplo, `range.format.autoFitColumns()`). La operación `sync` también lee cualquier valor del libro solicitado por el script mediante una operación `load` o un método que devuelve un `ClientResult`(como se describe en la sección siguiente).
-
-Sincronizar el script con el libro puede tardar un tiempo, según la red. Debe minimizar el número de llamadas `sync` para que el script se ejecute con rapidez.  
-
-### <a name="load"></a>Load
-
-Un script debe cargar los datos del libro antes de leerlo. Sin embargo, la carga frecuente de datos de todo el libro reducirá considerablemente la velocidad del script. En lugar de ello, el método `load` permite que el script indique específicamente qué datos se deben recuperar del libro.
-
-El método `load` está disponible en cada objeto de Excel. El script debe cargar las propiedades de un objeto antes de poder leerlas. Si no, se producirá un error.
-
-Los ejemplos siguientes usan un objeto `Range` para mostrar las tres formas en que se puede usar el método `load` para cargar datos.
-
-|Objetivo |Comando de ejemplo | Efecto |
-|:--|:--|:--|
-|Cargar una propiedad |`myRange.load("values");` | Carga una única propiedad, en este caso la matriz bidimensional de valores en este rango. |
-|Cargar varias propiedades |`myRange.load("values, rowCount, columnCount");`| Carga todas las propiedades de una lista delimitada por comas, en este ejemplo, los valores, el número de filas y el número de columnas. |
-|Cargar todo | `myRange.load();`|Carga todas las propiedades en el rango. Esta no es una solución recomendable, ya que reducirá la velocidad del script al obtener datos innecesarios. Solo debería usarlo cuando pruebe el script o si necesita todas las propiedades del objeto. |
-
-El script debe llamar a `context.sync()` antes de leer cualquier valor cargado.
-
-```TypeScript
-let range = selectedSheet.getRange("A1:B3");
-range.load ("rowCount"); // Load the property.
-await context.sync(); // Synchronize with the workbook to get the property.
-console.log(range.rowCount); // Read and log the property value (3).
-```
-
-También puede cargar propiedades de toda la colección. Cada objeto de la colección tiene una propiedad `items` que es una matriz que contiene los objetos de esa colección. El uso de `items` como inicio de una llamada jerárquica (`items\myProperty`) a `load` carga las propiedades especificadas en cada uno de esos elementos. El ejemplo siguiente carga la propiedad `resolved` en cada objeto `Comment` del objeto `CommentCollection` de una hoja de cálculo.
-
-```TypeScript
-let comments = selectedSheet.comments;
-comments.load("items/resolved"); // Load the `resolved` property from every comment in this collection.
-await context.sync(); // Synchronize with the workbook to get the properties.
-```
-
-> [!TIP]
-> Para obtener más información sobre cómo trabajar con colecciones en scripts de Office, consulte el artículo [Sección Array de Usar objetos integrados de JavaScript en los scripts de Office](javascript-objects.md#array).
-
-### <a name="clientresult"></a>ClientResult
-
-Los métodos que devuelven información del libro tienen un patrón similar al paradigma `load`/`sync`. Por ejemplo, `TableCollection.getCount` obtiene el número de tablas de la colección. `getCount` devuelve un `ClientResult<number>`, lo que significa que la propiedad `value` en el `ClientResult` de retorno es un número. El script no puede acceder a ese valor hasta que se llama a `context.sync()`. De forma muy similar a la carga de una propiedad, el `value` es un valor local "vacío" hasta esa llamada `sync`.
-
-El siguiente script obtiene el número total de tablas en el libro y registra ese número en la consola.
-
-```TypeScript
-async function main(context: Excel.RequestContext) {
-  let tableCount = context.workbook.tables.getCount();
-
-  // This sync call implicitly loads tableCount.value.
-  // Any other ClientResult values are loaded too.
-  await context.sync();
-
-  // Trying to log the value before calling sync would throw an error.
-  console.log(tableCount.value);
-}
-```
-
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
 - [Grabar, editar y crear scripts de Office en Excel en la Web](../tutorials/excel-tutorial.md)
 - [Leer datos de libros con scripts de Office en Excel en la Web](../tutorials/excel-read-tutorial.md)
