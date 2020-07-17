@@ -1,23 +1,23 @@
 ---
-title: Uso de las API asincrónicas de scripts de Office para admitir scripts heredados
-description: Un manual sobre las API asincrónicas de scripts de Office y cómo usar el patrón Load/Sync para scripts heredados.
-ms.date: 06/29/2020
+title: Compatibilidad con scripts de Office anteriores que usan las API asincrónicas
+description: Un manual sobre las API asincrónicas de scripts de Office y cómo usar el patrón Load/Sync para scripts más antiguos.
+ms.date: 07/08/2020
 localization_priority: Normal
-ms.openlocfilehash: 6c31a39c8e1fe53f2f5587183a6b32e100d2b457
-ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
+ms.openlocfilehash: e7ca5b276cff0e3a38bffc2af1541c0051cf5490
+ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043401"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45160463"
 ---
-# <a name="using-the-office-scripts-async-apis-to-support-legacy-scripts"></a>Uso de las API asincrónicas de scripts de Office para admitir scripts heredados
+# <a name="support-older-office-scripts-that-use-the-async-apis"></a>Compatibilidad con scripts de Office anteriores que usan las API asincrónicas
 
-En este artículo se explica cómo escribir scripts mediante el uso de las API heredadas, asincrónicas. Estas API tienen la misma funcionalidad principal que las API de scripts de Office estándar y sincrónicas, pero requieren que el script controle la sincronización de datos entre el script y el libro.
+Este artículo le enseñará a mantener y actualizar scripts que usan las API asincrónicas de los modelos anteriores. Estas API tienen la misma funcionalidad principal que las API de scripts de Office sincrónicas ahora, pero requieren el script para controlar la sincronización de datos entre el script y el libro.
 
 > [!IMPORTANT]
-> El modelo Async solo se puede usar con scripts creados antes de la implementación del [modelo de API](scripting-fundamentals.md?view=office-scripts)actual. Los scripts se bloquean permanentemente en el modelo de API que tienen tras la creación. Esto también significa que si desea convertir un script heredado en el nuevo modelo, debe usar un nuevo script de marca. Le recomendamos que actualice los scripts antiguos al nuevo modelo cuando realice cambios, ya que el modelo actual es más fácil de usar. La sección [convertir secuencias de comandos asincrónicas heredadas en el modelo actual](#converting-legacy-async-scripts-to-the-current-model) tiene consejos sobre cómo realizar esta transición.
+> El modelo Async solo se puede usar con scripts creados antes de la implementación del [modelo de API](scripting-fundamentals.md?view=office-scripts)actual. Los scripts se bloquean permanentemente en el modelo de API que tienen tras la creación. Esto también significa que si desea convertir un script antiguo en el nuevo modelo, debe crear un nuevo script de marca. Le recomendamos que actualice los scripts antiguos al nuevo modelo cuando realice cambios, ya que el modelo actual es más fácil de usar. La sección [convertir scripts asíncronos en el modelo actual](#converting-async-scripts-to-the-current-model) tiene consejos sobre cómo realizar esta transición.
 
-## <a name="main-function"></a>Función `main`
+## <a name="main-function"></a>`main` Función
 
 Los scripts que usan las API asincrónicas tienen una `main` función diferente. Es una `async` función que tiene un `Excel.RequestContext` como el primer parámetro.
 
@@ -55,7 +55,7 @@ await context.sync();
 > [!NOTE]
 > Se llama de forma implícita a `context.sync()` cuando finaliza un script.
 
-Una vez completada la operación `sync`, el libro se actualiza para reflejar las operaciones de escritura que haya especificado el script. Una operación de escritura consiste en establecer cualquier propiedad en un objeto de Excel (por ejemplo, `range.format.fill.color = "red"`) o llamar a un método para cambiar una propiedad (por ejemplo, `range.format.autoFitColumns()`). La operación `sync` también lee cualquier valor del libro solicitado por el script mediante una operación `load` o un método que devuelve un `ClientResult`(como se describe en la sección siguiente).
+Una vez completada la operación `sync`, el libro se actualiza para reflejar las operaciones de escritura que haya especificado el script. Una operación de escritura está estableciendo cualquier propiedad en un objeto de Excel (por ejemplo, `range.format.fill.color = "red"` ) o llamando a un método que cambia una propiedad (por ejemplo, `range.format.autoFitColumns()` ). La operación `sync` también lee cualquier valor del libro solicitado por el script mediante una operación `load` o un método que devuelve un `ClientResult`(como se describe en la sección siguiente).
 
 Sincronizar el script con el libro puede tardar un tiempo, según la red. Minimice el número de `sync` llamadas para ayudar a que el script se ejecute rápidamente. De lo contrario, las API asincrónicas no son más rápidas las API estándar y sincrónicas.
 
@@ -137,7 +137,7 @@ async function main(context: Excel.RequestContext) {
 }
 ```
 
-## <a name="converting-legacy-async-scripts-to-the-current-model"></a>Conversión de scripts asincrónicos heredados al modelo actual
+## <a name="converting-async-scripts-to-the-current-model"></a>Conversión de scripts asincrónicos al modelo actual
 
 El modelo de API actual no usa `load` , `sync` o a `RequestContext` . Esto hace que los scripts sean mucho más fáciles de escribir y mantener. El mejor recurso para convertir secuencias de comandos antiguas es [desbordamiento de pila](https://stackoverflow.com/questions/tagged/office-scripts). Allí puede solicitar ayuda a la comunidad para escenarios específicos. Las siguientes instrucciones le ayudarán a describir los pasos generales que tendrá que realizar.
 
