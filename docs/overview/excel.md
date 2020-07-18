@@ -1,14 +1,14 @@
 ---
 title: Scripts de Office en Excel en la Web
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
-ms.date: 06/29/2020
+ms.date: 07/10/2020
 localization_priority: Priority
-ms.openlocfilehash: 046dd4eac0cce14117da75199841f0b2f72031bc
-ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
+ms.openlocfilehash: a27d1797ba2e968cbf4f56c4313223978dc9087c
+ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043408"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45160470"
 ---
 # <a name="office-scripts-in-excel-on-the-web-preview"></a>Scripts de Office en Excel en la Web (vista previa)
 
@@ -24,7 +24,7 @@ En esta serie de documentos aprenderá a usar estas herramientas. Le presentarem
 
 ## <a name="when-to-use-office-scripts"></a>Cuándo usar scripts de Office
 
-Los scripts le permiten grabar una serie de acciones en Excel y repetirlas en diferentes libros y hojas de cálculo. Si nota que realiza las mismas acciones una y otra vez, un script de Office le permite reducir todo ese flujo de trabajo a un solo clic de botón.
+Los scripts le permiten grabar una serie de acciones en Excel y repetirlas en diferentes libros y hojas de cálculo. Si ve que realiza las mismas acciones una y otra vez, puede convertir todo ese trabajo en un script de Office fácil de ejecutar. Ejecute el script con tan solo pulsar un botón en Excel o combínelo con Power Automate para agilizar todo el flujo de trabajo.
 
 Por ejemplo, imagine que comienza cada día de trabajo abriendo un archivo .csv desde un sitio de contabilidad en Excel. Acto seguido, tiene que invertir varios minutos en eliminar columnas innecesarias, aplicar formato a una tabla, agregar fórmulas y crear una tabla dinámica en una hoja de cálculo nueva. En vez de hacer estas tareas diariamente, puede hacerlas una vez y grabarlas con la Grabadora de acciones. Luego, ejecute el script y este se ocupará de transformar el archivo .csv automáticamente. No solo elimina el riesgo de olvidarse de algunos pasos, sino que también puede compartir su script con otras personas sin que tengan que entender todo el proceso. Los scripts de Office automatizan las tareas comunes para que usted y sus colegas sean más eficientes y productivos.
 
@@ -32,7 +32,7 @@ Por ejemplo, imagine que comienza cada día de trabajo abriendo un archivo .csv 
 
 ![La Grabadora de acciones después de haber grabado varias acciones.](../images/action-recorder-intro.png)
 
-La Grabadora de acciones graba las acciones que realiza en Excel y las traduce en un script. Cuando ejecute la Grabadora de acciones, esta capturará lo que usted haga en Excel, como editar las celdas, cambiar el formato y crear tablas. El script resultante se puede ejecutar en otros libros y hojas de cálculo para recrear las acciones grabadas.
+La Grabadora de acciones graba las acciones que realiza en Excel y las guarda como un script. Cuando ejecute la Grabadora de acciones, esta capturará lo que usted haga en Excel, como editar las celdas, cambiar el formato y crear tablas. El script resultante se puede ejecutar en otros libros y hojas de cálculo para recrear las acciones grabadas.
 
 ## <a name="code-editor"></a>Editor de código
 
