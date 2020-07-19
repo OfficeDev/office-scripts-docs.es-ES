@@ -1,14 +1,14 @@
 ---
 title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
-ms.date: 06/29/2020
+ms.date: 07/08/2020
 localization_priority: Priority
-ms.openlocfilehash: 9ea24f26052877bc70862c8a05321d588f409b11
-ms.sourcegitcommit: 30750c4392db3ef057075a5702abb92863c93eda
+ms.openlocfilehash: 6c02f4fb986e6a0ed1dd7afb099aaa1c9d1ea276
+ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44999305"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45160477"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web-preview"></a>Conceptos básicos de los scripts de Office en Excel en la Web (vista previa)
 
@@ -18,18 +18,18 @@ En este artículo se presentan los aspectos técnicos de los scripts de Office. 
 
 ## <a name="main-function"></a>`main` Función
 
-Cada Script de Office debe contener la función `main` con el tipo de `ExcelScript.Workbook` como primer parámetro. Cuando se ejecuta la función, la aplicación Excel invoca a esta función `main` al proporcionar el libro como primer parámetro. Por lo tanto, es importante no modificar la firma básica de la función `main` una vez que se haya grabado el script o se haya creado un nuevo script desde el editor de código.
+Cada Script de Office debe contener una función `main` con el tipo de `ExcelScript.Workbook` como primer parámetro. Cuando se ejecuta la función, la aplicación Excel invoca a esta función `main` al proporcionar el libro como primer parámetro. Por lo tanto, es importante no modificar la firma básica de la función `main` una vez que se haya grabado el script o se haya creado un nuevo script desde el editor de código.
 
 ```typescript
 function main(workbook: ExcelScript.Workbook) {
-// Your code goes here
+  // Your code goes here
 }
 ```
 
 El código incluido en la función `main` se ejecuta cuando se ejecuta el script. `main` puede llamar a otras funciones en el script, pero no se ejecutará el código que no esté contenido en una función.
 
 > [!CAUTION]
-> Si su `main` función es similar a `async function main(context: Excel.RequestContext)`, el script usa el modelo de API asincrónica heredado. Para obtener más información, vea el tema sobre cómo[usar las API asíncronas de Scripts de Office compatible con los scripts heredados,](excel-async-model.md) incluido cómo convertir el script antiguo en el modelo de API actual.
+> Si su función `main` es similar a `async function main(context: Excel.RequestContext)`, el script usa el modelo de API asincrónica antiguo. Para más información (incluido cómo convertir el script al modelo de API actual), consulte [Soporte de Scripts de Office antiguos que usan las API asincrónicas](excel-async-model.md).
 
 ## <a name="object-model"></a>Modelo de objetos
 
@@ -60,9 +60,9 @@ function main(workbook: ExcelScript.Workbook) {
 
 ### <a name="ranges"></a>Ranges
 
-Un rango es un grupo de celdas adyacentes en el libro. Normalmente, los scripts usan la notación de estilo A1 (por ejemplo, **B3** para la única celda de la columna **B** y la fila **3** o **C2:F4** para las celdas de las columnas de **C** a **F** y las filas de **2** a **4**) para definir rangos. 
+Un rango es un grupo de celdas adyacentes en el libro. Normalmente, los scripts usan la notación de estilo A1 (por ejemplo, **B3** para la única celda de la columna **B** y la fila **3** o **C2:F4** para las celdas de las columnas de **C** a **F** y las filas de **2** a **4**) para definir rangos.
 
-Los rangos tienen tres propiedades fundamentales: valores, fórmulas y formato. Estas propiedades obtienen o establecen los valores de celda, las fórmulas que se deben evaluar y el formato visual de las celdas. Se obtiene acceso a ellos a través de `getValues`, `getFormulas`y `getFormat`. Se pueden cambiar los valores y las fórmulas con `setValues` y `setFormulas`, mientras que el formato es un `RangeFormat` objeto formado por varios objetos más pequeños que se configuran por separado.
+Los rangos tienen tres propiedades fundamentales: valores, fórmulas y formato. Estas propiedades obtienen o establecen los valores de celda, las fórmulas que se deben evaluar y el formato visual de las celdas. Se obtiene acceso a ellos a través de `getValues`, `getFormulas`y `getFormat`. Se pueden cambiar los valores y las fórmulas con `setValues` y `setFormulas`, mientras que el formato es un objeto `RangeFormat` formado por varios objetos más pequeños que se configuran por separado.
 
 Los rangos usan matrices bidimensionales para administrar la información. Para obtener más información sobre cómo administrar estas matrices en el marco de Scripts de Office, consulte la sección [que trabaja con rangos en el uso de objetos de JavaScript integrados en los scripts de Office](javascript-objects.md#working-with-ranges).
 
@@ -163,7 +163,7 @@ Ejecutar este script en la hoja de cálculo con la tabla anterior crea el gráfi
 
 ### <a name="collections-and-other-object-relations"></a>Colecciones y otras relaciones de objeto
 
-Se puede acceder a cualquier objeto secundario a través de su objeto primario. Por ejemplo, puede leer `Worksheets` del objeto `Workbook`. Se producirá un método de`get` relacionado en la clase principal (por ejemplo, `Workbook.getWorksheets()`o `Workbook.getWorksheet(name)`). Los métodos `get` que son singulares devuelven un único objeto y requieren un identificador o nombre para el objeto específico (como el nombre de una hoja de cálculo). Los métodos `get`que están en plural devuelven la colección de objetos completa como una matriz. Si la colección está vacía, obtendrá una matriz vacía (`[]`).
+Se puede acceder a cualquier objeto secundario a través de su objeto primario. Por ejemplo, puede leer `Worksheets` del objeto `Workbook`. Se producirá un método `get` relacionado en la clase principal (por ejemplo, `Workbook.getWorksheets()` o `Workbook.getWorksheet(name)`). Los métodos `get` que son singulares devuelven un único objeto y requieren un identificador o nombre para el objeto específico (como el nombre de una hoja de cálculo). Los métodos `get`que están en plural devuelven la colección de objetos completa como una matriz. Si la colección está vacía, obtendrá una matriz vacía (`[]`).
 
 Una vez que se ha recuperado la colección, puede usar operaciones de matriz normales como obtener su `length` o usar `for`, `for..of`,`while`bucles para la iteración o usar métodos de matriz TypeScript como `map`, `forEach` en ellas. También puede obtener acceso a objetos individuales de la colección con el valor del índice de matriz. Por ejemplo, `workbook.getTables()[0]` devuelve la primera tabla de la colección. Para obtener más información sobre la funcionalidad de estas matrices integradas en el marco de Scripts de Office, consulte la sección [que trabaja con rangos en el uso de objetos de JavaScript integrados en los scripts de Office ](javascript-objects.md#working-with-collections)
 
