@@ -1,14 +1,14 @@
 ---
 title: Usar objetos integrados de JavaScript en los scripts de Office
 description: Cómo llamar a las API de JavaScript integradas desde un script de Office en Excel en la Web.
-ms.date: 06/29/2020
+ms.date: 07/16/2020
 localization_priority: Normal
-ms.openlocfilehash: 1c8ac757574e8c4be64b373f8d4bf421ddfa0c79
-ms.sourcegitcommit: 30750c4392db3ef057075a5702abb92863c93eda
+ms.openlocfilehash: 4bb5fb5444887005ececbbfdf0130cba3784e0c4
+ms.sourcegitcommit: 8d549884e68170f808d3d417104a4451a37da83c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44999263"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229599"
 ---
 # <a name="using-built-in-javascript-objects-in-office-scripts"></a>Usar objetos integrados de JavaScript en los scripts de Office
 
@@ -107,7 +107,7 @@ function main(workbook: ExcelScript.Workbook) {
 }
 ```
 
-La sección [work with](../resources/excel-samples.md#work-with-dates) Dates de los ejemplos tiene más scripts relacionados con la fecha.
+La sección [work with](../resources/excel-samples.md#dates) Dates de los ejemplos tiene más scripts relacionados con la fecha.
 
 ## <a name="math"></a>Matemáticas
 
@@ -144,7 +144,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Los scripts de Office no admiten el uso de bibliotecas externas de terceros. El script solo puede usar los objetos de JavaScript integrados y las API de scripts de Office.
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Consulte también
 
 - [Objetos integrados estándar](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects)
 - [Entorno de editor de código de scripts de Office](../overview/code-editor-environment.md)
