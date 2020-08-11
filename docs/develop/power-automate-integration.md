@@ -1,14 +1,14 @@
 ---
 title: Ejecutar scripts de Office con Power automatization
 description: Cómo obtener scripts de Office para Excel en la web trabajar con un flujo de trabajo de Power automatization.
-ms.date: 07/10/2020
+ms.date: 07/24/2020
 localization_priority: Normal
-ms.openlocfilehash: bd8fea08b7a9303ad2ceace787de6457a33fb979
-ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
+ms.openlocfilehash: a427948847d7ab84962cdede7fb44d214592909f
+ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160449"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616678"
 ---
 # <a name="run-office-scripts-with-power-automate"></a>Ejecutar scripts de Office con Power automatization
 
@@ -22,7 +22,7 @@ Para empezar a combinar la automatización de la alimentación y los scripts de 
 
 ## <a name="excel-online-business-connector"></a>Conector de Excel online (Business)
 
-Los [conectores](/connectors/connectors) son los puentes entre las aplicaciones y la automatización de la alimentación. El [conector de Excel online (Business)](/connectors/excelonlinebusiness) proporciona a los flujos acceso a los libros de Excel. La acción "ejecutar script" permite llamar a cualquier script de Office accesible a través del libro seleccionado. No solo puede ejecutar scripts mediante un flujo, sino que puede pasar datos del libro y del flujo de trabajo a través de los scripts.
+Los [conectores](/connectors/connectors) son los puentes entre las aplicaciones y la automatización de la alimentación. El [conector de Excel online (Business)](/connectors/excelonlinebusiness) proporciona a los flujos acceso a los libros de Excel. La acción "ejecutar script" permite llamar a cualquier script de Office accesible a través del libro seleccionado. También puede conceder a sus scripts los parámetros de entrada para que el flujo pueda proporcionar los datos o hacer que el script devuelva información para pasos posteriores en el flujo.
 
 > [!IMPORTANT]
 > La acción "ejecutar script" da a los usuarios que usan el conector de Excel acceso significativo al libro y a sus datos. Además, existen riesgos de seguridad con los scripts que realizan llamadas externas a la API, como se explica en [llamadas externas de la automatización de la alimentación](external-calls.md). Si su administrador está preocupado por la exposición de datos extremadamente confidenciales, puede desactivar el conector de Excel online o restringir el acceso a los scripts de Office a través de los [controles de administrador de scripts de Office](https://support.microsoft.com/office/19d3c51a-6ca2-40ab-978d-60fa49554dcf).
@@ -46,7 +46,7 @@ Al agregar parámetros de entrada a la función de una secuencia de comandos `ma
 
 1. El primer parámetro debe ser de tipo `ExcelScript.Workbook` . El nombre del parámetro no importa.
 
-2. Cada parámetro debe tener un tipo.
+2. Cada parámetro debe tener un tipo (por ejemplo, `string` o `number` ).
 
 3. `string` `number` `boolean` `any` `unknown` `object` `undefined` Se admiten los tipos básicos,,,,, y.
 
@@ -54,7 +54,7 @@ Al agregar parámetros de entrada a la función de una secuencia de comandos `ma
 
 5. Las matrices anidadas se admiten como parámetros (pero no como tipos devueltos).
 
-6. Los tipos de Unión están permitidos si son una Unión de literales que pertenecen a un tipo único ( `string` , `number` o `boolean` ). También se admiten las uniones de un tipo compatible con undefined.
+6. Los tipos de Unión están permitidos si son una Unión de literales que pertenecen a un tipo único (como `"Left" | "Right"` ). También se admiten las uniones de un tipo compatible con undefined (como `string | undefined` ).
 
 7. Los tipos de objeto están permitidos si contienen propiedades de tipo `string` ,, `number` `boolean` , matrices admitidas u otros objetos admitidos. En el ejemplo siguiente se muestran los objetos anidados que se admiten como tipos de parámetro:
 
@@ -140,10 +140,10 @@ function main(
 }
 ```
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 - [Ejecutar scripts de Office en Excel en la web con la automatización de energía](../tutorials/excel-power-automate-manual.md)
-- [Pasar datos a scripts en un flujo de automatización automática de ejecución automática](../tutorials/excel-power-automate-trigger.md)
+- [Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente](../tutorials/excel-power-automate-trigger.md)
 - [Conceptos básicos de los Scripts de Office en Excel en la web](scripting-fundamentals.md)
 - [Introducción a Power Automate](/power-automate/getting-started)
 - [Documentación de referencia de Excel online (Business) Connector](/connectors/excelonlinebusiness/)

@@ -3,12 +3,12 @@ title: Diferencias entre scripts de Office y macros de VBA
 description: El comportamiento y las diferencias de API entre scripts de Office y macros de VBA de Excel.
 ms.date: 06/30/2020
 localization_priority: Normal
-ms.openlocfilehash: 8a8929f0c6a73a8e9041bb4b55cce1edd539e166
-ms.sourcegitcommit: bf9f33c37c6f7805d6b408aa648bb9785a7cd133
+ms.openlocfilehash: 8c246545943341607a7aced4da792b8e49880cb0
+ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043394"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616692"
 ---
 # <a name="differences-between-office-scripts-and-vba-macros"></a>Diferencias entre scripts de Office y macros de VBA
 
@@ -23,7 +23,7 @@ En este artículo se describen las principales diferencias entre las macros de V
 
 VBA está diseñado para el escritorio y los scripts de Office están diseñados para la Web. VBA puede interactuar con el escritorio de un usuario para conectarse con tecnologías similares, como COM y OLE. Sin embargo, VBA no tiene ninguna forma cómoda de llamar a Internet.
 
-Los scripts de Office usan un tiempo de ejecución universal o JavaScript. Esto proporciona un comportamiento y una accesibilidad coherentes, independientemente del equipo que se use para ejecutar el script. También pueden realizar llamadas a otros servicios Web.
+Los scripts de Office usan un tiempo de ejecución universal para JavaScript. Esto proporciona un comportamiento y una accesibilidad coherentes, independientemente del equipo que se use para ejecutar el script. También pueden realizar llamadas a otros servicios Web.
 
 ## <a name="security"></a>Seguridad
 
@@ -41,7 +41,7 @@ Los scripts de Office se pueden ejecutar a través de la automatización de ener
 
 VBA no tiene un conector de automatización de la alimentación. Todos los escenarios de VBA admitidos involucrados en un usuario que asiste a la ejecución de la macro.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Diferencias entre los scripts de Office y los complementos de Office](add-ins-differences.md)

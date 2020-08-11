@@ -1,14 +1,14 @@
 ---
 title: 'Escenario de ejemplo de scripts de Office: Calculadora de calificaciones'
 description: Un ejemplo que determina el porcentaje y las calificaciones de una clase de alumnos.
-ms.date: 06/01/2020
+ms.date: 07/24/2020
 localization_priority: Normal
-ms.openlocfilehash: 6f8e3db756c72cf1d0e2f774ccd819c041f0c42d
-ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
+ms.openlocfilehash: 4e488c6cc67bda9122b88c55070654632d9c7fa2
+ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44878643"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616747"
 ---
 # <a name="office-scripts-sample-scenario-grade-calculator"></a>Escenario de ejemplo de scripts de Office: Calculadora de calificaciones
 
@@ -132,8 +132,8 @@ Desarrollará un script que totaliza las calificaciones para cada categoría de 
         setCellValueConditionalFormatting(
           grade,
           totalRange,
-          "#9C0006",
-          "#FFC7CE",
+          "#443300",
+          "#FFEE22",
           ExcelScript.ConditionalCellValueOperator.equalTo
         );
       })
@@ -178,7 +178,7 @@ Desarrollará un script que totaliza las calificaciones para cada categoría de 
 
 ## <a name="running-the-script"></a>Ejecución del script
 
-Ejecutar el script de la **calculadora de calificación** en la única hoja de cálculo. El script totalizará las calificaciones y asignará a cada alumno una carta de calificación. Si alguna de las calificaciones tiene más puntos de los que merece la asignación o la prueba, la calificación infractora se marcará como roja y no se calculará el total.
+Ejecutar el script de la **calculadora de calificación** en la única hoja de cálculo. El script totalizará las calificaciones y asignará a cada alumno una carta de calificación. Si alguna de las calificaciones tiene más puntos de los que merece la asignación o la prueba, la calificación infractora se marcará como roja y no se calculará el total. Además, las calificaciones ' A ' se resaltan en verde, mientras que las calificaciones ' d ' y ' F ' se resaltan en amarillo.
 
 ### <a name="before-running-the-script"></a>Antes de ejecutar el script
 
