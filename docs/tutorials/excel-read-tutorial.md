@@ -1,28 +1,25 @@
 ---
 title: Leer datos de libros con scripts de Office en Excel en la Web
 description: Un tutorial de scripts de Office sobre cómo leer datos de libros y evaluarlos en el script.
-ms.date: 07/10/2020
+ms.date: 07/20/2020
 localization_priority: Priority
-ms.openlocfilehash: fef1df7cab70ccef67a12ee466af5a89803d0992
-ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
+ms.openlocfilehash: cdd09f13bb53cfff8c051360f2306cdb6956d86d
+ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160420"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616713"
 ---
 # <a name="read-workbook-data-with-office-scripts-in-excel-on-the-web"></a>Leer datos de libros con scripts de Office en Excel en la Web
 
-Este tutorial le enseña a leer datos de un libro con un script de Office para Excel en la Web. A continuación, deberá modificar los datos leídos y volver a colocarlos en el libro.
+Este tutorial le enseña a leer datos de un libro con un script de Office para Excel en la Web. Escribirá un nuevo script que dé formato a un extracto bancario y normalice los datos en ese extracto. Como parte de la limpieza de datos, el script leerá valores de las celdas de transacción, aplicará una fórmula simple a cada valor y escribirá la respuesta resultante en el libro. La lectura de datos del libro le permite automatizar algunos de los procesos de toma de decisiones en el script.
 
 > [!TIP]
-> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md).
+> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). [Scripts de Office usa TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
 
 ## <a name="prerequisites"></a>Requisitos previos
 
 [!INCLUDE [Tutorial prerequisites](../includes/tutorial-prerequisites.md)]
-
-> [!IMPORTANT]
-> Este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que revise el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction). Para obtener más información sobre el entorno de los scripts, visite [Scripts de Office en Excel en la Web](../overview/excel.md).
 
 ## <a name="read-a-cell"></a>Leer una celda
 
@@ -150,3 +147,5 @@ Ahora que sabemos cómo leer y escribir en una sola celda, vamos a aplicar este 
 ## <a name="next-steps"></a>Pasos siguientes
 
 Abra el Editor de código y pruebe algunos de nuestros [Ejemplos para scripts de Office en Excel en la Web](../resources/excel-samples.md). Para obtener más información sobre la creación de scripts de Office, consulte también [Fundamentos para scripts de Office en Excel en la Web](../develop/scripting-fundamentals.md).
+
+La siguiente serie de tutoriales de Scripts de Office se centra en el uso de Scripts de Office con Power Automate. Obtenga más información sobre las ventajas de combinar las dos plataformas en [Ejecutar Scripts de Office con Power Automate](../develop/power-automate-integration.md) o consulte el tutorial [Llamar a scripts desde un flujo manual de Power Automate](excel-power-automate-manual.md) para crear un flujo de Power Automate que use un script de Office.

@@ -1,25 +1,25 @@
 ---
 title: Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 description: Un tutorial sobre la ejecución de Scripts de Office para Excel en la Web mediante Power Automate cuando se reciba el correo y el paso de datos de flujo al script.
-ms.date: 07/14/2020
+ms.date: 07/24/2020
 localization_priority: Priority
-ms.openlocfilehash: c024891e187f22b7d10f6e9d52d262dc2ec4057f
-ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
+ms.openlocfilehash: aed34f4b93bbe22768aab73d7a7264cc7d3c3ee6
+ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160484"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616769"
 ---
 # <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow-preview"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente (versión preliminar)
 
-Este tutorial le enseña cómo usar un script de Office para Excel en la web con un flujo de trabajo automatizado de [Power Automate](https://flow.microsoft.com). El script se ejecutará automáticamente cada vez que reciba un correo electrónico, grabando información del correo en un libro de Excel.
+Este tutorial le enseña cómo usar un script de Office para Excel en la web con un flujo de trabajo automatizado de [Power Automate](https://flow.microsoft.com). El script se ejecutará automáticamente cada vez que reciba un correo electrónico, grabando información del correo en un libro de Excel. Pasar datos de otras aplicaciones a un script de Office le ofrece una gran flexibilidad y libertad para sus procesos automatizados.
+
+> [!TIP]
+> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). Si es la primera vez que usa Power Automate, le recomendamos que comience con el tutorial [Llamar scripts desde un flujo manual de Power Automate](excel-power-automate-manual.md). [Scripts de Office usan TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
 
 ## <a name="prerequisites"></a>Requisitos previos
 
 [!INCLUDE [Tutorial prerequisites](../includes/power-automate-tutorial-prerequisites.md)]
-
-> [!IMPORTANT]
-> Este tutorial presupone que ha completado el tutorial [Ejecutar Scripts de Office en Excel en la Web con Power Automate](excel-power-automate-manual.md).
 
 ## <a name="prepare-the-workbook"></a>Preparar el libro
 
@@ -46,7 +46,7 @@ Power Automate no puede usar [referencias relativas](../develop/power-automate-i
       newTable.setName("EmailTable");
 
       // Add a new PivotTable to a new worksheet
-      let pivotWorksheet = workbook.addWorksheet("SubjectPivot");
+      let pivotWorksheet = workbook.addWorksheet("Subjects");
       let newPivotTable = workbook.addPivotTable("Pivot", "EmailTable", pivotWorksheet.getRange("A3:C20"));
 
       // Setup the pivot hierarchies
@@ -56,7 +56,7 @@ Power Automate no puede usar [referencias relativas](../develop/power-automate-i
     }
     ```
 
-## <a name="create-an-office-script-for-your-automated-workflow"></a>Crear un script de Office para el flujo de trabajo automatizado
+## <a name="create-an-office-script"></a>Crear un script de Office
 
 Comencemos a crear un script que registre información de un correo electrónico. Queremos saber cuál es el número de días de la semana que recibimos más correo electrónico y cuántos remitentes únicos envían ese correo. Nuestro libro tiene una tabla con columnas de **Fecha**, **Día de la semana**, **Dirección de correo electrónico** y **Asunto**. Nuestra hoja de cálculo también tiene una tabla dinámica que se dinamiza en el **Día de la semana** y **Dirección de correo electrónico** (que son las jerarquías de fila). El recuento de **Asuntos** únicos es la información agregada que se muestra (la jerarquía de datos). Haremos que nuestro script actualice esa tabla dinámica después de actualizar la tabla de correo electrónico.
 
@@ -82,41 +82,16 @@ Comencemos a crear un script que registre información de un correo electrónico
     let table = emailWorksheet.getTable("EmailTable");
   
     // Get the PivotTable.
-    let pivotTableWorksheet = workbook.getWorksheet("SubjectPivot");
+    let pivotTableWorksheet = workbook.getWorksheet("Subjects");
     let pivotTable = pivotTableWorksheet.getPivotTable("Pivot");
     ```
 
 4. El parámetro `dateReceived` es de tipo `string`. Vamos a convertir esto en un [objeto `Date`](../develop/javascript-objects.md#date) para que podamos obtener fácilmente el día de la semana. Después de hacerlo, deberemos asignar el valor numérico del día a una versión más legible. Agregue el código siguiente al final del script, antes del cierre `}`:
 
     ```TypeScript
-    // Parse the received date string.
-    let date = new Date(dateReceived);
-
-    // Convert number representing the day of the week into the name of the day.
-    let dayText : string;
-    switch (date.getDay()) {
-      case 0:
-        dayText = "Sunday";
-        break;
-      case 1:
-        dayText = "Monday";
-        break;
-      case 2:
-        dayText = "Tuesday";
-        break;
-      case 3:
-        dayText = "Wednesday";
-        break;
-      case 4:
-        dayText = "Thursday";
-        break;
-      case 5:
-        dayText = "Friday";
-        break;
-      default:
-        dayText = "Saturday";
-        break;
-    }
+      // Parse the received date string to determine the day of the week.
+      let emailDate = new Date(dateReceived);
+      let dayName = emailDate.toLocaleDateString("en-US", { weekday: 'long' });
     ```
 
 5. La cadena `subject` puede incluir la etiqueta de respuesta "RE:". Eliminemos eso de la cadena para que los correos electrónicos en el mismo hilo tengan el mismo asunto para la tabla. Agregue el código siguiente al final del script, antes del cierre `}`:
@@ -131,7 +106,7 @@ Comencemos a crear un script que registre información de un correo electrónico
 
     ```TypeScript
     // Add the parsed text to the table.
-    table.addRow(-1, [dateReceived, dayText, from, subjectText]);
+    table.addRow(-1, [dateReceived, dayName, from, subjectText]);
     ```
 
 7. Por último, vamos a asegurarnos de que se actualiza la tabla dinámica. Agregue el código siguiente al final del script, antes del cierre `}`:
@@ -156,44 +131,19 @@ function main(
   let table = emailWorksheet.getTable("EmailTable");
 
   // Get the PivotTable.
-  let pivotTableWorksheet = workbook.getWorksheet("Pivot");
-  let pivotTable = pivotTableWorksheet.getPivotTable("SubjectPivot");
+  let pivotTableWorksheet = workbook.getWorksheet("Subjects");
+  let pivotTable = pivotTableWorksheet.getPivotTable("Pivot");
 
-  // Parse the received date string.
-  let date = new Date(dateReceived);
-
-  // Convert number representing the day of the week into the name of the day.
-  let dayText: string;
-  switch (date.getDay()) {
-    case 0:
-      dayText = "Sunday";
-      break;
-    case 1:
-      dayText = "Monday";
-      break;
-    case 2:
-      dayText = "Tuesday";
-      break;
-    case 3:
-      dayText = "Wednesday";
-      break;
-    case 4:
-      dayText = "Thursday";
-      break;
-    case 5:
-      dayText = "Friday";
-      break;
-    default:
-      dayText = "Saturday";
-      break;
-  }
+  // Parse the received date string to determine the day of the week.
+  let emailDate = new Date(dateReceived);
+  let dayName = emailDate.toLocaleDateString("en-US", { weekday: 'long' });
 
   // Remove the reply tag from the email subject to group emails on the same thread.
   let subjectText = subject.replace("Re: ", "");
   subjectText = subjectText.replace("RE: ", "");
 
   // Add the parsed text to the table.
-  table.addRow(-1, [dateReceived, dayText, from, subjectText]);
+  table.addRow(-1, [dateReceived, dayName, from, subjectText]);
 
   // Refresh the PivotTable to include the new row.
   pivotTable.refresh();
@@ -229,7 +179,7 @@ function main(
 
     ![La opción de acción de Power Automate para Ejecutar script (versión preliminar).](../images/power-automate-tutorial-5.png)
 
-8. Especifique la siguiente configuración para el conector **Ejecutar script**:
+8. A continuación, seleccione el libro, el script y los argumentos de entrada del script a usar en el paso de flujo. En el tutorial, usará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive

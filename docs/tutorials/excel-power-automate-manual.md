@@ -1,27 +1,27 @@
 ---
 title: Ejecutar scripts mediante un flujo manual de Power Automate
 description: Tutorial sobre el uso de scripts de Office en Power Automate mediante un desencadenador manual.
-ms.date: 07/14/2020
+ms.date: 07/24/2020
 localization_priority: Priority
-ms.openlocfilehash: 70fca2620973ecefe9eda40f02e28f064b713677
-ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
+ms.openlocfilehash: f447e465bc0b09043d64752266bc9b6dbe5a5d89
+ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160440"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616762"
 ---
 # <a name="call-scripts-from-a-manual-power-automate-flow-preview"></a>Ejecutar scripts mediante un flujo manual de Power Automate (versión preliminar)
 
-Este tutorial le enseña a ejecutar un script de Office para Excel en la Web mediante [Power Automate](https://flow.microsoft.com).
+Este tutorial le enseña a ejecutar un script de Office para Excel en la Web mediante [Power Automate](https://flow.microsoft.com). Escribirá un script que actualiza los valores de dos celdas con la hora actual. Luego, conectaremos ese script a un flujo de Power Automate activado manualmente, de modo que el script se ejecute siempre que se pulse un botón en Power Automate. Cuando entienda el funcionamiento básico, podrá expandir el flujo para incluir otras aplicaciones y automatizar una mayor parte de su flujo de trabajo diario.
+
+> [!TIP]
+> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). [Scripts de Office usan TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
 
 ## <a name="prerequisites"></a>Requisitos previos
 
 [!INCLUDE [Tutorial prerequisites](../includes/power-automate-tutorial-prerequisites.md)]
 
-> [!IMPORTANT]
-> Este tutorial presupone que usted ha completado el tutorial [Registro, edición y creación de scripts de Office en Excel en la web](excel-tutorial.md).
-
-## <a name="prepare-the-workbook"></a>Preparar el libro de trabajo
+## <a name="prepare-the-workbook"></a>Preparar el libro
 
 Power Automate no puede usar referencias relativas como `Workbook.getActiveWorksheet` para acceder a componentes de libros de trabajo. Por lo tanto, es necesario contar con un libro de trabajo y una hoja de cálculo con nombres coherentes a los que pueda hacer referencia Power Automate.
 
@@ -89,7 +89,7 @@ Power Automate no puede usar referencias relativas como `Workbook.getActiveWorks
 
     ![La opción de acción de Power Automate para Ejecutar script (versión preliminar).](../images/power-automate-tutorial-5.png)
 
-8. Especifique la siguiente configuración para el conector **Ejecutar script**:
+8. A continuación, seleccione el libro y el script que va a usar en el paso de flujo. En el tutorial, usará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive

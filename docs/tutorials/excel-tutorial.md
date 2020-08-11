@@ -1,30 +1,25 @@
 ---
 title: Grabar, editar y crear scripts de Office en Excel en la Web
 description: Un tutorial sobre los conceptos básicos de scripts de Office que incluye la grabación de scripts en la Grabadora de acciones y la escritura de datos en un libro.
-ms.date: 01/27/2020
+ms.date: 07/21/2020
 localization_priority: Priority
-ms.openlocfilehash: 1971ff2ffd80554beb6ac561677ee3384f87ca81
-ms.sourcegitcommit: b075eed5a6f275274fbbf6d62633219eac416f26
+ms.openlocfilehash: 96bdc286883d87249de260666c7c8ffe2c94cc0f
+ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42700313"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616776"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
-Este tutorial le enseñará los conceptos básicos de la grabación, la edición y la escritura de un script de Office para Excel en la Web.
+Este tutorial le enseña los conceptos básicos de la grabación, la edición y la escritura de un script de Office para Excel en la Web. Grabará un script que dé formato a una hoja de cálculo con registros de ventas. A continuación, editará el script grabado para dar más formato, crear una tabla y ordenar la tabla. Este método de grabar y luego editar le permite ver el código que resulta de las acciones que ha realizado en Excel.
 
 ## <a name="prerequisites"></a>Requisitos previos
 
-[!INCLUDE [Preview note](../includes/preview-note.md)]
-
-Antes de iniciar este tutorial, necesitará acceder a los scripts de Office. Esto requiere lo siguiente:
-
-- [Excel en la Web](https://www.office.com/launch/excel)
-- Pida a su administrador que [habilite los scripts de Office para su organización](https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf), lo que agrega la barra de herramientas **Automatizar** a la cinta de opciones.
+[!INCLUDE [Tutorial prerequisites](../includes/tutorial-prerequisites.md)]
 
 > [!IMPORTANT]
-> Este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que revise el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction). Para obtener más información sobre el entorno de los scripts, visite [Scripts de Office en Excel en la Web](../overview/excel.md).
+> Este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction). Para obtener más información sobre el entorno de los scripts, visite [Entorno del Editor de código de Scripts de Office](../overview/code-editor-environment.md).
 
 ## <a name="add-data-and-record-a-basic-script"></a>Agregar datos y grabar un script básico
 
@@ -60,31 +55,28 @@ En primer lugar, necesitaremos algunos datos y un pequeño script inicial.
 
 El script anterior pinta la fila "Naranja" de color naranja. Ahora, agreguemos una fila amarilla a "Limones".
 
-1. Abra la pestaña **Automatizar**.
-2. Presione el botón del **Editor de código**.
-3. Abra el script que anotó en la sección anterior. Debería ver algo parecido a esto en el código:
+1. En el panel **Detalles** ya abierto, presione el botón **Editar**.
+2. Debería ver algo parecido a esto en el código:
 
     ```TypeScript
-    async function main(context: Excel.RequestContext) {
+    function main(workbook: ExcelScript.Workbook) {
       // Set fill color to FFC000 for range Sheet1!A2:C2
-      let workbook = context.workbook;
-      let worksheets = workbook.worksheets;
-      let selectedSheet = worksheets.getActiveWorksheet();
-      selectedSheet.getRange("A2:C2").format.fill.color = "FFC000";
+      let selectedSheet = workbook.getActiveWorksheet();
+      selectedSheet.getRange("A2:C2").getFormat().getFill().setColor("FFC000");
     }
     ```
 
-    Este código accede a la colección de hojas de cálculo del libro para obtener la hoja de cálculo actual. Después, establece el color de relleno del rango **A2:C2**.
+    Este código obtiene la hoja de cálculo actual del libro. Después, establece el color de relleno del rango **A2:C2**.
 
     Los rangos son una parte fundamental de las secuencias de comandos de Office en Excel en la Web. Un rango es un bloque de celdas contiguo y rectangular que contiene valores, fórmulas y formatos. Constituyen la estructura básica de las celdas y se usan para realizar la mayoría de las tareas de scripts.
 
-4. Agregue la línea siguiente al final del script (entre el lugar en el que se establece el  y aparece el `}` de cierre):
+3. Agregue la línea siguiente al final del script (entre el lugar en el que se establece el `color` y aparece el `}` de cierre):
 
     ```TypeScript
-    selectedSheet.getRange("A3:C3").format.fill.color = "yellow";
+    selectedSheet.getRange("A3:C3").getFormat().getFill().setColor("yellow");
     ```
 
-5. Para probar el script, presione **Ejecutar**. El libro tendrá ahora el siguiente aspecto:
+4. Para probar el script, presione **Ejecutar**. El libro tendrá ahora el siguiente aspecto:
 
     ![Una fila de datos de ventas con la fila "Naranjas" resaltada en naranja y la fila "Limones" ahora resaltada en amarillo.](../images/tutorial-2.png)
 
@@ -95,31 +87,29 @@ Vamos a convertir estos datos de ventas de frutas en una tabla. Usaremos nuestro
 1. Agregue la línea siguiente al final del script (antes del `}` de cierre):
 
     ```TypeScript
-    let table = selectedSheet.tables.add("A1:C5", true);
+    let table = selectedSheet.addTable("A1:C5", true);
     ```
 
 2. Esa llamada devuelve un objeto de `Table`. Vamos a usar la tabla para ordenar los datos. Ordenaremos los datos de menor a mayor en función de los valores de la columna "Frutas". Agregue la siguiente línea después de la creación de tabla:
 
     ```TypeScript
-    table.sort.apply([{ key: 0, ascending: true }]);
+    table.getSort().apply([{ key: 0, ascending: true }]);
     ```
 
     Su script debe tener este aspecto:
 
     ```TypeScript
-    async function main(context: Excel.RequestContext) {
-      // Set fill color to FFC000 for range Sheet1!A2:C2
-      let workbook = context.workbook;
-      let worksheets = workbook.worksheets;
-      let selectedSheet = worksheets.getActiveWorksheet();
-      selectedSheet.getRange("A2:C2").format.fill.color = "FFC000";
-      selectedSheet.getRange("A3:C3").format.fill.color = "yellow";
-      let table = selectedSheet.tables.add("A1:C5", true);
-      table.sort.apply([{ key: 0, ascending: true }]);
+    function main(workbook: ExcelScript.Workbook) {
+        // Set fill color to FFC000 for range Sheet12!A2:C2
+        let selectedSheet = workbook.getActiveWorksheet();
+        selectedSheet.getRange("A2:C2").getFormat().getFill().setColor("FFC000");
+        selectedSheet.getRange("A3:C3").getFormat().getFill().setColor("yellow");
+        let table = selectedSheet.addTable("A1:C5", true);
+        table.getSort().apply([{ key: 0, ascending: true }]);
     }
     ```
 
-    Las tablas tienen un objeto `TableSort` al que se accede mediante la propiedad `Table.sort`. Puede aplicar un criterio de ordenación a ese objeto. El método `apply` acepta una matriz de objetos `SortField`. En este caso, solo tenemos un criterio de ordenación, por lo que solo usamos un `SortField`. `key: 0` establece los valores que definen la ordenación de la columna como "0" (que es la primera columna de la tabla **A** en este caso). `ascending: true` ordena los datos de menor a mayor (en lugar de mayor a menor).
+    Las tablas tienen un objeto `TableSort` al que se accede mediante el método `Table.getSort`. Puede aplicar un criterio de ordenación a ese objeto. El método `apply` acepta una matriz de objetos `SortField`. En este caso, solo tenemos un criterio de ordenación, por lo que solo usamos un `SortField`. `key: 0` establece los valores que definen la ordenación de la columna como "0" (que es la primera columna de la tabla **A** en este caso). `ascending: true` ordena los datos de menor a mayor (en lugar de mayor a menor).
 
 3. Ejecute el script. Debería ver una tabla como esta:
 
