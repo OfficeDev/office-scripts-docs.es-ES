@@ -15,7 +15,7 @@ ms.locfileid: "46616769"
 Este tutorial le enseña cómo usar un script de Office para Excel en la web con un flujo de trabajo automatizado de [Power Automate](https://flow.microsoft.com). El script se ejecutará automáticamente cada vez que reciba un correo electrónico, grabando información del correo en un libro de Excel. Pasar datos de otras aplicaciones a un script de Office le ofrece una gran flexibilidad y libertad para sus procesos automatizados.
 
 > [!TIP]
-> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). Si es la primera vez que usa Power Automate, le recomendamos que comience con el tutorial [Llamar scripts desde un flujo manual de Power Automate](excel-power-automate-manual.md). [Scripts de Office usan TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
+> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). Si es la primera vez que usa Power Automate, le recomendamos que comience con el tutorial [Llamar a scripts desde un flujo manual de Power Automate](excel-power-automate-manual.md). [Scripts de Office usa TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos de nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
 
 ## <a name="prerequisites"></a>Requisitos previos
 
@@ -179,7 +179,7 @@ function main(
 
     ![La opción de acción de Power Automate para Ejecutar script (versión preliminar).](../images/power-automate-tutorial-5.png)
 
-8. A continuación, seleccione el libro, el script y los argumentos de entrada del script a usar en el paso de flujo. En el tutorial, usará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
+8. A continuación, seleccione el libro, el script y los argumentos de entrada del script que se usará en el paso de flujo. En el tutorial, utilizará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive

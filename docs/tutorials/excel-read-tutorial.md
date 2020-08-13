@@ -15,7 +15,7 @@ ms.locfileid: "46616713"
 Este tutorial le enseña a leer datos de un libro con un script de Office para Excel en la Web. Escribirá un nuevo script que dé formato a un extracto bancario y normalice los datos en ese extracto. Como parte de la limpieza de datos, el script leerá valores de las celdas de transacción, aplicará una fórmula simple a cada valor y escribirá la respuesta resultante en el libro. La lectura de datos del libro le permite automatizar algunos de los procesos de toma de decisiones en el script.
 
 > [!TIP]
-> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). [Scripts de Office usa TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
+> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). [Scripts de Office usa TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos de nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
 
 ## <a name="prerequisites"></a>Requisitos previos
 

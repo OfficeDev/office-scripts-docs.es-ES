@@ -12,10 +12,10 @@ ms.locfileid: "46616762"
 ---
 # <a name="call-scripts-from-a-manual-power-automate-flow-preview"></a>Ejecutar scripts mediante un flujo manual de Power Automate (versión preliminar)
 
-Este tutorial le enseña a ejecutar un script de Office para Excel en la Web mediante [Power Automate](https://flow.microsoft.com). Escribirá un script que actualiza los valores de dos celdas con la hora actual. Luego, conectaremos ese script a un flujo de Power Automate activado manualmente, de modo que el script se ejecute siempre que se pulse un botón en Power Automate. Cuando entienda el funcionamiento básico, podrá expandir el flujo para incluir otras aplicaciones y automatizar una mayor parte de su flujo de trabajo diario.
+Este tutorial le enseña a ejecutar un script de Office para Excel en la Web mediante [Power Automate](https://flow.microsoft.com). Va a escribir un script que actualiza los valores de dos celdas con la hora actual. Luego, conectaremos ese script a un flujo de Power Automate activado manualmente, de modo que el script se ejecute siempre que se presione un botón en Power Automate. Cuando entienda el funcionamiento básico, podrá expandir el flujo para incluir otras aplicaciones y automatizar una mayor parte de su flujo de trabajo diario.
 
 > [!TIP]
-> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). [Scripts de Office usan TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
+> Si no está familiarizado con los scripts de Office, le recomendamos que empiece con el tutorial de [Guardar, editar y crear scripts de Office en Excel en la Web](excel-tutorial.md). [Scripts de Office usa TypeScript](../overview/code-editor-environment.md) y este tutorial está diseñado para las personas con conocimientos de nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction).
 
 ## <a name="prerequisites"></a>Requisitos previos
 

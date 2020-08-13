@@ -12,14 +12,14 @@ ms.locfileid: "46616776"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
-Este tutorial le enseña los conceptos básicos de la grabación, la edición y la escritura de un script de Office para Excel en la Web. Grabará un script que dé formato a una hoja de cálculo con registros de ventas. A continuación, editará el script grabado para dar más formato, crear una tabla y ordenar la tabla. Este método de grabar y luego editar le permite ver el código que resulta de las acciones que ha realizado en Excel.
+En este tutorial se le enseñan los conceptos básicos de la grabación, la edición y la escritura de un script de Office para Excel en la Web. Va a grabar un script que dé formato a una hoja de cálculo con registros de ventas. A continuación, editará el script grabado para dar más formato, crear una tabla y ordenar la tabla. Este método de grabar y luego editar le permite ver el código que resulta de las acciones que ha realizado en Excel.
 
 ## <a name="prerequisites"></a>Requisitos previos
 
 [!INCLUDE [Tutorial prerequisites](../includes/tutorial-prerequisites.md)]
 
 > [!IMPORTANT]
-> Este tutorial está diseñado para las personas con conocimientos a nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction). Para obtener más información sobre el entorno de los scripts, visite [Entorno del Editor de código de Scripts de Office](../overview/code-editor-environment.md).
+> Este tutorial está diseñado para las personas con conocimientos de nivel intermedio de JavaScript o TypeScript. Si no está familiarizado con JavaScript, le recomendamos que comience con el [Tutorial de JavaScript de Mozilla](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Introduction). Para obtener más información sobre el entorno de los scripts, visite [Entorno del Editor de código de Scripts de Office](../overview/code-editor-environment.md).
 
 ## <a name="add-data-and-record-a-basic-script"></a>Agregar datos y grabar un script básico
 
@@ -56,7 +56,7 @@ En primer lugar, necesitaremos algunos datos y un pequeño script inicial.
 El script anterior pinta la fila "Naranja" de color naranja. Ahora, agreguemos una fila amarilla a "Limones".
 
 1. En el panel **Detalles** ya abierto, presione el botón **Editar**.
-2. Debería ver algo parecido a esto en el código:
+2. Debería ver algo parecido a este código:
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook) {
