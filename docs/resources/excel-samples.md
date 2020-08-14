@@ -1,14 +1,14 @@
 ---
 title: Scripts de ejemplo para scripts de Office en Excel en la web
 description: Una colección de ejemplos de código para usar con scripts de Office en Excel en la Web.
-ms.date: 07/16/2020
+ms.date: 08/04/2020
 localization_priority: Normal
-ms.openlocfilehash: fa330bfa284799e26ee2cf49800102072d66612b
-ms.sourcegitcommit: 8d549884e68170f808d3d417104a4451a37da83c
+ms.openlocfilehash: 4f8d6f2395a841a8dcba2ea0e712e645a84a6d91
+ms.sourcegitcommit: 1c88abcf5df16a05913f12df89490ce843cfebe2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45229606"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665232"
 ---
 # <a name="sample-scripts-for-office-scripts-in-excel-on-the-web-preview"></a>Scripts de ejemplo para scripts de Office en Excel en la web (vista previa)
 
@@ -167,6 +167,35 @@ function main(workbook: ExcelScript.Workbook) {
 }
 ```
 
+### <a name="querying-and-deleting-from-a-collection"></a>Consulta y eliminación de una colección
+
+Este script crea una hoja de cálculo nueva. Busca una copia existente de la hoja de cálculo y la elimina antes de crear una hoja nueva.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+  // Name of the worksheet to be added.
+  let name = "Index";
+
+  // Get any worksheet with that name.
+  let sheet = workbook.getWorksheet("Index");
+  
+  // If `null` wasn't returned, then there's already a worksheet with that name.
+  if (sheet) {
+    console.log(`Worksheet by the name ${name} already exists. Deleting it.`);
+    // Delete the sheet.
+    sheet.delete();
+  }
+  
+  // Add a blank worksheet with the name "Index".
+  // Note that this code runs regardless of whether an existing sheet was deleted.
+  console.log(`Adding the worksheet named ${name}.`);
+  let newSheet = workbook.addWorksheet("Index");
+
+  // Switch to the new worksheet.
+  newSheet.activate();
+}
+```
+
 ## <a name="dates"></a>Fechas
 
 Los ejemplos de esta sección muestran cómo usar el objeto [Date](https://developer.mozilla.org/docs/web/javascript/reference/global_objects/date) de JavaScript.
@@ -273,6 +302,65 @@ function main(workbook: ExcelScript.Workbook) {
     console.log(`Grand total of ${pivotColumnLabelRange.getValues()[0][columnIndex]}: ${grandTotalRange.getValues()[0][columnIndex]}`);
     // Example log: "Grand total of Sum of Crates Sold Wholesale: 11000"
   });
+}
+```
+
+## <a name="formulas"></a>Éstas
+
+Estos ejemplos utilizan fórmulas de Excel y muestran cómo trabajar con ellos en scripts.
+
+## <a name="single-formula"></a>Fórmula única
+
+Esta secuencia de comandos establece la fórmula de una celda y, a continuación, muestra cómo Excel almacena por separado la fórmula y el valor de la celda.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+  let selectedSheet = workbook.getActiveWorksheet();
+
+  // Set A1 to 2.
+  let a1 = selectedSheet.getRange("A1");
+  a1.setValue(2);
+
+  // Set B1 to the formula =(2*A1), which should equal 4.
+  let b1 = selectedSheet.getRange("B1")
+  b1.setFormula("=(2*A1)");
+
+  // Log the current results for `getFormula` and `getValue` at B1.
+  console.log(`B1 - Formula: ${b1.getFormula()} | Value: ${b1.getValue()}`);
+}
+```
+
+### <a name="spilling-results-from-a-formula"></a>Derrame de resultados a partir de una fórmula
+
+Este script transpone el intervalo "a1: D2" en "A4: B7" mediante la función transponer. Si la TRANSPOSE da como resultado un error de #SPILL, borra el rango de destino y aplica la fórmula de nuevo.
+
+```typescript
+function main(workbook: ExcelScript.Workbook) {
+  let sheet = workbook.getActiveWorksheet();
+  // Use the data in A1:D2 for the sample.
+  let dataAddress = "A1:D2"
+  let inputRange = sheet.getRange(dataAddress);
+
+  // Place the transposed data starting at A4.
+  let targetStartCell = sheet.getRange("A4");
+
+  // Compute the target range.
+  let targetRange = targetStartCell.getResizedRange(inputRange.getColumnCount() - 1, inputRange.getRowCount() - 1);
+
+  // Call the transpose helper function.
+  targetStartCell.setFormula(`=TRANSPOSE(${dataAddress})`);
+
+  // Check if the range update resulted in a spill error.
+  let checkValue = targetStartCell.getValue() as string;
+  if (checkValue === '#SPILL!') {
+    // Clear the target range and call the transpose function again.
+    console.log("Target range has data that is preventing update. Clearing target range.");
+    targetRange.clear();
+    targetStartCell.setFormula(`=TRANSPOSE(${dataAddress})`);
+  }
+
+  // Select the transposed range to highlight it.
+  targetRange.select();
 }
 ```
 
