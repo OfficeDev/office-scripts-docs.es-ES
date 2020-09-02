@@ -5,12 +5,12 @@ title: Documentación de scripts de Office
 description: Recursos de aprendizaje de scripts de Office en Excel en la Web, como tutoriales, artículos conceptuales y ejemplos de código.
 ms.date: 01/22/2020
 localization_priority: Priority
-ms.openlocfilehash: a7161dcfeec03aee1cb36766e4696898c7c8b762
-ms.sourcegitcommit: b075eed5a6f275274fbbf6d62633219eac416f26
+ms.openlocfilehash: 238f61adc48974714a110943f7e36e0d2040784c
+ms.sourcegitcommit: e9a8ef5f56177ea9a3d2fc5ac636368e5bdae1f4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42700449"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47321603"
 ---
 # <a name="office-scripts-documentation-preview"></a>Documentación de scripts de Office (versión preliminar)
 
@@ -81,11 +81,11 @@ Use los scripts de Office en Excel en la Web para automatizar las tareas comunes
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <a href="https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf" target="_blank"><img src="images/index-landing-page/i_upgrade.svg" alt="Enable Office Scripts" /></a>
+                            <a href="/microsoft-365/admin/manage/manage-office-scripts-settings" target="_blank"><img src="images/index-landing-page/i_upgrade.svg" alt="Enable Office Scripts" /></a>
                         </div>
                     </div>
                     <div class="cardText">
-                        <a href="https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf" target="_blank"><h3>Habilitar los scripts de Office</h3></a>
+                        <a href="/microsoft-365/admin/manage/manage-office-scripts-settings" target="_blank"><h3>Habilitar los scripts de Office</h3></a>
                     </div>
                 </div>
             </div>

@@ -3,12 +3,12 @@ title: Ejecutar scripts de Office con Power automatization
 description: Cómo obtener scripts de Office para Excel en la web trabajar con un flujo de trabajo de Power automatization.
 ms.date: 07/24/2020
 localization_priority: Normal
-ms.openlocfilehash: a427948847d7ab84962cdede7fb44d214592909f
-ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
+ms.openlocfilehash: 87bd4e15ef7680a7456077494e3fda8208d6b9d8
+ms.sourcegitcommit: e9a8ef5f56177ea9a3d2fc5ac636368e5bdae1f4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616678"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47321575"
 ---
 # <a name="run-office-scripts-with-power-automate"></a>Ejecutar scripts de Office con Power automatization
 
@@ -25,7 +25,7 @@ Para empezar a combinar la automatización de la alimentación y los scripts de 
 Los [conectores](/connectors/connectors) son los puentes entre las aplicaciones y la automatización de la alimentación. El [conector de Excel online (Business)](/connectors/excelonlinebusiness) proporciona a los flujos acceso a los libros de Excel. La acción "ejecutar script" permite llamar a cualquier script de Office accesible a través del libro seleccionado. También puede conceder a sus scripts los parámetros de entrada para que el flujo pueda proporcionar los datos o hacer que el script devuelva información para pasos posteriores en el flujo.
 
 > [!IMPORTANT]
-> La acción "ejecutar script" da a los usuarios que usan el conector de Excel acceso significativo al libro y a sus datos. Además, existen riesgos de seguridad con los scripts que realizan llamadas externas a la API, como se explica en [llamadas externas de la automatización de la alimentación](external-calls.md). Si su administrador está preocupado por la exposición de datos extremadamente confidenciales, puede desactivar el conector de Excel online o restringir el acceso a los scripts de Office a través de los [controles de administrador de scripts de Office](https://support.microsoft.com/office/19d3c51a-6ca2-40ab-978d-60fa49554dcf).
+> La acción "ejecutar script" da a los usuarios que usan el conector de Excel acceso significativo al libro y a sus datos. Además, existen riesgos de seguridad con los scripts que realizan llamadas externas a la API, como se explica en [llamadas externas de la automatización de la alimentación](external-calls.md). Si su administrador está preocupado por la exposición de datos extremadamente confidenciales, puede desactivar el conector de Excel online o restringir el acceso a los scripts de Office a través de los [controles de administrador de scripts de Office](/microsoft-365/admin/manage/manage-office-scripts-settings).
 
 ## <a name="data-transfer-in-flows-for-scripts"></a>Transferencia de datos en flujos para scripts
 
@@ -36,7 +36,7 @@ La automatización de energía permite pasar datos entre los pasos de su flujo. 
 
 En las secciones siguientes se describen los detalles de entrada y salida de las secuencias de comandos que se usan en la automatización de la energía. Si desea obtener un enfoque práctico para aprender este tema, pruebe [a pasar los datos a los scripts en un tutorial de flujo de automatización de ejecución automática](../tutorials/excel-power-automate-trigger.md) o explorar el escenario de ejemplo de [avisos de tareas automatizadas](../resources/scenarios/task-reminders.md) .
 
-### <a name="main-parameters-passing-data-to-a-script"></a>`main`Parámetros: pasar datos a un script
+### <a name="main-parameters-passing-data-to-a-script"></a>`main` Parámetros: pasar datos a un script
 
 Todas las entradas de script se especifican como parámetros adicionales para la `main` función. Por ejemplo, si desea que un script acepte un `string` que represente un nombre como entrada, cambiaría la `main` firma a `function main(workbook: ExcelScript.Workbook, name: string)` .
 
@@ -140,7 +140,7 @@ function main(
 }
 ```
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Recursos adicionales
 
 - [Ejecutar scripts de Office en Excel en la web con la automatización de energía](../tutorials/excel-power-automate-manual.md)
 - [Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente](../tutorials/excel-power-automate-trigger.md)

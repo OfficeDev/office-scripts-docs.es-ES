@@ -3,12 +3,12 @@ title: Solución de problemas de scripts de Office
 description: Sugerencias y técnicas de depuración de scripts de Office, así como recursos de ayuda.
 ms.date: 07/23/2020
 localization_priority: Normal
-ms.openlocfilehash: 00727b497d49a2d1d3f9c61e259b8d8d75028a59
-ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
+ms.openlocfilehash: 0a2c9ab209bc36e8ba2bdb25a6ab79d9f900f29a
+ms.sourcegitcommit: e9a8ef5f56177ea9a3d2fc5ac636368e5bdae1f4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616685"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47321596"
 ---
 # <a name="troubleshooting-office-scripts"></a>Solución de problemas de scripts de Office
 
@@ -33,10 +33,10 @@ Cuando el script de Excel encuentra un problema en ejecución, produce un error.
 
 ## <a name="automate-tab-not-appearing"></a>La ficha automatizada no aparece
 
-Los pasos siguientes le ayudarán a solucionar los problemas relacionados con la ficha **automatizar** que no aparece en Excel para la Web.
+Los pasos siguientes le ayudarán a solucionar los problemas relacionados con la ficha **automatizar** que no aparecen en Excel en la Web.
 
 1. Asegúrese [de que su licencia de 365 de Microsoft incluye scripts de Office](../overview/excel.md#requirements).
-1. [Pida al administrador que habilite la característica](https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf).
+1. [Pida al administrador que habilite la característica](/microsoft-365/admin/manage/manage-office-scripts-settings).
 1. [Compruebe que el explorador es compatible](platform-limits.md#browser-support).
 1. [Asegúrese de que las cookies de terceros están habilitadas](platform-limits.md#third-party-cookies).
 
@@ -48,7 +48,7 @@ Si encuentra un problema con la API de JavaScript de Office, cree un problema en
 
 Si hay un problema con el grabador de acciones o con el editor, envíe sus comentarios a través del botón **ayuda > comentarios** de Excel.
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Recursos adicionales
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Conceptos básicos sobre el scripting de los scripts de Office en Excel en la web](../develop/scripting-fundamentals.md)
