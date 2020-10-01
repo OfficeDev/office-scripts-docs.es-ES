@@ -3,19 +3,19 @@ title: Compatibilidad con scripts de Office anteriores que usan las API asincró
 description: Un manual sobre las API asincrónicas de scripts de Office y cómo usar el patrón Load/Sync para scripts más antiguos.
 ms.date: 07/08/2020
 localization_priority: Normal
-ms.openlocfilehash: e7ca5b276cff0e3a38bffc2af1541c0051cf5490
-ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
+ms.openlocfilehash: 8c90c263e7e3b232447ac6b62da2b2f373b63a87
+ms.sourcegitcommit: ce72354381561dc167ea0092efd915642a9161b3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160463"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319668"
 ---
 # <a name="support-older-office-scripts-that-use-the-async-apis"></a>Compatibilidad con scripts de Office anteriores que usan las API asincrónicas
 
 Este artículo le enseñará a mantener y actualizar scripts que usan las API asincrónicas de los modelos anteriores. Estas API tienen la misma funcionalidad principal que las API de scripts de Office sincrónicas ahora, pero requieren el script para controlar la sincronización de datos entre el script y el libro.
 
 > [!IMPORTANT]
-> El modelo Async solo se puede usar con scripts creados antes de la implementación del [modelo de API](scripting-fundamentals.md?view=office-scripts)actual. Los scripts se bloquean permanentemente en el modelo de API que tienen tras la creación. Esto también significa que si desea convertir un script antiguo en el nuevo modelo, debe crear un nuevo script de marca. Le recomendamos que actualice los scripts antiguos al nuevo modelo cuando realice cambios, ya que el modelo actual es más fácil de usar. La sección [convertir scripts asíncronos en el modelo actual](#converting-async-scripts-to-the-current-model) tiene consejos sobre cómo realizar esta transición.
+> El modelo Async solo se puede usar con scripts creados antes de la implementación del [modelo de API](scripting-fundamentals.md?view=office-scripts&preserve-view=true)actual. Los scripts se bloquean permanentemente en el modelo de API que tienen tras la creación. Esto también significa que si desea convertir un script antiguo en el nuevo modelo, debe crear un nuevo script de marca. Le recomendamos que actualice los scripts antiguos al nuevo modelo cuando realice cambios, ya que el modelo actual es más fácil de usar. La sección [convertir scripts asíncronos en el modelo actual](#converting-async-scripts-to-the-current-model) tiene consejos sobre cómo realizar esta transición.
 
 ## <a name="main-function"></a>`main` Función
 
@@ -37,7 +37,7 @@ El objeto `context` es necesario porque el script y Excel se ejecutan en diferen
 
 Como el script y el libro se ejecutan en distintas ubicaciones, cualquier transferencia de datos entre ambos necesita tiempo. En la API asincrónica, los comandos se ponen en cola hasta que el script llame explícitamente `sync` a la operación para sincronizar el script y el libro. El script puede funcionar de forma independiente hasta que necesite realizar cualquiera de las siguientes acciones:
 
-- Lea los datos del libro (después de una operación `load` o método que devuelve un [ClientResult](/javascript/api/office-scripts/excelscript/excelscript.clientresult?view=office-scripts-async)).
+- Lea los datos del libro (después de una operación `load` o método que devuelve un [ClientResult](/javascript/api/office-scripts/excelscript/excelscript.clientresult?view=office-scripts-async&preserve-view=true)).
 - Escribir datos en el libro (por lo general, porque el script ha terminado).
 
 En la imagen siguiente se muestra un ejemplo de flujo de control entre el script y el libro:
@@ -116,7 +116,7 @@ async function main(context: Excel.RequestContext){
 
 ### <a name="clientresult"></a>ClientResult
 
-Los métodos de la API asíncrona que devuelven información del libro tienen un patrón similar al `load` / `sync` paradigma. Por ejemplo, `TableCollection.getCount` obtiene el número de tablas de la colección. `getCount`devuelve a `ClientResult<number>` , lo que significa que la `value` propiedad en el devuelto [`ClientResult`](/javascript/api/office-scripts/excelscript/excelscript.clientresult?view=office-scripts-async) es un número. El script no puede acceder a ese valor hasta que se llama a `context.sync()`. De forma muy similar a la carga de una propiedad, el `value` es un valor local "vacío" hasta esa llamada `sync`.
+Los métodos de la API asíncrona que devuelven información del libro tienen un patrón similar al `load` / `sync` paradigma. Por ejemplo, `TableCollection.getCount` obtiene el número de tablas de la colección. `getCount` devuelve a `ClientResult<number>` , lo que significa que la `value` propiedad en el devuelto [`ClientResult`](/javascript/api/office-scripts/excelscript/excelscript.clientresult?view=office-scripts-async&preserve-view=true) es un número. El script no puede acceder a ese valor hasta que se llama a `context.sync()`. De forma muy similar a la carga de una propiedad, el `value` es un valor local "vacío" hasta esa llamada `sync`.
 
 El siguiente script obtiene el número total de tablas en el libro y registra ese número en la consola.
 
@@ -145,11 +145,11 @@ El modelo de API actual no usa `load` , `sync` o a `RequestContext` . Esto hace 
 
 2. Quite todas las `load` `sync` llamadas y. Ya no son necesarios.
 
-3. Se han quitado todas las propiedades. Ahora tiene acceso a los objetos mediante `get` y `set` métodos, por lo que tendrá que cambiar las referencias de propiedades a llamadas a métodos. Por ejemplo, en lugar de establecer el color de relleno de una celda mediante el acceso a propiedades como este: `mySheet.getRange("A2:C2").format.fill.color = "blue";` , ahora usará métodos como este:`mySheet.getRange("A2:C2").getFormat().getFill().setColor("blue");`
+3. Se han quitado todas las propiedades. Ahora tiene acceso a los objetos mediante `get` y `set` métodos, por lo que tendrá que cambiar las referencias de propiedades a llamadas a métodos. Por ejemplo, en lugar de establecer el color de relleno de una celda mediante el acceso a propiedades como este: `mySheet.getRange("A2:C2").format.fill.color = "blue";` , ahora usará métodos como este: `mySheet.getRange("A2:C2").getFormat().getFill().setColor("blue");`
 
 4. Las clases de colección se han reemplazado por matrices. Los `add` `get` métodos y de las clases de colección se movieron al objeto que poseía la colección, por lo que las referencias deben actualizarse en consecuencia. Por ejemplo, para obtener un gráfico denominado "MyChart" de la primera hoja de cálculo del libro, use el siguiente código: `workbook.getWorksheets()[0].getChart("MyChart");` . Tenga en cuenta el `[0]` para obtener acceso al primer valor de la `Worksheet[]` devuelta por `getWorksheets()` .
 
-5. Se ha cambiado el nombre de algunos métodos para mayor claridad y se ha agregado para mayor comodidad. Consulte la referencia de la [API de scripts de Office](/javascript/api/office-scripts/overview?view=office-scripts) para obtener más información.
+5. Se ha cambiado el nombre de algunos métodos para mayor claridad y se ha agregado para mayor comodidad. Consulte la referencia de la [API de scripts de Office](/javascript/api/office-scripts/overview?view=office-scripts&preserve-view=true) para obtener más información.
 
 ## <a name="office-scripts-async-api-reference-documentation"></a>Documentación de referencia de API asincrónica de scripts de Office
 
