@@ -5,7 +5,7 @@ ms.date: 06/15/2020
 localization_priority: Normal
 ms.openlocfilehash: 4d5b7c70f14e3fc598b95a6226e3ef8caf89f651
 ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
-ms.translationtype: Auto
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/25/2020
 ms.locfileid: "44878901"
@@ -104,5 +104,5 @@ A medida que la plataforma de scripts de Office se expande para trabajar con la 
 
 ## <a name="see-also"></a>Vea también
 
-- [Conceptos básicos de los scripts de Office en Excel en la Web](scripting-fundamentals.md)
+- [Conceptos básicos de los Scripts de Office en Excel en la web](scripting-fundamentals.md)
 - [Documentos web de MDN: bucles e iteración](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Loops_and_iteration)
