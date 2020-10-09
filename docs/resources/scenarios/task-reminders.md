@@ -5,7 +5,7 @@ ms.date: 06/09/2020
 localization_priority: Normal
 ms.openlocfilehash: f764c37dafdd964e9435d504770d10b1608428b8
 ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
-ms.translationtype: Auto
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/25/2020
 ms.locfileid: "44878909"
@@ -154,9 +154,9 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
 
 10. Elija **desencadenar manualmente un flujo** de las opciones y pulse **crear**.
 
-11. El flujo tiene que llamar al script **Get People** para obtener todos los empleados con campos de estado vacíos. Presione **nuevo paso** y seleccione **Excel online (empresa)**. En **acciones**, seleccione **Ejecutar script (vista previa)**. Proporcione las siguientes entradas para el paso flujo:
+11. El flujo tiene que llamar al script **Get People** para obtener todos los empleados con campos de estado vacíos. Presione **nuevo paso** y seleccione **Excel online (empresa)**. En **Acciones**, seleccione **Ejecutar script (versión preliminar)**. Proporcione las siguientes entradas para el paso flujo:
 
-    - **Ubicación**: OneDrive para la empresa
+    - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive
     - **Archivo**: task-reminders.xlsx
     - **Script**: obtener personas
@@ -213,9 +213,9 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
     - **Mensaje de actualización**: Gracias por enviar el informe de estado. La respuesta se ha agregado correctamente a la hoja de cálculo.
     - **Debe actualizar la tarjeta**: sí
 
-16. En el bloque **aplicar a cada** bloque, después de **publicar una tarjeta adaptable a un usuario de Teams y esperar una respuesta**, presione **Agregar una acción**. Seleccione **Excel online (empresa)**. En **acciones**, seleccione **Ejecutar script (vista previa)**. Proporcione las siguientes entradas para el paso flujo:
+16. En el bloque **aplicar a cada** bloque, después de **publicar una tarjeta adaptable a un usuario de Teams y esperar una respuesta**, presione **Agregar una acción**. Seleccione **Excel online (empresa)**. En **Acciones**, seleccione **Ejecutar script (versión preliminar)**. Proporcione las siguientes entradas para el paso flujo:
 
-    - **Ubicación**: OneDrive para la empresa
+    - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive
     - **Archivo**: task-reminders.xlsx
     - **Script**: estado de guardado
