@@ -1,14 +1,14 @@
 ---
 title: Solución de problemas de scripts de Office
 description: Sugerencias y técnicas de depuración de scripts de Office, así como recursos de ayuda.
-ms.date: 07/23/2020
+ms.date: 10/08/2020
 localization_priority: Normal
-ms.openlocfilehash: 0a2c9ab209bc36e8ba2bdb25a6ab79d9f900f29a
-ms.sourcegitcommit: e9a8ef5f56177ea9a3d2fc5ac636368e5bdae1f4
+ms.openlocfilehash: 9b3f4be778f3cdb4711d1e41d4d68f87ebca8152
+ms.sourcegitcommit: 42fa3b629c93930b4e73e9c4c01d0c8bdf6d7487
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47321596"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48411552"
 ---
 # <a name="troubleshooting-office-scripts"></a>Solución de problemas de scripts de Office
 
@@ -31,7 +31,7 @@ Los registros no afectan al libro.
 
 Cuando el script de Excel encuentra un problema en ejecución, produce un error. Verá un mensaje emergente en el que se le preguntará si desea **ver los registros**. Presione ese botón para abrir la consola y mostrar los errores.
 
-## <a name="automate-tab-not-appearing"></a>La ficha automatizada no aparece
+## <a name="automate-tab-not-appearing-or-office-scripts-unavailable"></a>La ficha automatizada no aparece o las secuencias de comandos de Office no están disponibles
 
 Los pasos siguientes le ayudarán a solucionar los problemas relacionados con la ficha **automatizar** que no aparecen en Excel en la Web.
 
@@ -39,6 +39,8 @@ Los pasos siguientes le ayudarán a solucionar los problemas relacionados con la
 1. [Pida al administrador que habilite la característica](/microsoft-365/admin/manage/manage-office-scripts-settings).
 1. [Compruebe que el explorador es compatible](platform-limits.md#browser-support).
 1. [Asegúrese de que las cookies de terceros están habilitadas](platform-limits.md#third-party-cookies).
+
+[!INCLUDE [Teams support note](../includes/teams-support-note.md)]
 
 ## <a name="help-resources"></a>Recursos de ayuda
 
@@ -48,7 +50,7 @@ Si encuentra un problema con la API de JavaScript de Office, cree un problema en
 
 Si hay un problema con el grabador de acciones o con el editor, envíe sus comentarios a través del botón **ayuda > comentarios** de Excel.
 
-## <a name="see-also"></a>Recursos adicionales
+## <a name="see-also"></a>Ver también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Conceptos básicos sobre el scripting de los scripts de Office en Excel en la web](../develop/scripting-fundamentals.md)
