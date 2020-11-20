@@ -1,0 +1,38 @@
+---
+title: Almacenamiento y propiedad de archivos de scripts de Office
+description: Información sobre cómo se almacenan los scripts de Office en Microsoft OneDrive y cómo se transfieren entre propietarios.
+ms.date: 11/13/2020
+localization_priority: Normal
+ms.openlocfilehash: 648f3b2cf7e7d8d3bab2cf07a090e116e267a99a
+ms.sourcegitcommit: 82d3c0ef1e187bcdeceb2b5fc3411186674fe150
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49346873"
+---
+# <a name="office-scripts-file-storage-and-ownership"></a><span data-ttu-id="ffad3-103">Almacenamiento y propiedad de archivos de scripts de Office</span><span class="sxs-lookup"><span data-stu-id="ffad3-103">Office Scripts file storage and ownership</span></span>
+
+<span data-ttu-id="ffad3-104">Los scripts de Office se almacenan como archivos **. osts** en su Microsoft OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ffad3-104">Office Scripts are stored as **.osts** files in your Microsoft OneDrive.</span></span> <span data-ttu-id="ffad3-105">Esto permite que los scripts existan fuera de un libro determinado.</span><span class="sxs-lookup"><span data-stu-id="ffad3-105">This allows your scripts to exist outside any particular workbook.</span></span> <span data-ttu-id="ffad3-106">Su configuración de OneDrive controla el acceso compartido y los permisos para todos los archivos script **. osts** ; independiente de cualquier configuración de Excel.</span><span class="sxs-lookup"><span data-stu-id="ffad3-106">Your OneDrive settings control the shared access and permissions for all script **.osts** files; independent of any Excel settings.</span></span>
+
+## <a name="file-storage"></a><span data-ttu-id="ffad3-107">Almacenamiento de archivos.</span><span class="sxs-lookup"><span data-stu-id="ffad3-107">File storage</span></span>
+
+<span data-ttu-id="ffad3-108">Los scripts de Office se almacenan en su OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ffad3-108">You Office Scripts are stored in your OneDrive.</span></span> <span data-ttu-id="ffad3-109">Los archivos **. osts** se encuentran en la carpeta **scripts//Documents/Office** .</span><span class="sxs-lookup"><span data-stu-id="ffad3-109">The **.osts** files are found in the **/Documents/Office Scripts/** folder.</span></span> <span data-ttu-id="ffad3-110">Los cambios realizados en estos archivos **. osts** , como cambiar el nombre o eliminar archivos, se reflejarán en el editor de código y en la galería de scripts.</span><span class="sxs-lookup"><span data-stu-id="ffad3-110">Any edits made to these **.osts** files, such as renaming or deleting files, will be reflected in the Code Editor and Script Gallery.</span></span>
+
+<span data-ttu-id="ffad3-111">Los scripts compartidos con uno de los libros permanecen en el OneDrive del creador de scripts.</span><span class="sxs-lookup"><span data-stu-id="ffad3-111">Scripts that are shared with one of your workbooks remain in the script creator's OneDrive.</span></span> <span data-ttu-id="ffad3-112">No se copian en ninguna de las carpetas locales o de OneDrive al ejecutar el script compartido en Excel.</span><span class="sxs-lookup"><span data-stu-id="ffad3-112">They are not copied to any of your local or OneDrive folders when you run the shared script in Excel.</span></span> <span data-ttu-id="ffad3-113">El botón **hacer una copia** del editor de código guarda una copia independiente del script en su OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ffad3-113">The **Make a Copy** button of the Code Editor saves a separate copy of the script in your OneDrive.</span></span> <span data-ttu-id="ffad3-114">Los cambios realizados en la copia no afectan al script original.</span><span class="sxs-lookup"><span data-stu-id="ffad3-114">Changes to the copy don't affect the original script.</span></span>
+
+### <a name="script-folders"></a><span data-ttu-id="ffad3-115">Carpetas de script</span><span class="sxs-lookup"><span data-stu-id="ffad3-115">Script folders</span></span>
+
+<span data-ttu-id="ffad3-116">Agregar carpetas a OneDrive ayuda a mantener los scripts organizados.</span><span class="sxs-lookup"><span data-stu-id="ffad3-116">Adding folders to your OneDrive helps keep your scripts organized.</span></span> <span data-ttu-id="ffad3-117">Las carpetas en **/Documents/Office scripts/** se muestran en la sección **mis scripts** del editor de código.</span><span class="sxs-lookup"><span data-stu-id="ffad3-117">Any folders under **/Documents/Office Scripts/** are displayed under the **My Scripts** section of the Code Editor.</span></span> <span data-ttu-id="ffad3-118">Tenga en cuenta que estas carpetas no se pueden crear ni eliminar con el editor de código.</span><span class="sxs-lookup"><span data-stu-id="ffad3-118">Please note that these folders cannot be created or deleted by using the Code Editor.</span></span> <span data-ttu-id="ffad3-119">Del mismo modo, los scripts no se pueden colocar en carpetas ni se pueden mover entre carpetas mediante el editor de código.</span><span class="sxs-lookup"><span data-stu-id="ffad3-119">Likewise, scripts cannot be placed in folders, or moved across folders by using the Code Editor.</span></span>
+
+![Algunos scripts contenidos en carpetas, tal como se muestra en el panel de tareas del editor de código](../images/script-folders.png)
+
+## <a name="file-ownership-and-retention"></a><span data-ttu-id="ffad3-121">Posesión y retención de archivos</span><span class="sxs-lookup"><span data-stu-id="ffad3-121">File ownership and retention</span></span>
+
+<span data-ttu-id="ffad3-122">Los scripts de Office se almacenan en el OneDrive de un usuario.</span><span class="sxs-lookup"><span data-stu-id="ffad3-122">Office Scripts are stored in a user's OneDrive.</span></span> <span data-ttu-id="ffad3-123">Siguen las directivas de retención y eliminación especificadas por Microsoft OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ffad3-123">They follow the retention and deletion policies specified by Microsoft OneDrive.</span></span> <span data-ttu-id="ffad3-124">Para obtener información sobre cómo administrar scripts creados y compartidos por un usuario que fue quitado de la organización, consulte [Retención y eliminación de OneDrive](/onedrive/retention-and-deletion).</span><span class="sxs-lookup"><span data-stu-id="ffad3-124">To learn how to handle scripts that were created and shared by a user being removed from your organization, see [OneDrive retention and deletion](/onedrive/retention-and-deletion).</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="ffad3-125">Consulte también</span><span class="sxs-lookup"><span data-stu-id="ffad3-125">See also</span></span>
+
+- [<span data-ttu-id="ffad3-126">Compartir Scripts de Office en Excel para la web</span><span class="sxs-lookup"><span data-stu-id="ffad3-126">Sharing Office Scripts in Excel for the Web</span></span>](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)
+- [<span data-ttu-id="ffad3-127">Solución de problemas de scripts de Office</span><span class="sxs-lookup"><span data-stu-id="ffad3-127">Troubleshooting Office Scripts</span></span>](../testing/troubleshooting.md)
+- [<span data-ttu-id="ffad3-128">Configuración de scripts de Office en M365</span><span class="sxs-lookup"><span data-stu-id="ffad3-128">Office Scripts settings in M365</span></span>](https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf)
+- [<span data-ttu-id="ffad3-129">Deshacer los efectos de un script de Office</span><span class="sxs-lookup"><span data-stu-id="ffad3-129">Undo the effects of an Office Script</span></span>](../testing/undo.md)
