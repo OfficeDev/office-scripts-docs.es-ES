@@ -1,14 +1,14 @@
 ---
 title: Diferencias entre scripts de Office y macros de VBA
 description: El comportamiento y las diferencias de API entre scripts de Office y macros de VBA de Excel.
-ms.date: 06/30/2020
+ms.date: 11/13/2020
 localization_priority: Normal
-ms.openlocfilehash: 8c246545943341607a7aced4da792b8e49880cb0
-ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
+ms.openlocfilehash: 7b9186d03489a43836c6e9da7bd28e0abc135f63
+ms.sourcegitcommit: 82d3c0ef1e187bcdeceb2b5fc3411186674fe150
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616692"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49342888"
 ---
 # <a name="differences-between-office-scripts-and-vba-macros"></a>Diferencias entre scripts de Office y macros de VBA
 
@@ -27,7 +27,7 @@ Los scripts de Office usan un tiempo de ejecución universal para JavaScript. Es
 
 ## <a name="security"></a>Seguridad
 
-Las macros de VBA tienen la misma holgura de seguridad que Excel. Esto les da acceso total a su escritorio. Los scripts de Office solo tienen acceso al libro, no al equipo que hospeda el libro. Además, no se pueden compartir los tokens de autenticación de JavaScript con los scripts, de modo que los scripts no se pueden autenticar nunca con un servicio externo.
+Las macros de VBA tienen la misma holgura de seguridad que Excel. Esto les da acceso total a su escritorio. Los scripts de Office solo tienen acceso al libro, no al equipo que hospeda el libro. Además, no se pueden compartir los tokens de autenticación de JavaScript con los scripts. Esto significa que el script no tiene ni los tokens del usuario que ha iniciado sesión ni ninguna funcionalidad de API para iniciar sesión en un servicio externo, por lo que no pueden usar los tokens existentes para realizar llamadas externas en nombre del usuario.
 
 Los administradores tienen tres opciones para las macros de VBA: permitir todas las macros en el espacio empresarial, no permitir macros en el espacio empresarial o permitir solo macros con certificados firmados. Esta falta de granularidad hace que sea difícil aislar un solo actor incorrecto. Actualmente, las secuencias de comandos de Office están activadas o desactivadas para un espacio empresarial. Sin embargo, estamos trabajando para dar a los administradores más control sobre los creadores de scripts y scripts individuales.
 
@@ -41,7 +41,7 @@ Los scripts de Office se pueden ejecutar a través de la automatización de ener
 
 VBA no tiene un conector de automatización de la alimentación. Todos los escenarios de VBA admitidos involucrados en un usuario que asiste a la ejecución de la macro.
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Consulte también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Diferencias entre los scripts de Office y los complementos de Office](add-ins-differences.md)

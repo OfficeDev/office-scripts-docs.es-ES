@@ -1,14 +1,14 @@
 ---
 title: Solución de problemas de scripts de Office
 description: Sugerencias y técnicas de depuración de scripts de Office, así como recursos de ayuda.
-ms.date: 10/08/2020
+ms.date: 10/30/2020
 localization_priority: Normal
-ms.openlocfilehash: 9b3f4be778f3cdb4711d1e41d4d68f87ebca8152
-ms.sourcegitcommit: 42fa3b629c93930b4e73e9c4c01d0c8bdf6d7487
+ms.openlocfilehash: b45957bd336edce527397253cacec8cb09df715a
+ms.sourcegitcommit: 82d3c0ef1e187bcdeceb2b5fc3411186674fe150
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48411552"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49342881"
 ---
 # <a name="troubleshooting-office-scripts"></a>Solución de problemas de scripts de Office
 
@@ -36,21 +36,21 @@ Cuando el script de Excel encuentra un problema en ejecución, produce un error.
 Los pasos siguientes le ayudarán a solucionar los problemas relacionados con la ficha **automatizar** que no aparecen en Excel en la Web.
 
 1. Asegúrese [de que su licencia de 365 de Microsoft incluye scripts de Office](../overview/excel.md#requirements).
-1. [Pida al administrador que habilite la característica](/microsoft-365/admin/manage/manage-office-scripts-settings).
 1. [Compruebe que el explorador es compatible](platform-limits.md#browser-support).
 1. [Asegúrese de que las cookies de terceros están habilitadas](platform-limits.md#third-party-cookies).
+1. [Asegúrese de que su administrador no ha deshabilitado los scripts de Office en el centro de administración de Microsoft 365](/microsoft-365/admin/manage/manage-office-scripts-settings).
 
 [!INCLUDE [Teams support note](../includes/teams-support-note.md)]
 
 ## <a name="help-resources"></a>Recursos de ayuda
 
-[Desbordamiento de pila](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores que desea ayudar con los problemas de codificación. A menudo, podrá encontrar la solución a su problema mediante una búsqueda rápida de desbordamiento de pila. Si no es así, formule su pregunta y etiquete con la etiqueta "Office-scripts". No olvide mencionar que está creando un *script*de Office, no un *complemento de*Office.
+[Desbordamiento de pila](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores que desea ayudar con los problemas de codificación. A menudo, podrá encontrar la solución a su problema mediante una búsqueda rápida de desbordamiento de pila. Si no es así, formule su pregunta y etiquete con la etiqueta "Office-scripts". No olvide mencionar que está creando un *script* de Office, no un *complemento de* Office.
 
 Si encuentra un problema con la API de JavaScript de Office, cree un problema en el repositorio de github [OfficeDev/Office-js](https://github.com/OfficeDev/office-js) . Los miembros del equipo de producto responderán a los problemas y proporcionarán asistencia. La creación de un problema en el repositorio de **OfficeDev/Office-js** indica que ha encontrado un error en la biblioteca de la API de JavaScript de Office que el equipo del producto debe tratar.
 
 Si hay un problema con el grabador de acciones o con el editor, envíe sus comentarios a través del botón **ayuda > comentarios** de Excel.
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Consulte también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Conceptos básicos sobre el scripting de los scripts de Office en Excel en la web](../develop/scripting-fundamentals.md)
