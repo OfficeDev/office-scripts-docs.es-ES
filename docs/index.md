@@ -3,14 +3,14 @@ layout: LandingPage
 ms.topic: landing-page
 title: Documentación de scripts de Office
 description: Recursos de aprendizaje de scripts de Office en Excel en la Web, como tutoriales, artículos conceptuales y ejemplos de código.
-ms.date: 01/22/2020
+ms.date: 10/30/2020
 localization_priority: Priority
-ms.openlocfilehash: 238f61adc48974714a110943f7e36e0d2040784c
-ms.sourcegitcommit: e9a8ef5f56177ea9a3d2fc5ac636368e5bdae1f4
+ms.openlocfilehash: 60eb5340e424617a3be87fea9d2a7ece3ca69c3b
+ms.sourcegitcommit: 82d3c0ef1e187bcdeceb2b5fc3411186674fe150
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47321603"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49342832"
 ---
 # <a name="office-scripts-documentation-preview"></a>Documentación de scripts de Office (versión preliminar)
 
@@ -73,24 +73,8 @@ Use los scripts de Office en Excel en la Web para automatizar las tareas comunes
 ---
 
 <h2>Otros recursos</h2>
-<p>Use los recursos siguientes para informarse de las API que usan los scripts de Office para interactuar con los libros de Excel en la web, formule preguntas sobre scripts de Office en Excel en la Web o solicite características para scripts de Office en Excel en la Web.</p>
+<p>Use los siguientes recursos para informarse acerca de las API que usan Scripts de Office para interactuar con los libros de Excel en la Web, formule preguntas sobre los Scripts de Office en Excel en la Web o solicite características para los Scripts de Office en Excel en la Web.</p>
 <ul class="panelContent cardsF cols cols3" style="display:flex!important;">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <a href="/microsoft-365/admin/manage/manage-office-scripts-settings" target="_blank"><img src="images/index-landing-page/i_upgrade.svg" alt="Enable Office Scripts" /></a>
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <a href="/microsoft-365/admin/manage/manage-office-scripts-settings" target="_blank"><h3>Habilitar los scripts de Office</h3></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -117,7 +101,23 @@ Use los scripts de Office en Excel en la Web para automatizar las tareas comunes
                         </div>
                     </div>
                     <div class="cardText">
-                        <a href="resources/excel-samples.md" target="_blank"><h3>Scripts de ejemplo</h3></a>
+                        <a href="resources/excel-samples.md" target="_blank"><h3>Scripts de muestra</h3></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <a href="/microsoft-365/admin/manage/manage-office-scripts-settings" target="_blank"><img src="images/index-landing-page/i_upgrade.svg" alt="Admin settings"/></a>
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <a href="/microsoft-365/admin/manage/manage-office-scripts-settings" target="_blank"><h3>Configuración de administrador</h3></a>
                     </div>
                 </div>
             </div>
