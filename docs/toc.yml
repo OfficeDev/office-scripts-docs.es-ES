@@ -28,6 +28,8 @@
           href: resources/add-ins-differences.md
         - name: Soporte de llamadas de API externas en Scripts de Office
           href: develop/external-calls.md
+        - name: Almacenamiento y propiedad de archivos
+          href: overview/script-storage.md
         - name: Ejecutar scripts con Power Automate
           href: develop/power-automate-integration.md
     - name: Solución de problemas
