@@ -3,12 +3,12 @@ title: 'Escenario de ejemplo de scripts de Office: analizar descargas Web'
 description: Un ejemplo que toma datos de tráfico de Internet sin procesar en un libro de Excel y determina la ubicación del origen antes de organizar dicha información en una tabla.
 ms.date: 07/10/2020
 localization_priority: Normal
-ms.openlocfilehash: 20c52c4f26b5939fb5de5e04df504e6672dd4200
-ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
+ms.openlocfilehash: adc2cb401830b66b245c0dfcc4441b7ac9c8c61f
+ms.sourcegitcommit: 009935c5773761c5833e5857491af47e2c95d851
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160456"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49408969"
 ---
 # <a name="office-scripts-sample-scenario-analyze-web-downloads"></a>Escenario de ejemplo de scripts de Office: analizar descargas Web
 
@@ -182,8 +182,8 @@ Este ejemplo se ha demodo como parte de la llamada de la comunidad de desarrolla
         formula1: "=TRUE",
         operator: ExcelScript.ConditionalCellValueOperator.equalTo
       });
-      conditionalFormatTrue.getCellValue().getFormat().getFill().setColor("#F8CCAD");
-      conditionalFormatTrue.getCellValue().setRule({
+      conditionalFormatFalse.getCellValue().getFormat().getFill().setColor("#F8CCAD");
+      conditionalFormatFalse.getCellValue().setRule({
         formula1: "=FALSE",
         operator: ExcelScript.ConditionalCellValueOperator.equalTo
       });
@@ -224,7 +224,7 @@ Este ejemplo se ha demodo como parte de la llamada de la comunidad de desarrolla
 
 ## <a name="running-the-script"></a>Ejecución del script
 
-Navegue a cualquiera de las hojas de cálculo de la **semana \* \* ** y ejecute el script **analizar descargas Web** . El script aplicará el formato condicional y el etiquetado de ubicación en la hoja actual. También se actualizará la hoja de cálculo de **Resumen** .
+Navegue a cualquiera de las hojas de cálculo de la **semana \* \*** y ejecute el script **analizar descargas Web** . El script aplicará el formato condicional y el etiquetado de ubicación en la hoja actual. También se actualizará la hoja de cálculo de **Resumen** .
 
 ### <a name="before-running-the-script"></a>Antes de ejecutar el script
 
