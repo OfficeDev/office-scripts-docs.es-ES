@@ -1,14 +1,14 @@
 ---
 title: 'Escenario de ejemplo de scripts de Office: avisos de tareas automatizadas'
 description: Un ejemplo que usa la automatización de energía y las tarjetas adaptables automatiza los avisos de tareas en una hoja de cálculo de administración de proyectos.
-ms.date: 06/09/2020
+ms.date: 11/30/2020
 localization_priority: Normal
-ms.openlocfilehash: f764c37dafdd964e9435d504770d10b1608428b8
-ms.sourcegitcommit: aec3c971c6640429f89b6bb99d2c95ea06725599
+ms.openlocfilehash: 90769eca0201e450e25778db0eb5c62284b9feb0
+ms.sourcegitcommit: af487756dffea0f8f0cd62710c586842cb08073c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44878909"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571454"
 ---
 # <a name="office-scripts-sample-scenario-automated-task-reminders"></a>Escenario de ejemplo de scripts de Office: avisos de tareas automatizadas
 
@@ -65,7 +65,7 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
         let row = bodyRangeValues[i];
         if (row[STATUS_REPORT_INDEX] === "") {
           // Save the email to return.
-          people.push({ name: row[NAME_INDEX], email: row[EMAIL_INDEX] });
+          people.push({ name: row[NAME_INDEX].toString(), email: row[EMAIL_INDEX].toString() });
         }
       }
 
@@ -158,7 +158,7 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive
-    - **Archivo**: task-reminders.xlsx
+    - **File**: task-reminders.xlsx *(elegido mediante el explorador de archivos)*
     - **Script**: obtener personas
 
     ![Paso del flujo de script de primera ejecución.](../../images/scenario-task-reminders-first-flow-step.png)
@@ -217,7 +217,7 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive
-    - **Archivo**: task-reminders.xlsx
+    - **File**: task-reminders.xlsx *(elegido mediante el explorador de archivos)*
     - **Script**: estado de guardado
     - **senderEmail**: correo electrónico *(contenido dinámico de Excel)*
     - **statusReportResponse**: respuesta *(contenido dinámico de Teams)*
