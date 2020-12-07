@@ -1,14 +1,14 @@
 ---
 title: Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 description: Un tutorial sobre la ejecución de Scripts de Office para Excel en la Web mediante Power Automate cuando se reciba el correo y el paso de datos de flujo al script.
-ms.date: 07/24/2020
+ms.date: 11/30/2020
 localization_priority: Priority
-ms.openlocfilehash: f6842e27686909bad92138e6d2f9ac1892cac891
-ms.sourcegitcommit: ce72354381561dc167ea0092efd915642a9161b3
+ms.openlocfilehash: b73f40c70669fedbe8a0adcf346995cb20b62d37
+ms.sourcegitcommit: af487756dffea0f8f0cd62710c586842cb08073c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319682"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571482"
 ---
 # <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow-preview"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente (versión preliminar)
 
@@ -183,7 +183,7 @@ function main(
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive
-    - **Archivo**: MyWorkbook.xlsx
+    - **Archivo**: MyWorkbook.xlsx *(seleccionado por el explorador de archivos)*
     - **Script**: Registrar correo electrónico
     - **de**: De *(contenido dinámico de Outlook)*
     - **dateReceived**: Hora de recepción *(contenido dinámico de Outlook)*
