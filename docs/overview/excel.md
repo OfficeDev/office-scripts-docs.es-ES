@@ -1,14 +1,14 @@
 ---
 title: Scripts de Office en Excel en la Web
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
-ms.date: 09/29/2020
+ms.date: 11/13/2020
 localization_priority: Priority
-ms.openlocfilehash: 965e28be285d59d79d46fe005ab16f29b271041f
-ms.sourcegitcommit: ce72354381561dc167ea0092efd915642a9161b3
+ms.openlocfilehash: a065c8eb5fc52c7525383927b7e1490e703eb179
+ms.sourcegitcommit: 82d3c0ef1e187bcdeceb2b5fc3411186674fe150
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319675"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49571465"
 ---
 # <a name="office-scripts-in-excel-on-the-web-preview"></a>Scripts de Office en Excel en la Web (vista previa)
 
@@ -28,7 +28,6 @@ Para usar los Scripts de Office, necesita lo siguiente:
 
 1. [Excel en la Web](https://www.office.com/launch/excel) (no se admiten otras plataformas, como el escritorio).
 1. OneDrive para la Empresa.
-1. Scripts de Office [habilitado por el administrador](/microsoft-365/admin/manage/manage-office-scripts-settings).
 1. Cualquier licencia de Microsoft 365 comercial o educativa con acceso a las aplicaciones de escritorio de Microsoft Office 365, como:
 
     - Office 365 Empresa
@@ -40,7 +39,10 @@ Para usar los Scripts de Office, necesita lo siguiente:
     - Office 365 A3
     - Office 365 A5
 
-## <a name="when-to-use-office-scripts"></a>Cuándo usar scripts de Office
+> [!NOTE]
+> Si cumple estos requisitos y aún no ve la ficha **automatizar** , es posible que el administrador haya deshabilitado la característica o que haya otro problema en el entorno. Siga los pasos descritos en la [ficha automatizar no aparece o las secuencias de comandos de Office no están disponibles](../testing/troubleshooting.md#automate-tab-not-appearing-or-office-scripts-unavailable) para empezar a usar Scripts de Office.
+
+## <a name="when-to-use-office-scripts"></a>Cuándo usar Scripts de Office
 
 Los scripts le permiten grabar una serie de acciones en Excel y repetirlas en diferentes libros y hojas de cálculo. Si ve que realiza las mismas acciones una y otra vez, puede convertir todo ese trabajo en un script de Office fácil de ejecutar. Ejecute el script con tan solo pulsar un botón en Excel o combínelo con Power Automate para agilizar todo el flujo de trabajo.
 
@@ -69,7 +71,7 @@ Los Scripts de Office se pueden compartir con otros usuarios de un libro de Exce
 Puede obtener más información sobre scripts compartidos y no compartidos en el artículo [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b).
 
 > [!NOTE]
-> Como los Scripts de Office se almacenan en el OneDrive del usuario, siguen las mismas directivas de retención y eliminación. Para obtener información sobre cómo administrar scripts creados y compartidos por un usuario que fue quitado de la organización, consulte [Retención y eliminación de OneDrive](/onedrive/retention-and-deletion).
+> Obtenga más información sobre cómo se almacenan los scripts en su OneDrive en [propiedad y almacenamiento de archivos de Scripts de Office](script-storage.md).
 
 ## <a name="connecting-office-scripts-to-power-automate"></a>Conectar Scripts de Office a Power Automate
 
@@ -86,4 +88,4 @@ Complete el [Tutorial de scripts de Office en Excel en la Web](../tutorials/exce
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
 - [Configuración de scripts de Office en M365](https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf)
 - [Introducción a los scripts de Office en Excel (en support.office.com)](https://support.office.com/article/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)
-- [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b?storagetype=live&ui=en-US&rs=en-US&ad=US)
+- [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)

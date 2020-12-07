@@ -1,14 +1,14 @@
 ---
 title: Ejecutar scripts mediante un flujo manual de Power Automate
 description: Tutorial sobre el uso de scripts de Office en Power Automate mediante un desencadenador manual.
-ms.date: 07/24/2020
+ms.date: 11/30/2020
 localization_priority: Priority
-ms.openlocfilehash: f447e465bc0b09043d64752266bc9b6dbe5a5d89
-ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
+ms.openlocfilehash: 831812f5ead549ee3ea3b8c643fc16d5467edbe8
+ms.sourcegitcommit: af487756dffea0f8f0cd62710c586842cb08073c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616762"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571475"
 ---
 # <a name="call-scripts-from-a-manual-power-automate-flow-preview"></a>Ejecutar scripts mediante un flujo manual de Power Automate (versión preliminar)
 
@@ -93,7 +93,7 @@ Power Automate no puede usar referencias relativas como `Workbook.getActiveWorks
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive
-    - **Archivo**: MyWorkbook.xlsx
+    - **Archivo**: MyWorkbook.xlsx *(seleccionado por el explorador de archivos)*
     - **Script**: Establecer fecha y hora
 
     ![La configuración del conector para ejecutar un script en Power Automate.](../images/power-automate-tutorial-6.png)
