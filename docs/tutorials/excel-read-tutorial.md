@@ -1,14 +1,14 @@
 ---
 title: Leer datos de libros con scripts de Office en Excel en la Web
 description: Un tutorial de scripts de Office sobre cómo leer datos de libros y evaluarlos en el script.
-ms.date: 07/20/2020
+ms.date: 01/06/2021
 localization_priority: Priority
-ms.openlocfilehash: cdd09f13bb53cfff8c051360f2306cdb6956d86d
-ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
+ms.openlocfilehash: 0848a24e7333842b5b3b1f82ec8f270514c34d2f
+ms.sourcegitcommit: 9df67e007ddbfec79a7360df9f4ea5ac6c86fb08
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616713"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49772974"
 ---
 # <a name="read-workbook-data-with-office-scripts-in-excel-on-the-web"></a>Leer datos de libros con scripts de Office en Excel en la Web
 
@@ -42,7 +42,7 @@ En el resto del tutorial, armonizaremos los datos de ambos con un script. En pri
     |25/10/2019 |Cuenta corriente |Best For You Organics Company | - 85,64 | |
     |01/11/2019 |Cuenta corriente |Depósito externo | |1000 |
 
-3. Abra el **Editor de código** y seleccione **Nuevo script**.
+3. Abra **Todos los scripts** y seleccione **Nuevo script**.
 4. Limpiemos un poco el formato. Este es un documento financiero, así que cambie el formato de número de las columnas **Débito** y **Crédito** para mostrar los valores como cantidades en euros. También hay que ajustar el ancho de columna a los datos.
 
     Reemplace el contenido del script por el siguiente código:
@@ -73,21 +73,22 @@ En el resto del tutorial, armonizaremos los datos de ambos con un script. En pri
 8. Cuando se registra una matriz bidimensional en la consola, se agrupan los valores de columna en cada fila. Expanda el registro de matriz pulsando en el triángulo azul.
 9. Expanda el segundo nivel de la matriz pulsando en el triángulo azul que ha descubierto recientemente. Ahora debería ver lo siguiente:
 
-    ![El registro de consola mostrando el resultado "-20,05" anidado en dos matrices.](../images/tutorial-4.png)
+    ![El registro de consola mostrando el resultado "-20,05" anidado en dos matrices](../images/tutorial-4.png)
 
 ## <a name="modify-the-value-of-a-cell"></a>Cambiar el valor de una celda
 
 Ahora que podemos leer datos, vamos a usarlos para modificar el libro. Haremos que el valor de la celda **D2** sea positivo con la función `Math.abs`. El objeto [Math](https://developer.mozilla.org/docs/web/javascript/reference/global_objects/math) contiene varias funciones a las que tienen acceso los scripts. Puede encontrar más información sobre `Math` y otros objetos integrados en [Usar objetos integrados de JavaScript en los scripts de Office](../develop/javascript-objects.md).
 
-1. Agregue el siguiente código al final del script:
+1. Usaremos métodos `getValue` y `setValue` para cambiar el valor de la celda. Estos métodos funcionan en una sola celda. Cuando trabaje con rangos de varias celdas, es mejor usar `getValues` y `setValues`. Agregue el siguiente código al final del script:
 
     ```TypeScript
     // Run the `Math.abs` function with the value at D2 and apply that value back to D2.
-    let positiveValue = Math.abs(range.getValue());
+    let positiveValue = Math.abs(range.getValue() as number);
     range.setValue(positiveValue);
     ```
 
-    Tenga en cuenta que estamos usando `getValue` y `setValue`. Estos métodos funcionan en una sola celda. Cuando trabaje con rangos de varias celdas, es mejor usar `getValues` y `setValues`.
+    > [!NOTE]
+    > Se está [cambiando](https://www.typescripttutorial.net/typescript-tutorial/type-casting/) el valor devuelto de `range.getValue()` a un `number` con la palabra clave `as`. Esto es necesario porque un rango puede estar conformado por cadenas, números o booleanos. En este caso, específicamente necesitamos un número.
 
 2. El valor de la celda **D2** debería ahora ser positivo.
 
@@ -124,13 +125,13 @@ Ahora que sabemos cómo leer y escribir en una sola celda, vamos a aplicar este 
     for (let i = 1; i < rowCount; i++) {
         // The column at index 3 is column "4" in the worksheet.
         if (rangeValues[i][3] != 0) {
-            let positiveValue = Math.abs(rangeValues[i][3]);
+            let positiveValue = Math.abs(rangeValues[i][3] as number);
             selectedSheet.getCell(i, 3).setValue(positiveValue);
         }
 
         // The column at index 4 is column "5" in the worksheet.
         if (rangeValues[i][4] != 0) {
-            let positiveValue = Math.abs(rangeValues[i][4]);
+            let positiveValue = Math.abs(rangeValues[i][4] as number);
             selectedSheet.getCell(i, 4).setValue(positiveValue);
         }
     }
@@ -142,7 +143,7 @@ Ahora que sabemos cómo leer y escribir en una sola celda, vamos a aplicar este 
 
     Ahora, su declaración bancaria debería tener el siguiente aspecto:
 
-    ![Declaración bancaria como tabla con formato que solo contiene valores positivos.](../images/tutorial-5.png)
+    ![Extracto bancario como tabla con formato que solo contiene valores positivos](../images/tutorial-5.png)
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -1,14 +1,14 @@
 ---
 title: Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 description: Un tutorial sobre la ejecución de Scripts de Office para Excel en la Web mediante Power Automate cuando se reciba el correo y el paso de datos de flujo al script.
-ms.date: 11/30/2020
+ms.date: 12/28/2020
 localization_priority: Priority
-ms.openlocfilehash: b73f40c70669fedbe8a0adcf346995cb20b62d37
-ms.sourcegitcommit: af487756dffea0f8f0cd62710c586842cb08073c
+ms.openlocfilehash: 3f81ac13b0827f27adc611895d6bb090df10da5c
+ms.sourcegitcommit: 9df67e007ddbfec79a7360df9f4ea5ac6c86fb08
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571482"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49772995"
 ---
 # <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow-preview"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente (versión preliminar)
 
@@ -23,11 +23,11 @@ Este tutorial le enseña cómo usar un script de Office para Excel en la web con
 
 ## <a name="prepare-the-workbook"></a>Preparar el libro
 
-Power Automate no puede usar [referencias relativas](../develop/power-automate-integration.md#avoid-using-relative-references) como `Workbook.getActiveWorksheet` para acceder a componentes de libros de trabajo. Por lo tanto, es necesario un libro de trabajo y una hoja de cálculo con nombres coherentes para que Power Automate haga referencia.
+Power Automate no debe usar [referencias relativas](../testing/power-automate-troubleshooting.md#avoid-using-relative-references) como `Workbook.getActiveWorksheet` para acceder a componentes de libros de trabajo. Por lo tanto, es necesario un libro de trabajo y una hoja de cálculo con nombres coherentes para que Power Automate haga referencia.
 
 1. Cree un nuevo libro de trabajo y llámelo **Mi libro de trabajo**.
 
-2. Vaya a la pestaña **Automatizar** y seleccione **Editor de código**.
+2. Vaya a la pestaña **Automatizar** y seleccione **Todos los scripts**.
 
 3. Seleccione **Nuevo script**.
 
@@ -60,7 +60,7 @@ Power Automate no puede usar [referencias relativas](../develop/power-automate-i
 
 Comencemos a crear un script que registre información de un correo electrónico. Queremos saber cuál es el número de días de la semana que recibimos más correo electrónico y cuántos remitentes únicos envían ese correo. Nuestro libro tiene una tabla con columnas de **Fecha**, **Día de la semana**, **Dirección de correo electrónico** y **Asunto**. Nuestra hoja de cálculo también tiene una tabla dinámica que se dinamiza en el **Día de la semana** y **Dirección de correo electrónico** (que son las jerarquías de fila). El recuento de **Asuntos** únicos es la información agregada que se muestra (la jerarquía de datos). Haremos que nuestro script actualice esa tabla dinámica después de actualizar la tabla de correo electrónico.
 
-1. Desde el **Editor de código**, seleccione **Nuevo script**.
+1. Desde el panel de tareas del **Editor de código**, seleccione **Nuevo script**.
 
 2. El flujo que crearemos más adelante en el tutorial enviará la información de script de cada mensaje de correo electrónico que se reciba. El script necesita aceptar esa entrada mediante parámetros en la función `main`. Reemplace el script predeterminado con el siguiente script:
 
@@ -156,15 +156,15 @@ function main(
 
 2. En el menú que se muestra en la parte izquierda de la pantalla, presione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
 
-    ![El botón Crear en Power Automate.](../images/power-automate-tutorial-1.png)
+    ![El botón Crear en Power Automate](../images/power-automate-tutorial-1.png)
 
 3. En la sección **Inicio desde cero**, seleccione **Flujo automatizado**. Esto creará un flujo de trabajo desencadenado por un evento, como la recepción de un correo electrónico.
 
-    ![La opción de flujo automatizada en Power Automate.](../images/power-automate-params-tutorial-1.png)
+    ![La opción de Flujo automatizado en Power Automate](../images/power-automate-params-tutorial-1.png)
 
 4. En la ventana de diálogo que aparece, escriba un nombre para su flujo en el cuadro de texto **Nombre de flujo**. A continuación, seleccione **Cuando llegue un nuevo correo electrónico** de la lista de opciones de **Elegir el desencadenador de flujo**. Es posible que tenga que buscar la opción con el cuadro de búsqueda. Por último, pulse **Crear**.
 
-    ![Parte de la ventana Generar un flujo automatizado en Power Automate que muestra la opción "llega un nuevo correo electrónico".](../images/power-automate-params-tutorial-2.png)
+    ![Parte de la ventana Generar un flujo automatizado en Power Automate que muestra la opción "llega un nuevo correo electrónico"](../images/power-automate-params-tutorial-2.png)
 
     > [!NOTE]
     > Este tutorial usa Outlook. Puede usar el servicio de correo electrónico que prefiera, aunque algunas opciones pueden ser diferentes.
@@ -173,11 +173,11 @@ function main(
 
 6. Seleccione la pestaña **Estándar** y, a continuación, seleccione **Excel Online (empresa)**.
 
-    ![La opción Power Automate para Excel Online (empresa).](../images/power-automate-tutorial-4.png)
+    ![Opción de Excel Online (empresa) en Power Automate](../images/power-automate-tutorial-4.png)
 
 7. En **Acciones**, seleccione **Ejecutar script (versión preliminar)**.
 
-    ![La opción de acción de Power Automate para Ejecutar script (versión preliminar).](../images/power-automate-tutorial-5.png)
+    ![Opción de acción Ejecutar script (vista previa) en Power Automate](../images/power-automate-tutorial-5.png)
 
 8. A continuación, seleccione el libro, el script y los argumentos de entrada del script que se usará en el paso de flujo. En el tutorial, utilizará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 
@@ -191,7 +191,7 @@ function main(
 
     *Tenga en cuenta que los parámetros del script solo aparecen cuando se selecciona el script.*
 
-    ![Parámetros de la opción de acción de Power Automate para Ejecutar el script (versión preliminar).](../images/power-automate-params-tutorial-3.png)
+    ![Parámetros de la opción de acción Ejecutar script (vista previa) en Power Automate](../images/power-automate-params-tutorial-3.png)
 
 9. Presione **Guardar**.
 
@@ -201,18 +201,18 @@ El flujo está ahora habilitado. El script se ejecutará automáticamente cada v
 
 1. En la página principal de Power Automate, seleccione **Mis flujos**.
 
-    ![El botón Mis flujos en Power Automate.](../images/power-automate-tutorial-7.png)
+    ![El botón Mis flujos en Power Automate](../images/power-automate-tutorial-7.png)
 
 2. Seleccione el flujo. Aquí puede ver el historial de ejecución. Puede actualizar la página o presionar el botón actualizar **Todas las ejecuciones** para actualizar el historial. El flujo se desencadenará poco después de que se reciba un correo electrónico. Pruebe el flujo enviándose un correo electrónico a sí mismo.
 
 Cuando se desencadene el flujo y se ejecute correctamente el script, debería ver que se actualizan la tabla dinámica y la tabla del libro.
 
-![La tabla de correo electrónico después de ejecutar el flujo un par de veces.](../images/power-automate-params-tutorial-4.png)
+![La tabla de correo electrónico después de ejecutar el flujo un par de veces](../images/power-automate-params-tutorial-4.png)
 
-![La tabla dinámica después de ejecutar el flujo un par de veces.](../images/power-automate-params-tutorial-5.png)
+![La tabla dinámica después de ejecutar el flujo un par de veces](../images/power-automate-params-tutorial-5.png)
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Visite [Ejecutar scripts de Office con Power Automate](../develop/power-automate-integration.md) para más información sobre la conexión de Scripts de Office con Power Automate.
+Complete el tutorial [Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente](excel-power-automate-returns.md). Muestra cómo devolver datos de un script al flujo.
 
 También puede consultar el [Escenario de muestra de recordatorios de tareas automatizados](../resources/scenarios/task-reminders.md) para aprender a combinar los Scripts de Office y Power Automate con las Tarjetas adaptables de Teams.

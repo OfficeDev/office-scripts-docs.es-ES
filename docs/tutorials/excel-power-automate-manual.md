@@ -1,14 +1,14 @@
 ---
 title: Ejecutar scripts mediante un flujo manual de Power Automate
 description: Tutorial sobre el uso de scripts de Office en Power Automate mediante un desencadenador manual.
-ms.date: 11/30/2020
+ms.date: 12/28/2020
 localization_priority: Priority
-ms.openlocfilehash: 831812f5ead549ee3ea3b8c643fc16d5467edbe8
-ms.sourcegitcommit: af487756dffea0f8f0cd62710c586842cb08073c
+ms.openlocfilehash: 763a61f65afbdbb55346bb3d99f216da33e8419c
+ms.sourcegitcommit: 9df67e007ddbfec79a7360df9f4ea5ac6c86fb08
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571475"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49772988"
 ---
 # <a name="call-scripts-from-a-manual-power-automate-flow-preview"></a>Ejecutar scripts mediante un flujo manual de Power Automate (versión preliminar)
 
@@ -23,7 +23,7 @@ Este tutorial le enseña a ejecutar un script de Office para Excel en la Web med
 
 ## <a name="prepare-the-workbook"></a>Preparar el libro
 
-Power Automate no puede usar referencias relativas como `Workbook.getActiveWorksheet` para acceder a componentes de libros de trabajo. Por lo tanto, es necesario contar con un libro de trabajo y una hoja de cálculo con nombres coherentes a los que pueda hacer referencia Power Automate.
+Power Automate no debe usar [referencias relativas](../testing/power-automate-troubleshooting.md#avoid-using-relative-references) como `Workbook.getActiveWorksheet` para acceder a componentes de libros de trabajo. Por lo tanto, es necesario contar con un libro de trabajo y una hoja de cálculo con nombres coherentes a los que pueda hacer referencia Power Automate.
 
 1. Cree un nuevo libro de trabajo y llámelo **Mi libro de trabajo**.
 
@@ -31,7 +31,7 @@ Power Automate no puede usar referencias relativas como `Workbook.getActiveWorks
 
 ## <a name="create-an-office-script"></a>Cree un script de Office
 
-1. Vaya a la pestaña **Automatizar** y seleccione **Editor de código**.
+1. Vaya a la pestaña **Automatizar** y seleccione **Todos los scripts**.
 
 2. Seleccione **Nuevo script**.
 
@@ -67,15 +67,15 @@ Power Automate no puede usar referencias relativas como `Workbook.getActiveWorks
 
 2. En el menú que se muestra en la parte izquierda de la pantalla, presione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
 
-    ![El botón Crear en Power Automate.](../images/power-automate-tutorial-1.png)
+    ![El botón Crear en Power Automate](../images/power-automate-tutorial-1.png)
 
 3. En la sección **Inicio desde cero**, seleccione **Flujo instantáneo**. Se creará un flujo de trabajo activado manualmente.
 
-    ![La opción Flujo instantáneo para crear un nuevo flujo de trabajo.](../images/power-automate-tutorial-2.png)
+    ![La opción Flujo instantáneo para crear un nuevo flujo de trabajo](../images/power-automate-tutorial-2.png)
 
 4. En la ventana de diálogo que aparece, escriba un nombre para el flujo en el cuadro de texto **Nombre de flujo**, seleccione **Activar manualmente un flujo** de la lista de opciones en **Elija cómo desencadenar el flujo** y presione **Crear**.
 
-    ![La opción de desencadenador manual para crear un nuevo flujo instantáneo.](../images/power-automate-tutorial-3.png)
+    ![La opción de desencadenador manual para crear un nuevo flujo instantáneo](../images/power-automate-tutorial-3.png)
 
     Tenga en cuenta que un flujo activado manualmente es solo uno de los distintos tipos de flujos. En el siguiente tutorial, podrá crear un flujo que se ejecuta automáticamente al recibir un correo electrónico.
 
@@ -83,11 +83,11 @@ Power Automate no puede usar referencias relativas como `Workbook.getActiveWorks
 
 6. Seleccione la pestaña **Estándar** y, a continuación, seleccione **Excel Online (empresa)**.
 
-    ![La opción Power Automate para Excel Online (empresa).](../images/power-automate-tutorial-4.png)
+    ![Opción de Excel Online (empresa) en Power Automate](../images/power-automate-tutorial-4.png)
 
 7. En **Acciones**, seleccione **Ejecutar script (versión preliminar)**.
 
-    ![La opción de acción de Power Automate para Ejecutar script (versión preliminar).](../images/power-automate-tutorial-5.png)
+    ![Opción de acción Ejecutar script (vista previa) en Power Automate](../images/power-automate-tutorial-5.png)
 
 8. A continuación, seleccione el libro y el script que va a usar en el paso de flujo. En el tutorial, usará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 
@@ -96,7 +96,7 @@ Power Automate no puede usar referencias relativas como `Workbook.getActiveWorks
     - **Archivo**: MyWorkbook.xlsx *(seleccionado por el explorador de archivos)*
     - **Script**: Establecer fecha y hora
 
-    ![La configuración del conector para ejecutar un script en Power Automate.](../images/power-automate-tutorial-6.png)
+    ![La configuración del conector para ejecutar un script en Power Automate](../images/power-automate-tutorial-6.png)
 
 9. Presione **Guardar**.
 
@@ -106,13 +106,13 @@ El flujo ya está listo para ejecutarse mediante Power Automate. Para probarlo, 
 
 1. En la página principal de Power Automate, seleccione **Mis flujos**.
 
-    ![El botón Mis flujos en Power Automate.](../images/power-automate-tutorial-7.png)
+    ![El botón Mis flujos en Power Automate](../images/power-automate-tutorial-7.png)
 
 2. Seleccione **Mi flujo de tutoriales** en la lista de flujos que se muestra en la pestaña **Mis flujos**. Se mostrarán los detalles del flujo que creó anteriormente.
 
 3. Pulse **Ejecutar**.
 
-    ![El botón Ejecutar en Power Automate.](../images/power-automate-tutorial-8.png)
+    ![El botón Ejecutar en Power Automate](../images/power-automate-tutorial-8.png)
 
 4. Se mostrará un panel de tareas para ejecutar el flujo. Si se le solicita **Iniciar sesión** en Excel Online, presione **Continuar**.
 
@@ -122,7 +122,7 @@ El flujo ya está listo para ejecutarse mediante Power Automate. Para probarlo, 
 
 7. Actualice la página para ver los resultados de Power Automate. Si se ha realizado correctamente, podrá ver las celdas actualizadas en el libro de trabajo. Si se ha producido un error, compruebe la configuración del flujo y ejecútelo de nuevo.
 
-    ![Salida de Power Automate que muestra una ejecución de flujo satisfactoria.](../images/power-automate-tutorial-9.png)
+    ![Salida de Power Automate que muestra una ejecución de flujo satisfactoria](../images/power-automate-tutorial-9.png)
 
 ## <a name="next-steps"></a>Pasos siguientes
 
