@@ -1,20 +1,20 @@
 ---
-title: 'Escenario de ejemplo de scripts de Office: gráfico de datos de nivel de agua de NOAA'
+title: 'Escenario de ejemplo de scripts de Office: datos de nivel de agua de Gráfico de NOAA'
 description: Ejemplo que recupera datos JSON de una base de datos NOAA y los usa para crear un gráfico.
-ms.date: 01/05/2021
+ms.date: 01/11/2021
 localization_priority: Normal
-ms.openlocfilehash: d2afcd05125ea66c028d8e21bcc878371c20fcc3
-ms.sourcegitcommit: 30c4b731dc8d18fca5aa74ce59e18a4a63eb4ffc
+ms.openlocfilehash: 5b0b4e3675cbe053368f63123d819f0dab626e60
+ms.sourcegitcommit: 7580dcb8f2f97974c2a9cce25ea30d6526730e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49784191"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "49867880"
 ---
-# <a name="office-scripts-sample-scenario-graph-water-level-data-from-noaa"></a>Escenario de ejemplo de scripts de Office: gráfico de datos de nivel de agua de NOAA
+# <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a>Escenario de ejemplo de scripts de Office: obtener y representar gráficos de datos de nivel de agua de NOAA
 
 En este escenario, debe trazar el nivel de agua en la estación seattle de administración nacional oceánica y de la administración de [connacionales.](https://tidesandcurrents.noaa.gov/stationhome.html?id=9447130) Usará datos externos para rellenar una hoja de cálculo y crear un gráfico.
 
-Desarrollará un script que usa el comando para consultar la base de datos de fechas y finales de `fetch` [NOAA.](https://tidesandcurrents.noaa.gov/) Esto hará que el nivel de agua se grabe en un intervalo de tiempo determinado. La información se devolverá como JSON, por lo que parte del script lo traducirá en valores de intervalo. Una vez que los datos están en la hoja de cálculo, se usarán para crear un gráfico.
+Desarrollará un script que usa el comando para consultar la base de datos de fechas y finales de `fetch` [NOAA.](https://tidesandcurrents.noaa.gov/) De esta forma, se registrará el nivel de agua en un intervalo de tiempo determinado. La información se devolverá como JSON, por lo que parte del script lo traducirá en valores de intervalo. Una vez que los datos están en la hoja de cálculo, se usarán para crear un gráfico.
 
 ## <a name="scripting-skills-covered"></a>Habilidades de scripting cubiertas
 
@@ -26,7 +26,7 @@ Desarrollará un script que usa el comando para consultar la base de datos de fe
 
 1. Abra el libro con Excel en la Web.
 
-1. En la **pestaña Automatizar,** seleccione **Todos los scripts.**
+1. En la **pestaña** Automatizar, seleccione **Todos los scripts.**
 
 1. En el **panel de** tareas Editor de código, seleccione **Nuevo script** y pegue el siguiente script en el editor.
 
@@ -104,7 +104,7 @@ Desarrollará un script que usa el comando para consultar la base de datos de fe
 
 ## <a name="running-the-script"></a>Ejecución del script
 
-En cualquier hoja de cálculo, ejecute el script gráfico de nivel **de agua de NOAA.** El script captura los datos de nivel de agua del 25 de diciembre de 2020 al 27 de diciembre de 2020. Las variables al principio del script se pueden cambiar para usar `const` fechas diferentes u obtener información de estación diferente. La [API de CO-OPS para la recuperación de](https://api.tidesandcurrents.noaa.gov/api/prod/) datos describe cómo obtener todos estos datos.
+En cualquier hoja de cálculo, ejecute el script gráfico de nivel **de agua de NOAA.** El script recupera los datos de nivel de agua desde el 25 de diciembre de 2020 hasta el 27 de diciembre de 2020. Las variables al principio del script se pueden cambiar para usar `const` fechas diferentes u obtener información de estación diferente. La [API de CO-OPS para la recuperación de](https://api.tidesandcurrents.noaa.gov/api/prod/) datos describe cómo obtener todos estos datos.
 
 ### <a name="after-running-the-script"></a>Después de ejecutar el script
 

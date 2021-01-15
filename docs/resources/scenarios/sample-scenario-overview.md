@@ -1,33 +1,37 @@
 ---
 title: Escenarios de ejemplo para scripts de Office
-description: Una explicación de los ejemplos más grandes basados en escenarios para los scripts de Office en Excel en la Web.
-ms.date: 07/10/2020
+description: Una explicación de los ejemplos más grandes basados en escenarios para scripts de Office en Excel en la Web.
+ms.date: 01/11/2021
 localization_priority: Normal
-ms.openlocfilehash: 29fc925c0cd8eebe281e7384c7be3aa72111fa98
-ms.sourcegitcommit: ebd1079c7e2695ac0e7e4c616f2439975e196875
+ms.openlocfilehash: a772b085d1a58c4c4a1cda8dfd7a1f1840d07482
+ms.sourcegitcommit: 7580dcb8f2f97974c2a9cce25ea30d6526730e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45160491"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "49867866"
 ---
 # <a name="sample-scenarios-for-office-scripts"></a>Escenarios de ejemplo para scripts de Office
 
-Los scripts de Office pueden automatizar partes de su rutina diaria. Estas tareas cotidianas suelen existir en ecosistemas únicos, con libros de Excel que están configurados de formas específicas. Estos ejemplos de escenario más grandes muestran estos casos de uso reales. Incluyen los scripts de Office y los libros para que pueda ver el escenario de un extremo a otro.
+Los scripts de Office pueden automatizar partes de la rutina diaria. Estas tareas diarias suelen existir en ecosistemas únicos, con libros de Excel configurados de maneras particulares. Estos ejemplos de escenarios más grandes muestran estos casos de uso reales. Incluyen los scripts de Office y los libros, para que pueda ver el escenario de un extremo a otro.
 
 ## <a name="scenarios"></a>Escenarios
 
 ### <a name="analyze-web-downloads"></a>Analizar descargas web
 
-El escenario de [análisis de descargas Web](analyze-web-downloads.md) presenta un script que analiza los registros de tráfico web para determinar el país de origen de un usuario. Se muestran las habilidades del análisis de texto, el uso de subfunciones en las secuencias de comandos, la aplicación del formato condicional y el trabajo con tablas.
+El [escenario de descargas web De](analyze-web-downloads.md) análisis incluye un script que analiza los registros de tráfico web para determinar el país de origen de un usuario. Muestra las habilidades del análisis de texto, el uso de subfunciones en scripts, la aplicación de formato condicional y el trabajo con tablas.
+
+### <a name="fetch-and-graph-water-level-data-from-noaa"></a>Obtener y representar gráficos de datos de nivel de agua de NOAA
+
+Los datos de nivel de agua de captura y gráfico de [noaa](noaa-data-fetch.md) usan un script de Office para extraer datos de un origen externo (la base de datos de fechas y fechas de [noaa)](https://tidesandcurrents.noaa.gov/)y representar la información resultante. Resalta las habilidades de uso `fetch` para obtener datos y usar gráficos.
 
 ### <a name="grade-calculator"></a>Calculadora de calificación
 
-El escenario de la [calculadora de calificación](grade-calculator.md) incluye un script que valida el registro del instructor en busca de calificaciones de la clase. Se muestran los conocimientos de comprobación de errores, el formato de las celdas y las expresiones regulares.
+El [escenario de calculadora](grade-calculator.md) de calificaciones incluye un script que valida el registro de un instructor para las calificaciones de su clase. Muestra las habilidades de comprobación de errores, formato de celda y expresiones regulares.
 
 ### <a name="task-reminders"></a>Avisos de tareas
 
-El escenario de [avisos de tareas](task-reminders.md) usa una secuencia de comandos de Office en un flujo de automatización de la potencia para enviar avisos a sus compañeros para actualizar el estado de un proyecto. Se destacan los conocimientos de la integración automatizada y la transferencia de datos a las secuencias de comandos y desde ellos.
+El [escenario de avisos de](task-reminders.md) tareas usa un script de Office en un flujo de Power Automate para enviar avisos a sus compañeros de trabajo para actualizar el estado de un proyecto. Destaca las habilidades de la integración de Power Automate y la transferencia de datos hacia y desde scripts.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
-- [Scripts de ejemplo para scripts de Office en Excel en la web](../excel-samples.md)
+- [Scripts de ejemplo para scripts de Office en Excel en la Web](../excel-samples.md)
