@@ -3,12 +3,12 @@ title: Restricciones de TypeScript en scripts de Office
 description: Los detalles del compilador de TypeScript y el linter que usa el Editor de código de scripts de Office.
 ms.date: 01/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 41584ff23b333d17b2e267fdb3b0ec8741f3d203
-ms.sourcegitcommit: df2b64603f91acb37bf95230efd538db0fbf9206
+ms.openlocfilehash: d67e208561ce6ddd706d4c80cf29d2f013a32032
+ms.sourcegitcommit: 98c7bc26f51dc8427669c571135c503d73bcee4c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50099911"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "50125937"
 ---
 # <a name="typescript-restrictions-in-office-scripts"></a>Restricciones de TypeScript en scripts de Office
 
@@ -32,7 +32,7 @@ Para evitar este problema, defina siempre el tipo de la variable. Si no está se
 
 ### <a name="implicit-any"></a>Implícito `any`
 
-Los tipos de variables de TypeScript pueden ser [implícitamente](( https://www.typescriptlang.org/docs/handbook/type-inference.html) definidos. Si el compilador de TypeScript no puede determinar el tipo de una variable (ya sea porque el tipo no está definido explícitamente o la inferencia de tipo no es posible), es un error implícito y recibirá un error en tiempo de `any` compilación.
+Los tipos de variables de TypeScript se [pueden definir implícitamente.](https://www.typescriptlang.org/docs/handbook/type-inference.html) Si el compilador de TypeScript no puede determinar el tipo de una variable (ya sea porque el tipo no está definido explícitamente o la inferencia de tipo no es posible), es un error implícito y recibirá un error en tiempo de `any` compilación.
 
 El caso más común en cualquier `any` implícito es en una declaración de variable, como `let value;` . Hay dos formas de evitarlo:
 
