@@ -1,18 +1,18 @@
 ---
 title: Restricciones de TypeScript en scripts de Office
 description: Los detalles del compilador de TypeScript y el linter que usa el Editor de código de scripts de Office.
-ms.date: 01/29/2021
+ms.date: 02/05/2021
 localization_priority: Normal
-ms.openlocfilehash: d67e208561ce6ddd706d4c80cf29d2f013a32032
-ms.sourcegitcommit: 98c7bc26f51dc8427669c571135c503d73bcee4c
+ms.openlocfilehash: 87a070b9f342fa5a1f5109fa647bba591832e0cf
+ms.sourcegitcommit: 345f1dd96d80471b246044b199fe11126a192a88
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "50125937"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50242021"
 ---
 # <a name="typescript-restrictions-in-office-scripts"></a>Restricciones de TypeScript en scripts de Office
 
-Los scripts de Office usan el lenguaje TypeScript. En la mayoría de los casos, cualquier código TypeScript o JavaScript funcionará en un script de Office. Sin embargo, hay algunas restricciones aplicadas por el Editor de código para garantizar que el script funciona de forma coherente y según lo previsto con el libro de Excel.
+Los scripts de Office usan el lenguaje TypeScript. En la mayoría de los casos, cualquier código TypeScript o JavaScript funcionará en un script de Office. Sin embargo, el Editor de código aplica algunas restricciones para garantizar que el script funciona de forma coherente y según lo previsto con el libro de Excel.
 
 ## <a name="no-any-type-in-office-scripts"></a>Ningún tipo "cualquiera" en scripts de Office
 
@@ -32,16 +32,16 @@ Para evitar este problema, defina siempre el tipo de la variable. Si no está se
 
 ### <a name="implicit-any"></a>Implícito `any`
 
-Los tipos de variables de TypeScript se [pueden definir implícitamente.](https://www.typescriptlang.org/docs/handbook/type-inference.html) Si el compilador de TypeScript no puede determinar el tipo de una variable (ya sea porque el tipo no está definido explícitamente o la inferencia de tipo no es posible), es un error implícito y recibirá un error en tiempo de `any` compilación.
+Los tipos de variables typeScript se [pueden definir implícitamente.](https://www.typescriptlang.org/docs/handbook/type-inference.html) Si el compilador de TypeScript no puede determinar el tipo de una variable (ya sea porque el tipo no está definido explícitamente o la inferencia de tipo no es posible), es un error implícito y recibirá un error en tiempo de `any` compilación.
 
-El caso más común en cualquier `any` implícito es en una declaración de variable, como `let value;` . Hay dos formas de evitarlo:
+El caso más común en cualquier `any` implícito es en una declaración de variable, como `let value;` . Hay dos formas de evitar esto:
 
 * Asignar la variable a un tipo de identificación implícita ( `let value = 5;` o `let value = workbook.getWorksheet();` ).
 * Escriba explícitamente la variable ( `let value: number;` )
 
 ## <a name="no-inheriting-office-script-classes-or-interfaces"></a>No se heredan clases o interfaces de script de Office
 
-Las clases e interfaces que se crean en el script de Office no pueden [ampliar ni](https://www.typescriptlang.org/docs/handbook/classes.html#inheritance) implementar clases o interfaces de scripts de Office. En otras palabras, nada en el `ExcelScript` espacio de nombres puede tener subclases o subinterfaces.
+Las clases e interfaces que se crean en el script de Office no pueden [ampliar ni implementar clases](https://www.typescriptlang.org/docs/handbook/classes.html#inheritance) o interfaces de scripts de Office. En otras palabras, nada en el `ExcelScript` espacio de nombres puede tener subclases o subinterfaces.
 
 ## <a name="incompatible-typescript-functions"></a>Funciones de TypeScript incompatibles
 
@@ -61,6 +61,23 @@ Las siguientes palabras no se pueden usar como identificadores en un script. Son
 * `Excel`
 * `ExcelScript`
 * `console`
+
+## <a name="only-arrow-functions-in-array-callbacks"></a>Solo funciones de flecha en devoluciones de llamada de matriz
+
+Los scripts solo pueden usar funciones [de flecha al](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/Arrow_functions) proporcionar argumentos de devolución de llamada para métodos [Array.](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array) No puede pasar ningún tipo de identificador o función "tradicional" a estos métodos.
+
+```typescript
+const myArray = [1, 2, 3, 4, 5, 6];
+let filteredArray = myArray.filter((x) => {
+  return x % 2 === 0;
+});
+/*
+  The following code generates a compiler error in the Office Scripts Code Editor.
+  filteredArray = myArray.filter(function (x) {
+    return x % 2 === 0;
+  });
+*/
+```
 
 ## <a name="performance-warnings"></a>Advertencias de rendimiento
 
