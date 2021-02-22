@@ -1,14 +1,14 @@
 ---
 title: Grabar, editar y crear scripts de Office en Excel en la Web
 description: Un tutorial sobre los conceptos básicos de scripts de Office que incluye la grabación de scripts en la Grabadora de acciones y la escritura de datos en un libro.
-ms.date: 07/21/2020
+ms.date: 01/06/2021
 localization_priority: Priority
-ms.openlocfilehash: 96bdc286883d87249de260666c7c8ffe2c94cc0f
-ms.sourcegitcommit: ff7fde04ce5a66d8df06ed505951c8111e2e9833
+ms.openlocfilehash: fa2fec54cdb0289590868ee6848a942401f21665
+ms.sourcegitcommit: 9df67e007ddbfec79a7360df9f4ea5ac6c86fb08
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616776"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49772981"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
@@ -78,7 +78,7 @@ El script anterior pinta la fila "Naranja" de color naranja. Ahora, agreguemos u
 
 4. Para probar el script, presione **Ejecutar**. El libro tendrá ahora el siguiente aspecto:
 
-    ![Una fila de datos de ventas con la fila "Naranjas" resaltada en naranja y la fila "Limones" ahora resaltada en amarillo.](../images/tutorial-2.png)
+    ![Una fila de datos de ventas con la fila "Naranjas" resaltada en naranja y la fila "Limones" ahora resaltada en amarillo](../images/tutorial-2.png)
 
 ## <a name="create-a-table"></a>Crear una tabla
 
@@ -100,7 +100,7 @@ Vamos a convertir estos datos de ventas de frutas en una tabla. Usaremos nuestro
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook) {
-        // Set fill color to FFC000 for range Sheet12!A2:C2
+        // Set fill color to FFC000 for range Sheet1!A2:C2
         let selectedSheet = workbook.getActiveWorksheet();
         selectedSheet.getRange("A2:C2").getFormat().getFill().setColor("FFC000");
         selectedSheet.getRange("A3:C3").getFormat().getFill().setColor("yellow");
