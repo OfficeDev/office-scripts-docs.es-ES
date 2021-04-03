@@ -1,36 +1,36 @@
 ---
-title: 'Escenario de ejemplo de scripts de Office: datos de nivel de agua de Gráfico de NOAA'
-description: Ejemplo que recupera datos JSON de una base de datos NOAA y los usa para crear un gráfico.
+title: 'Escenario de ejemplo de scripts de Office: gráfico de datos de nivel de agua de NOAA'
+description: Ejemplo que captura datos JSON de una base de datos NOAA y los usa para crear un gráfico.
 ms.date: 01/11/2021
 localization_priority: Normal
-ms.openlocfilehash: 5b0b4e3675cbe053368f63123d819f0dab626e60
-ms.sourcegitcommit: 7580dcb8f2f97974c2a9cce25ea30d6526730e28
+ms.openlocfilehash: 1b9ad9115efe5b1924499f160f39d4b8fe654763
+ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49867880"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51570167"
 ---
-# <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a><span data-ttu-id="21ce5-103">Escenario de ejemplo de scripts de Office: obtener y representar gráficos de datos de nivel de agua de NOAA</span><span class="sxs-lookup"><span data-stu-id="21ce5-103">Office Scripts sample scenario: Fetch and graph water-level data from NOAA</span></span>
+# <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a><span data-ttu-id="3447c-103">Escenario de ejemplo de scripts de Office: capturar y representar datos de nivel de agua de NOAA</span><span class="sxs-lookup"><span data-stu-id="3447c-103">Office Scripts sample scenario: Fetch and graph water-level data from NOAA</span></span>
 
-<span data-ttu-id="21ce5-104">En este escenario, debe trazar el nivel de agua en la estación seattle de administración nacional oceánica y de la administración de [connacionales.](https://tidesandcurrents.noaa.gov/stationhome.html?id=9447130)</span><span class="sxs-lookup"><span data-stu-id="21ce5-104">In this scenario, you need to plot the water level at the [National Oceanic and Atmospheric Administration's Seattle station](https://tidesandcurrents.noaa.gov/stationhome.html?id=9447130).</span></span> <span data-ttu-id="21ce5-105">Usará datos externos para rellenar una hoja de cálculo y crear un gráfico.</span><span class="sxs-lookup"><span data-stu-id="21ce5-105">You'll use external data to populate a spreadsheet and create a chart.</span></span>
+<span data-ttu-id="3447c-104">En este escenario, debe trazar el nivel del agua en la estación Seattle de la Administración Nacional Oceánica [y Atmosférico.](https://tidesandcurrents.noaa.gov/stationhome.html?id=9447130)</span><span class="sxs-lookup"><span data-stu-id="3447c-104">In this scenario, you need to plot the water level at the [National Oceanic and Atmospheric Administration's Seattle station](https://tidesandcurrents.noaa.gov/stationhome.html?id=9447130).</span></span> <span data-ttu-id="3447c-105">Usará datos externos para rellenar una hoja de cálculo y crear un gráfico.</span><span class="sxs-lookup"><span data-stu-id="3447c-105">You'll use external data to populate a spreadsheet and create a chart.</span></span>
 
-<span data-ttu-id="21ce5-106">Desarrollará un script que usa el comando para consultar la base de datos de fechas y finales de `fetch` [NOAA.](https://tidesandcurrents.noaa.gov/)</span><span class="sxs-lookup"><span data-stu-id="21ce5-106">You'll develop a script that uses the `fetch` command to query the [NOAA Tides and Currents database](https://tidesandcurrents.noaa.gov/).</span></span> <span data-ttu-id="21ce5-107">De esta forma, se registrará el nivel de agua en un intervalo de tiempo determinado.</span><span class="sxs-lookup"><span data-stu-id="21ce5-107">That will get the water level recorded across a given time span.</span></span> <span data-ttu-id="21ce5-108">La información se devolverá como JSON, por lo que parte del script lo traducirá en valores de intervalo.</span><span class="sxs-lookup"><span data-stu-id="21ce5-108">The information will be returned as JSON, so part of the script will translate that into range values.</span></span> <span data-ttu-id="21ce5-109">Una vez que los datos están en la hoja de cálculo, se usarán para crear un gráfico.</span><span class="sxs-lookup"><span data-stu-id="21ce5-109">Once the data is in the spreadsheet, it will be used to make a chart.</span></span>
+<span data-ttu-id="3447c-106">Desarrollará un script que usa el comando para consultar la base de datos de corrientes y `fetch` [mareas de NOAA.](https://tidesandcurrents.noaa.gov/)</span><span class="sxs-lookup"><span data-stu-id="3447c-106">You'll develop a script that uses the `fetch` command to query the [NOAA Tides and Currents database](https://tidesandcurrents.noaa.gov/).</span></span> <span data-ttu-id="3447c-107">Esto hará que el nivel de agua se grabe en un intervalo de tiempo determinado.</span><span class="sxs-lookup"><span data-stu-id="3447c-107">That will get the water level recorded across a given time span.</span></span> <span data-ttu-id="3447c-108">La información se devolverá como JSON, por lo que parte del script lo traducirá en valores de intervalo.</span><span class="sxs-lookup"><span data-stu-id="3447c-108">The information will be returned as JSON, so part of the script will translate that into range values.</span></span> <span data-ttu-id="3447c-109">Una vez que los datos están en la hoja de cálculo, se usarán para crear un gráfico.</span><span class="sxs-lookup"><span data-stu-id="3447c-109">Once the data is in the spreadsheet, it will be used to make a chart.</span></span>
 
-## <a name="scripting-skills-covered"></a><span data-ttu-id="21ce5-110">Habilidades de scripting cubiertas</span><span class="sxs-lookup"><span data-stu-id="21ce5-110">Scripting skills covered</span></span>
+## <a name="scripting-skills-covered"></a><span data-ttu-id="3447c-110">Habilidades de scripting cubiertas</span><span class="sxs-lookup"><span data-stu-id="3447c-110">Scripting skills covered</span></span>
 
-- <span data-ttu-id="21ce5-111">Llamadas a API externas ( `fetch` )</span><span class="sxs-lookup"><span data-stu-id="21ce5-111">External API calls (`fetch`)</span></span>
-- <span data-ttu-id="21ce5-112">Análisis JSON</span><span class="sxs-lookup"><span data-stu-id="21ce5-112">JSON parsing</span></span>
-- <span data-ttu-id="21ce5-113">Gráficos</span><span class="sxs-lookup"><span data-stu-id="21ce5-113">Charts</span></span>
+- <span data-ttu-id="3447c-111">Llamadas DE API externas ( `fetch` )</span><span class="sxs-lookup"><span data-stu-id="3447c-111">External API calls (`fetch`)</span></span>
+- <span data-ttu-id="3447c-112">Análisis JSON</span><span class="sxs-lookup"><span data-stu-id="3447c-112">JSON parsing</span></span>
+- <span data-ttu-id="3447c-113">Gráficos</span><span class="sxs-lookup"><span data-stu-id="3447c-113">Charts</span></span>
 
-## <a name="setup-instructions"></a><span data-ttu-id="21ce5-114">Instrucciones de configuración</span><span class="sxs-lookup"><span data-stu-id="21ce5-114">Setup instructions</span></span>
+## <a name="setup-instructions"></a><span data-ttu-id="3447c-114">Instrucciones de configuración</span><span class="sxs-lookup"><span data-stu-id="3447c-114">Setup instructions</span></span>
 
-1. <span data-ttu-id="21ce5-115">Abra el libro con Excel en la Web.</span><span class="sxs-lookup"><span data-stu-id="21ce5-115">Open the workbook with Excel on the web.</span></span>
+1. <span data-ttu-id="3447c-115">Abra el libro con Excel en la web.</span><span class="sxs-lookup"><span data-stu-id="3447c-115">Open the workbook with Excel on the web.</span></span>
 
-1. <span data-ttu-id="21ce5-116">En la **pestaña** Automatizar, seleccione **Todos los scripts.**</span><span class="sxs-lookup"><span data-stu-id="21ce5-116">Under the **Automate** tab, select **All Scripts**.</span></span>
+1. <span data-ttu-id="3447c-116">En la **pestaña Automatizar,** seleccione **Todos los scripts**.</span><span class="sxs-lookup"><span data-stu-id="3447c-116">Under the **Automate** tab, select **All Scripts**.</span></span>
 
-1. <span data-ttu-id="21ce5-117">En el **panel de** tareas Editor de código, seleccione **Nuevo script** y pegue el siguiente script en el editor.</span><span class="sxs-lookup"><span data-stu-id="21ce5-117">In the **Code Editor** task pane, select **New Script** and paste the following script into the editor.</span></span>
+1. <span data-ttu-id="3447c-117">En el **panel de tareas Editor** de código, seleccione Nuevo **script** y pegue el siguiente script en el editor.</span><span class="sxs-lookup"><span data-stu-id="3447c-117">In the **Code Editor** task pane, select **New Script** and paste the following script into the editor.</span></span>
 
-    ```typescript
+    ```TypeScript
     /**
      * Gets data from the National Oceanic and Atmospheric Administration's Tides and Currents database. 
      * That data is used to make a chart.
@@ -100,12 +100,12 @@ ms.locfileid: "49867880"
     }
     ```
 
-1. <span data-ttu-id="21ce5-118">Cambie el nombre del script al **gráfico de nivel de agua de NOAA** y guárdelo.</span><span class="sxs-lookup"><span data-stu-id="21ce5-118">Rename the script to **NOAA Water Level Chart** and save it.</span></span>
+1. <span data-ttu-id="3447c-118">Cambie el nombre del script a **NoaA Water Level Chart** y guárdelo.</span><span class="sxs-lookup"><span data-stu-id="3447c-118">Rename the script to **NOAA Water Level Chart** and save it.</span></span>
 
-## <a name="running-the-script"></a><span data-ttu-id="21ce5-119">Ejecución del script</span><span class="sxs-lookup"><span data-stu-id="21ce5-119">Running the script</span></span>
+## <a name="running-the-script"></a><span data-ttu-id="3447c-119">Ejecución del script</span><span class="sxs-lookup"><span data-stu-id="3447c-119">Running the script</span></span>
 
-<span data-ttu-id="21ce5-120">En cualquier hoja de cálculo, ejecute el script gráfico de nivel **de agua de NOAA.**</span><span class="sxs-lookup"><span data-stu-id="21ce5-120">On any worksheet, run the **NOAA Water Level Chart** script.</span></span> <span data-ttu-id="21ce5-121">El script recupera los datos de nivel de agua desde el 25 de diciembre de 2020 hasta el 27 de diciembre de 2020.</span><span class="sxs-lookup"><span data-stu-id="21ce5-121">The script fetches the water level data from December 25, 2020 to December 27, 2020.</span></span> <span data-ttu-id="21ce5-122">Las variables al principio del script se pueden cambiar para usar `const` fechas diferentes u obtener información de estación diferente.</span><span class="sxs-lookup"><span data-stu-id="21ce5-122">The `const` variables at the beginning of the script can be changed to use different dates or get different station information.</span></span> <span data-ttu-id="21ce5-123">La [API de CO-OPS para la recuperación de](https://api.tidesandcurrents.noaa.gov/api/prod/) datos describe cómo obtener todos estos datos.</span><span class="sxs-lookup"><span data-stu-id="21ce5-123">The [CO-OPS API For Data Retrieval](https://api.tidesandcurrents.noaa.gov/api/prod/) describes how to get all this data.</span></span>
+<span data-ttu-id="3447c-120">En cualquier hoja de cálculo, ejecute el script gráfico de nivel de agua **de NOAA.**</span><span class="sxs-lookup"><span data-stu-id="3447c-120">On any worksheet, run the **NOAA Water Level Chart** script.</span></span> <span data-ttu-id="3447c-121">El script captura los datos de nivel de agua del 25 de diciembre de 2020 al 27 de diciembre de 2020.</span><span class="sxs-lookup"><span data-stu-id="3447c-121">The script fetches the water level data from December 25, 2020 to December 27, 2020.</span></span> <span data-ttu-id="3447c-122">Las variables al principio del script se pueden cambiar para usar diferentes `const` fechas u obtener información de estación diferente.</span><span class="sxs-lookup"><span data-stu-id="3447c-122">The `const` variables at the beginning of the script can be changed to use different dates or get different station information.</span></span> <span data-ttu-id="3447c-123">La [API de CO-OPS para la recuperación de](https://api.tidesandcurrents.noaa.gov/api/prod/) datos describe cómo obtener todos estos datos.</span><span class="sxs-lookup"><span data-stu-id="3447c-123">The [CO-OPS API For Data Retrieval](https://api.tidesandcurrents.noaa.gov/api/prod/) describes how to get all this data.</span></span>
 
-### <a name="after-running-the-script"></a><span data-ttu-id="21ce5-124">Después de ejecutar el script</span><span class="sxs-lookup"><span data-stu-id="21ce5-124">After running the script</span></span>
+### <a name="after-running-the-script"></a><span data-ttu-id="3447c-124">Después de ejecutar el script</span><span class="sxs-lookup"><span data-stu-id="3447c-124">After running the script</span></span>
 
 ![La hoja de cálculo después de ejecutar el script muestra algunos datos de nivel de agua y un gráfico.](../../images/scenario-noaa-water-level-after.png)
