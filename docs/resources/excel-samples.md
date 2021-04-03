@@ -1,16 +1,16 @@
 ---
-title: Scripts de ejemplo para scripts de Office en Excel en la web
+title: Scripts básicos para scripts de Office en Excel en la web
 description: Una colección de ejemplos de código para usar con scripts de Office en Excel en la web.
-ms.date: 02/12/2021
+ms.date: 04/01/2021
 localization_priority: Normal
-ms.openlocfilehash: 4f1f6d4e160c42524df3c69228d182f1cb4838c8
-ms.sourcegitcommit: 5bde455b06ee2ed007f3e462d8ad485b257774ef
+ms.openlocfilehash: f52500f480b7e7fa637a606b99de035da326a4ba
+ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837279"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51570519"
 ---
-# <a name="sample-scripts-for-office-scripts-in-excel-on-the-web-preview"></a>Scripts de ejemplo para scripts de Office en Excel en la web (versión preliminar)
+# <a name="basic-scripts-for-office-scripts-in-excel-on-the-web"></a>Scripts básicos para scripts de Office en Excel en la web
 
 Los ejemplos siguientes son scripts sencillos para que pruebe en sus propios libros. Para usarlos en Excel en la web:
 
@@ -20,8 +20,6 @@ Los ejemplos siguientes son scripts sencillos para que pruebe en sus propios lib
 4. Reemplace todo el script por el ejemplo que prefiera.
 5. Presione **Ejecutar** en el panel de tareas del Editor de código.
 
-[!INCLUDE [Preview note](../includes/preview-note.md)]
-
 ## <a name="scripting-basics"></a>Conceptos básicos de scripting
 
 Estos ejemplos muestran bloques de creación fundamentales para scripts de Office. Agrégalos a los scripts para ampliar la solución y resolver problemas comunes.
@@ -30,7 +28,7 @@ Estos ejemplos muestran bloques de creación fundamentales para scripts de Offic
 
 En este ejemplo se lee el valor **de A1** y se imprime en la consola.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   // Get the current worksheet.
   let selectedSheet = workbook.getActiveWorksheet();
@@ -47,7 +45,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script registra el valor de la celda activa actual. Si se seleccionan varias celdas, se registrará la celda superior izquierda.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   // Get the current active cell in the workbook.
   let cell = workbook.getActiveCell();
@@ -61,7 +59,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script obtiene celdas adyacentes mediante referencias relativas. Tenga en cuenta que si la celda activa está en la fila superior, se produce un error en parte del script, ya que hace referencia a la celda por encima de la seleccionada actualmente.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   // Get the currently active cell in the workbook.
   let activeCell = workbook.getActiveCell();
@@ -88,7 +86,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script copia el formato de la celda activa en las celdas adyacentes. Tenga en cuenta que este script solo funciona cuando la celda activa no está en un borde de la hoja de cálculo.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   // Get the active cell.
   let activeCell = workbook.getActiveCell();
@@ -111,7 +109,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script recorre el intervalo seleccionado actualmente. Borra el formato actual y establece el color de relleno de cada celda en un color aleatorio.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   // Get the currently selected range.
   let range = workbook.getSelectedRange();
@@ -140,7 +138,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script obtiene todas las celdas en blanco en el rango usado de la hoja de cálculo actual. A continuación, resalta todas las celdas con un fondo amarillo.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
     // Get the current used range.
     let range = workbook.getActiveWorksheet().getUsedRange();
@@ -161,7 +159,7 @@ Estos ejemplos funcionan con colecciones de objetos en el libro.
 
 Este script obtiene y registra los nombres de todas las hojas de cálculo del libro. También establece los colores de sus pestañas en un color aleatorio.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   // Get all the worksheets in the workbook.
   let sheets = workbook.getWorksheets();
@@ -188,7 +186,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script crea una nueva hoja de cálculo. Comprueba una copia existente de la hoja de cálculo y la elimina antes de crear una hoja nueva.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   // Name of the worksheet to be added.
   let name = "Index";
@@ -328,7 +326,7 @@ Este script crea una lista de selección desplegable para una celda. Usa los val
 
 ![Un conjunto de capturas de pantalla antes y después que muestra tres palabras en un rango y, a continuación, esas mismas palabras en una lista desplegable.](../images/sample-data-validation.png)
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   // Get the values for data validation.
   let selectedRange = workbook.getSelectedRange();
@@ -367,7 +365,7 @@ Estos ejemplos usan fórmulas de Excel y muestran cómo trabajar con ellas en sc
 
 Este script establece la fórmula de una celda y, a continuación, muestra cómo Excel almacena la fórmula y el valor de la celda por separado.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   let selectedSheet = workbook.getActiveWorksheet();
 
@@ -388,7 +386,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script transpone el intervalo "A1:D2" a "A4:B7" mediante la función TRANSPOSE. Si la transponer da como resultado #SPILL error, borra el intervalo de destino y vuelve a aplicar la fórmula.
 
-```typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
   let sheet = workbook.getActiveWorksheet();
   // Use the data in A1:D2 for the sample.
@@ -417,10 +415,6 @@ function main(workbook: ExcelScript.Workbook) {
   targetRange.select();
 }
 ```
-
-## <a name="scenario-samples"></a>Ejemplos de escenarios
-
-Para obtener ejemplos que muestran soluciones más grandes y reales, visite [Escenarios de ejemplo para scripts de Office.](scenarios/sample-scenario-overview.md)
 
 ## <a name="suggest-new-samples"></a>Sugerir nuevas muestras
 

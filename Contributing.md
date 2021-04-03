@@ -15,14 +15,14 @@ Estas son algunas formas en las que puede colaborar con esta documentación:
 
 * Para realizar pequeños cambios en un artículo, [colabore con GitHub](#contribute-using-github).
 * Para realizar cambios importantes o cambios relacionados con el código, [colabore con Git](#contribute-using-git).
-* Informar de errores de documentación a través de problemas de GitHub.
-* Solicite nueva documentación en el sitio [Web de UserVoice de Excel](https://excel.uservoice.com/forums/274580-excel-for-the-web?category_id=143439) .
+* Notificar errores de documentación [con problemas de GitHub](https://github.com/OfficeDev/office-scripts-docs/issues).
+* Solicitar nueva documentación con [problemas de GitHub](https://github.com/OfficeDev/office-scripts-docs/issues).
 
 ## <a name="contribute-using-github"></a>Contribuir con GitHub
 
 Use GitHub para colaborar en esta documentación sin tener que clonar el repositorio en el escritorio. Esta es la forma más sencilla de crear una solicitud de incorporación de cambios en este repositorio. Use este método para realizar un cambio secundario que no implique cambios en el código.
 
-**Nota**: el uso de este método permite contribuir a un artículo a la vez.
+**Nota:** El uso de este método permite contribuir a un artículo a la vez.
 
 ### <a name="to-contribute-using-github"></a>Para colaborar con GitHub
 
@@ -46,7 +46,7 @@ Use Git para colaborar con cambios importantes, como:
 ### <a name="to-contribute-using-git"></a>Para colaborar con Git
 
 1. Si no tiene una cuenta de GitHub, cree una en [GitHub](https://github.com/join).
-2. Cuando tenga una cuenta, instale Git en el equipo. Siga los pasos descritos en el tutorial de [configuración de Git] .
+2. Cuando tenga una cuenta, instale Git en el equipo. Siga los pasos del tutorial [Configurar Git.]
 3. Para enviar una solicitud de incorporación de cambios con Git, siga los pasos que se indican en las instrucciones para [usar GitHub, Git y este repositorio](#use-github-git-and-this-repository).
 4. Se le pedirá que firme el Contrato de licencia de colaborador si es:
 
@@ -55,19 +55,19 @@ Use Git para colaborar con cambios importantes, como:
 
 Como miembro de la comunidad, necesita firmar el contrato de licencia de colaborador (CLA) antes de realizar envíos significativos a un proyecto. Solo necesita completar y enviar la documentación una vez. Revise detenidamente el documento. Es posible que un responsable de su empresa tenga que firmar el documento.
 
-Firmar el CLA no le concede los derechos para realizar confirmaciones en el repositorio principal, pero el equipo de desarrolladores de Office y el equipo de publicación de contenido de desarrolladores de Office podrán revisar y aprobar sus contribuciones. Se le abonarán los envíos.
+Firmar el CLA no le concede los derechos para realizar confirmaciones en el repositorio principal, pero el equipo de desarrolladores de Office y el equipo de publicación de contenido de desarrolladores de Office podrán revisar y aprobar sus contribuciones. Se te acreditan los envíos.
 
 Las solicitudes de incorporación de cambios se suelen revisar en un plazo de 10 días hábiles.
 
 ## <a name="use-github-git-and-this-repository"></a>Usar GitHub, Git y este repositorio
 
-**Nota**: la mayoría de la información de esta sección se puede encontrar en artículos de [ayuda de github] .  Si está familiarizado con Git y GitHub, vaya a la sección sobre cómo **colaborar y editar contenido** para consultar los detalles del flujo de código y contenido de este repositorio.
+**Nota:** La mayor parte de la información de esta sección se puede encontrar en los artículos [de la Ayuda de GitHub.]  Si está familiarizado con Git y GitHub, vaya a la sección sobre cómo **colaborar y editar contenido** para consultar los detalles del flujo de código y contenido de este repositorio.
 
 ### <a name="to-set-up-your-fork-of-the-repository"></a>Para configurar una bifurcación del repositorio
 
 1. Configure una cuenta de GitHub para colaborar con este proyecto. Si aún no lo ha hecho, vaya a [GitHub](https://github.com/join) ahora y realice este procedimiento.
-2. Instale Git en el equipo. Siga los pasos descritos en el tutorial de [configuración de Git] .
-3. Cree su propia bifurcación de este repositorio. Para ello, en la parte superior de la página, elija el botón **bifurcar** .
+2. Instale Git en el equipo. Siga los pasos del tutorial [Configurar Git.]
+3. Cree su propia bifurcación de este repositorio. Para ello, en la parte superior de la página, elija el botón **Bifurcar.**
 4. Copie la bifurcación en el equipo. Para hacerlo, abra Git Bash. En el símbolo del sistema, escriba:
 
         git clone https://github.com/<your user name>/<repo name>.git
@@ -141,7 +141,7 @@ Uno de los administradores del sitio procesará su solicitud de incorporación d
 
 Después de combinar correctamente una rama (es decir, después de que se acepte la solicitud de incorporación de cambios), no siga trabajando en la rama local. Esto puede provocar conflictos de combinación si envía otra solicitud de incorporación de cambios. Para realizar otra actualización, cree otra rama local desde la rama precedente que se combinó correctamente y, después, elimine la rama local inicial.
 
-Por ejemplo, si la rama local X se combinó correctamente en la rama de maestro OfficeDev/Office-scripts-docs y desea realizar actualizaciones adicionales en el contenido que se combinó. Cree una nueva rama local, x2, en la rama maestra de OfficeDev/Office-scripts-docs. Para hacerlo, abra Git Bash y ejecute los comandos siguientes:
+Por ejemplo, si la rama local X se ha combinado correctamente en la rama maestra OfficeDev/office-scripts-docs y desea realizar actualizaciones adicionales del contenido que se ha combinado. Cree una nueva sucursal local, X2, desde la rama maestra officeDev/office-scripts-docs. Para hacerlo, abra Git Bash y ejecute los comandos siguientes:
 
     cd office-scripts-docs
     git pull upstream master:X2
@@ -169,7 +169,7 @@ Colaboró correctamente con el proyecto.
 
 ### <a name="markdown"></a>Markdown
 
-En todos los artículos de este repositorio se usa Markdown. Puede encontrar una introducción completa (y una lista de toda la sintaxis) en [Daring Fireball-Markdown].
+En todos los artículos de este repositorio se usa Markdown. Puede encontrar una introducción completa (y una descripción de toda la sintaxis) en [Daring Fireball - Markdown].
 
 ## <a name="faq"></a>Preguntas más frecuentes
 
@@ -185,23 +185,23 @@ Como miembro de la comunidad, **debe firmar el contrato de licencia de colaborad
 
 ### <a name="what-happens-with-my-contributions"></a>¿Qué ocurre con mis contribuciones?
 
-Al enviar los cambios con una solicitud de incorporación de cambios, nuestro equipo recibirá una notificación y revisará la solicitud de incorporación de cambios. Recibirá notificaciones sobre la solicitud de incorporación de cambios de GitHub; también es posible que un miembro de nuestro equipo le envíe una notificación si necesitamos más información. Si se aprueba la solicitud de incorporación de documentos, actualizaremos la documentación. Nos reservamos el derecho de editar el envío por motivos legales, de estilo o claridad, o por otros problemas.
+Al enviar los cambios con una solicitud de incorporación de cambios, nuestro equipo recibirá una notificación y revisará la solicitud de incorporación de cambios. Recibirá notificaciones sobre la solicitud de incorporación de cambios de GitHub; también es posible que un miembro de nuestro equipo le envíe una notificación si necesitamos más información. Si la solicitud de extracción está aprobada, actualizaremos la documentación. Nos reservamos el derecho de editar el envío por motivos legales, de estilo o claridad, o por otros problemas.
 
 ### <a name="can-i-become-an-approver-for-this-repositorys-github-pull-requests"></a>¿Me puedo convertir en un aprobador de solicitudes de incorporación de cambios de GitHub de este repositorio?
 
 Actualmente no permitimos que colaboradores externos aprueben solicitudes de incorporación de cambios en este repositorio.
 
-### <a name="how-soon-will-i-get-a-response-about-my-change-request"></a>¿Cuándo recibirá una respuesta sobre mi solicitud de cambio?
+### <a name="how-soon-will-i-get-a-response-about-my-change-request"></a>¿Cuándo recibiré una respuesta sobre mi solicitud de cambio?
 
 Las solicitudes de incorporación de cambios se suelen revisar en un plazo de 10 días hábiles.
 
 ## <a name="more-resources"></a>Más recursos
 
-* Para obtener más información sobre Markdown, vaya al sitio de Daring de la [Fireball]del creador de Markdown.
-* Para obtener más información acerca del uso de Git y GitHub, consulte primero la [ayuda de github].
+* Para obtener más información sobre Markdown, vaya al sitio del creador de Markdown [Daring Fireball].
+* Para obtener más información sobre el uso de Git y GitHub, consulte primero la [Ayuda de GitHub].
 
 [GitHub Home]: http://github.com
 [Ayuda de GitHub]: http://help.github.com/
-[Configurar git]: https://help.github.com/articles/set-up-git/
-[Daring Fireball-Markdown]: http://daringfireball.net/projects/markdown/
+[Configurar Git]: https://help.github.com/articles/set-up-git/
+[Daring Fireball - Markdown]: http://daringfireball.net/projects/markdown/
 [Daring Fireball]: http://daringfireball.net/

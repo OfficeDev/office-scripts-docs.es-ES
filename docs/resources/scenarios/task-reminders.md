@@ -1,24 +1,24 @@
 ---
-title: 'Escenario de ejemplo de scripts de Office: avisos de tareas automatizadas'
-description: Un ejemplo que usa la automatización de energía y las tarjetas adaptables automatiza los avisos de tareas en una hoja de cálculo de administración de proyectos.
+title: 'Escenario de ejemplo scripts de Office: avisos de tareas automatizadas'
+description: Un ejemplo que usa Power Automate y Adaptive Cards automatiza los avisos de tareas en una hoja de cálculo de administración de proyectos.
 ms.date: 11/30/2020
 localization_priority: Normal
-ms.openlocfilehash: 90769eca0201e450e25778db0eb5c62284b9feb0
-ms.sourcegitcommit: af487756dffea0f8f0cd62710c586842cb08073c
+ms.openlocfilehash: 342abced09119ff286f87c1425e44f9186dc4488
+ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571454"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51570230"
 ---
-# <a name="office-scripts-sample-scenario-automated-task-reminders"></a>Escenario de ejemplo de scripts de Office: avisos de tareas automatizadas
+# <a name="office-scripts-sample-scenario-automated-task-reminders"></a>Escenario de ejemplo scripts de Office: avisos de tareas automatizadas
 
-En este escenario, está administrando un proyecto. Use una hoja de cálculo de Excel para realizar un seguimiento del estado de sus empleados cada mes. Con frecuencia, debe recordar a los usuarios que deben rellenar su estado, por lo que decidió automatizar el proceso de recordatorio.
+En este escenario, está administrando un proyecto. Use una hoja de cálculo de Excel para realizar un seguimiento del estado de los empleados cada mes. A menudo debes recordar a los usuarios que rellenen su estado, por lo que has decidido automatizar ese proceso de aviso.
 
-Creará un flujo de automatización de potencia para avisar a los usuarios de los campos de estado que faltan y aplicar sus respuestas a la hoja de cálculo. Para ello, desarrollará un par de scripts para controlar el trabajo con el libro. El primer script obtiene una lista de personas con Estados en blanco y el segundo script agrega una cadena de estado a la fila de la derecha. También usará las [tarjetas adaptables de Microsoft Teams](/microsoftteams/platform/task-modules-and-cards/what-are-cards) para que los empleados especifiquen su estado directamente desde la notificación.
+Crearás un flujo de Power Automate para enviar mensajes a personas con campos de estado que faltan y aplicar sus respuestas a la hoja de cálculo. Para ello, desarrollará un par de scripts para controlar el trabajo con el libro. El primer script obtiene una lista de personas con estados en blanco y el segundo script agrega una cadena de estado a la fila derecha. También usarás las tarjetas adaptables de [Teams](/microsoftteams/platform/task-modules-and-cards/what-are-cards) para que los empleados escriban su estado directamente desde la notificación.
 
 ## <a name="scripting-skills-covered"></a>Habilidades de scripting cubiertas
 
-- Crear flujos con Power automatization
+- Crear flujos en Power Automate
 - Pasar datos a scripts
 - Devolver datos de scripts
 - Tarjetas adaptables de Teams
@@ -26,19 +26,19 @@ Creará un flujo de automatización de potencia para avisar a los usuarios de lo
 
 ## <a name="prerequisites"></a>Requisitos previos
 
-Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.com) y [Microsoft Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Necesitará ambos asociados con la cuenta que usa para el desarrollo de scripts de Office. Para obtener acceso gratuito a una suscripción de Microsoft Developer para conocer y trabajar con estas aplicaciones, considere la posibilidad de unirse al [programa de desarrolladores de microsoft 365](https://developer.microsoft.com/microsoft-365/dev-program).
+En este escenario se [usan Power Automate](https://flow.microsoft.com) y Microsoft [Teams.](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software) Necesitará ambos asociados con la cuenta que use para desarrollar scripts de Office. Para obtener acceso gratuito a una suscripción de Microsoft Developer para obtener información sobre estas aplicaciones y trabajar con ellas, considere la posibilidad de unirse al Programa de desarrolladores de [Microsoft 365](https://developer.microsoft.com/microsoft-365/dev-program).
 
-## <a name="setup-instructions"></a>Instrucciones de instalación
+## <a name="setup-instructions"></a>Instrucciones de configuración
 
-1. Descargue <a href="task-reminders.xlsx">task-reminders.xlsx</a> a su OneDrive.
+1. Descarga <a href="task-reminders.xlsx">task-reminders.xlsx</a> a tu OneDrive.
 
-2. Abra el libro en Excel en la Web.
+2. Abra el libro en Excel en la web.
 
-3. En la ficha **automatizar** , abra el **Editor de código**.
+3. En la **pestaña Automatizar,** abra **Todos los scripts**.
 
-4. En primer lugar, necesitamos un script para obtener todos los empleados con informes de estado que faltan en la hoja de cálculo. En el panel de tareas **Editor de código** , presione **nueva secuencia** de comandos y pegue el siguiente script en el editor.
+4. En primer lugar, necesitamos un script para obtener todos los empleados con informes de estado que faltan en la hoja de cálculo. En el **panel de tareas Editor** de código, presione Nuevo **script** y pegue el siguiente script en el editor.
 
-    ```typescript
+    ```TypeScript
     /**
      * This script looks for missing status reports in a project management table.
      *
@@ -89,9 +89,9 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
 
 5. Guarde el script con el nombre **Get People**.
 
-6. A continuación, necesitamos un segundo script para procesar las tarjetas del informe de estado y colocar la nueva información en la hoja de cálculo. En el panel de tareas **Editor de código** , presione **nueva secuencia** de comandos y pegue el siguiente script en el editor.
+6. A continuación, necesitamos un segundo script para procesar las tarjetas de informe de estado y colocar la nueva información en la hoja de cálculo. En el **panel de tareas Editor** de código, presione Nuevo **script** y pegue el siguiente script en el editor.
 
-    ```typescript
+    ```TypeScript
     /**
      * This script applies the results of a Teams Adaptive Card about
      * a status update to a project management table.
@@ -145,29 +145,29 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
 
 7. Guarde el script con el nombre **Guardar estado**.
 
-8. Ahora, es necesario crear el flujo. Abra [energía automatizada](https://flow.microsoft.com/).
+8. Ahora, debemos crear el flujo. Abra [Power Automate](https://flow.microsoft.com/).
 
     > [!TIP]
-    > Si no ha creado un flujo antes, consulte nuestro tutorial comenzar a [usar scripts con Power automatization](../../tutorials/excel-power-automate-manual.md) para conocer los conceptos básicos.
+    > Si no has creado un flujo antes, consulta nuestro tutorial Empezar a usar scripts con [Power Automate](../../tutorials/excel-power-automate-manual.md) para aprender los conceptos básicos.
 
-9. Cree un nuevo **flujo instantáneo**.
+9. Crear un nuevo **flujo instantáneo**.
 
-10. Elija **desencadenar manualmente un flujo** de las opciones y pulse **crear**.
+10. Elija **Desencadenar manualmente un flujo de** las opciones y presione **Crear**.
 
-11. El flujo tiene que llamar al script **Get People** para obtener todos los empleados con campos de estado vacíos. Presione **nuevo paso** y seleccione **Excel online (empresa)**. En **Acciones**, seleccione **Ejecutar script (versión preliminar)**. Proporcione las siguientes entradas para el paso flujo:
+11. El flujo debe llamar al script **Obtener personas** para obtener todos los empleados con campos de estado vacíos. Presione **Nuevo paso** y seleccione Excel Online **(Empresa).** En **Acciones**, seleccione **Ejecutar script (versión preliminar)**. Proporcione las siguientes entradas para el paso de flujo:
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive
-    - **File**: task-reminders.xlsx *(elegido mediante el explorador de archivos)*
-    - **Script**: obtener personas
+    - **Archivo**: task-reminders.xlsx *(elegido a través del explorador de archivos)*
+    - **Script**: Obtener personas
 
-    ![Paso del flujo de script de primera ejecución.](../../images/scenario-task-reminders-first-flow-step.png)
+    ![Primer paso ejecutar flujo de script.](../../images/scenario-task-reminders-first-flow-step.png)
 
-12. A continuación, el flujo debe procesar cada empleado en la matriz que devuelve el script. Presione **nuevo paso** y seleccione **publicar una tarjeta adaptable en un usuario de Teams y espere una respuesta**.
+12. A continuación, el flujo debe procesar cada empleado de la matriz devuelta por el script. Presione **Nuevo paso** y seleccione Publicar una tarjeta adaptable a un usuario de Teams y esperar una **respuesta**.
 
-13. Para el campo de **destinatario** , agregue **correo electrónico** del contenido dinámico (la selección tendrá el logotipo de Excel). Agregar **correo electrónico** hace que el paso de flujo esté rodeado por una **aplicación a cada** bloque. Esto significa que la matriz se recorrerá en iteración mediante la automatización de energía.
+13. Para el **campo Destinatario,** agregue **correo electrónico** desde el contenido dinámico (la selección tendrá el logotipo de Excel). Agregar **correo** electrónico hace que el paso de flujo esté rodeado por un **aplicar a cada** bloque. Esto significa que Power Automate iterará la matriz.
 
-14. El envío de una tarjeta adaptable requiere que se proporcione el JSON de la tarjeta como **mensaje**. Puede usar el [Diseñador de tarjetas adaptable](https://adaptivecards.io/designer/) para crear tarjetas personalizadas. Para este ejemplo, use el siguiente JSON.  
+14. El envío de una tarjeta adaptable requiere que el JSON de la tarjeta se proporciona como **message**. Puede usar el Diseñador de [tarjetas adaptables](https://adaptivecards.io/designer/) para crear tarjetas personalizadas. Para este ejemplo, use el siguiente JSON.  
 
     ```json
     {
@@ -210,17 +210,17 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
 
 15. Rellene los campos restantes de la siguiente manera:
 
-    - **Mensaje de actualización**: Gracias por enviar el informe de estado. La respuesta se ha agregado correctamente a la hoja de cálculo.
-    - **Debe actualizar la tarjeta**: sí
+    - **Mensaje de actualización:** gracias por enviar el informe de estado. La respuesta se ha agregado correctamente a la hoja de cálculo.
+    - **Debe actualizar la tarjeta**: Sí
 
-16. En el bloque **aplicar a cada** bloque, después de **publicar una tarjeta adaptable a un usuario de Teams y esperar una respuesta**, presione **Agregar una acción**. Seleccione **Excel online (empresa)**. En **Acciones**, seleccione **Ejecutar script (versión preliminar)**. Proporcione las siguientes entradas para el paso flujo:
+16. En el **bloque Aplicar** a cada bloque, después de publicar una tarjeta adaptable a un usuario de Teams y esperar **una** respuesta, presione Agregar **una acción**. Seleccione **Excel Online (Empresa).** En **Acciones**, seleccione **Ejecutar script (versión preliminar)**. Proporcione las siguientes entradas para el paso de flujo:
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive
-    - **File**: task-reminders.xlsx *(elegido mediante el explorador de archivos)*
-    - **Script**: estado de guardado
-    - **senderEmail**: correo electrónico *(contenido dinámico de Excel)*
-    - **statusReportResponse**: respuesta *(contenido dinámico de Teams)*
+    - **Archivo**: task-reminders.xlsx *(elegido a través del explorador de archivos)*
+    - **Script**: Guardar estado
+    - **senderEmail:** correo *electrónico (contenido dinámico de Excel)*
+    - **statusReportResponse**: response *(contenido dinámico de Teams)*
 
     ![El paso aplicar a cada flujo.](../../images/scenario-task-reminders-last-flow-step.png)
 
@@ -228,18 +228,18 @@ Este escenario usa la [funcionalidad de automatización](https://flow.microsoft.
 
 ## <a name="running-the-flow"></a>Ejecución del flujo
 
-Para probar el flujo, asegúrese de que todas las filas de tabla con el estado en blanco usan una dirección de correo electrónico ligada a una cuenta de Teams (probablemente debería usar su propia dirección de correo electrónico durante las pruebas).
+Para probar el flujo, asegúrese de que cualquier fila de tabla con estado en blanco use una dirección de correo electrónico vinculada a una cuenta de Teams (probablemente debería usar su propia dirección de correo electrónico durante las pruebas).
 
-Puede seleccionar **Test** desde el diseñador de flujo o ejecutar el flujo desde la página **Mis flujos** . Después de iniciar el flujo y aceptar el uso de las conexiones necesarias, debe recibir una tarjeta adaptable de la alimentación automatizada a través de Teams. Una vez que rellene el campo Estado en la tarjeta, el flujo continuará y actualizará la hoja de cálculo con el estado proporcionado.
+Puede seleccionar Probar **en** el diseñador de flujos o ejecutar el flujo desde la **página Mis flujos.** Después de iniciar el flujo y aceptar el uso de las conexiones necesarias, debes recibir una tarjeta adaptable de Power Automate a través de Teams. Una vez rellenado el campo de estado en la tarjeta, el flujo continuará y actualizará la hoja de cálculo con el estado que proporcione.
 
 ### <a name="before-running-the-flow"></a>Antes de ejecutar el flujo
 
-![Una hoja de cálculo con un informe de estado que contiene una entrada de estado que falta.](../../images/scenario-task-reminders-spreadsheet-before.png)
+![Hoja de cálculo con un informe de estado que contiene una entrada de estado que falta.](../../images/scenario-task-reminders-spreadsheet-before.png)
 
-### <a name="receiving-the-adaptive-card"></a>Recibir la tarjeta adaptable
+### <a name="receiving-the-adaptive-card"></a>Recepción de la tarjeta adaptable
 
-![Una tarjeta adaptable de teams que solicita al empleado una actualización de estado.](../../images/scenario-task-reminders-adaptive-card.png)
+![Una tarjeta adaptable en Teams que pide al empleado una actualización de estado.](../../images/scenario-task-reminders-adaptive-card.png)
 
 ### <a name="after-running-the-flow"></a>Después de ejecutar el flujo
 
-![Una hoja de cálculo con un informe de estado con una entrada de estado ahora rellenada.](../../images/scenario-task-reminders-spreadsheet-after.png)
+![Hoja de cálculo con un informe de estado con una entrada de estado ahora rellenada.](../../images/scenario-task-reminders-spreadsheet-after.png)
