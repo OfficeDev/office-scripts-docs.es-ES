@@ -5,12 +5,12 @@ title: Documentación de scripts de Office
 description: Recursos de aprendizaje de scripts de Office en Excel en la Web, como tutoriales, artículos conceptuales y ejemplos de código.
 ms.date: 10/30/2020
 localization_priority: Priority
-ms.openlocfilehash: 60eb5340e424617a3be87fea9d2a7ece3ca69c3b
-ms.sourcegitcommit: 82d3c0ef1e187bcdeceb2b5fc3411186674fe150
+ms.openlocfilehash: 2e31cc52c9dbc5ebe23428773aa686fc93207d29
+ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49342832"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51570272"
 ---
 # <a name="office-scripts-documentation-preview"></a>Documentación de scripts de Office (versión preliminar)
 
@@ -73,7 +73,7 @@ Use los scripts de Office en Excel en la Web para automatizar las tareas comunes
 ---
 
 <h2>Otros recursos</h2>
-<p>Use los siguientes recursos para informarse acerca de las API que usan Scripts de Office para interactuar con los libros de Excel en la Web, formule preguntas sobre los Scripts de Office en Excel en la Web o solicite características para los Scripts de Office en Excel en la Web.</p>
+<p>Use los recursos siguientes para informarse de las API que usan los scripts de Office para interactuar con los libros de Excel en la web, formule preguntas sobre scripts de Office en Excel en la Web o solicite características para scripts de Office en Excel en la Web.</p>
 <ul class="panelContent cardsF cols cols3" style="display:flex!important;">
     <li>
         <div class="cardSize">
@@ -101,7 +101,7 @@ Use los scripts de Office en Excel en la Web para automatizar las tareas comunes
                         </div>
                     </div>
                     <div class="cardText">
-                        <a href="resources/excel-samples.md" target="_blank"><h3>Scripts de muestra</h3></a>
+                        <a href="resources/excel-samples.md" target="_blank"><h3>Scripts de ejemplo</h3></a>
                     </div>
                 </div>
             </div>
@@ -145,11 +145,11 @@ Use los scripts de Office en Excel en la Web para automatizar las tareas comunes
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <a href="https://excel.uservoice.com/forums/274580-excel-for-the-web?category_id=143439" target="_blank"><img src="images/index-landing-page/i_feedback.svg" alt="Feature requests" /></a>
+                            <a href="/answers/products/m365" target="_blank"><img src="images/index-landing-page/i_feedback.svg" alt="Feature requests" /></a>
                         </div>
                     </div>
                     <div class="cardText">
-                        <a href="https://excel.uservoice.com/forums/274580-excel-for-the-web?category_id=143439" target="_blank"><h3>Características más recientes</h3></a>
+                        <a href="/answers/products/m365" target="_blank"><h3>Características más recientes</h3></a>
                     </div>
                 </div>
             </div>
