@@ -3,12 +3,12 @@ title: Devolver datos de un script a un flujo de Power Automate ejecutado autom�
 description: Un tutorial que muestra cómo enviar recordatorios por correo electrónico mediante la ejecución de Scripts de Office para Excel en la Web con Power Automate.
 ms.date: 12/15/2020
 localization_priority: Priority
-ms.openlocfilehash: 1925a95938837707eacddff6832180b12cd2011c
-ms.sourcegitcommit: 5f79e5ba9935edb8a890012f2cde3b89fe80faa0
+ms.openlocfilehash: 31ba31ddbfb36f20087be6aa7d83b1b896a698d1
+ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727108"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51570533"
 ---
 # <a name="return-data-from-a-script-to-an-automatically-run-power-automate-flow-preview"></a>Devolver datos de un script a un flujo de Power Automate (vista previa)
 
@@ -48,14 +48,14 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
 1. Ahora debería tener un script vacío. Queremos usar el script para obtener una dirección de correo electrónico de la hoja de cálculo. Cambie `main` para devolver una cadena, de la siguiente manera:
 
-    ```typescript
+    ```TypeScript
     function main(workbook: ExcelScript.Workbook) : string {
     }
     ```
 
 1. Después, debemos obtener todos los datos de la tabla. Eso nos permite buscar en cada fila con el script. Agregue el código siguiente dentro de la función `main`.
 
-    ```typescript
+    ```TypeScript
     // Get the H1 worksheet.
     let worksheet = workbook.getWorksheet("H1");
 
@@ -68,7 +68,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
 1. Las fechas de la tabla se almacenan con [el número de serie de la fecha de Excel](https://support.microsoft.com/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487). Es necesario convertir esas fechas en fechas de JavaScript para poder compararlas. Agregaremos una función auxiliar al script. Agregue el código siguiente fuera de la función `main`:
 
-    ```typescript
+    ```TypeScript
     // Convert the Excel date to a JavaScript Date object.
     function convertDate(excelDateValue: number) {
         let javaScriptDate = new Date(Math.round((excelDateValue - 25569) * 86400 * 1000));
@@ -78,7 +78,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
 1. Ahora, debemos saber cuál es el usuario de guardia en este momento. La fila tendrá una fecha de inicio y una de finalización en torno a la fecha actual. Escribiremos el script para asumir que solo un usuario está de guardia cada vez. Los scripts pueden devolver matrices para manejar varios valores, pero por ahora devolveremos la primera dirección de correo electrónico coincidente. Agregue el siguiente código al final de la función `main`.
 
-    ```typescript
+    ```TypeScript
     // Look for the first row where today's date is between the row's start and end dates.
     let currentDate = new Date();
     for (let row = 0; row < tableValues.length; row++) {
@@ -93,7 +93,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
 1. El script final debería tener un aspecto similar al siguiente:
 
-    ```typescript
+    ```TypeScript
     function main(workbook: ExcelScript.Workbook) : string {
         // Get the H1 worksheet.
         let worksheet = workbook.getWorksheet("H1");
