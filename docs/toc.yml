@@ -53,12 +53,44 @@ items:
             href: develop/excel-async-model.md
       - name: Ejemplos
         items:
-          - name: Scripts de ejemplo
-            href: resources/excel-samples.md
+          - name: Información general
+            href: resources/samples/samples-overview.md
+          - name: Conceptos básicos
+            items:
+              - name: Conceptos básicos de scripting
+                href: resources/excel-samples.md
+              - name: Conceptos básicos sobre rangos
+                href: resources/samples/range-basics.md
+          - name: Más allá de los aspectos básicos
+            items:
+              - name: Agregar comentarios
+                href: resources/samples/add-excel-comments.md
+              - name: Copiar varias tablas en una sola tabla
+                href: resources/samples/copy-tables-combine.md
+              - name: Contar filas en blanco en hojas de cálculo
+                href: resources/samples/count-blank-rows.md
+              - name: Archivos de Excel de referencias cruzadas y formato
+                href: resources/samples/excel-cross-reference.md
+              - name: Generador de números de documento
+                href: resources/samples/document-number-generator.md
+              - name: Imágenes de correo electrónico de gráficos y tablas
+                href: resources/samples/email-images-chart-table.md
+              - name: Filtrar tabla y obtener rango visible
+                href: resources/samples/filter-table-get-visible-range.md
+              - name: Administrar el modo de cálculo
+                href: resources/samples/excel-calculation.md
+              - name: Mover las filas seleccionadas entre tablas
+                href: resources/samples/move-rows-across-tables.md
+              - name: Salida de datos de tabla como JSON
+                href: resources/samples/get-table-data.md
+              - name: Quitar hipervínculos de celdas de Excel
+                href: resources/samples/remove-hyperlinks-from-cells.md
+              - name: Ejecutar un script en todos los archivos de Excel de una carpeta
+                href: resources/samples/automate-tasks-on-all-excel-files-in-folder.md
+              - name: Enviar invitaciones de equipos desde datos de Excel
+                href: resources/samples/send-teams-invite-from-excel-data.md
           - name: Escenarios
             items:
-              - name: Introducción
-                href: resources/scenarios/sample-scenario-overview.md
               - name: Analizar descargas web
                 href: resources/scenarios/analyze-web-downloads.md
               - name: Obtener y representar gráficamente datos del nivel de agua de NOAA
@@ -67,3 +99,7 @@ items:
                 href: resources/scenarios/grade-calculator.md
               - name: Recordatorios de tareas (con Power Automate)
                 href: resources/scenarios/task-reminders.md
+          - name: Contribuciones de la comunidad
+            items:
+              - name: Saludos cordiales
+                href: resources/samples/community-seasons-greetings.md
