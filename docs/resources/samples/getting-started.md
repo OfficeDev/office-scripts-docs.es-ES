@@ -3,12 +3,13 @@ title: Introducción a scripts de Office
 description: Conceptos básicos sobre scripts de Office, incluidos los patrones de acceso, entorno y script.
 ms.date: 04/01/2021
 localization_priority: Normal
-ms.openlocfilehash: f954ee67aa486e4b8185047738ef3d15319a94ae
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ROBOTS: NOINDEX
+ms.openlocfilehash: c1c4675b2fdc1f5ebd9e86f04f5fb011c27a3f1b
+ms.sourcegitcommit: 190ae1c071243f4638d0d650e35f1425914b0156
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51571560"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51650370"
 ---
 # <a name="getting-started"></a>Introducción
 
@@ -20,7 +21,7 @@ Obtenga información sobre los conceptos básicos del editor de acceso, entorno 
 
 [![Conceptos básicos de la aplicación scripts de Office](../../images/getting-started-env.png)](https://youtu.be/vvCtxsjPxo8 "Conceptos básicos de la aplicación scripts de Office")
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 
 Scripts de Office requiere la configuración de administración disponible para el administrador de Microsoft 365 en **Configuración**  >  **de la organización Configuración Scripts**  >  **de Office**. De forma predeterminada, está activada para todos los usuarios. Hay dos configuraciones sub, que el administrador puede activar y desactivar.
 
@@ -775,7 +776,7 @@ function updateTargetRange(
 
 *Advertencia:* El `try..catch` uso dentro de un bucle ralentizará el script. Evite usar esto dentro o alrededor de bucles.
 
-## <a name="range-basics"></a>Conceptos básicos del intervalo
+## <a name="range-basics"></a>Conceptos básicos sobre rangos
 
 Consulte [Range Basics](range-basics.md) antes de ir más lejos en su viaje.
 
