@@ -3,12 +3,12 @@ title: Admitir scripts de Office antiguos que usan las API asincrónicas
 description: Una introducción a las API asincrónicas de Scripts de Office y cómo usar el patrón de carga y sincronización para scripts más antiguos.
 ms.date: 02/08/2021
 localization_priority: Normal
-ms.openlocfilehash: d61a5d8affae2077b23e140645c19dac977ff0d2
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: 143f52a7ffefb4f19ee36ba4343fd7c2f1cbdffe
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51570286"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755080"
 ---
 # <a name="support-older-office-scripts-that-use-the-async-apis"></a>Admitir scripts de Office antiguos que usan las API asincrónicas
 
@@ -42,9 +42,9 @@ Como el script y el libro se ejecutan en distintas ubicaciones, cualquier transf
 
 En la imagen siguiente se muestra un ejemplo de flujo de control entre el script y el libro:
 
-![Diagrama en el que se muestran las operaciones de lectura y escritura en el libro desde el script.](../images/load-sync.png)
+:::image type="content" source="../images/load-sync.png" alt-text="Diagrama en el que se muestran las operaciones de lectura y escritura en el libro desde el script.":::
 
-### <a name="sync"></a>Sync
+### <a name="sync"></a>Sincronizar
 
 Siempre que el script asincrónico necesite leer o escribir datos en el libro, llame al método como `RequestContext.sync` se muestra aquí:
 

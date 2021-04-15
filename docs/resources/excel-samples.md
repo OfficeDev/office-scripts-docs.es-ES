@@ -3,12 +3,12 @@ title: Scripts básicos para scripts de Office en Excel en la web
 description: Una colección de ejemplos de código para usar con scripts de Office en Excel en la web.
 ms.date: 04/01/2021
 localization_priority: Normal
-ms.openlocfilehash: f52500f480b7e7fa637a606b99de035da326a4ba
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: 32c380a2abdb0596bbfdb387768735fbfdcf7c08
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51570519"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755094"
 ---
 # <a name="basic-scripts-for-office-scripts-in-excel-on-the-web"></a>Scripts básicos para scripts de Office en Excel en la web
 
@@ -296,7 +296,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 En este ejemplo se busca la primera tabla dinámica del libro y se registra los valores en las celdas "Total general" (como se resalta en verde en la imagen siguiente).
 
-![Tabla dinámica de ventas de frutas con la fila Grand Total resaltada en verde.](../images/sample-pivottable-grand-total-row.png)
+:::image type="content" source="../images/sample-pivottable-grand-total-row.png" alt-text="Tabla dinámica que muestra las ventas de frutas con la fila Grand Total resaltada en verde.":::
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
@@ -324,7 +324,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script crea una lista de selección desplegable para una celda. Usa los valores existentes del intervalo seleccionado como opciones para la lista.
 
-![Un conjunto de capturas de pantalla antes y después que muestra tres palabras en un rango y, a continuación, esas mismas palabras en una lista desplegable.](../images/sample-data-validation.png)
+:::image type="content" source="../images/sample-data-validation.png" alt-text="Una hoja de cálculo que muestra un rango de tres celdas que contienen opciones de color &quot;rojo, azul, verde&quot; y junto a ella, las mismas opciones que se muestran en una lista desplegable.":::
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {

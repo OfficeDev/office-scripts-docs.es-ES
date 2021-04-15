@@ -3,12 +3,12 @@ title: Restricciones de TypeScript en scripts de Office
 description: Los detalles del compilador TypeScript y linter usados por el Editor de código de scripts de Office.
 ms.date: 02/05/2021
 localization_priority: Normal
-ms.openlocfilehash: 8c9d1beafb236e7ba10dedf00fab944c40fb954d
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: 88d0b5873a2f7350f88417d2e340343dbd183606
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51570279"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755052"
 ---
 # <a name="typescript-restrictions-in-office-scripts"></a>Restricciones de TypeScript en scripts de Office
 
@@ -22,9 +22,9 @@ Los [tipos](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes
 
 No puede declarar explícitamente una variable como de tipo en scripts de `any` Office (es decir, `let someVariable: any;` ). El `any` tipo provoca problemas al procesarlo Excel. Por ejemplo, es `Range` necesario saber que un valor es un , o `string` `number` `boolean` . Recibirá un error en tiempo de compilación (un error antes de ejecutar el script) si alguna variable se define explícitamente como el tipo `any` en el script.
 
-![El mensaje explícito de cualquier mensaje en el texto activado del editor de código](../images/explicit-any-editor-message.png)
+:::image type="content" source="../images/explicit-any-editor-message.png" alt-text="El mensaje explícito &quot;any&quot; en el texto activado del editor de código":::
 
-![El error explícito de la ventana de la consola](../images/explicit-any-error-message.png)
+:::image type="content" source="../images/explicit-any-error-message.png" alt-text="Error Explicit Any en la ventana de la consola.":::
 
 En la captura de pantalla `[5, 16] Explicit Any is not allowed` anterior indica que la línea #5, columna #16 define el `any` tipo. Esto le ayuda a localizar el error.
 

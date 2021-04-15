@@ -3,12 +3,12 @@ title: Límites y requisitos de la plataforma con scripts de Office
 description: Límites de recursos y compatibilidad con exploradores para scripts de Office cuando se usan con Excel en la web
 ms.date: 03/12/2021
 localization_priority: Normal
-ms.openlocfilehash: 93307b6204f409f26c77b5ead33188205d5c4b4d
-ms.sourcegitcommit: 5bde455b06ee2ed007f3e462d8ad485b257774ef
+ms.openlocfilehash: ef733562fb3caa8261fbbd8382923927a46cb7d4
+ms.sourcegitcommit: 5ca286615a11d282e3f80023d22d36a039800eed
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837268"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51689769"
 ---
 # <a name="platform-limits-and-requirements-with-office-scripts"></a>Límites y requisitos de la plataforma con scripts de Office
 
@@ -49,7 +49,7 @@ Si encuentra errores al tratar con conjuntos de datos grandes, intente usar vari
 
 ### <a name="power-automate"></a>Power Automate
 
-Al usar scripts de Office con Power Automate, cada usuario está limitado a **200 llamadas al día.** Este límite se restablece a las 12:00 UTC.
+Al usar scripts de Office con Power Automate, cada usuario está limitado a **400** llamadas a la acción Ejecutar script por día. Este límite se restablece a las 12:00 UTC.
 
 La plataforma Power Automate también tiene limitaciones de uso, que se pueden encontrar en los siguientes artículos:
 

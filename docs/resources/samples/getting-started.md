@@ -4,12 +4,12 @@ description: Conceptos básicos sobre scripts de Office, incluidos los patrones 
 ms.date: 04/01/2021
 localization_priority: Normal
 ROBOTS: NOINDEX
-ms.openlocfilehash: c1c4675b2fdc1f5ebd9e86f04f5fb011c27a3f1b
-ms.sourcegitcommit: 190ae1c071243f4638d0d650e35f1425914b0156
+ms.openlocfilehash: 42b71a21470ac38535e3e95f091ec6267806e54a
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51650370"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755059"
 ---
 # <a name="getting-started"></a>Introducción
 
@@ -97,7 +97,7 @@ Por lo tanto, en resumen:
 * La `main` función es el punto de entrada de cualquier script. Cuando se ejecuta la función, la aplicación de Excel invoca esta función principal proporcionando el libro como su primer parámetro.
 * Es importante mantener el primer argumento y `workbook` su declaración de tipo tal como aparece. Puede agregar nuevos argumentos a la función (consulte la siguiente sección) pero mantenga `main` el primer argumento tal y como está.
 
-![La función principal es el punto de entrada del script](../../images/getting-started-main-introduction.png)
+:::image type="content" source="../../images/getting-started-main-introduction.png" alt-text="La función principal es el punto de entrada del script":::
 
 #### <a name="send-or-receive-data-from-other-apps"></a>Enviar o recibir datos de otras aplicaciones
 
@@ -105,13 +105,13 @@ Puede conectar Excel a otras partes de su organización ejecutando scripts en [P
 
 La forma de recibir o enviar datos desde y a Excel es a través de la `main` función. Piense en ella como la puerta de enlace de información que permite describir y usar los datos entrantes y salientes en el script. Puede recibir datos de fuera del script mediante el tipo de datos y devolver cualquier dato reconocido por TypeScript, como , , o cualquier objeto en forma de interfaces que defina en el `string` `string` `number` `boolean` script.
 
-![Entradas y salidas de un script](../../images/getting-started-data-in-out.png)
+:::image type="content" source="../../images/getting-started-data-in-out.png" alt-text="Entradas y salidas de un script":::
 
 #### <a name="use-functions-to-organize-and-reuse-code"></a>Usar funciones para organizar y reutilizar código
 
 Puede usar funciones para organizar y reutilizar código dentro del script.
 
-![Uso de funciones en un script](../../images/getting-started-use-functions.png)
+:::image type="content" source="../../images/getting-started-use-functions.png" alt-text="Uso de funciones en un script":::
 
 ### <a name="objects-hierarchy-methods-properties-collections"></a>Objetos, jerarquía, métodos, propiedades, colecciones
 
@@ -496,9 +496,9 @@ let someVariable: any;
 
 El `any` tipo presenta desafíos a la forma en que Scripts de Office procesa las API de Excel. Provoca problemas cuando las variables se envían a las API de Excel para su procesamiento. Conocer el tipo de variables usadas en el script es esencial para el procesamiento del script y, por lo tanto, se prohíbe la definición explícita de cualquier variable `any` con tipo. Recibirá un error en tiempo de compilación (error antes de ejecutar el script) si hay alguna variable con `any` el tipo declarado en el script. También verá un error en el editor.
 
-![Error explícito "cualquiera"](../../images/getting-started-eanyi.png)
+:::image type="content" source="../../images/getting-started-eanyi.png" alt-text="Error explícito &quot;cualquiera&quot;":::
 
-![Error explícito "cualquiera" que se muestra en Salida](../../images/getting-started-expany.png)
+:::image type="content" source="../../images/getting-started-expany.png" alt-text="Error explícito &quot;cualquiera&quot; que se muestra en Salida":::
 
 En el código mostrado en la imagen anterior, indica que la `[5, 16] Explicit Any is not allowed` línea 5 columna 16 declara el `any` tipo. Esto le ayuda a buscar la línea de código que contiene el error.
 
@@ -529,7 +529,7 @@ Este tipo de inferencia tiene lugar al inicializar variables y miembros, estable
 
 Un script requiere los tipos de variables que se usan para declararse explícita o implícitamente. Si el compilador de TypeScript no puede determinar el tipo de una variable (ya sea porque el tipo no se declara explícitamente o la inferencia de tipo no es posible), recibirá un error de tiempo de compilación (error antes de ejecutar el script). También verá un error en el editor.
 
-![Error implícito "cualquiera" que se muestra en el editor](../../images/getting-started-iany.png)
+:::image type="content" source="../../images/getting-started-iany.png" alt-text="Error implícito &quot;cualquiera&quot; que se muestra en el editor.":::
 
 Los scripts siguientes tienen errores de tiempo de compilación porque las variables se declaran sin tipos y TypeScript no puede determinar el tipo en el momento de la declaración.
 
@@ -590,15 +590,15 @@ El error scripts de Office se puede clasificar en una de las siguientes categor�
 
 Las advertencias del editor se pueden identificar con los subrayados rojos ondulados del editor:
 
-![Advertencia en tiempo de compilación que se muestra en el editor](../../images/getting-started-eanyi.png)
+:::image type="content" source="../../images/getting-started-eanyi.png" alt-text="Advertencia en tiempo de compilación que se muestra en el editor":::
 
 En ocasiones, también puede ver subrayados de advertencia naranja y mensajes informativos grises. Deben examinarse estrechamente aunque no van a causar errores.
 
 No es posible distinguir entre errores en tiempo de compilación y en tiempo de ejecución, ya que ambos mensajes de error tienen un aspecto idéntico. Ambos se producen cuando se ejecuta realmente el script. En las imágenes siguientes se muestran ejemplos de un error en tiempo de compilación y un error en tiempo de ejecución.
 
-![Ejemplo de error en tiempo de compilación](../../images/getting-started-expany.png)
+:::image type="content" source="../../images/getting-started-expany.png" alt-text="Ejemplo de error en tiempo de compilación":::
 
-![Ejemplo de error en tiempo de ejecución](../../images/getting-started-error-basic.png)
+:::image type="content" source="../../images/getting-started-error-basic.png" alt-text="Ejemplo de error en tiempo de ejecución":::
 
 En ambos casos, verá el número de línea donde se produjo el error. A continuación, puede examinar el código, corregir el problema y volver a ejecutarlo.
 

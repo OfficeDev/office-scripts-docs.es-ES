@@ -3,12 +3,12 @@ title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
 ms.date: 07/08/2020
 localization_priority: Priority
-ms.openlocfilehash: 4609dce617d18f7a7c9d2868a24792c51fb048c6
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: 2c2fd683e77a0dfbfd3e9df8c79db31e78ceee8b
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51570237"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755066"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web-preview"></a>Conceptos básicos de los scripts de Office en Excel en la Web (vista previa)
 
@@ -109,7 +109,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Al ejecutar este script se crean los siguientes datos en la hoja de cálculo actual:
 
-![Un registro de ventas que muestra filas de valores, una columna de fórmulas y los encabezados con formato.](../images/range-sample.png)
+:::image type="content" source="../images/range-sample.png" alt-text="Una hoja de cálculo que contiene un registro de ventas que se compone de filas de valor, una columna de fórmula y encabezados con formato.":::
 
 ### <a name="charts-tables-and-other-data-objects"></a>Gráficos, tablas y otros objetos de datos
 
@@ -133,7 +133,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Ejecutar este script en la hoja de cálculo con los datos anteriores crea la tabla siguiente:
 
-![Una tabla creada con el registro de ventas anterior.](../images/table-sample.png)
+:::image type="content" source="../images/table-sample.png" alt-text="Una hoja de cálculo que contiene una tabla hecha a partir del registro de ventas anterior.":::
 
 #### <a name="creating-a-chart"></a>Crear un gráfico
 
@@ -159,7 +159,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Ejecutar este script en la hoja de cálculo con la tabla anterior crea el gráfico siguiente:
 
-![Un gráfico de columnas que muestra cantidades de tres elementos del registro de ventas anterior.](../images/chart-sample.png)
+:::image type="content" source="../images/chart-sample.png" alt-text="Un gráfico de columnas que muestra cantidades de tres elementos del registro de ventas anterior.":::
 
 ### <a name="collections-and-other-object-relations"></a>Colecciones y otras relaciones de objeto
 

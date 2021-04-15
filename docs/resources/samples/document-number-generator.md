@@ -3,12 +3,12 @@ title: Generar un identificador único en un libro
 description: Obtenga información sobre cómo usar scripts de Office para generar un identificador único y agregar una fila a una tabla y un intervalo.
 ms.date: 03/18/2021
 localization_priority: Normal
-ms.openlocfilehash: 219aaf5894ee81112e12c44e828beefc74886794
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: c75eba551cc1c05426db613c78d41431b5177842
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51571582"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51754841"
 ---
 # <a name="generate-a-unique-identifier-in-a-workbook"></a>Generar un identificador único en un libro
 
@@ -20,21 +20,21 @@ Hay dos versiones del ejemplo para este escenario.
 
     _Antes de agregar la nueva fila_
 
-    ![Captura de pantalla que muestra el intervalo antes de agregar la fila](../../images/document-number-generator-range-before.png)
+    :::image type="content" source="../../images/document-number-generator-range-before.png" alt-text="Hoja de cálculo que muestra un rango de datos antes de agregar una fila.":::
 
     _Después de agregar la nueva fila_
 
-    ![Captura de pantalla que muestra el intervalo después de agregar fila](../../images/document-number-generator-range-after.png)
+    :::image type="content" source="../../images/document-number-generator-range-after.png" alt-text="Una hoja de cálculo que muestra un rango de datos después de agregar una fila.":::
 
 * [Versión 2: Leer y agregar una fila a una tabla](#sample-code-generate-key-and-add-row-to-table)
 
     _Antes de agregar la nueva fila_
 
-    ![Captura de pantalla que muestra la tabla antes de agregar la fila](../../images/document-number-generator-table-before.png)
+    :::image type="content" source="../../images/document-number-generator-table-before.png" alt-text="Hoja de cálculo que muestra una tabla antes de agregar una fila.":::
 
     _Después de agregar la nueva fila_
 
-    ![Captura de pantalla que muestra la tabla después de agregar la fila](../../images/document-number-generator-table-after.png)
+    :::image type="content" source="../../images/document-number-generator-table-after.png" alt-text="Una hoja de cálculo que muestra una tabla después de agregar una fila.":::
 
 ## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
 

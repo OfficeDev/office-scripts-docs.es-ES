@@ -3,12 +3,12 @@ title: Enviar por correo electrónico las imágenes de un gráfico y tabla de Ex
 description: Obtenga información sobre cómo usar Scripts de Office y Power Automate para extraer y enviar por correo electrónico las imágenes de un gráfico y tabla de Excel.
 ms.date: 04/01/2021
 localization_priority: Normal
-ms.openlocfilehash: 7eb12526f97d72de31acdc3c9a4228c670875e2b
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: de3cf16537cb12db45d4d465d367d797d053afc4
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51571576"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51754813"
 ---
 # <a name="use-office-scripts-and-power-automate-to-email-images-of-a-chart-and-table"></a>Usar Scripts de Office y Power Automate para enviar por correo electrónico imágenes de un gráfico y una tabla
 
@@ -23,15 +23,15 @@ En este ejemplo se usan scripts de Office y Power Automate para crear un gráfic
 
 _Datos de entrada_
 
-![Datos de entrada](../../images/input-data.png)
+:::image type="content" source="../../images/input-data.png" alt-text="Hoja de cálculo que muestra una tabla de datos de entrada.":::
 
 _Gráfico de salida_
 
-![Gráfico creado](../../images/chart-created.png)
+:::image type="content" source="../../images/chart-created.png" alt-text="Gráfico de columnas creado que muestra el importe debido por cliente.":::
 
 _Correo electrónico que se recibió a través del flujo de Power Automate_
 
-![Correo electrónico recibido](../../images/email-received.png)
+:::image type="content" source="../../images/email-received.png" alt-text="El correo electrónico enviado por el flujo que muestra el gráfico de Excel incrustado en el cuerpo.":::
 
 ## <a name="solution"></a>Solución
 

@@ -3,12 +3,12 @@ title: Mover filas entre tablas mediante scripts de Office
 description: Aprenda a mover filas entre tablas guardando filtros y procesando y reaprobando los filtros.
 ms.date: 03/30/2021
 localization_priority: Normal
-ms.openlocfilehash: 0a66c8ff0f8e0e7b7f074ad77e8c660fc80b50a9
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: 1adaeee1c8307d7775529496df115563831aed4d
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51571551"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755045"
 ---
 # <a name="move-rows-across-tables-by-saving-filters-then-processing-and-reapplying-the-filters"></a>Mueva filas entre tablas guardando filtros y procesando y reaprobando los filtros.
 
@@ -18,7 +18,7 @@ Este script hace lo siguiente:
 * Mueve todas las filas seleccionadas a otra tabla (destino) de otra hoja de cálculo.
 * Vuelve a aplicar los filtros relevantes en la tabla de origen.
 
-![Capturas de pantalla del libro antes y después](../../images/table-filter-before-after.png)
+:::image type="content" source="../../images/table-filter-before-after.png" alt-text="Capturas de pantalla del libro antes y después":::
 
 Hay dos scripts en esta solución. La diferencia principal es cómo se seleccionan las filas.
 
