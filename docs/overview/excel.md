@@ -3,12 +3,12 @@ title: Scripts de Office en Excel en la Web
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
 ms.date: 11/13/2020
 localization_priority: Priority
-ms.openlocfilehash: a065c8eb5fc52c7525383927b7e1490e703eb179
-ms.sourcegitcommit: 82d3c0ef1e187bcdeceb2b5fc3411186674fe150
+ms.openlocfilehash: 726d5e2ea44f6e61708c9692826f37a526250670
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49571465"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755142"
 ---
 # <a name="office-scripts-in-excel-on-the-web-preview"></a>Scripts de Office en Excel en la Web (vista previa)
 
@@ -50,13 +50,13 @@ Por ejemplo, imagine que comienza cada día de trabajo abriendo un archivo .csv 
 
 ## <a name="action-recorder"></a>Grabadora de acciones
 
-![La Grabadora de acciones después de haber grabado varias acciones.](../images/action-recorder-intro.png)
+:::image type="content" source="../images/action-recorder-intro.png" alt-text="Una lista de acciones grabadas por la grabadora de acciones.":::
 
 La Grabadora de acciones graba las acciones que realiza en Excel y las guarda como un script. Cuando ejecute la Grabadora de acciones, esta capturará lo que usted haga en Excel, como editar las celdas, cambiar el formato y crear tablas. El script resultante se puede ejecutar en otros libros y hojas de cálculo para recrear las acciones grabadas.
 
 ## <a name="code-editor"></a>Editor de código
 
-![El Editor de código mostrando el código del script anterior.](../images/code-editor-intro.png)
+:::image type="content" source="../images/code-editor-intro.png" alt-text="El Editor de código mostrando el código del script que se ha utilizado en este tutorial.":::
 
 Todos los scripts registrados en la Grabadora de acciones se pueden editar con el Editor de código. Esto le permite modificar y personalizar el script para adecuarlo mejor a sus necesidades concretas. También puede agregar lógica y funciones que no son accesibles directamente desde la interfaz de usuario de Excel, como condicionales (si/si no) y bucles.
 
@@ -64,7 +64,7 @@ Una forma sencilla de descubrir de lo que son capaces los scripts de Office es g
 
 ## <a name="sharing-scripts"></a>Compartir scripts
 
-![La página Detalles del script que muestra la opción de compartir con otros en este libro.](../images/script-sharing.png)
+:::image type="content" source="../images/script-sharing.png" alt-text="La página Detalles del script que muestra la opción &quot;Compartir con otros en este libro&quot;.":::
 
 Los Scripts de Office se pueden compartir con otros usuarios de un libro de Excel. Al compartir un script con otros usuarios de un libro, el script se adjunta al libro. Los scripts se almacenan en su OneDrive y, cuando comparte uno, se crea un vínculo a él en el libro que ha abierto.
 

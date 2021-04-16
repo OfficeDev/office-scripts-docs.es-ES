@@ -3,12 +3,12 @@ title: Leer datos de libros con scripts de Office en Excel en la Web
 description: Un tutorial de scripts de Office sobre cómo leer datos de libros y evaluarlos en el script.
 ms.date: 01/06/2021
 localization_priority: Priority
-ms.openlocfilehash: 0848a24e7333842b5b3b1f82ec8f270514c34d2f
-ms.sourcegitcommit: 9df67e007ddbfec79a7360df9f4ea5ac6c86fb08
+ms.openlocfilehash: d6321cb91a425da3fd45329d5171f1d5694b2b99
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49772974"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51754862"
 ---
 # <a name="read-workbook-data-with-office-scripts-in-excel-on-the-web"></a>Leer datos de libros con scripts de Office en Excel en la Web
 
@@ -73,7 +73,7 @@ En el resto del tutorial, armonizaremos los datos de ambos con un script. En pri
 8. Cuando se registra una matriz bidimensional en la consola, se agrupan los valores de columna en cada fila. Expanda el registro de matriz pulsando en el triángulo azul.
 9. Expanda el segundo nivel de la matriz pulsando en el triángulo azul que ha descubierto recientemente. Ahora debería ver lo siguiente:
 
-    ![El registro de consola mostrando el resultado "-20,05" anidado en dos matrices](../images/tutorial-4.png)
+    :::image type="content" source="../images/tutorial-4.png" alt-text="El registro de consola mostrando el resultado &quot;-20,05&quot; anidado en dos matrices":::
 
 ## <a name="modify-the-value-of-a-cell"></a>Cambiar el valor de una celda
 
@@ -143,7 +143,7 @@ Ahora que sabemos cómo leer y escribir en una sola celda, vamos a aplicar este 
 
     Ahora, su declaración bancaria debería tener el siguiente aspecto:
 
-    ![Extracto bancario como tabla con formato que solo contiene valores positivos](../images/tutorial-5.png)
+    :::image type="content" source="../images/tutorial-5.png" alt-text="Una hoja de cálculo donde se muestra un extracto bancario como tabla con formato que solo contiene valores positivos.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -3,12 +3,12 @@ title: Grabar, editar y crear scripts de Office en Excel en la Web
 description: Un tutorial sobre los conceptos básicos de scripts de Office que incluye la grabación de scripts en la Grabadora de acciones y la escritura de datos en un libro.
 ms.date: 01/06/2021
 localization_priority: Priority
-ms.openlocfilehash: fa2fec54cdb0289590868ee6848a942401f21665
-ms.sourcegitcommit: 9df67e007ddbfec79a7360df9f4ea5ac6c86fb08
+ms.openlocfilehash: ae864cc08453a9c8a2538f15ceee1275e131725d
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49772981"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51754848"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
@@ -49,7 +49,7 @@ En primer lugar, necesitaremos algunos datos y un pequeño script inicial.
 
     La hoja de cálculo debe tener este aspecto (no se preocupe si el color es diferente):
 
-    ![Una fila de datos de ventas de frutas con la fila "Naranjas" resaltada en naranja.](../images/tutorial-1.png)
+    :::image type="content" source="../images/tutorial-1.png" alt-text="Una hoja de cálculo donde se muestra la fila de datos de ventas de fruta con la fila que contiene «Naranjas» resaltada en color naranja.":::
 
 ## <a name="edit-an-existing-script"></a>Editar un script existente
 
@@ -78,7 +78,7 @@ El script anterior pinta la fila "Naranja" de color naranja. Ahora, agreguemos u
 
 4. Para probar el script, presione **Ejecutar**. El libro tendrá ahora el siguiente aspecto:
 
-    ![Una fila de datos de ventas con la fila "Naranjas" resaltada en naranja y la fila "Limones" ahora resaltada en amarillo](../images/tutorial-2.png)
+    :::image type="content" source="../images/tutorial-2.png" alt-text=" Una hoja de cálculo donde se muestra una fila de datos de ventas con la fila «Naranjas» resaltada en naranja y la fila «Limones» resaltada en amarillo.":::
 
 ## <a name="create-a-table"></a>Crear una tabla
 
@@ -113,7 +113,7 @@ Vamos a convertir estos datos de ventas de frutas en una tabla. Usaremos nuestro
 
 3. Ejecute el script. Debería ver una tabla como esta:
 
-    ![Una tabla de ventas de frutas ordenada.](../images/tutorial-3.png)
+    :::image type="content" source="../images/tutorial-3.png" alt-text="Una hoja de cálculo donde se muestra la tabla de ventas de frutas ordenadas.":::
 
     > [!NOTE]
     > Si vuelve a ejecutar el script, se producirá un error. Esto se debe a que no se puede crear una tabla encima de otra. Sin embargo, puede ejecutar el script en otra hoja de cálculo o en un libro.

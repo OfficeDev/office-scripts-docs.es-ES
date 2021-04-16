@@ -3,12 +3,12 @@ title: Pasar datos a scripts en un flujo de Power Automate ejecutado automática
 description: Un tutorial sobre la ejecución de Scripts de Office para Excel en la Web mediante Power Automate cuando se reciba el correo y el paso de datos de flujo al script.
 ms.date: 12/28/2020
 localization_priority: Priority
-ms.openlocfilehash: 3f81ac13b0827f27adc611895d6bb090df10da5c
-ms.sourcegitcommit: 9df67e007ddbfec79a7360df9f4ea5ac6c86fb08
+ms.openlocfilehash: c67c1f958099698201db91f368a287805d5aea0d
+ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49772995"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51754897"
 ---
 # <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow-preview"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente (versión preliminar)
 
@@ -156,15 +156,15 @@ function main(
 
 2. En el menú que se muestra en la parte izquierda de la pantalla, presione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
 
-    ![El botón Crear en Power Automate](../images/power-automate-tutorial-1.png)
+    :::image type="content" source="../images/power-automate-tutorial-1.png" alt-text="El botón Crear en Power Automate.":::
 
 3. En la sección **Inicio desde cero**, seleccione **Flujo automatizado**. Esto creará un flujo de trabajo desencadenado por un evento, como la recepción de un correo electrónico.
 
-    ![La opción de Flujo automatizado en Power Automate](../images/power-automate-params-tutorial-1.png)
+    :::image type="content" source="../images/power-automate-params-tutorial-1.png" alt-text="La opción de Flujo automatizado en Power Automate":::
 
 4. En la ventana de diálogo que aparece, escriba un nombre para su flujo en el cuadro de texto **Nombre de flujo**. A continuación, seleccione **Cuando llegue un nuevo correo electrónico** de la lista de opciones de **Elegir el desencadenador de flujo**. Es posible que tenga que buscar la opción con el cuadro de búsqueda. Por último, pulse **Crear**.
 
-    ![Parte de la ventana Generar un flujo automatizado en Power Automate que muestra la opción "llega un nuevo correo electrónico"](../images/power-automate-params-tutorial-2.png)
+    :::image type="content" source="../images/power-automate-params-tutorial-2.png" alt-text="Forma parte del flujo de Power Automate que muestra el «nombre del flujo» y las opciones de «elegir el desencadenador del flujo». El nombre del flujo es «Registrar flujo de correo electrónico» y el desencadenador es la opción «Cuando llega un correo electrónico nuevo a Outlook».":::
 
     > [!NOTE]
     > Este tutorial usa Outlook. Puede usar el servicio de correo electrónico que prefiera, aunque algunas opciones pueden ser diferentes.
@@ -173,11 +173,11 @@ function main(
 
 6. Seleccione la pestaña **Estándar** y, a continuación, seleccione **Excel Online (empresa)**.
 
-    ![Opción de Excel Online (empresa) en Power Automate](../images/power-automate-tutorial-4.png)
+    :::image type="content" source="../images/power-automate-tutorial-4.png" alt-text="Opción de Excel Online (empresa) en Power Automate":::
 
 7. En **Acciones**, seleccione **Ejecutar script (versión preliminar)**.
 
-    ![Opción de acción Ejecutar script (vista previa) en Power Automate](../images/power-automate-tutorial-5.png)
+    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción Ejecutar script (vista previa) en Power Automate":::
 
 8. A continuación, seleccione el libro, el script y los argumentos de entrada del script que se usará en el paso de flujo. En el tutorial, utilizará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 
@@ -191,7 +191,7 @@ function main(
 
     *Tenga en cuenta que los parámetros del script solo aparecen cuando se selecciona el script.*
 
-    ![Parámetros de la opción de acción Ejecutar script (vista previa) en Power Automate](../images/power-automate-params-tutorial-3.png)
+    :::image type="content" source="../images/power-automate-params-tutorial-3.png" alt-text="La acción de ejecutar script de Power Automate muestra las opciones que aparecen una vez seleccionado el script.":::
 
 9. Presione **Guardar**.
 
@@ -201,15 +201,15 @@ El flujo está ahora habilitado. El script se ejecutará automáticamente cada v
 
 1. En la página principal de Power Automate, seleccione **Mis flujos**.
 
-    ![El botón Mis flujos en Power Automate](../images/power-automate-tutorial-7.png)
+    :::image type="content" source="../images/power-automate-tutorial-7.png" alt-text="El botón Mis flujos en Power Automate":::
 
 2. Seleccione el flujo. Aquí puede ver el historial de ejecución. Puede actualizar la página o presionar el botón actualizar **Todas las ejecuciones** para actualizar el historial. El flujo se desencadenará poco después de que se reciba un correo electrónico. Pruebe el flujo enviándose un correo electrónico a sí mismo.
 
 Cuando se desencadene el flujo y se ejecute correctamente el script, debería ver que se actualizan la tabla dinámica y la tabla del libro.
 
-![La tabla de correo electrónico después de ejecutar el flujo un par de veces](../images/power-automate-params-tutorial-4.png)
+:::image type="content" source="../images/power-automate-params-tutorial-4.png" alt-text="Una hoja de cálculo que muestra la tabla de correo electrónico después de que el flujo se haya ejecutado tres veces.":::
 
-![La tabla dinámica después de ejecutar el flujo un par de veces](../images/power-automate-params-tutorial-5.png)
+:::image type="content" source="../images/power-automate-params-tutorial-5.png" alt-text="Una hoja de cálculo que muestra la tabla dinámica después de que el flujo se haya ejecutado tres veces.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 
