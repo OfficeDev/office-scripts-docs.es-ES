@@ -25,7 +25,7 @@ Si el problema no está relacionado con la documentación de Scripts de Office, 
 
 - Para hacer una pregunta sobre el diseño de scripts de Office o la API de Office.js que ejecuta scripts de Office, publique la pregunta en Desbordamiento de pila y etiquete con la etiqueta "office-scripts" ( https://stackoverflow.com/questions/tagged/office-scripts) .
 - Para notificar un problema con la API de Office.js, cree el problema en el repositorio [officeDev/office-js](https://github.com/OfficeDev/office-js), que los miembros del equipo de producto supervisan los problemas notificados por el cliente.
-- Para enviar una solicitud de característica para scripts de Office, publique su idea en [Microsoft Q&A](https://docs.microsoft.com/answers/products/m365), o si la solicitud de característica ya existe allí, agregue su voto por ella. Asegúrese de usar la etiqueta "Office-Scripts-Dev" al pedir la característica.
+- Para enviar una solicitud de característica para scripts de Office, publique su idea en nuestra página De voz de [usuario,](https://excel.uservoice.com/forums/274580-excel-for-the-web?category_id=143439)o si la solicitud de característica ya existe allí, agregue su voto por ella, o si la solicitud de característica ya existe allí, agregue su voto por ella. Asegúrese de presentar la solicitud en Excel para la web en la categoría "Macros, scripts y complementos".
 
 ## <a name="copyright"></a>Copyright
 
