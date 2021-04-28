@@ -1,16 +1,16 @@
 ---
-title: 'Escenario de ejemplo de scripts de Office: gráfico de datos de nivel de agua de NOAA'
+title: 'Office Escenario de ejemplo de scripts: Graph datos de nivel de agua de NOAA'
 description: Ejemplo que captura datos JSON de una base de datos NOAA y los usa para crear un gráfico.
-ms.date: 01/11/2021
+ms.date: 04/26/2021
 localization_priority: Normal
-ms.openlocfilehash: ba4836cd0782ab7f2158aeaaa562c851927b90f7
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: 8aea11f42bf2a81fa53cbf4f6ee7280213b97085
+ms.sourcegitcommit: d466b82f27bc61aeba193f902c9bc65ecbf60e4e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755122"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52066304"
 ---
-# <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a>Escenario de ejemplo de scripts de Office: capturar y representar datos de nivel de agua de NOAA
+# <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a>Office Escenario de ejemplo de scripts: capturar y representar datos de nivel de agua de NOAA
 
 En este escenario, debe trazar el nivel del agua en la estación Seattle de la Administración Nacional Oceánica [y Atmosférico.](https://tidesandcurrents.noaa.gov/stationhome.html?id=9447130) Usará datos externos para rellenar una hoja de cálculo y crear un gráfico.
 
@@ -24,7 +24,7 @@ Desarrollará un script que usa el comando para consultar la base de datos de co
 
 ## <a name="setup-instructions"></a>Instrucciones de configuración
 
-1. Abra el libro con Excel en la web.
+1. Abra el libro con Excel en la Web.
 
 1. En la **pestaña Automatizar,** seleccione **Todos los scripts**.
 
@@ -54,11 +54,13 @@ Desarrollará un script que usa el comando para consultar la base de datos de co
     
       // Resolve the Promises returned by the fetch operation.
       const response = await fetch(strQuery);
-      const rawJson = await response.json();
+      const rawJson: string = await response.json();
     
       // Translate the raw JSON into a usable state.
       const stringifiedJson = JSON.stringify(rawJson);
-      const noaaData = JSON.parse(stringifiedJson);
+    
+      // Note that we're only taking the data part of the JSON and excluding the metadata.
+      const noaaData: NOAAData[] = JSON.parse(stringifiedJson).data;
     
       // Create table headers and format them to stand out.
       let headers = [["Time", "Level"]];
@@ -68,21 +70,21 @@ Desarrollará un script que usa el comando para consultar la base de datos de co
       headerRange.getFormat().getFont().setColor("white");
     
       // Insert all the data in rows from JSON.
-      let noaaDataCount = noaaData.data.length;
+      let noaaDataCount = noaaData.length;
       let dataToEnter = [[], []]
       for (let i = 0; i < noaaDataCount; i++) {
-        let currentDataPiece = noaaData.data[i];
+        let currentDataPiece = noaaData[i];
         dataToEnter[i] = [currentDataPiece.t, currentDataPiece.v];
       }
     
       let dataRange = currentSheet.getRange("A2:B" + String(noaaDataCount + 1)); /* +1 to account for the title row */
       dataRange.setValues(dataToEnter);
-      
+    
       // Format the "Time" column for timestamps.
       dataRange.getColumn(0).setNumberFormatLocal("[$-en-US]mm/dd/yyyy hh:mm AM/PM;@");
     
       // Create and format a chart with the level data.
-      let chart = currentSheet.addChart(ExcelScript.ChartType.xyscatterSmooth,dataRange);
+      let chart = currentSheet.addChart(ExcelScript.ChartType.xyscatterSmooth, dataRange);
       chart.getTitle().setText("Water Level - Seattle");
       chart.setTop(0);
       chart.setLeft(300);
@@ -91,12 +93,21 @@ Desarrollará un script que usa el comando para consultar la base de datos de co
       chart.getAxes().getValueAxis().setShowDisplayUnitLabel(false);
       chart.getAxes().getCategoryAxis().setTextOrientation(60);
       chart.getLegend().setVisible(false);
-
+    
       // Add a comment with the data attribution.
       currentSheet.addComment(
-        "A1", 
+        "A1",
         `This data was taken from the National Oceanic and Atmospheric Administration's Tides and Currents database on ${new Date(Date.now())}.`
       );
+    
+      /**
+       * An interface to wrap the parts of the JSON we need.
+       * These properties must match the names used in the JSON.
+       */ 
+      interface NOAAData {
+        t: string; // Time
+        v: number; // Level
+      }
     }
     ```
 
