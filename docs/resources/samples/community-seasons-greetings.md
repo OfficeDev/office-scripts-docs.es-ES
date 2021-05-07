@@ -1,26 +1,26 @@
 ---
 title: Saludos cordiales
 description: Obtenga información sobre cómo usar Office scripts para mostrar un árbol de canción en Excel en la Web.
-ms.date: 04/02/2021
+ms.date: 04/28/2021
 localization_priority: Normal
-ms.openlocfilehash: d0f50cf32c3b5c9b098813b3e8dc07dbb4367c25
-ms.sourcegitcommit: 1f003c9924e651600c913d84094506125f1055ab
+ms.openlocfilehash: a328ba66fedc245ff73300d7f47cd339ec87234f
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026915"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232581"
 ---
-# <a name="seasons-greetings"></a><span data-ttu-id="6da46-103">Saludos cordiales</span><span class="sxs-lookup"><span data-stu-id="6da46-103">Seasons greetings</span></span>
+# <a name="seasons-greetings"></a><span data-ttu-id="0dd1a-103">Saludos cordiales</span><span class="sxs-lookup"><span data-stu-id="0dd1a-103">Seasons greetings</span></span>
 
-<span data-ttu-id="6da46-104">Este script fue contribuido por [Leslie Black](https://www.linkedin.com/in/lesblackconsultant/) en el ánimo de la temporada de vacaciones.</span><span class="sxs-lookup"><span data-stu-id="6da46-104">This script was contributed by [Leslie Black](https://www.linkedin.com/in/lesblackconsultant/) in the spirit of the holiday season!</span></span> <span data-ttu-id="6da46-105">Es un script divertido que muestra un árbol de canción en Excel en la Web usar Office scripts.</span><span class="sxs-lookup"><span data-stu-id="6da46-105">It's a fun script that shows a singing tree in Excel on the web using Office Scripts.</span></span>
+<span data-ttu-id="0dd1a-104">Este script fue contribuido por [Leslie Black](https://www.linkedin.com/in/lesblackconsultant/) en el ánimo de la temporada de vacaciones.</span><span class="sxs-lookup"><span data-stu-id="0dd1a-104">This script was contributed by [Leslie Black](https://www.linkedin.com/in/lesblackconsultant/) in the spirit of the holiday season!</span></span> <span data-ttu-id="0dd1a-105">Es un script divertido que muestra un árbol de canción en Excel en la Web usar Office scripts.</span><span class="sxs-lookup"><span data-stu-id="0dd1a-105">It's a fun script that shows a singing tree in Excel on the web using Office Scripts.</span></span>
 
-<span data-ttu-id="6da46-106">¡Disfrute!</span><span class="sxs-lookup"><span data-stu-id="6da46-106">Enjoy!</span></span>
+<span data-ttu-id="0dd1a-106">¡Disfrute!</span><span class="sxs-lookup"><span data-stu-id="0dd1a-106">Enjoy!</span></span>
 
-<span data-ttu-id="6da46-107">[![Ver el script de saludos de Temporadas en acción](../../images/community-seasons.png)](https://youtu.be/HBiGEkzmkgo "¡Scripts de saludos de temporadas en acción!")</span><span class="sxs-lookup"><span data-stu-id="6da46-107">[![Watch the Seasons greetings script in action](../../images/community-seasons.png)](https://youtu.be/HBiGEkzmkgo "Seasons greetings script in action!")</span></span>
+<span data-ttu-id="0dd1a-107">[Vea el script de saludos de Temporadas en acción en el canal de YouTube "Blog de TI de Les".](https://youtu.be/HBiGEkzmkgo)</span><span class="sxs-lookup"><span data-stu-id="0dd1a-107">[Watch the Seasons greetings script in action on the "Les's IT Blog" YouTube channel](https://youtu.be/HBiGEkzmkgo).</span></span>
 
-## <a name="script"></a><span data-ttu-id="6da46-108">Script</span><span class="sxs-lookup"><span data-stu-id="6da46-108">Script</span></span>
+## <a name="script"></a><span data-ttu-id="0dd1a-108">Script</span><span class="sxs-lookup"><span data-stu-id="0dd1a-108">Script</span></span>
 
-<span data-ttu-id="6da46-109">Descargue el archivo <a href="happy-tree.xlsx">happy-tree.xlsx</a> se usa en esta solución para probarlo usted mismo.</span><span class="sxs-lookup"><span data-stu-id="6da46-109">Download the file <a href="happy-tree.xlsx">happy-tree.xlsx</a> used in this solution to try it out yourself!</span></span>
+<span data-ttu-id="0dd1a-109">Descargue el archivo <a href="happy-tree.xlsx">happy-tree.xlsx</a> se usa en esta solución para probarlo usted mismo.</span><span class="sxs-lookup"><span data-stu-id="0dd1a-109">Download the file <a href="happy-tree.xlsx">happy-tree.xlsx</a> used in this solution to try it out yourself!</span></span>
 
 ```TypeScript
 /* Original version by Leslie Black.  */

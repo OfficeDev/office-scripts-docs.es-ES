@@ -1,41 +1,41 @@
 ---
-title: Salida de datos de Excel como JSON
-description: Obtenga información sobre cómo generar datos de tabla de Excel como JSON para usarlos en Power Automate.
+title: Datos Excel salida como JSON
+description: Obtenga información sobre cómo generar Excel datos de tabla como JSON para usarlos en Power Automate.
 ms.date: 03/18/2021
 localization_priority: Normal
-ms.openlocfilehash: db6eb8f8645079eebc369e0a0622539075853953
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: c6b033a68fdbde2b053f65d1a54db58da6c93b2e
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51754799"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232539"
 ---
-# <a name="output-excel-table-data-as-json-for-usage-in-power-automate"></a><span data-ttu-id="be7aa-103">Salida de datos de tabla de Excel como JSON para su uso en Power Automate</span><span class="sxs-lookup"><span data-stu-id="be7aa-103">Output Excel table data as JSON for usage in Power Automate</span></span>
+# <a name="output-excel-table-data-as-json-for-usage-in-power-automate"></a><span data-ttu-id="f1752-103">Salida Excel datos de tabla como JSON para su uso en Power Automate</span><span class="sxs-lookup"><span data-stu-id="f1752-103">Output Excel table data as JSON for usage in Power Automate</span></span>
 
-<span data-ttu-id="be7aa-104">Los datos de tabla de Excel se pueden representar como una matriz de objetos en forma de JSON.</span><span class="sxs-lookup"><span data-stu-id="be7aa-104">Excel table data can be represented as an array of objects in the form of JSON.</span></span> <span data-ttu-id="be7aa-105">Cada objeto representa una fila de la tabla.</span><span class="sxs-lookup"><span data-stu-id="be7aa-105">Each object represents a row in the table.</span></span> <span data-ttu-id="be7aa-106">Esto ayuda a extraer los datos de Excel en un formato coherente que sea visible para el usuario.</span><span class="sxs-lookup"><span data-stu-id="be7aa-106">This helps extract the data from Excel in a consistent format that is visible to the user.</span></span> <span data-ttu-id="be7aa-107">A continuación, los datos se pueden dar a otros sistemas a través de flujos de Power Automate.</span><span class="sxs-lookup"><span data-stu-id="be7aa-107">The data can then be given to other systems through Power Automate flows.</span></span>
+<span data-ttu-id="f1752-104">Excel datos de tabla se pueden representar como una matriz de objetos en forma de JSON.</span><span class="sxs-lookup"><span data-stu-id="f1752-104">Excel table data can be represented as an array of objects in the form of JSON.</span></span> <span data-ttu-id="f1752-105">Cada objeto representa una fila de la tabla.</span><span class="sxs-lookup"><span data-stu-id="f1752-105">Each object represents a row in the table.</span></span> <span data-ttu-id="f1752-106">Esto ayuda a extraer los datos Excel en un formato coherente que sea visible para el usuario.</span><span class="sxs-lookup"><span data-stu-id="f1752-106">This helps extract the data from Excel in a consistent format that is visible to the user.</span></span> <span data-ttu-id="f1752-107">A continuación, los datos se pueden dar a otros sistemas a través Power Automate flujos.</span><span class="sxs-lookup"><span data-stu-id="f1752-107">The data can then be given to other systems through Power Automate flows.</span></span>
 
-<span data-ttu-id="be7aa-108">_Datos de tabla de entrada_</span><span class="sxs-lookup"><span data-stu-id="be7aa-108">_Input table data_</span></span>
+<span data-ttu-id="f1752-108">_Datos de tabla de entrada_</span><span class="sxs-lookup"><span data-stu-id="f1752-108">_Input table data_</span></span>
 
-:::image type="content" source="../../images/table-input.png" alt-text="Hoja de cálculo que muestra los datos de la tabla de entrada.":::
+:::image type="content" source="../../images/table-input.png" alt-text="Una hoja de cálculo que muestra los datos de la tabla de entrada":::
 
-<span data-ttu-id="be7aa-110">Una variación de este ejemplo también incluye los hipervínculos en una de las columnas de la tabla.</span><span class="sxs-lookup"><span data-stu-id="be7aa-110">A variation of this sample also includes the hyperlinks in one of the table columns.</span></span> <span data-ttu-id="be7aa-111">Esto permite que se presenten niveles adicionales de datos de celda en el JSON.</span><span class="sxs-lookup"><span data-stu-id="be7aa-111">This allows additional levels of cell data to be surfaced in the JSON.</span></span>
+<span data-ttu-id="f1752-110">Una variación de este ejemplo también incluye los hipervínculos en una de las columnas de la tabla.</span><span class="sxs-lookup"><span data-stu-id="f1752-110">A variation of this sample also includes the hyperlinks in one of the table columns.</span></span> <span data-ttu-id="f1752-111">Esto permite que se presenten niveles adicionales de datos de celda en el JSON.</span><span class="sxs-lookup"><span data-stu-id="f1752-111">This allows additional levels of cell data to be surfaced in the JSON.</span></span>
 
-<span data-ttu-id="be7aa-112">_Datos de tabla de entrada que incluyen hipervínculos_</span><span class="sxs-lookup"><span data-stu-id="be7aa-112">_Input table data that includes hyperlinks_</span></span>
+<span data-ttu-id="f1752-112">_Datos de tabla de entrada que incluyen hipervínculos_</span><span class="sxs-lookup"><span data-stu-id="f1752-112">_Input table data that includes hyperlinks_</span></span>
 
-:::image type="content" source="../../images/table-hyperlink-view.png" alt-text="Hoja de cálculo que muestra una columna de datos de tabla con formato de hipervínculos.":::
+:::image type="content" source="../../images/table-hyperlink-view.png" alt-text="Hoja de cálculo que muestra una columna de datos de tabla con formato de hipervínculos":::
 
-<span data-ttu-id="be7aa-114">_Cuadro de diálogo para editar hipervínculo_</span><span class="sxs-lookup"><span data-stu-id="be7aa-114">_Dialog to edit hyperlink_</span></span>
+<span data-ttu-id="f1752-114">_Cuadro de diálogo para editar hipervínculo_</span><span class="sxs-lookup"><span data-stu-id="f1752-114">_Dialog to edit hyperlink_</span></span>
 
-:::image type="content" source="../../images/table-hyperlink-edit.png" alt-text="Cuadro de diálogo Editar hipervínculo que muestra opciones para cambiar hipervínculos.":::
+:::image type="content" source="../../images/table-hyperlink-edit.png" alt-text="Cuadro de diálogo Editar hipervínculo que muestra opciones para cambiar hipervínculos":::
 
-## <a name="sample-excel-file"></a><span data-ttu-id="be7aa-116">Archivo de Excel de ejemplo</span><span class="sxs-lookup"><span data-stu-id="be7aa-116">Sample Excel file</span></span>
+## <a name="sample-excel-file"></a><span data-ttu-id="f1752-116">Archivo Excel ejemplo</span><span class="sxs-lookup"><span data-stu-id="f1752-116">Sample Excel file</span></span>
 
-<span data-ttu-id="be7aa-117">Descarga el archivo <a href="table-data-with-hyperlinks.xlsx">table-data-with-hyperlinks.xlsx</a> usado en estos ejemplos y pruébalo tú mismo.</span><span class="sxs-lookup"><span data-stu-id="be7aa-117">Download the file <a href="table-data-with-hyperlinks.xlsx">table-data-with-hyperlinks.xlsx</a> used in these samples and try it out yourself!</span></span>
+<span data-ttu-id="f1752-117">Descarga el archivo <a href="table-data-with-hyperlinks.xlsx">table-data-with-hyperlinks.xlsx</a> usado en estos ejemplos y pruébalo tú mismo.</span><span class="sxs-lookup"><span data-stu-id="f1752-117">Download the file <a href="table-data-with-hyperlinks.xlsx">table-data-with-hyperlinks.xlsx</a> used in these samples and try it out yourself!</span></span>
 
-## <a name="sample-code-return-table-data-as-json"></a><span data-ttu-id="be7aa-118">Código de ejemplo: devolver datos de tabla como JSON</span><span class="sxs-lookup"><span data-stu-id="be7aa-118">Sample code: Return table data as JSON</span></span>
+## <a name="sample-code-return-table-data-as-json"></a><span data-ttu-id="f1752-118">Código de ejemplo: devolver datos de tabla como JSON</span><span class="sxs-lookup"><span data-stu-id="f1752-118">Sample code: Return table data as JSON</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="be7aa-119">Puede cambiar la estructura `interface TableData` para que coincida con las columnas de la tabla.</span><span class="sxs-lookup"><span data-stu-id="be7aa-119">You can change the `interface TableData` structure to match your table columns.</span></span> <span data-ttu-id="be7aa-120">Tenga en cuenta que para los nombres de columna con espacios, asegúrese de colocar la clave entre comillas, como con `"Event ID"` en el ejemplo.</span><span class="sxs-lookup"><span data-stu-id="be7aa-120">Note that for column names with spaces, be sure to place your key in quotation marks, such as with `"Event ID"` in the sample.</span></span>
+> <span data-ttu-id="f1752-119">Puede cambiar la estructura `interface TableData` para que coincida con las columnas de la tabla.</span><span class="sxs-lookup"><span data-stu-id="f1752-119">You can change the `interface TableData` structure to match your table columns.</span></span> <span data-ttu-id="f1752-120">Tenga en cuenta que para los nombres de columna con espacios, asegúrese de colocar la clave entre comillas, como con `"Event ID"` en el ejemplo.</span><span class="sxs-lookup"><span data-stu-id="f1752-120">Note that for column names with spaces, be sure to place your key in quotation marks, such as with `"Event ID"` in the sample.</span></span>
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): TableData[] {
@@ -81,7 +81,7 @@ interface TableData {
 }
 ```
 
-### <a name="sample-output"></a><span data-ttu-id="be7aa-121">Salida de ejemplo</span><span class="sxs-lookup"><span data-stu-id="be7aa-121">Sample output</span></span>
+### <a name="sample-output"></a><span data-ttu-id="f1752-121">Salida de ejemplo</span><span class="sxs-lookup"><span data-stu-id="f1752-121">Sample output</span></span>
 
 ```json
 [{
@@ -135,10 +135,10 @@ interface TableData {
 }]
 ```
 
-## <a name="sample-code-return-table-data-as-json-with-hyperlink-text"></a><span data-ttu-id="be7aa-122">Código de ejemplo: devolver datos de tabla como JSON con texto de hipervínculo</span><span class="sxs-lookup"><span data-stu-id="be7aa-122">Sample code: Return table data as JSON with hyperlink text</span></span>
+## <a name="sample-code-return-table-data-as-json-with-hyperlink-text"></a><span data-ttu-id="f1752-122">Código de ejemplo: devolver datos de tabla como JSON con texto de hipervínculo</span><span class="sxs-lookup"><span data-stu-id="f1752-122">Sample code: Return table data as JSON with hyperlink text</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="be7aa-123">El script siempre extrae hipervínculos de la 4ª columna (índice 0) de la tabla.</span><span class="sxs-lookup"><span data-stu-id="be7aa-123">The script always extracts hyperlinks from the 4th column (0 index) of the table.</span></span> <span data-ttu-id="be7aa-124">Puede cambiar ese orden o incluir varias columnas como datos de hipervínculo modificando el código en el comentario `// For the 4th column (0 index), extract the hyperlink and use that instead of text.`</span><span class="sxs-lookup"><span data-stu-id="be7aa-124">You can change that order or include multiple columns as hyperlink data by modifying the code under the comment `// For the 4th column (0 index), extract the hyperlink and use that instead of text.`</span></span>
+> <span data-ttu-id="f1752-123">El script siempre extrae hipervínculos de la 4ª columna (índice 0) de la tabla.</span><span class="sxs-lookup"><span data-stu-id="f1752-123">The script always extracts hyperlinks from the 4th column (0 index) of the table.</span></span> <span data-ttu-id="f1752-124">Puede cambiar ese orden o incluir varias columnas como datos de hipervínculo modificando el código en el comentario `// For the 4th column (0 index), extract the hyperlink and use that instead of text.`</span><span class="sxs-lookup"><span data-stu-id="f1752-124">You can change that order or include multiple columns as hyperlink data by modifying the code under the comment `// For the 4th column (0 index), extract the hyperlink and use that instead of text.`</span></span>
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): TableData[] {
@@ -191,7 +191,7 @@ interface TableData {
 }
 ```
 
-### <a name="sample-output"></a><span data-ttu-id="be7aa-125">Salida de ejemplo</span><span class="sxs-lookup"><span data-stu-id="be7aa-125">Sample output</span></span>
+### <a name="sample-output"></a><span data-ttu-id="f1752-125">Salida de ejemplo</span><span class="sxs-lookup"><span data-stu-id="f1752-125">Sample output</span></span>
 
 ```json
 [{
@@ -253,6 +253,6 @@ interface TableData {
 }]
 ```
 
-## <a name="use-in-power-automate"></a><span data-ttu-id="be7aa-126">Uso en Power Automate</span><span class="sxs-lookup"><span data-stu-id="be7aa-126">Use in Power Automate</span></span>
+## <a name="use-in-power-automate"></a><span data-ttu-id="f1752-126">Usar en Power Automate</span><span class="sxs-lookup"><span data-stu-id="f1752-126">Use in Power Automate</span></span>
 
-<span data-ttu-id="be7aa-127">Para obtener información sobre cómo usar este script en Power Automate, consulte [Create an automated workflow with Power Automate](../../tutorials/excel-power-automate-returns.md#create-an-automated-workflow-with-power-automate).</span><span class="sxs-lookup"><span data-stu-id="be7aa-127">For how to use such a script in Power Automate, see [Create an automated workflow with Power Automate](../../tutorials/excel-power-automate-returns.md#create-an-automated-workflow-with-power-automate).</span></span>
+<span data-ttu-id="f1752-127">Para obtener información sobre cómo usar este script en Power Automate, vea [Create an automated workflow with Power Automate](../../tutorials/excel-power-automate-returns.md#create-an-automated-workflow-with-power-automate).</span><span class="sxs-lookup"><span data-stu-id="f1752-127">For how to use such a script in Power Automate, see [Create an automated workflow with Power Automate](../../tutorials/excel-power-automate-returns.md#create-an-automated-workflow-with-power-automate).</span></span>

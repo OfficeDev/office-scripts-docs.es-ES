@@ -1,25 +1,25 @@
 ---
-title: Quitar hipervínculos de cada celda de una hoja de cálculo de Excel
-description: Obtenga información sobre cómo usar scripts de Office para quitar hipervínculos de cada celda de una hoja de cálculo de Excel.
-ms.date: 03/18/2021
+title: Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo
+description: Obtenga información sobre cómo usar Office scripts para quitar hipervínculos de cada celda de una hoja Excel trabajo.
+ms.date: 04/28/2021
 localization_priority: Normal
-ms.openlocfilehash: 07b670aac3368e38b9b93283404befee608391a7
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: eb5f486cb5228e639727c5ee7e6c335d5e94239f
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51571549"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232749"
 ---
-# <a name="remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a><span data-ttu-id="d4bb8-103">Quitar hipervínculos de cada celda de una hoja de cálculo de Excel</span><span class="sxs-lookup"><span data-stu-id="d4bb8-103">Remove hyperlinks from each cell in an Excel worksheet</span></span>
+# <a name="remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a><span data-ttu-id="7b986-103">Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo</span><span class="sxs-lookup"><span data-stu-id="7b986-103">Remove hyperlinks from each cell in an Excel worksheet</span></span>
 
- <span data-ttu-id="d4bb8-104">En este ejemplo se borran todos los hipervínculos de la hoja de cálculo actual.</span><span class="sxs-lookup"><span data-stu-id="d4bb8-104">This sample clears all of the hyperlinks from the current worksheet.</span></span> <span data-ttu-id="d4bb8-105">Recorre la hoja de cálculo y, si hay algún hipervínculo asociado a la celda, borra el hipervínculo pero conserva el valor de la celda tal como está.</span><span class="sxs-lookup"><span data-stu-id="d4bb8-105">It traverses the worksheet and if there is any hyperlink associated with the cell, it clears the hyperlink yet retains the cell value as is.</span></span> <span data-ttu-id="d4bb8-106">También registra el tiempo necesario para completar el recorrido.</span><span class="sxs-lookup"><span data-stu-id="d4bb8-106">Also logs the time it takes to complete traversal.</span></span>
+ <span data-ttu-id="7b986-104">En este ejemplo se borran todos los hipervínculos de la hoja de cálculo actual.</span><span class="sxs-lookup"><span data-stu-id="7b986-104">This sample clears all of the hyperlinks from the current worksheet.</span></span> <span data-ttu-id="7b986-105">Recorre la hoja de cálculo y, si hay algún hipervínculo asociado a la celda, borra el hipervínculo pero conserva el valor de la celda tal como está.</span><span class="sxs-lookup"><span data-stu-id="7b986-105">It traverses the worksheet and if there is any hyperlink associated with the cell, it clears the hyperlink yet retains the cell value as is.</span></span> <span data-ttu-id="7b986-106">También registra el tiempo necesario para completar el recorrido.</span><span class="sxs-lookup"><span data-stu-id="7b986-106">Also logs the time it takes to complete traversal.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="d4bb8-107">Esto solo funciona si el recuento de celdas < 10k.</span><span class="sxs-lookup"><span data-stu-id="d4bb8-107">This only works if the cell count is < 10k.</span></span>
+> <span data-ttu-id="7b986-107">Esto solo funciona si el recuento de celdas < 10k.</span><span class="sxs-lookup"><span data-stu-id="7b986-107">This only works if the cell count is < 10k.</span></span>
 
-## <a name="sample-code-remove-hyperlinks"></a><span data-ttu-id="d4bb8-108">Código de ejemplo: Quitar hipervínculos</span><span class="sxs-lookup"><span data-stu-id="d4bb8-108">Sample code: Remove hyperlinks</span></span>
+## <a name="sample-code-remove-hyperlinks"></a><span data-ttu-id="7b986-108">Código de ejemplo: Quitar hipervínculos</span><span class="sxs-lookup"><span data-stu-id="7b986-108">Sample code: Remove hyperlinks</span></span>
 
-<span data-ttu-id="d4bb8-109">Descarga el archivo <a href="remove-hyperlinks.xlsx">remove-hyperlinks.xlsx</a> usado en este ejemplo y pruébalo tú mismo.</span><span class="sxs-lookup"><span data-stu-id="d4bb8-109">Download the file <a href="remove-hyperlinks.xlsx">remove-hyperlinks.xlsx</a> used in this sample and try it out yourself!</span></span>
+<span data-ttu-id="7b986-109">Descarga el archivo <a href="remove-hyperlinks.xlsx">remove-hyperlinks.xlsx</a> usado en este ejemplo y pruébalo tú mismo.</span><span class="sxs-lookup"><span data-stu-id="7b986-109">Download the file <a href="remove-hyperlinks.xlsx">remove-hyperlinks.xlsx</a> used in this sample and try it out yourself!</span></span>
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook, sheetName: string = 'Sheet1') {
@@ -80,6 +80,6 @@ function removeHyperLink(targetRange: ExcelScript.Range): void {
 }
 ```
 
-## <a name="training-video-remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a><span data-ttu-id="d4bb8-110">Vídeo de aprendizaje: quitar hipervínculos de cada celda de una hoja de cálculo de Excel</span><span class="sxs-lookup"><span data-stu-id="d4bb8-110">Training video: Remove hyperlinks from each cell in an Excel worksheet</span></span>
+## <a name="training-video-remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a><span data-ttu-id="7b986-110">Vídeo de aprendizaje: quitar hipervínculos de cada celda de una hoja Excel trabajo</span><span class="sxs-lookup"><span data-stu-id="7b986-110">Training video: Remove hyperlinks from each cell in an Excel worksheet</span></span>
 
-<span data-ttu-id="d4bb8-111">[![Vea vídeo paso a paso sobre cómo quitar hipervínculos de cada celda de una hoja de cálculo de Excel](../../images/hyperlinks-vid.jpg)](https://youtu.be/v20fdinxpHU "Vídeo paso a paso sobre cómo quitar hipervínculos de cada celda de una hoja de cálculo de Excel")</span><span class="sxs-lookup"><span data-stu-id="d4bb8-111">[![Watch step-by-step video on how to remove hyperlinks from each cell in an Excel worksheet](../../images/hyperlinks-vid.jpg)](https://youtu.be/v20fdinxpHU "Step-by-step video on how to remove hyperlinks from each cell in an Excel worksheet")</span></span>
+<span data-ttu-id="7b986-111">[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/v20fdinxpHU).</span><span class="sxs-lookup"><span data-stu-id="7b986-111">[Watch Sudhi Ramamurthy walk through this sample on YouTube](https://youtu.be/v20fdinxpHU).</span></span>
