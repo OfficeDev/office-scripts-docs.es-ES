@@ -1,20 +1,20 @@
 ---
 title: Optimización del rendimiento al escribir un conjunto de datos grande
-description: Obtenga información sobre cómo optimizar el rendimiento al escribir un conjunto de datos grande en scripts de Office.
-ms.date: 03/04/2021
+description: Obtenga información sobre cómo optimizar el rendimiento al escribir un conjunto de datos grande en Office scripts.
+ms.date: 04/28/2021
 localization_priority: Normal
-ms.openlocfilehash: 190072e58238be95a2939f73dcda077ed91db848
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: dcbcf156ef624c4c5ce35c44d501286d507d9c40
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51571616"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232721"
 ---
 # <a name="performance-optimization-when-writing-a-large-dataset"></a>Optimización del rendimiento al escribir un conjunto de datos grande
 
 ## <a name="basic-performance-optimization"></a>Optimización básica del rendimiento
 
-Para obtener información básica sobre el rendimiento en scripts de Office, consulte la [sección de rendimiento](getting-started.md#basic-performance-considerations) del artículo Introducción.
+Para obtener información básica sobre el rendimiento Office scripts, consulte la [sección de rendimiento](getting-started.md#basic-performance-considerations) del artículo Introducción.
 
 ## <a name="sample-code-optimize-performance-of-a-large-dataset"></a>Código de ejemplo: optimizar el rendimiento de un conjunto de datos grande
 
@@ -153,4 +153,4 @@ function getRandomString(length: number): string {
 
 ## <a name="training-video-optimize-performance-when-writing-a-large-dataset"></a>Vídeo de aprendizaje: optimizar el rendimiento al escribir un conjunto de datos grande
 
-[![Ver vídeo sobre cómo optimizar el rendimiento al escribir un conjunto de datos grande](../../images/largedata-vid.png)](https://youtu.be/BP9Kp0Ltj7U "Vídeo sobre cómo optimizar el rendimiento al escribir un conjunto de datos grande")
+[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/BP9Kp0Ltj7U).

@@ -1,16 +1,16 @@
 ---
-title: 'Escenario de ejemplo scripts de Office: calculadora de calificaciones'
+title: 'Office Escenario de ejemplo de scripts: calculadora de calificaciones'
 description: Muestra que determina el porcentaje y las calificaciones de letras de una clase de alumnos.
 ms.date: 12/17/2020
 localization_priority: Normal
-ms.openlocfilehash: b8c45ad405c06a943c75e76391c1160ecb1bd18e
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: e2ef6e7522fc88219bf6ba40900a1ecceecb263b
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755031"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232700"
 ---
-# <a name="office-scripts-sample-scenario-grade-calculator"></a>Escenario de ejemplo scripts de Office: calculadora de calificaciones
+# <a name="office-scripts-sample-scenario-grade-calculator"></a>Office Escenario de ejemplo de scripts: calculadora de calificaciones
 
 En este escenario, eres un instructor que cuenta las calificaciones de fin de curso de cada alumno. Has estado especificando las puntuaciones de sus tareas y pruebas a medida que vas. Ahora, es el momento de determinar el destino de los alumnos.
 
@@ -25,7 +25,7 @@ Desarrollará un script que totale las calificaciones de cada categoría de punt
 
 ## <a name="setup-instructions"></a>Instrucciones de configuración
 
-1. Descarga <a href="grade-calculator.xlsx">grade-calculator.xlsx</a> a tu OneDrive.
+1. Descargue <a href="grade-calculator.xlsx">grade-calculator.xlsx</a> a su OneDrive.
 
 2. Abra el libro con Excel para la web.
 
@@ -182,8 +182,8 @@ Ejecute el script **calculadora de** calificaciones en la única hoja de cálcul
 
 ### <a name="before-running-the-script"></a>Antes de ejecutar el script
 
-:::image type="content" source="../../images/scenario-grade-calculator-before.png" alt-text="Hoja de cálculo que muestra filas de puntuaciones para los alumnos.":::
+:::image type="content" source="../../images/scenario-grade-calculator-before.png" alt-text="Hoja de cálculo que muestra filas de puntuaciones para alumnos":::
 
 ### <a name="after-running-the-script"></a>Después de ejecutar el script
 
-:::image type="content" source="../../images/scenario-grade-calculator-after.png" alt-text="Hoja de cálculo que muestra los datos de puntuación del alumno con celdas no válidas en totales rojos para filas de alumnos válidas.":::
+:::image type="content" source="../../images/scenario-grade-calculator-after.png" alt-text="Hoja de cálculo que muestra los datos de puntuación del alumno con celdas no válidas en totales rojos para filas de alumnos válidas":::

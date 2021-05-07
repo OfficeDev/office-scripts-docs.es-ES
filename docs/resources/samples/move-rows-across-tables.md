@@ -1,14 +1,14 @@
 ---
-title: Mover filas entre tablas mediante scripts de Office
+title: Mover filas entre tablas mediante Office scripts
 description: Aprenda a mover filas entre tablas guardando filtros y procesando y reaprobando los filtros.
-ms.date: 03/30/2021
+ms.date: 04/28/2021
 localization_priority: Normal
-ms.openlocfilehash: 1adaeee1c8307d7775529496df115563831aed4d
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: 959fb002b0ba485b43f4de7de3004e1074f768a7
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755045"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232756"
 ---
 # <a name="move-rows-across-tables-by-saving-filters-then-processing-and-reapplying-the-filters"></a>Mueva filas entre tablas guardando filtros y procesando y reaprobando los filtros.
 
@@ -25,7 +25,7 @@ Hay dos scripts en esta solución. La diferencia principal es cómo se seleccion
 * En la [primera variante,](#sample-code-move-rows-using-table-filter)las filas se seleccionan aplicando el filtro de tabla y leyendo el intervalo visible.
 * En el [segundo](#sample-code-move-rows-using-range-values), las filas se seleccionan leyendo los valores y extrayendo los valores de fila.
 
-## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
+## <a name="sample-excel-file"></a>Archivo Excel ejemplo
 
 Descargue el archivo <a href="input-table-filters.xlsx">input-table-filters.xlsx</a> se usa en esta solución para probarlo usted mismo.
 
@@ -249,4 +249,4 @@ function reApplyFilters(sourceTable: ExcelScript.Table, columnNameFilteredOn: st
 
 ## <a name="training-video-move-rows-across-tables"></a>Vídeo de aprendizaje: Mover filas entre tablas
 
-[![Ver vídeo paso a paso sobre cómo mover filas por tablas](../../images/move-rows-filters-vid.jpg)](https://youtu.be/_3t3Pk4i2L0 "Vídeo paso a paso sobre cómo mover filas por tablas")
+[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/_3t3Pk4i2L0).

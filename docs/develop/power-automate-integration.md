@@ -1,46 +1,46 @@
 ---
-title: Ejecutar scripts de Office con Power Automate
-description: Cómo obtener scripts de Office para Excel en la web trabajando con un flujo de trabajo de Power Automate.
+title: Ejecute Office scripts con Power Automate
+description: Cómo obtener scripts Office para Excel en la Web trabajar con un flujo Power Automate de trabajo.
 ms.date: 12/16/2020
 localization_priority: Normal
-ms.openlocfilehash: 1ca9aa14efe7cf2c91100a32fbc9a69054012f06
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: fd2622880f08c253f4333e642d1ebb0410bce681
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755073"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232420"
 ---
-# <a name="run-office-scripts-with-power-automate"></a>Ejecutar scripts de Office con Power Automate
+# <a name="run-office-scripts-with-power-automate"></a>Ejecute Office scripts con Power Automate
 
-[Power Automate](https://flow.microsoft.com) le permite agregar scripts de Office a un flujo de trabajo más grande y automatizado. Puede usar Power Automate para hacer cosas como agregar el contenido de un correo electrónico a la tabla de una hoja de cálculo o crear acciones en las herramientas de administración de proyectos en función de los comentarios del libro.
+[Power Automate](https://flow.microsoft.com) permite agregar scripts Office a un flujo de trabajo más grande y automatizado. Puede usar Power Automate tareas como agregar el contenido de un correo electrónico a la tabla de una hoja de cálculo o crear acciones en las herramientas de administración de proyectos en función de los comentarios del libro.
 
 ## <a name="getting-started"></a>Introducción
 
-Si no es nuevo en Power Automate, le recomendamos que visite [Introducción a Power Automate](/power-automate/getting-started). Allí, puede obtener más información sobre todas las posibilidades de automatización disponibles. Los documentos aquí se centran en cómo funcionan los scripts de Office con Power Automate y cómo esto puede ayudar a mejorar la experiencia de Excel.
+Si no es nuevo en Power Automate, le recomendamos que visite [Introducción a Power Automate](/power-automate/getting-started). Allí, puede obtener más información sobre todas las posibilidades de automatización disponibles. Los documentos aquí se centran en cómo Office scripts funcionan con Power Automate y cómo esto puede ayudar a mejorar la experiencia Excel usuario.
 
-Para empezar a combinar Power Automate y Scripts de Office, siga el tutorial [Empezar a usar scripts con Power Automate](../tutorials/excel-power-automate-manual.md). Esto le enseñará a crear un flujo que llame a un script simple. Después de completar ese tutorial y pasar datos a scripts en un tutorial de flujo de [Power Automate](../tutorials/excel-power-automate-trigger.md) de ejecución automática, vuelva aquí para obtener información detallada sobre cómo conectar scripts de Office a flujos de Power Automate.
+Para empezar a combinar Power Automate y Office scripts, siga el tutorial Empezar a usar [scripts con Power Automate](../tutorials/excel-power-automate-manual.md). Esto le enseñará a crear un flujo que llame a un script simple. Después de completar ese tutorial y pasar datos [a scripts](../tutorials/excel-power-automate-trigger.md) en un tutorial de flujo de Power Automate de ejecución automática, vuelva aquí para obtener información detallada acerca de cómo conectar scripts de Office Power Automate flujos.
 
-## <a name="excel-online-business-connector"></a>Conector de Excel Online (empresa)
+## <a name="excel-online-business-connector"></a>Excel Conector en línea (empresa)
 
-[Los conectores](/connectors/connectors) son los puentes entre Power Automate y las aplicaciones. El [conector de Excel Online (empresa)](/connectors/excelonlinebusiness) proporciona a los flujos acceso a libros de Excel. La acción "Ejecutar script" le permite llamar a cualquier script de Office accesible a través del libro seleccionado. También puede proporcionar parámetros de entrada de scripts para que el flujo pueda proporcionar datos o que el script devuelva información para los pasos posteriores del flujo.
+[Los conectores](/connectors/connectors) son los puentes entre Power Automate y aplicaciones. El [Excel online (empresa)](/connectors/excelonlinebusiness) proporciona a los flujos acceso a Excel libros. La acción "Ejecutar script" le permite llamar a cualquier Office script accesible a través del libro seleccionado. También puede proporcionar parámetros de entrada de scripts para que el flujo pueda proporcionar datos o que el script devuelva información para los pasos posteriores del flujo.
 
 > [!IMPORTANT]
-> La acción "Ejecutar script" proporciona a las personas que usan el conector de Excel un acceso significativo al libro y sus datos. Además, hay riesgos de seguridad con scripts que hacen llamadas a API externas, como se explica en [Llamadas externas de Power Automate](external-calls.md). Si su administrador está preocupado por la exposición de datos altamente confidenciales, puede desactivar el conector de Excel Online o restringir el acceso a scripts de Office a través de los controles de administrador [de Scripts de Office](/microsoft-365/admin/manage/manage-office-scripts-settings).
+> La acción "Ejecutar script" proporciona a las personas que usan el conector Excel acceso significativo al libro y sus datos. Además, hay riesgos de seguridad con scripts que hacen llamadas API externas, como se explica en [Llamadas externas desde Power Automate](external-calls.md). Si al administrador le preocupa la exposición de datos altamente confidenciales, puede desactivar el conector de Excel Online o restringir el acceso a scripts de Office a través de los controles de administrador de scripts de [Office](/microsoft-365/admin/manage/manage-office-scripts-settings).
 
 ## <a name="data-transfer-in-flows-for-scripts"></a>Transferencia de datos en flujos para scripts
 
-Power Automate te permite pasar fragmentos de datos entre los pasos del flujo. Los scripts se pueden configurar para aceptar cualquier tipo de información que necesite y devolver cualquier cosa del libro que desee en el flujo. La entrada del script se especifica agregando parámetros a la `main` función (además de `workbook: ExcelScript.Workbook` ). El resultado del script se declara agregando un tipo devuelto a `main` .
+Power Automate permite pasar fragmentos de datos entre los pasos del flujo. Los scripts se pueden configurar para aceptar cualquier tipo de información que necesite y devolver cualquier cosa del libro que desee en el flujo. La entrada del script se especifica agregando parámetros a la `main` función (además de `workbook: ExcelScript.Workbook` ). El resultado del script se declara agregando un tipo devuelto a `main` .
 
 > [!NOTE]
 > Al crear un bloque "Ejecutar script" en el flujo, se rellenan los parámetros aceptados y los tipos devueltos. Si cambia los parámetros o devuelve tipos de script, tendrá que volver a hacer el bloque "Ejecutar script" del flujo. Esto garantiza que los datos se analicen correctamente.
 
-Las secciones siguientes cubren los detalles de entrada y salida de scripts usados en Power Automate. Si desea un enfoque práctico para aprender este tema, pruebe el paso de datos a scripts en un tutorial de flujo de [Power Automate](../tutorials/excel-power-automate-trigger.md) ejecutado automáticamente o explore el escenario de ejemplo Avisos de tareas [automatizadas.](../resources/scenarios/task-reminders.md)
+Las secciones siguientes cubren los detalles de entrada y salida de scripts usados en Power Automate. Si desea un enfoque práctico para aprender este tema, pruebe el paso de datos [a scripts](../tutorials/excel-power-automate-trigger.md) en un tutorial de flujo de Power Automate de ejecución automática o explore el escenario de ejemplo Avisos de tareas [automatizadas.](../resources/scenarios/task-reminders.md)
 
 ### <a name="main-parameters-passing-data-to-a-script"></a>`main` Parámetros: pasar datos a un script
 
 Toda la entrada de script se especifica como parámetros adicionales para la `main` función. Por ejemplo, si desea que un script acepte un nombre que represente un nombre como `string` entrada, cambiaría la firma `main` a `function main(workbook: ExcelScript.Workbook, name: string)` .
 
-Al configurar un flujo en Power Automate, puede especificar la entrada de script como valores [estáticos, expresiones](/power-automate/use-expressions-in-conditions)o contenido dinámico. Los detalles sobre el conector de un servicio individual se pueden encontrar en la [documentación de Power Automate Connector](/connectors/).
+Al configurar un flujo en Power Automate, puede especificar la entrada de script como valores [estáticos, expresiones](/power-automate/use-expressions-in-conditions)o contenido dinámico. Los detalles sobre el conector de un servicio individual se pueden encontrar en la [documentación Power Automate Connector](/connectors/).
 
 Al agregar parámetros de entrada a la función de un script, tenga en cuenta `main` las siguientes concesiones y restricciones.
 
@@ -83,7 +83,7 @@ Al agregar parámetros de entrada a la función de un script, tenga en cuenta `m
 
 ### <a name="returning-data-from-a-script"></a>Devolver datos de un script
 
-Los scripts pueden devolver datos del libro que se usarán como contenido dinámico en un flujo de Power Automate. Al igual que con los parámetros de entrada, Power Automate coloca algunas restricciones en el tipo devuelto.
+Los scripts pueden devolver datos del libro que se usarán como contenido dinámico en un flujo Power Automate datos. Al igual que con los parámetros de entrada, Power Automate algunas restricciones en el tipo devuelto.
 
 1. Los tipos básicos `string` , , , y son `number` `boolean` `void` `undefined` compatibles.
 
@@ -97,9 +97,9 @@ Los scripts pueden devolver datos del libro que se usarán como contenido dinám
 
 ## <a name="example"></a>Ejemplo
 
-La siguiente captura de pantalla muestra un flujo de Power Automate que se desencadena cada vez que se asigna un problema de [GitHub.](https://github.com/) El flujo ejecuta un script que agrega el problema a una tabla de un libro de Excel. Si hay cinco o más problemas en esa tabla, el flujo envía un aviso por correo electrónico.
+La siguiente captura de pantalla muestra un Power Automate [](https://github.com/) que se desencadena cada vez que se le asigna GitHub un problema. El flujo ejecuta un script que agrega el problema a una tabla de un Excel libro. Si hay cinco o más problemas en esa tabla, el flujo envía un aviso por correo electrónico.
 
-:::image type="content" source="../images/power-automate-parameter-return-sample.png" alt-text="El editor de flujo de Power Automate que muestra el flujo de ejemplo.":::
+:::image type="content" source="../images/power-automate-parameter-return-sample.png" alt-text="Editor Power Automate de flujo que muestra el flujo de ejemplo":::
 
 La función del script especifica el identificador de problema y el título del problema como parámetros de entrada y el script devuelve el número de `main` filas de la tabla de problemas.
 
@@ -122,11 +122,11 @@ function main(
 }
 ```
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
-- [Ejecutar scripts de Office en Excel en la web con Power Automate](../tutorials/excel-power-automate-manual.md)
+- [Ejecute Office scripts en Excel en la Web con Power Automate](../tutorials/excel-power-automate-manual.md)
 - [Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente](../tutorials/excel-power-automate-trigger.md)
 - [Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente](../tutorials/excel-power-automate-returns.md)
-- [Información de solución de problemas de Power Automate con scripts de Office](../testing/power-automate-troubleshooting.md)
+- [Solución de problemas de información Power Automate con scripts Office datos](../testing/power-automate-troubleshooting.md)
 - [Introducción a Power Automate](/power-automate/getting-started)
-- [Documentación de referencia del conector de Excel Online (Empresa)](/connectors/excelonlinebusiness/)
+- [Excel Documentación de referencia del conector en línea (empresa)](/connectors/excelonlinebusiness/)

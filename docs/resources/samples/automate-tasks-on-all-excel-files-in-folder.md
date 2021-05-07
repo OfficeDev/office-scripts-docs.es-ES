@@ -1,14 +1,14 @@
 ---
 title: Ejecutar un script en todos los archivos de Excel de una carpeta
 description: Obtenga información sobre cómo ejecutar un script en todos los Excel archivos de una carpeta en OneDrive para la Empresa.
-ms.date: 04/02/2021
+ms.date: 04/28/2021
 localization_priority: Normal
-ms.openlocfilehash: 6376dcac0eb36c04c2b60b2717d18cd730a0a8ee
-ms.sourcegitcommit: 1f003c9924e651600c913d84094506125f1055ab
+ms.openlocfilehash: a6b869e2b346635e2b28fa7c6273c1a86a5bc5c5
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026856"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232630"
 ---
 # <a name="run-a-script-on-all-excel-files-in-a-folder"></a>Ejecutar un script en todos los archivos de Excel de una carpeta
 
@@ -71,23 +71,23 @@ Este flujo ejecuta el script en todos los libros de la carpeta "Ventas".
 1. Seleccione **Desencadenar manualmente un flujo y** presione **Crear**.
 1. Agregue un **nuevo paso que** use el conector **OneDrive para la Empresa** y los archivos de lista en la acción **de carpeta.**
 
-    :::image type="content" source="../../images/all-files-in-folder-sample-flow-1.png" alt-text="El conector OneDrive para la Empresa completo en Power Automate.":::
+    :::image type="content" source="../../images/all-files-in-folder-sample-flow-1.png" alt-text="El conector OneDrive para la Empresa en Power Automate":::
 1. Seleccione la carpeta "Ventas" con los libros extraídos.
 1. Para asegurarse de que solo están seleccionados los libros, elija **Nuevo paso** y, a continuación, **seleccione Condición** y establezca los siguientes valores:
     1. **Name** (el OneDrive de nombre de archivo)
     1. "termina con"
     1. "xlsx".
 
-    :::image type="content" source="../../images/all-files-in-folder-sample-flow-2.png" alt-text="El Power Automate condición que aplica acciones posteriores a cada archivo.":::
+    :::image type="content" source="../../images/all-files-in-folder-sample-flow-2.png" alt-text="El Power Automate condición que aplica acciones posteriores a cada archivo":::
 1. En la **rama If yes,** agregue **el conector Excel Online (Empresa)** con la acción **Ejecutar script (versión** preliminar). Use los siguientes valores para la acción:
     1. **Ubicación**: OneDrive para la Empresa
     1. **Biblioteca de documentos**: OneDrive
     1. **Archivo:** **Identificador** (el valor OneDrive id. de archivo)
     1. **Script:** el nombre del script
 
-    :::image type="content" source="../../images/all-files-in-folder-sample-flow-3.png" alt-text="El conector Excel Online (Empresa) completado en Power Automate.":::
+    :::image type="content" source="../../images/all-files-in-folder-sample-flow-3.png" alt-text="El conector Excel online (empresa) completado en Power Automate":::
 1. Guarde el flujo y pruébalo.
 
 ## <a name="training-video-run-a-script-on-all-excel-files-in-a-folder"></a>Vídeo de aprendizaje: ejecutar un script en todos Excel archivos de una carpeta
 
-[Vea el vídeo paso](https://youtu.be/xMg711o7k6w) a paso sobre cómo ejecutar un script en todos los Excel archivos de una OneDrive para la Empresa o SharePoint carpeta.
+[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/xMg711o7k6w).

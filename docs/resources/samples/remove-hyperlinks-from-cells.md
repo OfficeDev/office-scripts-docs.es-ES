@@ -1,16 +1,16 @@
 ---
-title: Quitar hipervínculos de cada celda de una hoja de cálculo de Excel
-description: Obtenga información sobre cómo usar scripts de Office para quitar hipervínculos de cada celda de una hoja de cálculo de Excel.
-ms.date: 03/18/2021
+title: Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo
+description: Obtenga información sobre cómo usar Office scripts para quitar hipervínculos de cada celda de una hoja Excel trabajo.
+ms.date: 04/28/2021
 localization_priority: Normal
-ms.openlocfilehash: 07b670aac3368e38b9b93283404befee608391a7
-ms.sourcegitcommit: 5d24e77df70aa2c1c982275d53213c2a9323ff86
+ms.openlocfilehash: eb5f486cb5228e639727c5ee7e6c335d5e94239f
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51571549"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232749"
 ---
-# <a name="remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a>Quitar hipervínculos de cada celda de una hoja de cálculo de Excel
+# <a name="remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a>Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo
 
  En este ejemplo se borran todos los hipervínculos de la hoja de cálculo actual. Recorre la hoja de cálculo y, si hay algún hipervínculo asociado a la celda, borra el hipervínculo pero conserva el valor de la celda tal como está. También registra el tiempo necesario para completar el recorrido.
 
@@ -80,6 +80,6 @@ function removeHyperLink(targetRange: ExcelScript.Range): void {
 }
 ```
 
-## <a name="training-video-remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a>Vídeo de aprendizaje: quitar hipervínculos de cada celda de una hoja de cálculo de Excel
+## <a name="training-video-remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a>Vídeo de aprendizaje: quitar hipervínculos de cada celda de una hoja Excel trabajo
 
-[![Vea vídeo paso a paso sobre cómo quitar hipervínculos de cada celda de una hoja de cálculo de Excel](../../images/hyperlinks-vid.jpg)](https://youtu.be/v20fdinxpHU "Vídeo paso a paso sobre cómo quitar hipervínculos de cada celda de una hoja de cálculo de Excel")
+[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/v20fdinxpHU).

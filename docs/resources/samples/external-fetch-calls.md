@@ -1,16 +1,16 @@
 ---
-title: Usar llamadas de captura externa en Office scripts
+title: Usar llamadas de captura externa en Scripts de Office
 description: Obtenga información sobre cómo realizar llamadas API externas en Office scripts.
-ms.date: 04/05/2021
+ms.date: 04/28/2021
 localization_priority: Normal
-ms.openlocfilehash: a77ceb61c2ff46a7b6226b798462b7be2c8e1c54
-ms.sourcegitcommit: 1f003c9924e651600c913d84094506125f1055ab
+ms.openlocfilehash: 721bfa39eea1e9973efc7fd13efa5bac734b76dd
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026997"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232525"
 ---
-# <a name="use-external-fetch-calls-in-office-scripts"></a>Usar llamadas de captura externa en Office scripts
+# <a name="use-external-fetch-calls-in-office-scripts"></a>Usar llamadas de captura externa en Scripts de Office
 
 Este script obtiene información básica sobre los repositorios de GitHub usuario. Muestra cómo usar en `fetch` un escenario simple.
 
@@ -51,4 +51,4 @@ interface License {
 
 ## <a name="training-video-how-to-make-external-api-calls"></a>Vídeo de aprendizaje: Cómo realizar llamadas a API externas
 
-[![Ver vídeo sobre cómo realizar llamadas a API externas](../../images/api-vid.png)](https://youtu.be/fulP29J418E "Vídeo sobre cómo realizar llamadas a API externas")
+[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/fulP29J418E).

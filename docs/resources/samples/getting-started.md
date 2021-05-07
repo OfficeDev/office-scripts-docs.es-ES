@@ -1,62 +1,62 @@
 ---
-title: Introducción a scripts de Office
-description: Conceptos básicos sobre scripts de Office, incluidos los patrones de acceso, entorno y script.
+title: Introducción a Office scripts
+description: Conceptos básicos sobre Office scripts, incluidos los patrones de acceso, entorno y script.
 ms.date: 04/01/2021
 localization_priority: Normal
 ROBOTS: NOINDEX
-ms.openlocfilehash: 42b71a21470ac38535e3e95f091ec6267806e54a
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: d30c4fb4523c49b559e057eede4d5de162b74f9c
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755059"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232763"
 ---
 # <a name="getting-started"></a>Introducción
 
-En esta sección se proporcionan detalles sobre los conceptos básicos de los scripts de Office, incluidos el acceso, el entorno, los conceptos básicos del script y algunos patrones de script básicos.
+En esta sección se proporcionan detalles sobre los conceptos básicos de Office scripts, incluidos el acceso, el entorno, los conceptos básicos del script y algunos patrones de script básicos.
 
 ## <a name="environment-setup"></a>Configuración del entorno
 
 Obtenga información sobre los conceptos básicos del editor de acceso, entorno y script.
 
-[![Conceptos básicos de la aplicación scripts de Office](../../images/getting-started-env.png)](https://youtu.be/vvCtxsjPxo8 "Conceptos básicos de la aplicación scripts de Office")
+[![Conceptos básicos de la Office scripts](../../images/getting-started-env.png)](https://youtu.be/vvCtxsjPxo8 "Conceptos básicos de la Office scripts")
 
-### <a name="access"></a>Access
+### <a name="access"></a>Acceso
 
-Scripts de Office requiere la configuración de administración disponible para el administrador de Microsoft 365 en **Configuración**  >  **de la organización Configuración Scripts**  >  **de Office**. De forma predeterminada, está activada para todos los usuarios. Hay dos configuraciones sub, que el administrador puede activar y desactivar.
+Office Los scripts requieren la configuración de administración disponible para Microsoft 365 administrador en **Configuración**  >  **configuración de la** organización Office  >  **scripts**. De forma predeterminada, está activada para todos los usuarios. Hay dos configuraciones sub, que el administrador puede activar y desactivar.
 
 * Capacidad para compartir scripts dentro de la organización
 * Capacidad de usar scripts en Power Automate
 
-Puede saber si tiene acceso a scripts de Office abriendo un archivo en Excel en la web (explorador) y viendo si la pestaña **Automatizar** aparece en la cinta de Opciones de Excel o no.
+Puede saber si tiene acceso a Office Scripts abriendo un archivo en Excel en la Web (explorador) y viendo si la pestaña **Automatizar** aparece en la cinta de opciones Excel o no.
 Si aún no puede ver la pestaña **Automatizar,** compruebe [esta sección de solución de problemas](../../testing/troubleshooting.md#automate-tab-not-appearing-or-office-scripts-unavailable).
 
 ### <a name="availability"></a>Disponibilidad
 
-Los scripts de Office solo están disponibles en Excel en la web para licencias de Enterprise E3+ (no se admiten cuentas de consumidor y E1). Los scripts de Office aún no se admiten en Excel en Windows y Mac.
+Office Los scripts solo están disponibles en el Excel en la Web para Enterprise licencias de E3+ (no se admiten cuentas de consumidor y E1). Office Los scripts aún no se admiten en Excel en Windows y Mac.
 
 ### <a name="scripts-and-editor"></a>Scripts y editor
 
-El editor de código se basa directamente en Excel en la web (versión en línea). Si has usado editores como Visual Studio Code o Sublime, esta experiencia de edición será bastante similar.
-La mayoría de las teclas de acceso directo que Visual Studio editor de código también usan trabajo en la experiencia de edición de scripts de Office. Consulte los siguientes volantes de teclas de método abreviado.
+El editor de código se basa directamente en Excel en la Web (versión en línea). Si has usado editores como Visual Studio Code o Sublime, esta experiencia de edición será bastante similar.
+La mayoría de las teclas de acceso directo que Visual Studio Code editor usa también funcionan en la Office de edición de scripts. Consulte los siguientes volantes de teclas de método abreviado.
 
 * [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 * [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 #### <a name="key-things-to-note"></a>Aspectos clave a tener en cuenta
 
-* Los scripts de Office solo están disponibles para los archivos almacenados en OneDrive para la Empresa, los sitios de SharePoint y los sitios de grupo.
+* Office Los scripts solo están disponibles para archivos almacenados en OneDrive para la Empresa, SharePoint y sitios de grupo.
 * El editor no muestra la extensión del script. En realidad, se trata de archivos TypeScript, pero se almacenan con una extensión personalizada denominada `.osts` .
-* Los scripts se almacenan en su propia carpeta de OneDrive para la Empresa `My Files/Documents/OfficeScripts` . No necesitará administrar esta carpeta. Por su parte, puede omitir este aspecto a medida que el editor administra la experiencia de visualización y edición.
-* Los scripts no se almacenan como parte de los archivos de Excel. Se almacenan por separado.
-* Puede compartir el script con un archivo de Excel que, en efecto, significa que está vinculando el script con el archivo, no adjuntarlo. Quien tenga acceso al archivo de Excel también podrá **ver,** **ejecutar** o hacer **una copia** del script. Esta es una diferencia clave en comparación con las macros de VBA.
+* Los scripts se almacenan en su propia OneDrive para la Empresa `My Files/Documents/OfficeScripts` carpeta . No necesitará administrar esta carpeta. Por su parte, puede omitir este aspecto a medida que el editor administra la experiencia de visualización y edición.
+* Los scripts no se almacenan como parte de Excel archivos. Se almacenan por separado.
+* Puede compartir el script con un archivo Excel que, en efecto, significa que va a vincular el script con el archivo, no adjuntarlo. Quien tenga acceso al archivo Excel también podrá **ver,** **ejecutar** o hacer una **copia** del script. Esta es una diferencia clave en comparación con las macros de VBA.
 * A menos que comparta los scripts, nadie más podrá acceder a él, ya que reside en su propia biblioteca.
-* Los scripts no se pueden vincular desde un disco local ni desde ubicaciones de nube personalizadas. Los scripts de Office solo reconocen y ejecutan un script que se encuentra en una ubicación predefinida (la carpeta de OneDrive mencionada anteriormente) o scripts compartidos.
-* Durante la edición, los archivos se guardan temporalmente en el explorador, pero tendrás que guardar el script antes de cerrar la ventana de Excel para guardarlo en la ubicación de OneDrive. No olvide guardar el archivo después de editarlo.
+* Los scripts no se pueden vincular desde un disco local ni desde ubicaciones de nube personalizadas. Office Los scripts solo reconocen y ejecutan un script que se encuentra en una ubicación predefinida (la carpeta OneDrive mencionada anteriormente) o scripts compartidos.
+* Durante la edición, los archivos se guardan temporalmente en el explorador, pero tendrás que guardar el script antes de cerrar la ventana Excel para guardarlo en la OneDrive ubicación. No olvide guardar el archivo después de editarlo.
 
 ## <a name="gentle-introduction-to-scripting"></a>Introducción suave a scripting
 
-Los scripts de Office son scripts independientes escritos en el lenguaje TypeScript que contienen instrucciones para realizar cierta automatización en el libro de Excel seleccionado. Todas las instrucciones de automatización están independientes dentro de un script y los scripts no pueden invocar ni llamar a otros scripts. Todos los scripts se almacenan en archivos independientes y se almacenan en la carpeta de OneDrive del usuario. Puede grabar un nuevo script, editar un script grabado o escribir un script nuevo completo desde cero, todo dentro de una interfaz de editor integrada. La mejor parte de los scripts de Office es que no necesitan ninguna configuración adicional de los usuarios. No hay bibliotecas externas, páginas web o elementos de interfaz de usuario, configuración, etc. Todos los scripts de Office controlan toda la configuración del entorno y permiten un acceso fácil y rápido a la automatización a través de una interfaz de API sencilla.
+Office Los scripts son scripts independientes escritos en el lenguaje TypeScript que contienen instrucciones para realizar cierta automatización en el libro de Excel seleccionado. Todas las instrucciones de automatización están independientes dentro de un script y los scripts no pueden invocar ni llamar a otros scripts. Todos los scripts se almacenan en archivos independientes y se almacenan en la carpeta de OneDrive usuario. Puede grabar un nuevo script, editar un script grabado o escribir un script nuevo completo desde cero, todo dentro de una interfaz de editor integrada. La mejor parte de Office scripts es que no necesitan más configuración de los usuarios. No hay bibliotecas externas, páginas web o elementos de interfaz de usuario, configuración, etc. Toda la configuración del entorno se controla mediante Office scripts y permite un acceso fácil y rápido a la automatización a través de una interfaz de API sencilla.
 
 Algunos de los conceptos básicos útiles para comprender cómo editar y navegar por scripts son:
 
@@ -69,15 +69,15 @@ Algunos de los conceptos básicos útiles para comprender cómo editar y navegar
 
 En este vídeo y en la sección se explican algunos de estos conceptos en detalle.
 
-[![Conceptos básicos de scripts de Office](../../images/getting-started-v_script.png)](https://youtu.be/8Zsrc1uaiiU "Conceptos básicos de scripts")
+[![Conceptos básicos de Office scripts](../../images/getting-started-v_script.png)](https://youtu.be/8Zsrc1uaiiU "Conceptos básicos de scripts")
 
 ### <a name="language-typescript"></a>Idioma: TypeScript
 
-[Los scripts](../../index.md) de Office se escriben con el lenguaje [TypeScript](https://www.typescriptlang.org/), que es un lenguaje de código abierto que se basa en JavaScript (uno de los más usados del mundo) agregando definiciones de tipos estáticos. Como dice el sitio web, proporcione una forma de describir la forma de un objeto, proporcionando mejor documentación y permitiendo que TypeScript valide que el código funciona `Types` correctamente.
+[Office Scripts](../../index.md) se escribe con el lenguaje [TypeScript](https://www.typescriptlang.org/), que es un lenguaje de código abierto que se basa en JavaScript (uno de los más usados del mundo) agregando definiciones de tipos estáticos. Como dice el sitio web, proporcione una forma de describir la forma de un objeto, proporcionando mejor documentación y permitiendo que TypeScript valide que el código funciona `Types` correctamente.
 
-La sintaxis del lenguaje en sí se escribe con [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) con escrituras adicionales definidas en el script mediante convenciones de TypeScript. En su mayoría, puede pensar en scripts de Office como escritos en JavaScript. Es esencial que comprenda los conceptos básicos del lenguaje JavaScript para comenzar el recorrido de scripts de Office; aunque no es necesario ser competente para comenzar el recorrido de automatización. Con la grabadora de acciones de Scripts de Office, puede comprender las instrucciones de script porque se incluyen comentarios de código y puede seguir y realizar pequeñas modificaciones.
+La sintaxis del lenguaje en sí se escribe con [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) con escrituras adicionales definidas en el script mediante convenciones de TypeScript. En la mayoría de los casos, puede pensar en Office scripts escritos en JavaScript. Es esencial que comprenda los conceptos básicos del lenguaje JavaScript para comenzar el Office de scripts; aunque no es necesario ser competente para comenzar el recorrido de automatización. Con la grabadora Office de acciones de scripts, puede comprender las instrucciones de script porque se incluyen comentarios de código y puede seguir y realizar pequeñas modificaciones.
 
-Las API de Scripts de Office, que permiten que el script interactúe con Excel, están diseñadas para usuarios finales que pueden no tener mucho fondo de codificación. Las API se pueden invocar sincrónicamente y no es necesario conocer temas avanzados como promesas o devoluciones de llamada. El diseño de la API de scripts de Office proporciona:
+Office Las API de scripts, que permiten que el script interactúe con Excel, están diseñadas para usuarios finales que pueden no tener mucho fondo de codificación. Las API se pueden invocar sincrónicamente y no es necesario conocer temas avanzados como promesas o devoluciones de llamada. Office El diseño de la API de scripts proporciona:
 
 * Modelo de objetos simple con métodos, getters/setters.
 * Colecciones de objetos de fácil acceso como matrices regulares.
@@ -86,24 +86,24 @@ Las API de Scripts de Office, que permiten que el script interactúe con Excel, 
 
 ### <a name="main-function-the-scripts-starting-point"></a>`main` function: el punto inicial del script
 
-La ejecución de scripts de Office comienza en la `main` función. Un script es un único archivo que contiene una o varias funciones junto con declaraciones de tipos, interfaces, variables, etc. Para seguir con el script, comience con la función, ya que Excel siempre invoca primero `main` la función al ejecutar cualquier `main` script. La función siempre tendrá al menos un argumento (o parámetro) denominado , que es solo un nombre de variable que identifica el libro actual con el que `main` `workbook` se ejecuta el script. Puede definir argumentos adicionales para su uso con la ejecución de Power Automate (sin conexión).
+Office La ejecución de scripts comienza en la `main` función. Un script es un único archivo que contiene una o varias funciones junto con declaraciones de tipos, interfaces, variables, etc. Para seguir con el script, comience con la función Excel primero invoca la función al `main` `main` ejecutar cualquier script. La función siempre tendrá al menos un argumento (o parámetro) denominado , que es solo un nombre de variable que identifica el libro actual con el que `main` `workbook` se ejecuta el script. Puede definir argumentos adicionales para su uso con Power Automate ejecución (sin conexión).
 
 * `function main(workbook: ExcelScript.Workbook)`
 
-Un script se puede organizar en funciones más pequeñas para ayudar con la reusabilidad del código, la claridad, etc. Otras funciones pueden estar dentro o fuera de la función principal, pero siempre en el mismo archivo. Un script es independiente y solo puede usar funciones definidas en el mismo archivo. Los scripts no pueden invocar ni llamar a otro script de Office.
+Un script se puede organizar en funciones más pequeñas para ayudar con la reusabilidad del código, la claridad, etc. Otras funciones pueden estar dentro o fuera de la función principal, pero siempre en el mismo archivo. Un script es independiente y solo puede usar funciones definidas en el mismo archivo. Los scripts no pueden invocar ni llamar a otro Office script.
 
 Por lo tanto, en resumen:
 
-* La `main` función es el punto de entrada de cualquier script. Cuando se ejecuta la función, la aplicación de Excel invoca esta función principal proporcionando el libro como su primer parámetro.
+* La `main` función es el punto de entrada de cualquier script. Cuando se ejecuta la función, la aplicación Excel invoca esta función principal proporcionando el libro como su primer parámetro.
 * Es importante mantener el primer argumento y `workbook` su declaración de tipo tal como aparece. Puede agregar nuevos argumentos a la función (consulte la siguiente sección) pero mantenga `main` el primer argumento tal y como está.
 
 :::image type="content" source="../../images/getting-started-main-introduction.png" alt-text="La función principal es el punto de entrada del script":::
 
 #### <a name="send-or-receive-data-from-other-apps"></a>Enviar o recibir datos de otras aplicaciones
 
-Puede conectar Excel a otras partes de su organización ejecutando scripts en [Power Automate](https://flow.microsoft.com). Obtenga más información sobre [cómo ejecutar scripts de Office en flujos de Power Automate.](../../develop/power-automate-integration.md)
+Puede conectar Excel a otras partes de la organización ejecutando scripts en [Power Automate](https://flow.microsoft.com). Obtenga más información [sobre cómo ejecutar Office scripts en Power Automate flujos](../../develop/power-automate-integration.md).
 
-La forma de recibir o enviar datos desde y a Excel es a través de la `main` función. Piense en ella como la puerta de enlace de información que permite describir y usar los datos entrantes y salientes en el script. Puede recibir datos de fuera del script mediante el tipo de datos y devolver cualquier dato reconocido por TypeScript, como , , o cualquier objeto en forma de interfaces que defina en el `string` `string` `number` `boolean` script.
+La forma de recibir o enviar datos desde y Excel es a través de la `main` función. Piense en ella como la puerta de enlace de información que permite describir y usar los datos entrantes y salientes en el script. Puede recibir datos de fuera del script mediante el tipo de datos y devolver cualquier dato reconocido por TypeScript, como , , o cualquier objeto en forma de interfaces que defina en el `string` `string` `number` `boolean` script.
 
 :::image type="content" source="../../images/getting-started-data-in-out.png" alt-text="Entradas y salidas de un script":::
 
@@ -115,9 +115,9 @@ Puede usar funciones para organizar y reutilizar código dentro del script.
 
 ### <a name="objects-hierarchy-methods-properties-collections"></a>Objetos, jerarquía, métodos, propiedades, colecciones
 
-Todo el modelo de objetos de Excel se define en una estructura jerárquica de objetos, empezando por el objeto de libro de tipo `ExcelScript.Workbook` . Un objeto puede contener métodos, propiedades y otros objetos dentro de él. Los objetos se vinculan entre sí mediante los métodos. El método de un objeto puede devolver otro objeto o colección de objetos. El uso de la característica de IntelliSense (finalización de código) del editor de código es una excelente manera de explorar la jerarquía de objetos. También puede usar el sitio de documentación [de referencia oficial](/javascript/api/office-scripts/overview) para seguir las relaciones entre objetos.
+Todo el Excel de objetos de Excel se define en una estructura jerárquica de objetos, empezando por el objeto de libro de tipo `ExcelScript.Workbook` . Un objeto puede contener métodos, propiedades y otros objetos dentro de él. Los objetos se vinculan entre sí mediante los métodos. El método de un objeto puede devolver otro objeto o colección de objetos. El uso de la característica de IntelliSense (finalización de código) del editor de código es una excelente manera de explorar la jerarquía de objetos. También puede usar el sitio de documentación [de referencia oficial](/javascript/api/office-scripts/overview) para seguir las relaciones entre objetos.
 
-Un [objeto](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object) es una colección de propiedades y una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad se conoce como un método. En el caso del modelo de objetos scripts de Office, un objeto representa una cosa en el archivo de Excel con la que interactúan los usuarios, como un gráfico, un hipervínculo, una tabla dinámica, etc. También puede representar el comportamiento de un objeto, como los atributos de protección de una hoja de cálculo.
+Un [objeto](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object) es una colección de propiedades y una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad se conoce como un método. En el caso del modelo de objetos Office Scripts, un objeto representa una cosa en el archivo Excel con el que interactúan los usuarios, como un gráfico, un hipervínculo, una tabla dinámica, etc. También puede representar el comportamiento de un objeto, como los atributos de protección de una hoja de cálculo.
 
 El tema de los objetos y propiedades de TypeScript frente a los métodos es bastante profundo. Para empezar con el script y ser productivo, puede recordar algunas cosas básicas:
 
@@ -125,8 +125,8 @@ El tema de los objetos y propiedades de TypeScript frente a los métodos es bast
 * Las propiedades son escalares en la naturaleza (cadenas, booleanos, números). Por ejemplo, el nombre de un libro, la posición de una hoja de cálculo, el valor de si la tabla tiene un pie de página o no.
 * Los métodos se "invocan" o se "ejecutan" con los paréntesis de apertura y cierre. Ejemplo: `table.delete()`. A veces, un argumento se pasa a una función incluyéndolos entre paréntesis de apertura y cierre: `range.setValue('Hello')` . Puede pasar muchos argumentos a una función (como se define en su contrato/firma) y separarlos mediante `,` .  Por ejemplo: `worksheet.addTable('A1:D6', true)`. Puede pasar argumentos de cualquier tipo según lo requiera el método, como cadenas, números, booleanos o incluso otros objetos, por ejemplo, , donde es un objeto creado en otra parte del `worksheet.addTable(targetRange, true)` `targetRange` script.
 * Los métodos pueden devolver algo como una propiedad escalar (nombre, dirección, etc.) u otro objeto (intervalo, gráfico) o no devolver nada en absoluto (como el caso con `delete` métodos). Recibirá lo que devuelve el método declarando una variable o asignando a una variable existente. Puede ver que en el lado izquierdo de la instrucción, como `const table = worksheet.addTable('A1:D6', true)` .
-* En su mayoría, el modelo de objetos scripts de Office consta de objetos con métodos que vinculan varias partes del modelo de objetos de Excel. Muy rara vez se encontrará con propiedades que sean de valores escalares u objetos.
-* En scripts de Office, un método de modelo de objetos de Excel debe contener paréntesis de apertura y cierre. No se permite el uso de métodos sin ellos (como asignar un método a una variable).
+* En su mayoría, el modelo de objetos Office scripts está formado por objetos con métodos que vinculan varias partes del Excel de objetos. Muy rara vez se encontrará con propiedades que sean de valores escalares u objetos.
+* En Office scripts, un Excel modelo de objetos debe contener paréntesis de apertura y cierre. No se permite el uso de métodos sin ellos (como asignar un método a una variable).
 
 Veamos algunos métodos en el `workbook` objeto.
 
@@ -152,7 +152,7 @@ En este ejemplo:
 * El método acepta un argumento (nombre de tabla en este caso) y `getTable()` devuelve una tabla específica en el libro.
 * El `getSlicers()` método devuelve una matriz (a la que se hace referencia en muchos lugares como una colección) de todos los objetos de segmentación de datos del libro.
 
-Observará que todos estos métodos tienen un prefijo, que es solo una convención usada en el modelo de objetos scripts de Office para transmitir que el método `get` devuelve algo. También se les conoce comúnmente como "getters".
+Observará que todos estos métodos tienen un prefijo, que es solo una convención usada en el modelo de objetos scripts de Office para transmitir que el método devuelve `get` algo. También se les conoce comúnmente como "getters".
 
 Hay otros dos tipos de métodos que veremos en el siguiente ejemplo:
 
@@ -170,7 +170,7 @@ function main(workbook: ExcelScript.Workbook) {
 En este ejemplo:
 
 * El `setName()` método establece un nuevo nombre en la hoja de cálculo. `setPosition()` establece la posición en la primera celda.
-* Estos métodos modifican el archivo de Excel estableciendo una propiedad o comportamiento del libro. Estos métodos se denominan "setters".
+* Estos métodos modifican el Excel mediante el establecimiento de una propiedad o comportamiento del libro. Estos métodos se denominan "setters".
 * Normalmente, los "setters" tienen un "getter" complementario, por ejemplo, y , ambos `worksheet.getPosition` `worksheet.setPosition` son métodos.
 
 #### <a name="undefined-and-null-primitive-types"></a>`undefined` y `null` tipos primitivos
@@ -319,7 +319,7 @@ Las colecciones son objetos como tablas, gráficos, columnas, etc. que se pueden
 
 * [Conceptos básicos de idioma de las matrices](https://developer.mozilla.org//docs/Learn/JavaScript/First_steps/Arrays)
 
-Este script muestra cómo usar colecciones admitidas en las API de Scripts de Office. Colore cada ficha de hoja de cálculo del archivo con un color aleatorio.
+Este script muestra cómo usar colecciones admitidas en Office API de scripts. Colore cada ficha de hoja de cálculo del archivo con un color aleatorio.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
@@ -355,14 +355,14 @@ Ejemplos:
 
 Puede identificar los tipos fácilmente en el editor de código, ya que normalmente aparece de forma distinta en un color diferente. Normalmente, `:` dos puntos precede a la declaración de tipo.  
 
-Los tipos de escritura pueden ser opcionales en TypeScript porque la inferencia de tipos le permite obtener mucha potencia sin escribir código adicional. En su mayoría, el lenguaje TypeScript es bueno para deducir los tipos de variables. Sin embargo, en algunos casos, los scripts de Office requieren que las declaraciones de tipo se definan explícitamente si el idioma no puede identificar claramente el tipo. Además, no se permite explícita `any` o implícita en el script de Office. Más información más adelante.
+Los tipos de escritura pueden ser opcionales en TypeScript porque la inferencia de tipos le permite obtener mucha potencia sin escribir código adicional. En su mayoría, el lenguaje TypeScript es bueno para deducir los tipos de variables. Sin embargo, en algunos casos, Office scripts requieren que las declaraciones de tipo se definan explícitamente si el idioma no puede identificar claramente el tipo. Además, no se permite explícito o `any` implícito en Office script. Más información más adelante.
 
 ### <a name="excelscript-types"></a>`ExcelScript` tipos
 
-En Scripts de Office, usará los siguientes tipos de tipos.
+En Office scripts, usará los siguientes tipos de tipos.
 
 * Tipos de idioma nativo como `number` , , , , , `string` `object` `boolean` `null` etc.
-* Tipos de API de Excel. Empiezan por `ExcelScript` . Por ejemplo, `ExcelScript.Range` , `ExcelScript.Table` , etc.
+* Excel Tipos de API. Empiezan por `ExcelScript` . Por ejemplo, `ExcelScript.Range` , `ExcelScript.Table` , etc.
 * Cualquier interfaz personalizada que haya definido en el script mediante `interface` instrucciones.
 
 Vea los ejemplos de cada uno de estos grupos a continuación.
@@ -494,7 +494,7 @@ El [sitio web de TypeScript indica:](https://www.typescriptlang.org/docs/handboo
 let someVariable: any; 
 ```
 
-El `any` tipo presenta desafíos a la forma en que Scripts de Office procesa las API de Excel. Provoca problemas cuando las variables se envían a las API de Excel para su procesamiento. Conocer el tipo de variables usadas en el script es esencial para el procesamiento del script y, por lo tanto, se prohíbe la definición explícita de cualquier variable `any` con tipo. Recibirá un error en tiempo de compilación (error antes de ejecutar el script) si hay alguna variable con `any` el tipo declarado en el script. También verá un error en el editor.
+El `any` tipo presenta desafíos a la forma en que Office scripts procesa las API Excel usuario. Provoca problemas cuando las variables se envían a Excel API para su procesamiento. Conocer el tipo de variables usadas en el script es esencial para el procesamiento del script y, por lo tanto, se prohíbe la definición explícita de cualquier variable `any` con tipo. Recibirá un error en tiempo de compilación (error antes de ejecutar el script) si hay alguna variable con `any` el tipo declarado en el script. También verá un error en el editor.
 
 :::image type="content" source="../../images/getting-started-eanyi.png" alt-text="Error explícito &quot;cualquiera&quot;":::
 
@@ -529,7 +529,7 @@ Este tipo de inferencia tiene lugar al inicializar variables y miembros, estable
 
 Un script requiere los tipos de variables que se usan para declararse explícita o implícitamente. Si el compilador de TypeScript no puede determinar el tipo de una variable (ya sea porque el tipo no se declara explícitamente o la inferencia de tipo no es posible), recibirá un error de tiempo de compilación (error antes de ejecutar el script). También verá un error en el editor.
 
-:::image type="content" source="../../images/getting-started-iany.png" alt-text="Error implícito &quot;cualquiera&quot; que se muestra en el editor.":::
+:::image type="content" source="../../images/getting-started-iany.png" alt-text="Error implícito &quot;cualquiera&quot; que se muestra en el editor":::
 
 Los scripts siguientes tienen errores de tiempo de compilación porque las variables se declaran sin tipos y TypeScript no puede determinar el tipo en el momento de la declaración.
 
@@ -582,7 +582,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 ## <a name="error-handling"></a>Control de errores
 
-El error scripts de Office se puede clasificar en una de las siguientes categorías.
+Office El error de scripts se puede clasificar en una de las siguientes categorías.
 
 1. Advertencia en tiempo de compilación que se muestra en el editor
 1. Error en tiempo de compilación que aparece cuando se ejecuta pero se produce antes de que comience la ejecución
@@ -621,7 +621,7 @@ if (indexSheet) {
 
 ### <a name="do-pre-checks-at-the-beginning-of-the-script"></a>Realizar comprobaciones previas al principio del script
 
-Como práctica recomendada, asegúrese siempre de que todas las entradas estén presentes en el archivo de Excel antes de ejecutar el script. Es posible que haya hecho ciertos supuestos acerca de los objetos que están presentes en el libro. Si esos objetos no existen, es posible que el script encuentre un error al leer el objeto o sus datos. En lugar de iniciar el procesamiento y los errores en el medio después de que parte de las actualizaciones o procesamiento ya haya finalizado, es mejor realizar todas las comprobaciones previas al inicio del script.
+Como procedimiento recomendado, asegúrese siempre de que todas las entradas estén presentes en el archivo Excel antes de ejecutar el script. Es posible que haya hecho ciertos supuestos acerca de los objetos que están presentes en el libro. Si esos objetos no existen, es posible que el script encuentre un error al leer el objeto o sus datos. En lugar de iniciar el procesamiento y los errores en el medio después de que parte de las actualizaciones o procesamiento ya haya finalizado, es mejor realizar todas las comprobaciones previas al inicio del script.
 
 Por ejemplo, el siguiente script requiere que se presenten dos tablas denominadas Table1 y Table2. Por lo tanto, el script comprueba su presencia y termina con la instrucción y un `return` mensaje adecuado si no están presentes.
 
@@ -776,10 +776,6 @@ function updateTargetRange(
 
 *Advertencia:* El `try..catch` uso dentro de un bucle ralentizará el script. Evite usar esto dentro o alrededor de bucles.
 
-## <a name="range-basics"></a>Conceptos básicos sobre rangos
-
-Consulte [Range Basics](range-basics.md) antes de ir más lejos en su viaje.
-
 ## <a name="basic-performance-considerations"></a>Consideraciones básicas de rendimiento
 
 ### <a name="avoid-slow-operations-in-the-loop"></a>Evitar operaciones lentas en el bucle
@@ -837,4 +833,4 @@ Algunas cosas que se pueden llamar acerca de TypeScript:
 * Los bloques de código se definen e identifican mediante llaves de cierre abierto: `{` `}` . Los bloques son necesarios `if` para condiciones, `while` instrucciones, `for` bucles, definiciones de función, etc.
 * Las funciones pueden llamar a otras funciones e incluso puede definir funciones dentro de una función.
 
-En general, TypeScript es un idioma diferente y hay pocas similitudes entre ellos. Sin embargo, la PROPIA API de scripts de Office usa una terminología y una jerarquía de modelos de datos (modelo de objetos) similares a las API de VBA y eso le ayudará a navegar.
+En general, TypeScript es un idioma diferente y hay pocas similitudes entre ellos. Sin embargo, la API de scripts Office usan una terminología y una jerarquía de modelos de datos (modelo de objetos) similares a las API de VBA y eso le ayudará a navegar.

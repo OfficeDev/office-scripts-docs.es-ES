@@ -1,14 +1,14 @@
 ---
 title: Office Ejemplos de scripts
 description: Disponible Office ejemplos de scripts y escenarios.
-ms.date: 04/05/2021
+ms.date: 04/28/2021
 localization_priority: Normal
-ms.openlocfilehash: dc09db00cb63e6873b255360aff17ad2a56fa89e
-ms.sourcegitcommit: 1f003c9924e651600c913d84094506125f1055ab
+ms.openlocfilehash: 625db792763606e8db77abdc4665b7db2732892f
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026831"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232742"
 ---
 # <a name="office-scripts-samples-and-scenarios"></a>Office Ejemplos y escenarios de scripts
 
@@ -27,15 +27,15 @@ También agradecemos [las contribuciones de la comunidad.](#community-contributi
 | Project | Detalles |
 |---------|---------|
 | [Conceptos básicos de scripting](../excel-samples.md) | Estos ejemplos muestran bloques de creación fundamentales para Office scripts. |
-| [Obtenga información básica sobre cómo usar el objeto Range en Office scripts](range-basics.md) | En este artículo se muestran los conceptos básicos del uso del objeto Range y sus API. Este es un tema fundamental que se usará en todos los demás proyectos. |
+| [Agregar comentarios en Excel](add-excel-comments.md) | En este ejemplo se muestra cómo agregar comentarios a una celda @mentioning un compañero. |
+| [Copiar varias Excel en una sola tabla](copy-tables-combine.md) | En este ejemplo se combinan los datos de varias Excel tablas en una sola tabla que incluye todas las filas. |
 
 ## <a name="beyond-the-basics"></a>Más allá de los aspectos básicos
 
-Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo junto con scripts completos, archivos de Excel usados y [vídeos.](https://www.youtube.com/playlist?list=PLr3zVPZrMOUMl88fs8uc2GGAePRnNe6m0)
+Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo junto con scripts completos, archivos Excel de ejemplo usados y vídeos (hospedados en [YouTube).](https://www.youtube.com/playlist?list=PLr3zVPZrMOUMl88fs8uc2GGAePRnNe6m0)
 
 | Project | Detalles |
 |---------|---------|
-| [Agregar comentarios en Excel](add-excel-comments.md) | En este ejemplo se muestra cómo agregar comentarios a una celda @mentioning un compañero. |
 | [Contar filas en blanco en una hoja específica o en todas las hojas](count-blank-rows.md) | En este ejemplo se detecta si hay filas en blanco en hojas en las que se prevé que los datos estén presentes y, a continuación, se informa del recuento de filas en blanco para su uso en un flujo Power Automate datos. |
 | [Referencia cruzada y formato de un Excel archivo](excel-cross-reference.md) | Esta solución muestra cómo se puede hacer referencia Excel y dar formato a dos archivos de Office scripts y Power Automate. |
 | [Imágenes de tabla y gráfico de correo electrónico](email-images-chart-table.md) | En este ejemplo se Office scripts y Power Automate acciones para crear un gráfico y enviar dicho gráfico como una imagen por correo electrónico. |
@@ -43,7 +43,6 @@ Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo jun
 | [Filtrar Excel tabla y obtener rango visible](filter-table-get-visible-range.md) | En este ejemplo se filtra Excel tabla y se devuelve el intervalo visible como un objeto JSON. Este JSON podría proporcionarse a un flujo Power Automate como parte de una solución más grande. |
 | [Generar un identificador único en un libro](document-number-generator.md) | Este escenario ayuda a un usuario a generar un número de documento único con un formato específico y agregar una entrada a un rango o tabla. |
 | [Administrar el modo de cálculo en Excel](excel-calculation.md) | En este ejemplo se muestra cómo usar el modo de cálculo y calcular métodos en Excel en la Web usar Office scripts. |
-| [Combinar varias Excel en una sola tabla](copy-tables-combine.md) | En este ejemplo se combinan los datos de varias Excel tablas en una sola tabla que incluye todas las filas. |
 | [Mover filas entre tablas](move-rows-across-tables.md) | En este ejemplo se muestra cómo mover filas entre tablas guardando filtros y, a continuación, procesando y reaplicando los filtros. |
 | [Datos Excel salida como JSON](get-table-data.md) | Esta solución muestra cómo generar datos Excel tabla como JSON para usarlos en Power Automate. |
 | [Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo](remove-hyperlinks-from-cells.md) | En este ejemplo se borran todos los hipervínculos de la hoja de cálculo actual. |

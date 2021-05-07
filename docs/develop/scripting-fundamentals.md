@@ -3,12 +3,12 @@ title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
 ms.date: 07/08/2020
 localization_priority: Priority
-ms.openlocfilehash: 2c2fd683e77a0dfbfd3e9df8c79db31e78ceee8b
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: 685f83952fa6aecc660524a95dec57e149522820
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755066"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232392"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web-preview"></a>Conceptos básicos de los scripts de Office en Excel en la Web (vista previa)
 
@@ -109,7 +109,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Al ejecutar este script se crean los siguientes datos en la hoja de cálculo actual:
 
-:::image type="content" source="../images/range-sample.png" alt-text="Una hoja de cálculo que contiene un registro de ventas que se compone de filas de valor, una columna de fórmula y encabezados con formato.":::
+:::image type="content" source="../images/range-sample.png" alt-text="Una hoja de cálculo que contiene un registro de ventas compuesto por filas de valor, una columna de fórmula y encabezados con formato.":::
 
 ### <a name="charts-tables-and-other-data-objects"></a>Gráficos, tablas y otros objetos de datos
 
@@ -117,7 +117,7 @@ Los scripts pueden crear y manipular las estructuras y visualizaciones de datos 
 
 #### <a name="creating-a-table"></a>Crear una tabla
 
-Cree tablas con rangos con datos. El formato y los controles de tabla (como filtros) se aplican automáticamente al rango.
+Cree tablas mediante rangos rellenos de datos. El formato y los controles de tabla (como los filtros) se aplican automáticamente al rango.
 
 El siguiente script crea una tabla con los rangos del ejemplo anterior.
 
@@ -167,7 +167,7 @@ Se puede acceder a cualquier objeto secundario a través de su objeto primario. 
 
 Una vez que se ha recuperado la colección, puede usar operaciones de matriz normales como obtener su `length` o usar `for`, `for..of`,`while`bucles para la iteración o usar métodos de matriz TypeScript como `map`, `forEach` en ellas. También puede obtener acceso a objetos individuales de la colección con el valor del índice de matriz. Por ejemplo, `workbook.getTables()[0]` devuelve la primera tabla de la colección. Para obtener más información sobre la funcionalidad de estas matrices integradas en el marco de Scripts de Office, consulte la sección [que trabaja con rangos en el uso de objetos de JavaScript integrados en los scripts de Office ](javascript-objects.md#working-with-collections)
 
-El siguiente script obtiene todas las tablas del libro. Luego, asegura que se muestran los encabezados, que los botones de filtro están visibles y que el estilo de tabla está establecido en "TableStyleLight1".
+El siguiente script obtiene todas las tablas del libro. Luego, garantiza que se muestren los encabezados, que los botones de filtro estén visibles y que el estilo de tabla esté establecido en "TableStyleLight1".
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {

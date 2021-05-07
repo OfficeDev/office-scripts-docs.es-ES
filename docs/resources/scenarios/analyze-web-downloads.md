@@ -1,16 +1,16 @@
 ---
-title: 'Escenario de ejemplo scripts de Office: analizar descargas web'
+title: 'Office Escenario de ejemplo scripts: analizar descargas web'
 description: Ejemplo que toma datos de tráfico de Internet sin procesar en un libro de Excel y determina la ubicación de origen, antes de organizar esa información en una tabla.
-ms.date: 12/17/2020
+ms.date: 04/27/2021
 localization_priority: Normal
-ms.openlocfilehash: e351cd6c4a12e83a07a2f4ce5678d7aa10625118
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: 6c5958e9957ca49c370ae34456236bdd15f41c44
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755038"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232714"
 ---
-# <a name="office-scripts-sample-scenario-analyze-web-downloads"></a>Escenario de ejemplo scripts de Office: analizar descargas web
+# <a name="office-scripts-sample-scenario-analyze-web-downloads"></a>Office Escenario de ejemplo scripts: analizar descargas web
 
 En este escenario, tiene la tarea de analizar los informes de descarga desde el sitio web de su empresa. El objetivo de este análisis es determinar si el tráfico web viene de Estados Unidos o de otra parte del mundo.
 
@@ -23,20 +23,11 @@ Desarrollará un script que analice los datos de descargas semanales en la hoja 
 - Análisis de texto
 - Subfunciones en scripts
 - Formato condicional
-- Tablas
-
-## <a name="demo-video"></a>Vídeo de demostración
-
-Este ejemplo se ha degradado como parte de la llamada de la comunidad de desarrolladores de complementos de Office para febrero de 2020.
-
-> [!VIDEO https://www.youtube.com/embed/vPEqbb7t6-Y?start=154]
-
-> [!NOTE]
-> El código que se muestra en este vídeo usa un modelo de API anterior (las API asincrónicas de [Scripts de Office).](../../develop/excel-async-model.md) El ejemplo presentado en esta página se ha actualizado, pero el código tiene un aspecto un poco diferente de la grabación. Los cambios no afectan al comportamiento del script ni al otro contenido de la demostración del moderador.
+- Tables
 
 ## <a name="setup-instructions"></a>Instrucciones de configuración
 
-1. Descarga <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> a tu OneDrive.
+1. Descargue <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> a su OneDrive.
 
 2. Abra el libro con Excel para la web.
 
@@ -226,10 +217,10 @@ Navegue a cualquiera de las hojas **de \* \*** cálculo de semana y ejecute el s
 
 ### <a name="before-running-the-script"></a>Antes de ejecutar el script
 
-:::image type="content" source="../../images/scenario-analyze-web-downloads-before.png" alt-text="Hoja de cálculo que muestra datos de tráfico web sin procesar.":::
+:::image type="content" source="../../images/scenario-analyze-web-downloads-before.png" alt-text="Hoja de cálculo que muestra datos de tráfico web sin procesar":::
 
 ### <a name="after-running-the-script"></a>Después de ejecutar el script
 
-:::image type="content" source="../../images/scenario-analyze-web-downloads-after.png" alt-text="Hoja de cálculo que muestra información de ubicación IP con formato con las filas de tráfico web anteriores.":::
+:::image type="content" source="../../images/scenario-analyze-web-downloads-after.png" alt-text="Hoja de cálculo que muestra información de ubicación IP con formato con las filas de tráfico web anteriores":::
 
-:::image type="content" source="../../images/scenario-analyze-web-downloads-table.png" alt-text="Tabla de resumen y gráfico que resume las hojas de cálculo en las que se ha ejecutado el script.":::
+:::image type="content" source="../../images/scenario-analyze-web-downloads-table.png" alt-text="Tabla de resumen y gráfico que resume las hojas de cálculo en las que se ha ejecutado el script":::

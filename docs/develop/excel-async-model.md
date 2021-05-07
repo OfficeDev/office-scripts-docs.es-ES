@@ -1,18 +1,18 @@
 ---
-title: Admitir scripts de Office antiguos que usan las API asincrónicas
-description: Una introducción a las API asincrónicas de Scripts de Office y cómo usar el patrón de carga y sincronización para scripts más antiguos.
+title: Admitir scripts Office antiguos que usan las API asincrónicas
+description: Una introducción a las API Office Scripts Async y cómo usar el patrón de carga y sincronización para scripts antiguos.
 ms.date: 02/08/2021
 localization_priority: Normal
-ms.openlocfilehash: 143f52a7ffefb4f19ee36ba4343fd7c2f1cbdffe
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: 437fb2e389d6d3963f93cdb44c5529749c4d3569
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755080"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232413"
 ---
-# <a name="support-older-office-scripts-that-use-the-async-apis"></a>Admitir scripts de Office antiguos que usan las API asincrónicas
+# <a name="support-older-office-scripts-that-use-the-async-apis"></a>Admitir scripts Office antiguos que usan las API asincrónicas
 
-Este artículo le enseñará a mantener y actualizar scripts que usan las API asincrónicas del modelo anterior. Estas API tienen la misma funcionalidad principal que las API de scripts de Office sincrónicas estándar, pero requieren que el script controle la sincronización de datos entre el script y el libro.
+Este artículo le enseñará a mantener y actualizar scripts que usan las API asincrónicas del modelo anterior. Estas API tienen la misma funcionalidad principal que las API de scripts sincrónicas de Office ahora estándar, pero requieren que el script controle la sincronización de datos entre el script y el libro.
 
 > [!IMPORTANT]
 > El modelo asincrónico solo se puede usar con scripts creados antes de la implementación del modelo [de API actual.](scripting-fundamentals.md) Los scripts se bloquean permanentemente en el modelo de API que tienen al crearse. Esto también significa que si desea convertir un script antiguo al nuevo modelo, debe crear un script nuevo. Se recomienda actualizar los scripts antiguos al nuevo modelo al realizar cambios, ya que el modelo actual es más fácil de usar. La [sección Convertir scripts asincrónicos en el modelo](#converting-async-scripts-to-the-current-model) actual ofrece consejos sobre cómo realizar esta transición.
@@ -42,7 +42,7 @@ Como el script y el libro se ejecutan en distintas ubicaciones, cualquier transf
 
 En la imagen siguiente se muestra un ejemplo de flujo de control entre el script y el libro:
 
-:::image type="content" source="../images/load-sync.png" alt-text="Diagrama en el que se muestran las operaciones de lectura y escritura en el libro desde el script.":::
+:::image type="content" source="../images/load-sync.png" alt-text="Diagrama que muestra las operaciones de lectura y escritura que van al libro desde el script":::
 
 ### <a name="sync"></a>Sincronizar
 
@@ -55,7 +55,7 @@ await context.sync();
 > [!NOTE]
 > Se llama de forma implícita a `context.sync()` cuando finaliza un script.
 
-Una vez completada la operación `sync`, el libro se actualiza para reflejar las operaciones de escritura que haya especificado el script. Una operación de escritura consiste en establecer cualquier propiedad en un objeto de Excel (por ejemplo, ) o llamar a un método que cambie una propiedad `range.format.fill.color = "red"` (por ejemplo, `range.format.autoFitColumns()` ). La operación `sync` también lee cualquier valor del libro solicitado por el script mediante una operación `load` o un método que devuelve un `ClientResult`(como se describe en la sección siguiente).
+Una vez completada la operación `sync`, el libro se actualiza para reflejar las operaciones de escritura que haya especificado el script. Una operación de escritura consiste en establecer cualquier propiedad en un objeto Excel (por ejemplo, ) o llamar a un método que cambie una propiedad `range.format.fill.color = "red"` (por ejemplo, `range.format.autoFitColumns()` ). La operación `sync` también lee cualquier valor del libro solicitado por el script mediante una operación `load` o un método que devuelve un `ClientResult`(como se describe en la sección siguiente).
 
 Sincronizar el script con el libro puede tardar un tiempo, según la red. Minimice el número de `sync` llamadas para ayudar a que el script se ejecute rápidamente. De lo contrario, las API asincrónicas no son más rápidas que las API sincrónicas estándar.
 
@@ -149,8 +149,8 @@ El modelo de API actual no usa `load` , `sync` o un `RequestContext` . Esto hace
 
 4. Las clases de colección se han reemplazado por matrices. Los métodos y de esas clases de colección se movieron al objeto que era propietario de la colección, por lo que las referencias `add` `get` deben actualizarse en consecuencia. Por ejemplo, para obtener un gráfico denominado "MyChart" de la primera hoja de cálculo del libro, use el siguiente código: `workbook.getWorksheets()[0].getChart("MyChart");` . Tenga en `[0]` cuenta el acceso al primer valor del devuelto por `Worksheet[]` `getWorksheets()` .
 
-5. Algunos métodos se cambiaron por claridad y se agregaron para mayor comodidad. Consulte la referencia de la [API de scripts de Office](/javascript/api/office-scripts/overview) para obtener más información.
+5. Algunos métodos se cambiaron por claridad y se agregaron para mayor comodidad. Consulte la referencia de [la API Office scripts para](/javascript/api/office-scripts/overview) obtener más información.
 
-## <a name="office-scripts-async-api-reference-documentation"></a>Documentación de referencia de api asincrónica de Scripts de Office
+## <a name="office-scripts-async-api-reference-documentation"></a>Office Documentación de referencia de api asincrónica de scripts
 
-Las API asincrónicas son equivalentes a las que se usan en los complementos de Office. La documentación de referencia se encuentra en la sección Excel de la referencia de la API de [JavaScript de](/javascript/api/excel?view=excel-js-online&preserve-view=true)complementos de Office.
+Las API asincrónicas son equivalentes a las que se usan en Office complementos. La documentación de referencia se encuentra en la Excel de la referencia de la API de [JavaScript](/javascript/api/excel?view=excel-js-online&preserve-view=true)Office complementos.
