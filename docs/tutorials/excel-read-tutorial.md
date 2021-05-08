@@ -3,12 +3,12 @@ title: Leer datos de libros con scripts de Office en Excel en la Web
 description: Un tutorial de scripts de Office sobre cómo leer datos de libros y evaluarlos en el script.
 ms.date: 01/06/2021
 localization_priority: Priority
-ms.openlocfilehash: d6321cb91a425da3fd45329d5171f1d5694b2b99
-ms.sourcegitcommit: 45ffe3dbd2c834b78592ad35928cf8096f5e80bc
+ms.openlocfilehash: 979ad949f999f67ee9de750c53ba4690ce6294e6
+ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51754862"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52232854"
 ---
 # <a name="read-workbook-data-with-office-scripts-in-excel-on-the-web"></a>Leer datos de libros con scripts de Office en Excel en la Web
 
@@ -71,7 +71,7 @@ En el resto del tutorial, armonizaremos los datos de ambos con un script. En pri
 6. Ejecute el script.
 7. Debe ver `[Array[1]]` en la consola. No es un número por que los rangos son matrices bidimensionales de datos. Este rango bidimensional se ha registrado en la consola directamente. Afortunadamente, el Editor de código le permite ver el contenido de la matriz.
 8. Cuando se registra una matriz bidimensional en la consola, se agrupan los valores de columna en cada fila. Expanda el registro de matriz pulsando en el triángulo azul.
-9. Expanda el segundo nivel de la matriz pulsando en el triángulo azul que ha descubierto recientemente. Ahora debería ver lo siguiente:
+9. Expanda el segundo nivel de la matriz presionando el triángulo azul recién descubierto. Ahora debería ver esto:
 
     :::image type="content" source="../images/tutorial-4.png" alt-text="El registro de consola mostrando el resultado &quot;-20,05&quot; anidado en dos matrices":::
 
@@ -147,6 +147,6 @@ Ahora que sabemos cómo leer y escribir en una sola celda, vamos a aplicar este 
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Abra el Editor de código y pruebe algunos de nuestros [Ejemplos para scripts de Office en Excel en la Web](../resources/excel-samples.md). Para obtener más información sobre la creación de scripts de Office, consulte también [Fundamentos para scripts de Office en Excel en la Web](../develop/scripting-fundamentals.md).
+Abra el Editor de código y pruebe algunos de nuestros [Ejemplos para scripts de Office en Excel en la Web](../resources/samples/excel-samples.md). Para obtener más información sobre la creación de scripts de Office, consulte también [Fundamentos para scripts de Office en Excel en la Web](../develop/scripting-fundamentals.md).
 
 La siguiente serie de tutoriales de Scripts de Office se centra en el uso de Scripts de Office con Power Automate. Obtenga más información sobre las ventajas de combinar las dos plataformas en [Ejecutar Scripts de Office con Power Automate](../develop/power-automate-integration.md) o consulte el tutorial [Llamar a scripts desde un flujo manual de Power Automate](excel-power-automate-manual.md) para crear un flujo de Power Automate que use un script de Office.
