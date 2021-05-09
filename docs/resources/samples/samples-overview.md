@@ -1,14 +1,14 @@
 ---
 title: Office Ejemplos de scripts
 description: Disponible Office ejemplos de scripts y escenarios.
-ms.date: 04/28/2021
+ms.date: 05/07/2021
 localization_priority: Normal
-ms.openlocfilehash: 625db792763606e8db77abdc4665b7db2732892f
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: 6df28f3b9d88f202b3b16661a36296bb8bee6c73
+ms.sourcegitcommit: 763d341857bcb209b2f2c278a82fdb63d0e18f0a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232742"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52285846"
 ---
 # <a name="office-scripts-samples-and-scenarios"></a>Office Ejemplos y escenarios de scripts
 
@@ -41,7 +41,6 @@ Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo jun
 | [Imágenes de tabla y gráfico de correo electrónico](email-images-chart-table.md) | En este ejemplo se Office scripts y Power Automate acciones para crear un gráfico y enviar dicho gráfico como una imagen por correo electrónico. |
 | [Llamadas de captura externa](external-fetch-calls.md) | En este ejemplo `fetch` se usa para obtener información GitHub para el script. |
 | [Filtrar Excel tabla y obtener rango visible](filter-table-get-visible-range.md) | En este ejemplo se filtra Excel tabla y se devuelve el intervalo visible como un objeto JSON. Este JSON podría proporcionarse a un flujo Power Automate como parte de una solución más grande. |
-| [Generar un identificador único en un libro](document-number-generator.md) | Este escenario ayuda a un usuario a generar un número de documento único con un formato específico y agregar una entrada a un rango o tabla. |
 | [Administrar el modo de cálculo en Excel](excel-calculation.md) | En este ejemplo se muestra cómo usar el modo de cálculo y calcular métodos en Excel en la Web usar Office scripts. |
 | [Mover filas entre tablas](move-rows-across-tables.md) | En este ejemplo se muestra cómo mover filas entre tablas guardando filtros y, a continuación, procesando y reaplicando los filtros. |
 | [Datos Excel salida como JSON](get-table-data.md) | Esta solución muestra cómo generar datos Excel tabla como JSON para usarlos en Power Automate. |

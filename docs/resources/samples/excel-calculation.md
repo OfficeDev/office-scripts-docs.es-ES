@@ -1,14 +1,14 @@
 ---
 title: Administrar el modo de cálculo en Excel
 description: Obtenga información sobre cómo usar Office scripts para administrar el modo de cálculo en Excel en la Web.
-ms.date: 04/28/2021
+ms.date: 05/06/2021
 localization_priority: Normal
-ms.openlocfilehash: 34a14874197ffda8487df5e450e3dcab980f7ed5
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: a60fddc91b3a8f124a44722d0d75e6e9f239351d
+ms.sourcegitcommit: 763d341857bcb209b2f2c278a82fdb63d0e18f0a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232455"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52285916"
 ---
 # <a name="manage-calculation-mode-in-excel"></a>Administrar el modo de cálculo en Excel
 
@@ -16,22 +16,20 @@ En este ejemplo se muestra cómo usar el modo [de cálculo](/javascript/api/offi
 
 ## <a name="scenario"></a>Escenario
 
-En Excel en la Web, el modo de cálculo de un archivo se puede controlar mediante programación mediante API. Las siguientes acciones son posibles mediante Office scripts.
+Los libros con un gran número de fórmulas pueden tardar un tiempo en volver a calcularse. En lugar de Excel control cuando se realiza un cálculo, puede administrarlos como parte del script. Esto ayudará con el rendimiento en determinados escenarios.
 
-1. Obtener el modo de cálculo.
-1. Establecer el modo de cálculo.
-1. Calcule Excel fórmulas de archivos establecidos en el modo manual (también denominado recalcular).
+El script de ejemplo establece el modo de cálculo en manual. Esto significa que el libro solo recalculará fórmulas cuando el script lo indique (o calcule manualmente a través [de la interfaz de usuario](https://support.microsoft.com/office/change-formula-recalculation-iteration-or-precision-in-excel-73fc7dac-91cf-4d36-86e8-67124f6bcce4)). A continuación, el script muestra el modo de cálculo actual y vuelve a calcular completamente todo el libro.
 
 ## <a name="sample-code-control-calculation-mode"></a>Código de ejemplo: Modo de cálculo de control
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
-    // Set calculation mode.
+    // Set the calculation mode to manual.
     workbook.getApplication().setCalculationMode(ExcelScript.CalculationMode.manual);
-    // Get calculation mode.
+    // Get and log the calculation mode.
     const calcMode = workbook.getApplication().getCalculationMode();    
     console.log(calcMode);
-    // Calculate (for manual mode files).
+    // Manually calculate the file.
     workbook.getApplication().calculate(ExcelScript.CalculationType.full);
 }
 ```
