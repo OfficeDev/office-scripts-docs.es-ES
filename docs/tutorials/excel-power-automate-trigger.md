@@ -3,14 +3,14 @@ title: Pasar datos a scripts en un flujo de Power Automate ejecutado automática
 description: Un tutorial sobre la ejecución de Scripts de Office para Excel en la Web mediante Power Automate cuando se reciba el correo y el paso de datos de flujo al script.
 ms.date: 12/28/2020
 localization_priority: Priority
-ms.openlocfilehash: f5ee8ef2243aaf597d6022634248403c57597bd8
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: 79686eacf4d38bd5db5e082a9bfb73edc969451d
+ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232889"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545839"
 ---
-# <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow-preview"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente (versión preliminar)
+# <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 
 Este tutorial le enseña cómo usar un script de Office para Excel en la web con un flujo de trabajo automatizado de [Power Automate](https://flow.microsoft.com). El script se ejecutará automáticamente cada vez que reciba un correo electrónico, grabando información del correo en un libro de Excel. Pasar datos de otras aplicaciones a un script de Office le ofrece una gran flexibilidad y libertad para sus procesos automatizados.
 
@@ -23,7 +23,7 @@ Este tutorial le enseña cómo usar un script de Office para Excel en la web con
 
 ## <a name="prepare-the-workbook"></a>Preparar el libro
 
-Power Automate no debe usar [referencias relativas](../testing/power-automate-troubleshooting.md#avoid-using-relative-references) como `Workbook.getActiveWorksheet` para acceder a componentes de libros de trabajo. Por lo tanto, es necesario un libro de trabajo y una hoja de cálculo con nombres coherentes para que Power Automate haga referencia.
+Power Automate no debe usar [referencias relativas](../testing/power-automate-troubleshooting.md#avoid-relative-references) como `Workbook.getActiveWorksheet` para acceder a componentes de libros de trabajo. Por lo tanto, es necesario un libro de trabajo y una hoja de cálculo con nombres coherentes para que Power Automate haga referencia.
 
 1. Cree un nuevo libro de trabajo y llámelo **Mi libro de trabajo**.
 
@@ -58,7 +58,7 @@ Power Automate no debe usar [referencias relativas](../testing/power-automate-tr
 
 ## <a name="create-an-office-script"></a>Crear un script de Office
 
-Comencemos a crear un script que registre información de un correo electrónico. Queremos saber cuál es el número de días de la semana que recibimos más correo electrónico y cuántos remitentes únicos envían ese correo. Nuestro libro tiene una tabla con columnas de **Fecha**, **Día de la semana**, **Dirección de correo electrónico** y **Asunto**. Nuestra hoja de cálculo también tiene una tabla dinámica que se dinamiza en el **Día de la semana** y **Dirección de correo electrónico** (que son las jerarquías de fila). El recuento de **Asuntos** únicos es la información agregada que se muestra (la jerarquía de datos). Haremos que nuestro script actualice esa tabla dinámica después de actualizar la tabla de correo electrónico.
+Comencemos a crear un script que registre información de un correo electrónico. Queremos saber en qué días de la semana recibimos más correos electrónicos y cuántos remitentes únicos nos los envían. Nuestro libro tiene una tabla con columnas de **Fecha**, **Día de la semana**, **Dirección de correo electrónico** y **Asunto**. Nuestra hoja de cálculo también tiene una tabla dinámica que se dinamiza en el **Día de la semana** y **Dirección de correo electrónico** (que son las jerarquías de fila). El recuento de **Asuntos** únicos es la información agregada que se muestra (la jerarquía de datos). Haremos que nuestro script actualice esa tabla dinámica después de actualizar la tabla de correo electrónico.
 
 1. Desde el panel de tareas del **Editor de código**, seleccione **Nuevo script**.
 
@@ -175,11 +175,11 @@ function main(
 
     :::image type="content" source="../images/power-automate-tutorial-4.png" alt-text="Opción de Excel Online (empresa) en Power Automate":::
 
-7. En **Acciones**, seleccione **Ejecutar script (versión preliminar)**.
+7. En **Acciones**, seleccione **Ejecutar script**.
 
-    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción Ejecutar script (vista previa) en Power Automate":::
+    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción Ejecutar script en Power Automate":::
 
-8. A continuación, seleccione el libro, el script y los argumentos de entrada del script que se usará en el paso de flujo. En el tutorial, utilizará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
+8. A continuación, seleccione el libro, el script y los argumentos de entrada del script que se usará en el paso de flujo. En el tutorial, usará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 
     - **Ubicación**: OneDrive para la Empresa
     - **Biblioteca de documentos**: OneDrive

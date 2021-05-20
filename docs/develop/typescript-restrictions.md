@@ -1,60 +1,60 @@
 ---
-title: Restricciones de TypeScript en Office scripts
-description: Los detalles del compilador TypeScript y linter usados por el editor de código Office scripts.
+title: Restricciones de TypeScript en scripts de Office
+description: Los detalles del compilador typescript y linter utilizados por el Editor de código de scripts de Office.
 ms.date: 02/05/2021
 localization_priority: Normal
-ms.openlocfilehash: 40eb6923d7b0c47dfeb4c846cdcc745e5d893c13
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: a4198e0e56224ac5da89e89c43c8d2f3ef44d6d7
+ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232462"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545022"
 ---
-# <a name="typescript-restrictions-in-office-scripts"></a>Restricciones de TypeScript en Office scripts
+# <a name="typescript-restrictions-in-office-scripts"></a>Restricciones de TypeScript en scripts de Office
 
-Office Los scripts usan el lenguaje TypeScript. En su mayoría, cualquier código TypeScript o JavaScript funcionará en un script Office script. Sin embargo, el Editor de código aplica algunas restricciones para garantizar que el script funciona de forma coherente y según lo previsto con el Excel libro.
+Office Los scripts utilizan el lenguaje TypeScript. En su mayor parte, cualquier código TypeScript o JavaScript funcionará en scripts Office. Sin embargo, el Editor de código aplica algunas restricciones para garantizar que el script funcione de forma coherente y según lo previsto con el libro de trabajo Excel.
 
-## <a name="no-any-type-in-office-scripts"></a>No hay tipo de "ninguno" en Office scripts
+## <a name="no-any-type-in-office-scripts"></a>No hay ningún tipo de script de Office
 
-Los [tipos](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) de escritura son opcionales en TypeScript, ya que los tipos se pueden deducir. Sin embargo, Office script requiere que una variable no pueda ser de [tipo ninguna](https://www.typescriptlang.org/docs/handbook/basic-types.html#any). Tanto explícitos como `any` implícitos no están permitidos en un script Office script. Estos casos se notifican como errores.
+Escribir [tipos](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) es opcional en TypeScript, porque los tipos se pueden inferir. Sin embargo, Office Scripts requiere que una variable no pueda ser de [tipo .](https://www.typescriptlang.org/docs/handbook/basic-types.html#any) Tanto explícito como implícito `any` no se permiten en Office scripts. Estos casos se notifican como errores.
 
-### <a name="explicit-any"></a>Explícito `any`
+### <a name="explicit-any"></a>explícito `any`
 
-No se puede declarar explícitamente una variable como de tipo `any` en Office scripts (es decir, `let someVariable: any;` ). El `any` tipo provoca problemas al procesarlo Excel. Por ejemplo, es `Range` necesario saber que un valor es un , o `string` `number` `boolean` . Recibirá un error en tiempo de compilación (un error antes de ejecutar el script) si alguna variable se define explícitamente como el tipo `any` en el script.
+No puede declarar explícitamente que una variable sea de tipo `any` en scripts de Office (es decir, `let someVariable: any;` ). El `any` tipo causa problemas cuando se procesa por Excel. Por ejemplo, `Range` es necesario saber que un valor es un , o `string` `number` `boolean` . Recibirá un error en tiempo de compilación (un error antes de ejecutar el script) si alguna variable se define explícitamente como el `any` tipo del script.
 
-:::image type="content" source="../images/explicit-any-editor-message.png" alt-text="El mensaje explícito &quot;any&quot; en el texto activado del editor de código":::
+:::image type="content" source="../images/explicit-any-editor-message.png" alt-text="El mensaje explícito de &quot;cualquiera&quot; en el texto flotante del Editor de código":::
 
-:::image type="content" source="../images/explicit-any-error-message.png" alt-text="El error Explicit Any en la ventana de consola":::
+:::image type="content" source="../images/explicit-any-error-message.png" alt-text="El error explícito de &quot;cualquiera&quot; en la ventana de la consola":::
 
-En la captura de pantalla `[5, 16] Explicit Any is not allowed` anterior indica que la línea #5, columna #16 define el `any` tipo. Esto le ayuda a localizar el error.
+En la captura de pantalla anterior `[5, 16] Explicit Any is not allowed` indica que la línea #5, la columna #16 define el `any` tipo. Esto le ayuda a localizar el error.
 
-Para evitar este problema, defina siempre el tipo de variable. Si no está seguro del tipo de variable, puede usar un [tipo de unión](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html). Esto puede ser útil para variables que tienen valores, que pueden ser de tipo , o (el tipo de valores `Range` es una unión de los `string` `number` `boolean` `Range` siguientes: `string | number | boolean` ).
+Para evitar este problema, defina siempre el tipo de la variable. Si no está seguro sobre el tipo de variable, puede utilizar un [tipo de unión](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html). Esto puede ser útil para las variables que mantienen `Range` valores, que pueden ser de tipo `string` , `number` o `boolean` (el tipo de valores es una unión `Range` de esos: `string | number | boolean` ).
 
-### <a name="implicit-any"></a>Implícito `any`
+### <a name="implicit-any"></a>implícito `any`
 
-Los tipos de variables typeScript se [pueden definir implícitamente.](https://www.typescriptlang.org/docs/handbook/type-inference.html) Si el compilador typeScript no puede determinar el tipo de una variable (ya sea porque el tipo no se define explícitamente o la inferencia de tipo no es posible), se trata de un error implícito y recibirá un error en tiempo de `any` compilación.
+Los tipos de variable TypeScript se pueden definir [implícitamente.](https://www.typescriptlang.org/docs/handbook/type-inference.html) Si el compilador TypeScript no puede determinar el tipo de una variable (ya sea porque el tipo no se define explícitamente o la inferencia de tipo no es posible), entonces es un error implícito `any` y recibirá un error en tiempo de compilación.
 
-El caso más común en cualquier `any` implícito está en una declaración de variable, como `let value;` . Hay dos maneras de evitar esto:
+El caso más común en cualquier implícito `any` está en una declaración de variable, como `let value;` . Hay dos maneras de evitar esto:
 
-* Asigne la variable a un tipo de identificación implícita ( `let value = 5;` o `let value = workbook.getWorksheet();` ).
+* Asigne la variable a un tipo implícitamente identificable ( `let value = 5;` o `let value = workbook.getWorksheet();` ).
 * Escriba explícitamente la variable ( `let value: number;` )
 
-## <a name="no-inheriting-office-script-classes-or-interfaces"></a>No se heredan Office o interfaces de script
+## <a name="no-inheriting-office-script-classes-or-interfaces"></a>Sin heredar clases o interfaces de script Office
 
-Las clases e interfaces que se crean en su Office script no pueden [extender](https://www.typescriptlang.org/docs/handbook/classes.html#inheritance) ni implementar Office clases o interfaces de scripts. En otras palabras, nada en el espacio `ExcelScript` de nombres puede tener subclases o subinterfaces.
+Las clases e interfaces que se crean en el script de Office no pueden [extender ni implementar](https://www.typescriptlang.org/docs/handbook/classes.html#inheritance) Office clases o interfaces de scripts. En otras palabras, nada en el `ExcelScript` espacio de nombres puede tener subclases o subinterfaces.
 
-## <a name="incompatible-typescript-functions"></a>Funciones de TypeScript incompatibles
+## <a name="incompatible-typescript-functions"></a>Funciones incompatibles typescript
 
-Office Las API de scripts no se pueden usar en lo siguiente:
+Office Las API de scripts no se pueden utilizar en lo siguiente:
 
-* [Funciones de generador](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Iterators_and_Generators#generator_functions)
+* [Funciones del generador](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Iterators_and_Generators#generator_functions)
 * [Array.sort](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
 ## <a name="eval-is-not-supported"></a>`eval` no se admite
 
-La función [de eval de](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/eval) JavaScript no se admite por motivos de seguridad.
+La [función eval de](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/eval) JavaScript no es compatible por razones de seguridad.
 
-## <a name="restricted-identifers"></a>Identifers restringidas
+## <a name="restricted-identifers"></a>Identificadores restringidos
 
 Las siguientes palabras no se pueden usar como identificadores en un script. Son términos reservados.
 
@@ -64,7 +64,7 @@ Las siguientes palabras no se pueden usar como identificadores en un script. Son
 
 ## <a name="only-arrow-functions-in-array-callbacks"></a>Solo funciones de flecha en devoluciones de llamada de matriz
 
-Los scripts solo pueden usar [funciones de flecha](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/Arrow_functions) al proporcionar argumentos de devolución de llamada para los [métodos Array.](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array) No puede pasar ningún tipo de identificador o función "tradicional" a estos métodos.
+Los scripts solo pueden usar [funciones de flecha](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/Arrow_functions) al proporcionar argumentos de devolución de llamada para los métodos [Array.](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array) No puede pasar ningún tipo de identificador o función "tradicional" a estos métodos.
 
 ```TypeScript
 const myArray = [1, 2, 3, 4, 5, 6];
@@ -81,13 +81,13 @@ let filteredArray = myArray.filter((x) => {
 
 ## <a name="performance-warnings"></a>Advertencias de rendimiento
 
-El [linter](https://wikipedia.org/wiki/Lint_(software)) del Editor de código proporciona advertencias si el script puede tener problemas de rendimiento. Los casos y cómo trabajar alrededor de ellos se documentan en Mejorar el rendimiento de [los scripts Office .](web-client-performance.md)
+Linter del [](https://wikipedia.org/wiki/Lint_(software)) Editor de código proporciona advertencias si el script podría tener problemas de rendimiento. Los casos y cómo solucionarlos se documentan en [Mejorar el rendimiento de los scripts de Office.](web-client-performance.md)
 
-## <a name="external-api-calls"></a>Llamadas de API externas
+## <a name="external-api-calls"></a>Llamadas a la API externa
 
-Para [obtener más información,](external-calls.md) consulte Compatibilidad con llamadas de api Office scripts.
+Consulte [Compatibilidad con llamadas a la API externa en scripts de Office](external-calls.md) para obtener más información.
 
 ## <a name="see-also"></a>Vea también
 
 * [Conceptos básicos de los Scripts de Office en Excel en la web](scripting-fundamentals.md)
-* [Mejorar el rendimiento de los scripts Office scripts](web-client-performance.md)
+* [Mejore el rendimiento de sus scripts de Office](web-client-performance.md)

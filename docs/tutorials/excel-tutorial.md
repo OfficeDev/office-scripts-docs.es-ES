@@ -1,14 +1,14 @@
 ---
 title: Grabar, editar y crear scripts de Office en Excel en la Web
 description: Un tutorial sobre los conceptos básicos de scripts de Office que incluye la grabación de scripts en la Grabadora de acciones y la escritura de datos en un libro.
-ms.date: 01/06/2021
+ms.date: 05/17/2021
 localization_priority: Priority
-ms.openlocfilehash: 9f1b2e29d60ec0e370bdb29fde0f04be831a222b
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: 957a36d56af476bafe2c11e7c89a37e79b820cce
+ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232868"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545029"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
@@ -39,13 +39,6 @@ En primer lugar, necesitaremos algunos datos y un pequeño script inicial.
 4. Haga clic en el botón **Guardar acciones**.
 5. Seleccione las celdas **A2:C2** (la fila "Naranjas") y configure el color de relleno como naranja.
 6. Detenga la grabación pulsando el botón **Detener**.
-7. Rellene el campo **Nombre del script** con un nombre que luego vaya a recordar.
-8. *Opcional:* rellenar el campo **Descripción** con una descripción relevante. Esto ofrece un contexto sobre lo que hace el script. Para el tutorial, puede usar "Distinguiendo las filas de una tabla con colores".
-
-   > [!TIP]
-   > Puede editar una descripción del script más adelante desde el panel de **Detalles del script**, que se encuentra en el menú **...** del Editor de código.
-
-9. Para guardar el script, presione el botón **Guardar**.
 
     La hoja de cálculo debe tener este aspecto (no se preocupe si el color es diferente):
 

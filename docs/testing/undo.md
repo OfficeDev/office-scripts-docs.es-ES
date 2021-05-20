@@ -1,28 +1,28 @@
 ---
-title: Deshacer los cambios realizados mediante la ejecución de un script de Office
-description: Use el historial de versiones de Excel en la web para deshacer los cambios realizados mediante la ejecución de un script.
+title: Deshacer los cambios realizados por Office Scripts
+description: Utilice el historial de versiones de Excel en la Web para deshacer los cambios realizados mediante la ejecución de un script.
 ms.date: 01/08/2019
 localization_priority: Normal
-ms.openlocfilehash: 17f2d0bc69ce00b80be6db3d89ebb84bf064df98
-ms.sourcegitcommit: b075eed5a6f275274fbbf6d62633219eac416f26
+ms.openlocfilehash: f9f22d4879f8a02c00a5bac9f58d9aa36ae03e38
+ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42700320"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545549"
 ---
-# <a name="undo-the-changes-made-by-running-an-office-script"></a>Deshacer los cambios realizados mediante la ejecución de un script de Office
+# <a name="undo-the-changes-made-by-office-scripts"></a>Deshacer los cambios realizados por Office Scripts
 
-No se puede deshacer un script con el comando **Undo** . En su lugar, debe restaurar una versión anterior del libro desde el almacenamiento en la nube.
+No puede deshacer los cambios realizados en el libro de trabajo Excel por un script con el comando **Deshacer** de la Excel. En su lugar, debe restaurar una versión anterior del libro de trabajo desde el almacenamiento en la nube.
 
 ## <a name="version-history"></a>Historial de versiones
 
-El historial de versiones de Office es una forma sencilla de restaurar un libro antiguo a través de la interfaz de usuario de Excel. La característica solo funciona con los archivos almacenados en OneDrive o SharePoint Online.
+El historial de versiones de Office es una forma sencilla de restaurar un libro de trabajo anterior a través de la interfaz de usuario de Excel. La función solo funciona para archivos almacenados en OneDrive o SharePoint Online.
 
-En el libro de Excel en el que se ejecutó el script, siga estos pasos para deshacer los efectos de un script de Office:
+Desde el libro de trabajo Excel en el que se ejecutó el script, siga estos pasos para deshacer los efectos:
 
-1. Vaya a **File** > **información** > de archivo**historial de versiones**.
+1. Vaya al **Historial de** versiones  >  **de información** de  >  **archivos**.
 2. Seleccione una versión guardada antes de ejecutar el script.
-3. Haga clic en **restaurar**.
+3. Pulse **Restaurar**.
 
 ## <a name="see-also"></a>Vea también
 

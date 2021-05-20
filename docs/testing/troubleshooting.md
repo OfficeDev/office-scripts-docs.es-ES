@@ -1,59 +1,97 @@
 ---
-title: Solución de problemas de scripts de Office
-description: Sugerencias y técnicas de depuración de scripts de Office, así como recursos de ayuda.
-ms.date: 10/30/2020
+title: Solución de problemas de scripts Office
+description: Sugerencias y técnicas de depuración para scripts de Office, así como recursos de ayuda.
+ms.date: 05/17/2021
 localization_priority: Normal
-ms.openlocfilehash: b45957bd336edce527397253cacec8cb09df715a
-ms.sourcegitcommit: 82d3c0ef1e187bcdeceb2b5fc3411186674fe150
+ms.openlocfilehash: ff0ac1e63084c7c541d2a4925f1f011d16fa4992
+ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49342881"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545562"
 ---
-# <a name="troubleshooting-office-scripts"></a>Solución de problemas de scripts de Office
+# <a name="troubleshoot-office-scripts"></a>Solución de problemas de scripts Office
 
-Al desarrollar scripts de Office, puede cometer errores. Es correcto. Tenemos herramientas que ayudan a encontrar los problemas y que los scripts funcionan perfectamente.
+A medida que desarrolla Office scripts, puede cometer errores. Está bien. Usted tiene las herramientas para ayudar a encontrar los problemas y hacer que sus scripts funcionen perfectamente.
 
-## <a name="console-logs"></a>Registros de la consola
+## <a name="types-of-errors"></a>Tipos de errores
 
-En ocasiones, durante la solución de problemas, querrá imprimir los mensajes en la pantalla. Estos pueden mostrar el valor actual de las variables o las rutas de código que se están desencadenando. Para ello, registre el texto en la consola.
+Office Los errores de scripts se dividen en una de las dos categorías:
+
+* Compilar errores o advertencias en tiempo de compilación
+* Errores en tiempo de ejecución
+
+### <a name="compile-time-errors"></a>Errores de tiempo de compilación
+
+Los errores y advertencias en tiempo de compilación se muestran inicialmente en el Editor de código. Estos se muestran por los subrayados rojos ondulados en el editor. También se muestran en la pestaña **Problemas** en la parte inferior del panel de tareas Editor de código. La selección del error dará más detalles sobre el problema y sugerirá soluciones. Los errores en tiempo de compilación deben solucionarse antes de ejecutar el script.
+
+:::image type="content" source="../images/explicit-any-editor-message.png" alt-text="Error del compilador que se muestra en el texto flotante del Editor de código":::
+
+También puede ver subrayados de advertencia naranja y mensajes informativos grises. Estos indican sugerencias de rendimiento u otras posibilidades donde el script puede tener efectos involuntarios. Estas advertencias deben examinarse detenidamente antes de desestimarlas.
+
+### <a name="runtime-errors"></a>Errores en tiempo de ejecución
+
+Los errores en tiempo de ejecución se producen debido a problemas lógicos en el script. Esto podría deberse a que un objeto utilizado en el script no está en el libro, una tabla tiene un formato diferente al previsto o alguna otra discrepancia leve entre los requisitos del script y el libro de trabajo actual. El siguiente script genera un error cuando una hoja de cálculo denominada "TestSheet" no está presente.
+
+```TypeScript
+function main(workbook: ExcelScript.Workbook) {
+  let mySheet = workbook.getWorksheet('TestSheet');
+
+  // This will throw an error if there is no "TestSheet".
+  mySheet.getRange("A1");
+}
+```
+
+### <a name="console-messages"></a>Mensajes de consola
+
+Los errores en tiempo de compilación y tiempo de ejecución muestran mensajes de error en la consola cuando se ejecuta un script. Dan un número de línea donde se encontró el problema. Tenga en cuenta que la causa raíz de cualquier problema puede ser una línea de código diferente a la indicada en la consola.
+
+La siguiente imagen muestra la salida de la consola para el error [explícito `any` ](../develop/typescript-restrictions.md) del compilador. Anote el texto `[5, 16]` al principio de la cadena de error. Esto indica que el error está en la línea 5, comenzando en el carácter 16.
+:::image type="content" source="../images/explicit-any-error-message.png" alt-text="La consola del Editor de código que muestra un mensaje de error explícito de &quot;cualquier&quot;":::
+
+La siguiente imagen muestra la salida de la consola para un error en tiempo de ejecución. Aquí, el script intenta agregar una hoja de cálculo con un nombre de una hoja de cálculo existente. Una vez más, observe la "Línea 2" anterior al error para mostrar qué línea investigar.
+:::image type="content" source="../images/runtime-error-console.png" alt-text="La consola del Editor de código que muestra un error de la llamada a 'addWorksheet'":::
+
+## <a name="console-logs"></a>Registros de consola
+
+Imprima mensajes en la pantalla con la `console.log` instrucción. Estos registros pueden mostrar el valor actual de las variables o qué rutas de código se están desencadenando. Para ello, llame `console.log` con cualquier objeto como parámetro. Por lo general, a `string` es el tipo más fácil de leer en la consola.
 
 ```TypeScript
 console.log("Logging myRange's address.");
 console.log(myRange.getAddress());
 ```
 
-Las cadenas pasadas a `console.log` se mostrarán en la consola de registro del editor de código. Para activar la consola, presione el botón de **puntos suspensivos** y seleccione **registros...**
+Las cadenas a las que `console.log` se pasa se muestran en la consola de registro del Editor de código, en la parte inferior del panel de tareas. Los registros se encuentran en la pestaña **Salida,** aunque la pestaña gana automáticamente el foco cuando se escribe un registro.
 
 Los registros no afectan al libro.
 
-## <a name="error-messages"></a>Mensajes de error
+## <a name="automate-tab-not-appearing-or-office-scripts-unavailable"></a>Automatice la pestaña que no aparece o Office scripts no disponibles
 
-Cuando el script de Excel encuentra un problema en ejecución, produce un error. Verá un mensaje emergente en el que se le preguntará si desea **ver los registros**. Presione ese botón para abrir la consola y mostrar los errores.
+Los pasos siguientes deben ayudar a solucionar cualquier problema relacionado con la pestaña **Automatizar** que no aparezca en Excel en la Web.
 
-## <a name="automate-tab-not-appearing-or-office-scripts-unavailable"></a>La ficha automatizada no aparece o las secuencias de comandos de Office no están disponibles
-
-Los pasos siguientes le ayudarán a solucionar los problemas relacionados con la ficha **automatizar** que no aparecen en Excel en la Web.
-
-1. Asegúrese [de que su licencia de 365 de Microsoft incluye scripts de Office](../overview/excel.md#requirements).
-1. [Compruebe que el explorador es compatible](platform-limits.md#browser-support).
-1. [Asegúrese de que las cookies de terceros están habilitadas](platform-limits.md#third-party-cookies).
-1. [Asegúrese de que su administrador no ha deshabilitado los scripts de Office en el centro de administración de Microsoft 365](/microsoft-365/admin/manage/manage-office-scripts-settings).
+1. [Asegúrese de que la licencia de Microsoft 365 incluya scripts Office](../overview/excel.md#requirements).
+1. [Compruebe que su navegador es compatible.](platform-limits.md#browser-support)
+1. [Asegúrese de que las cookies de terceros estén habilitadas.](platform-limits.md#third-party-cookies)
+1. [Asegúrese de que el administrador no ha deshabilitado Office scripts en el Centro de administración de Microsoft 365.](/microsoft-365/admin/manage/manage-office-scripts-settings)
 
 [!INCLUDE [Teams support note](../includes/teams-support-note.md)]
 
-## <a name="help-resources"></a>Recursos de ayuda
+## <a name="troubleshoot-scripts-in-power-automate"></a>Solucionar problemas de scripts en Power Automate
 
-[Desbordamiento de pila](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores que desea ayudar con los problemas de codificación. A menudo, podrá encontrar la solución a su problema mediante una búsqueda rápida de desbordamiento de pila. Si no es así, formule su pregunta y etiquete con la etiqueta "Office-scripts". No olvide mencionar que está creando un *script* de Office, no un *complemento de* Office.
+Para obtener información específica para ejecutar scripts a través de Power Automate, consulte [Solución de problemas Office scripts que se ejecutan en Power Automate](power-automate-troubleshooting.md).
 
-Si encuentra un problema con la API de JavaScript de Office, cree un problema en el repositorio de github [OfficeDev/Office-js](https://github.com/OfficeDev/office-js) . Los miembros del equipo de producto responderán a los problemas y proporcionarán asistencia. La creación de un problema en el repositorio de **OfficeDev/Office-js** indica que ha encontrado un error en la biblioteca de la API de JavaScript de Office que el equipo del producto debe tratar.
+## <a name="help-resources"></a>Ayudar a los recursos
 
-Si hay un problema con el grabador de acciones o con el editor, envíe sus comentarios a través del botón **ayuda > comentarios** de Excel.
+[Stack Overflow](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores dispuestos a ayudar con los problemas de codificación. A menudo, podrás encontrar la solución a tu problema a través de una búsqueda rápida de Stack Overflow. Si no es así, haga su pregunta y etiquete con la etiqueta "office-scripts". Asegúrese de mencionar que está creando un *script* Office, no un *complemento Office*.
 
-## <a name="see-also"></a>Consulte también
+Si tiene un problema con la API de JavaScript Office, cree un problema en el repositorio de [officedev/office-js](https://github.com/OfficeDev/office-js) GitHub. Los miembros del equipo del producto responderán a las cuestiones y proporcionarán más asistencia. La creación de un problema en el repositorio **OfficeDev/office-js** indica que ha encontrado un defecto en la biblioteca de API de JavaScript Office que el equipo del producto debe abordar.
 
-- [Scripts de Office en Excel en la Web](../overview/excel.md)
-- [Conceptos básicos sobre el scripting de los scripts de Office en Excel en la web](../develop/scripting-fundamentals.md)
+Si hay un problema con el Grabador de acciones o editor, envíe comentarios a través del botón **Ayuda > Comentarios** en Excel.
+
+## <a name="see-also"></a>Vea también
+
+- [Procedimientos recomendados para Scripts de Office](../develop/best-practices.md)
 - [Límites de plataforma con scripts de Office](platform-limits.md)
-- [Mejorar el rendimiento de los scripts de Office](../develop/web-client-performance.md)
-- [Deshacer los efectos de un script de Office](undo.md)
+- [Mejore el rendimiento de sus scripts de Office](../develop/web-client-performance.md)
+- [Solucionar problemas Office scripts que se ejecutan en PowerAutomate](power-automate-troubleshooting.md)
+- [Deshacer los efectos de Scripts de Office](undo.md)
