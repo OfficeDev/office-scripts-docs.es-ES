@@ -1,6 +1,6 @@
 ---
-title: Enviar una reunión de Teams desde datos de Excel
-description: Obtén información sobre cómo usar scripts de Office para enviar una reunión de Teams desde datos Excel.
+title: Enviar una reunión Teams desde Excel datos
+description: Obtenga información sobre cómo usar Office scripts para enviar una reunión Teams desde Excel datos.
 ms.date: 05/06/2021
 localization_priority: Normal
 ROBOTS: NOINDEX
@@ -11,32 +11,32 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 05/19/2021
 ms.locfileid: "52545633"
 ---
-# <a name="send-teams-meeting-from-excel-data"></a>Enviar Teams reunión desde datos de Excel
+# <a name="send-teams-meeting-from-excel-data"></a>Enviar Teams reunión desde Excel datos
 
-Esta solución muestra cómo usar Office scripts y acciones de Power Automate para seleccionar filas de Excel archivo y usarlo para enviar una invitación a la reunión Teams y, a continuación, actualizar Excel.
+Esta solución muestra cómo usar Office scripts y acciones Power Automate para seleccionar filas de un archivo Excel y usarlo para enviar una invitación Teams reunión y, a continuación, actualizar Excel.
 
 ## <a name="example-scenario"></a>Ejemplo ficticio
 
-* Un reclutador de recursos humanos administra el programa de entrevistas de los candidatos en un archivo Excel.
-* El reclutador debe enviar la invitación a la reunión de Teams al candidato y a los entrevistadores. Las reglas de negocio deben seleccionar:
+* Un reclutador de recursos humanos administra la programación de entrevistas de los candidatos en un Excel.
+* El reclutador debe enviar la invitación Teams reunión al candidato y a los entrevistadores. Las reglas de negocio son seleccionar:
 
-    (a) Invita a solo aquellos para quienes la invitación aún no se envía como se registra en la columna de archivo.
+    (a) Invita solo a aquellos para los que la invitación no se haya enviado ya como se registra en la columna de archivo.
 
-    (b) Fechas de la entrevista en el futuro (sin fechas pasadas).
+    (b) Fechas de entrevista en el futuro (sin fechas anteriores).
 
-* El reclutador debe actualizar el archivo de Excel con la confirmación de que todas las reuniones Teams se han enviado para los registros elegibles.
+* El reclutador debe actualizar el archivo Excel con la confirmación de que todas Teams reuniones se han enviado para los registros elegibles.
 
 La solución tiene 3 partes:
 
 1. Office Script para extraer datos de una tabla en función de las condiciones y devuelve una matriz de objetos como datos JSON.
-1. A continuación, los datos se envían al Teams Crear una Teams acción **de reunión** para enviar invitaciones. Envíe una reunión Teams por instancia en la matriz JSON.
-1. Envíe los mismos datos JSON a otro script de Office para actualizar el estado de la invitación.
+1. A continuación, los datos se envían al Teams **Crear una Teams de reunión** para enviar invitaciones. Envíe una Teams reunión por instancia en la matriz JSON.
+1. Envíe los mismos datos JSON a otro script Office para actualizar el estado de la invitación.
 
-## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
+## <a name="sample-excel-file"></a>Archivo Excel ejemplo
 
-Descargar el archivo <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> utilizado en esta solución y probarlo usted mismo!
+Descargue el archivo <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> se usa en esta solución y pruébalo usted mismo.
 
-## <a name="sample-code-select-filtered-rows-from-table-as-json"></a>Código de ejemplo: seleccione filas filtradas de la tabla como JSON
+## <a name="sample-code-select-filtered-rows-from-table-as-json"></a>Código de ejemplo: seleccionar filas filtradas de la tabla como JSON
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): InterviewInvite[] {
@@ -228,6 +228,6 @@ interface InterviewInvite  {
 }
 ```
 
-## <a name="training-video-send-a-teams-meeting-from-excel-data"></a>Vídeo de formación: Envíe una reunión de Teams desde datos Excel
+## <a name="training-video-send-a-teams-meeting-from-excel-data"></a>Vídeo de aprendizaje: Enviar una reunión Teams desde Excel datos
 
-[Mira a Sudhi Ramamurthy caminar a través de esta muestra en YouTube.](https://youtu.be/HyBdx52NOE8)
+[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/HyBdx52NOE8).

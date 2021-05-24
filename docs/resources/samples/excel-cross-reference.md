@@ -1,6 +1,6 @@
 ---
-title: Haga referencia cruzada y formatee un archivo Excel
-description: Obtén información sobre cómo usar scripts Office y Power Automate para hacer referencias cruzadas y dar formato a un archivo Excel.
+title: Referencia cruzada y formato de un Excel archivo
+description: Obtenga información sobre cómo usar Office scripts y Power Automate para hacer referencia cruzada y dar formato a un Excel archivo.
 ms.date: 05/06/2021
 localization_priority: Normal
 ROBOTS: NOINDEX
@@ -11,26 +11,26 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 05/19/2021
 ms.locfileid: "52545769"
 ---
-# <a name="cross-reference-and-format-an-excel-file"></a>Haga referencia cruzada y formatee un archivo Excel
+# <a name="cross-reference-and-format-an-excel-file"></a>Referencia cruzada y formato de un Excel archivo
 
-Esta solución muestra cómo se pueden hacer referencias cruzadas y dar formato a dos archivos Excel mediante scripts y Power Automate Office.
+Esta solución muestra cómo se puede hacer referencia Excel y dar formato a dos archivos de Office scripts y Power Automate.
 
 El proyecto logra lo siguiente:
 
-1. Extrae datos de eventos de <a href="events.xlsx">events.xlsx</a> mediante una acción Ejecutar script.
-1. Pasa esos datos al segundo archivo Excel que contiene datos de transacciones de eventos y usa esos datos para realizar la validación básica de datos y el formato de datos que faltan o son incorrectos mediante scripts Office.
+1. Extrae datos de eventos de <a href="events.xlsx">events.xlsx</a> mediante una acción ejecutar script.
+1. Pasa estos datos al segundo archivo Excel que contiene datos de transacción de eventos y los usa para realizar la validación básica de los datos y el formato de datos que faltan o incorrectos mediante scripts de Office.
 1. Envía el resultado por correo electrónico a un revisor.
 
-Para obtener más información, consulte [Referencia cruzada y formato de dos archivos de Excel mediante scripts de Office](https://powerusers.microsoft.com/t5/Power-Automate-Cookbook/Cross-Reference-and-formatting-two-Excel-files-using-Office/td-p/728535).
+Para obtener más información, vea [Cross Reference and formatting two Excel files using Office Scripts](https://powerusers.microsoft.com/t5/Power-Automate-Cookbook/Cross-Reference-and-formatting-two-Excel-files-using-Office/td-p/728535).
 
-## <a name="sample-excel-files"></a>Archivos de Excel de ejemplo
+## <a name="sample-excel-files"></a>Archivos Excel ejemplo
 
-Descargar los siguientes archivos utilizados en esta solución para probarlo usted mismo!
+Descarga los siguientes archivos usados en esta solución para probarlos tú mismo.
 
 1. <a href="events.xlsx">events.xlsx</a>
 1. <a href="event-transactions.xlsx">event-transactions.xlsx</a>
 
-## <a name="sample-code-get-event-data"></a>Código de ejemplo: obtenga datos de eventos
+## <a name="sample-code-get-event-data"></a>Código de ejemplo: Obtener datos de eventos
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): EventData[] {
@@ -67,7 +67,7 @@ interface EventData {
 }
 ```
 
-## <a name="sample-code-validate-event-transactions"></a>Código de ejemplo: validar transacciones de eventos
+## <a name="sample-code-validate-event-transactions"></a>Código de ejemplo: Validar transacciones de eventos
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook, keys: string): string {
@@ -150,6 +150,6 @@ interface EventData {
 }
 ```
 
-## <a name="training-video-cross-reference-and-format-an-excel-file"></a>Vídeo de entrenamiento: Referencia cruzada y formato de un archivo Excel
+## <a name="training-video-cross-reference-and-format-an-excel-file"></a>Vídeo de aprendizaje: referencia cruzada y formato de un Excel archivo
 
-[Mira a Sudhi Ramamurthy caminar a través de esta muestra en YouTube.](https://youtu.be/dVwqBf483qo")
+[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/dVwqBf483qo").
