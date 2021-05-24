@@ -1,6 +1,6 @@
 ---
-title: Enviar una reunión de Teams desde datos de Excel
-description: Obtén información sobre cómo usar scripts de Office para enviar una reunión de Teams desde datos Excel.
+title: Enviar una reunión Teams desde Excel datos
+description: Obtenga información sobre cómo usar Office scripts para enviar una reunión Teams desde Excel datos.
 ms.date: 05/06/2021
 localization_priority: Normal
 ROBOTS: NOINDEX
@@ -11,32 +11,32 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 05/19/2021
 ms.locfileid: "52545633"
 ---
-# <a name="send-teams-meeting-from-excel-data"></a><span data-ttu-id="1ddc6-103">Enviar Teams reunión desde datos de Excel</span><span class="sxs-lookup"><span data-stu-id="1ddc6-103">Send Teams meeting from Excel data</span></span>
+# <a name="send-teams-meeting-from-excel-data"></a><span data-ttu-id="cff73-103">Enviar Teams reunión desde Excel datos</span><span class="sxs-lookup"><span data-stu-id="cff73-103">Send Teams meeting from Excel data</span></span>
 
-<span data-ttu-id="1ddc6-104">Esta solución muestra cómo usar Office scripts y acciones de Power Automate para seleccionar filas de Excel archivo y usarlo para enviar una invitación a la reunión Teams y, a continuación, actualizar Excel.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-104">This solution shows how to use Office Scripts and Power Automate actions to select rows from Excel file and use it to send a Teams meeting invite then update Excel.</span></span>
+<span data-ttu-id="cff73-104">Esta solución muestra cómo usar Office scripts y acciones Power Automate para seleccionar filas de un archivo Excel y usarlo para enviar una invitación Teams reunión y, a continuación, actualizar Excel.</span><span class="sxs-lookup"><span data-stu-id="cff73-104">This solution shows how to use Office Scripts and Power Automate actions to select rows from Excel file and use it to send a Teams meeting invite then update Excel.</span></span>
 
-## <a name="example-scenario"></a><span data-ttu-id="1ddc6-105">Ejemplo ficticio</span><span class="sxs-lookup"><span data-stu-id="1ddc6-105">Example scenario</span></span>
+## <a name="example-scenario"></a><span data-ttu-id="cff73-105">Ejemplo ficticio</span><span class="sxs-lookup"><span data-stu-id="cff73-105">Example scenario</span></span>
 
-* <span data-ttu-id="1ddc6-106">Un reclutador de recursos humanos administra el programa de entrevistas de los candidatos en un archivo Excel.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-106">An HR recruiter manages the interview schedule of candidates in an Excel file.</span></span>
-* <span data-ttu-id="1ddc6-107">El reclutador debe enviar la invitación a la reunión de Teams al candidato y a los entrevistadores.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-107">The recruiter needs to send the Teams meeting invite to the candidate and interviewers.</span></span> <span data-ttu-id="1ddc6-108">Las reglas de negocio deben seleccionar:</span><span class="sxs-lookup"><span data-stu-id="1ddc6-108">The business rules are to select:</span></span>
+* <span data-ttu-id="cff73-106">Un reclutador de recursos humanos administra la programación de entrevistas de los candidatos en un Excel.</span><span class="sxs-lookup"><span data-stu-id="cff73-106">An HR recruiter manages the interview schedule of candidates in an Excel file.</span></span>
+* <span data-ttu-id="cff73-107">El reclutador debe enviar la invitación Teams reunión al candidato y a los entrevistadores.</span><span class="sxs-lookup"><span data-stu-id="cff73-107">The recruiter needs to send the Teams meeting invite to the candidate and interviewers.</span></span> <span data-ttu-id="cff73-108">Las reglas de negocio son seleccionar:</span><span class="sxs-lookup"><span data-stu-id="cff73-108">The business rules are to select:</span></span>
 
-    <span data-ttu-id="1ddc6-109">(a) Invita a solo aquellos para quienes la invitación aún no se envía como se registra en la columna de archivo.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-109">(a) Invites to only those for whom the invite isn't already sent as recorded in the file column.</span></span>
+    <span data-ttu-id="cff73-109">(a) Invita solo a aquellos para los que la invitación no se haya enviado ya como se registra en la columna de archivo.</span><span class="sxs-lookup"><span data-stu-id="cff73-109">(a) Invites to only those for whom the invite isn't already sent as recorded in the file column.</span></span>
 
-    <span data-ttu-id="1ddc6-110">(b) Fechas de la entrevista en el futuro (sin fechas pasadas).</span><span class="sxs-lookup"><span data-stu-id="1ddc6-110">(b) Interview dates in the future (no past dates).</span></span>
+    <span data-ttu-id="cff73-110">(b) Fechas de entrevista en el futuro (sin fechas anteriores).</span><span class="sxs-lookup"><span data-stu-id="cff73-110">(b) Interview dates in the future (no past dates).</span></span>
 
-* <span data-ttu-id="1ddc6-111">El reclutador debe actualizar el archivo de Excel con la confirmación de que todas las reuniones Teams se han enviado para los registros elegibles.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-111">The recruiter needs to update the Excel file with the confirmation that all Teams meetings have been sent for the eligible records.</span></span>
+* <span data-ttu-id="cff73-111">El reclutador debe actualizar el archivo Excel con la confirmación de que todas Teams reuniones se han enviado para los registros elegibles.</span><span class="sxs-lookup"><span data-stu-id="cff73-111">The recruiter needs to update the Excel file with the confirmation that all Teams meetings have been sent for the eligible records.</span></span>
 
-<span data-ttu-id="1ddc6-112">La solución tiene 3 partes:</span><span class="sxs-lookup"><span data-stu-id="1ddc6-112">The solution has 3 parts:</span></span>
+<span data-ttu-id="cff73-112">La solución tiene 3 partes:</span><span class="sxs-lookup"><span data-stu-id="cff73-112">The solution has 3 parts:</span></span>
 
-1. <span data-ttu-id="1ddc6-113">Office Script para extraer datos de una tabla en función de las condiciones y devuelve una matriz de objetos como datos JSON.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-113">Office Script to extract data from a table based on conditions and returns an array of objects as JSON data.</span></span>
-1. <span data-ttu-id="1ddc6-114">A continuación, los datos se envían al Teams Crear una Teams acción **de reunión** para enviar invitaciones.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-114">The data is then sent to the Teams **Create a Teams meeting** action to send invites.</span></span> <span data-ttu-id="1ddc6-115">Envíe una reunión Teams por instancia en la matriz JSON.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-115">Send one Teams meeting per instance in the JSON array.</span></span>
-1. <span data-ttu-id="1ddc6-116">Envíe los mismos datos JSON a otro script de Office para actualizar el estado de la invitación.</span><span class="sxs-lookup"><span data-stu-id="1ddc6-116">Send the same JSON data to another Office Script to update the status of the invitation.</span></span>
+1. <span data-ttu-id="cff73-113">Office Script para extraer datos de una tabla en función de las condiciones y devuelve una matriz de objetos como datos JSON.</span><span class="sxs-lookup"><span data-stu-id="cff73-113">Office Script to extract data from a table based on conditions and returns an array of objects as JSON data.</span></span>
+1. <span data-ttu-id="cff73-114">A continuación, los datos se envían al Teams **Crear una Teams de reunión** para enviar invitaciones.</span><span class="sxs-lookup"><span data-stu-id="cff73-114">The data is then sent to the Teams **Create a Teams meeting** action to send invites.</span></span> <span data-ttu-id="cff73-115">Envíe una Teams reunión por instancia en la matriz JSON.</span><span class="sxs-lookup"><span data-stu-id="cff73-115">Send one Teams meeting per instance in the JSON array.</span></span>
+1. <span data-ttu-id="cff73-116">Envíe los mismos datos JSON a otro script Office para actualizar el estado de la invitación.</span><span class="sxs-lookup"><span data-stu-id="cff73-116">Send the same JSON data to another Office Script to update the status of the invitation.</span></span>
 
-## <a name="sample-excel-file"></a><span data-ttu-id="1ddc6-117">Archivo de Excel de ejemplo</span><span class="sxs-lookup"><span data-stu-id="1ddc6-117">Sample Excel file</span></span>
+## <a name="sample-excel-file"></a><span data-ttu-id="cff73-117">Archivo Excel ejemplo</span><span class="sxs-lookup"><span data-stu-id="cff73-117">Sample Excel file</span></span>
 
-<span data-ttu-id="1ddc6-118">Descargar el archivo <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> utilizado en esta solución y probarlo usted mismo!</span><span class="sxs-lookup"><span data-stu-id="1ddc6-118">Download the file <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> used in this solution and try it out yourself!</span></span>
+<span data-ttu-id="cff73-118">Descargue el archivo <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> se usa en esta solución y pruébalo usted mismo.</span><span class="sxs-lookup"><span data-stu-id="cff73-118">Download the file <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> used in this solution and try it out yourself!</span></span>
 
-## <a name="sample-code-select-filtered-rows-from-table-as-json"></a><span data-ttu-id="1ddc6-119">Código de ejemplo: seleccione filas filtradas de la tabla como JSON</span><span class="sxs-lookup"><span data-stu-id="1ddc6-119">Sample code: Select filtered rows from table as JSON</span></span>
+## <a name="sample-code-select-filtered-rows-from-table-as-json"></a><span data-ttu-id="cff73-119">Código de ejemplo: seleccionar filas filtradas de la tabla como JSON</span><span class="sxs-lookup"><span data-stu-id="cff73-119">Sample code: Select filtered rows from table as JSON</span></span>
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): InterviewInvite[] {
@@ -174,7 +174,7 @@ interface InterviewInvite extends BasicObj {
 }
 ```
 
-## <a name="sample-code-mark-as-invited"></a><span data-ttu-id="1ddc6-120">Código de ejemplo: Marcar como invitado</span><span class="sxs-lookup"><span data-stu-id="1ddc6-120">Sample code: Mark as invited</span></span>
+## <a name="sample-code-mark-as-invited"></a><span data-ttu-id="cff73-120">Código de ejemplo: Marcar como invitado</span><span class="sxs-lookup"><span data-stu-id="cff73-120">Sample code: Mark as invited</span></span>
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook, completedInvitesString: string) {
@@ -228,6 +228,6 @@ interface InterviewInvite  {
 }
 ```
 
-## <a name="training-video-send-a-teams-meeting-from-excel-data"></a><span data-ttu-id="1ddc6-121">Vídeo de formación: Envíe una reunión de Teams desde datos Excel</span><span class="sxs-lookup"><span data-stu-id="1ddc6-121">Training video: Send a Teams meeting from Excel data</span></span>
+## <a name="training-video-send-a-teams-meeting-from-excel-data"></a><span data-ttu-id="cff73-121">Vídeo de aprendizaje: Enviar una reunión Teams desde Excel datos</span><span class="sxs-lookup"><span data-stu-id="cff73-121">Training video: Send a Teams meeting from Excel data</span></span>
 
-<span data-ttu-id="1ddc6-122">[Mira a Sudhi Ramamurthy caminar a través de esta muestra en YouTube.](https://youtu.be/HyBdx52NOE8)</span><span class="sxs-lookup"><span data-stu-id="1ddc6-122">[Watch Sudhi Ramamurthy walk through this sample on YouTube](https://youtu.be/HyBdx52NOE8).</span></span>
+<span data-ttu-id="cff73-122">[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/HyBdx52NOE8).</span><span class="sxs-lookup"><span data-stu-id="cff73-122">[Watch Sudhi Ramamurthy walk through this sample on YouTube](https://youtu.be/HyBdx52NOE8).</span></span>
