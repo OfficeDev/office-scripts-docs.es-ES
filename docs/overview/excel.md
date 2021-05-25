@@ -1,16 +1,16 @@
 ---
 title: Scripts de Office en Excel en la Web
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
-ms.date: 05/17/2021
+ms.date: 05/24/2021
 localization_priority: Priority
-ms.openlocfilehash: 36bf679c1778375ad2fb010d34efc88678fd9f57
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: fe1552ca51e8ef251f029aa11968725ad466a841
+ms.sourcegitcommit: 90ca8cdf30f2065f63938f6bb6780d024c128467
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545817"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "52639890"
 ---
-# <a name="office-scripts-in-excel-on-the-web-preview"></a>Scripts de Office en Excel en la Web (vista previa)
+# <a name="office-scripts-in-excel-on-the-web"></a>Scripts de Office en Excel en la Web
 
 Los scripts de Office en Excel en la Web le permiten automatizar las tareas cotidianas. Puede grabar las acciones de Excel con la Grabadora de acciones, lo que creará automáticamente un script en TypeScript. También puede crear y editar los scripts con el Editor de código. Puede compartir scripts en la organización para que los compañeros de trabajo también puedan automatizar sus flujos de trabajo.
 
@@ -21,8 +21,6 @@ En esta serie de documentos aprenderá a usar estas herramientas. Le presentarem
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4qdFF]
 
 ## <a name="requirements"></a>Requisitos
-
-[!INCLUDE [Preview note](../includes/preview-note.md)]
 
 Para usar los Scripts de Office, necesita lo siguiente:
 
@@ -68,7 +66,7 @@ Después de completar el tutorial, lea [Fundamentos de creación de scripts para
 
 :::image type="content" source="../images/script-sharing.png" alt-text="La página Detalles del script que muestra la opción &quot;Compartir con otros en este libro&quot;.":::
 
-Los Scripts de Office se pueden compartir con otros usuarios de un libro de Excel. Al compartir un script con otros usuarios de un libro, el script se adjunta al libro. Los scripts se almacenan en su OneDrive y, cuando comparte uno, se crea un vínculo a él en el libro que ha abierto.
+Los Scripts de Office se pueden compartir con otros usuarios de un libro de Excel. Al compartir un script en un libro compartido, todos los usuarios con acceso al libro también pueden ver y ejecutar el script.
 
 Puede obtener más información sobre scripts compartidos y no compartidos en el artículo [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b).
 
@@ -81,7 +79,7 @@ Puede obtener más información sobre scripts compartidos y no compartidos en el
 
 ## <a name="next-steps"></a>Siguientes pasos
 
-Complete el [Tutorial de scripts de Office en Excel en la Web](../tutorials/excel-tutorial.md) para descubrir cómo crear sus primeros scripts de Office.
+Complete los [Scripts de Office en Excel en el tutorial de web](../tutorials/excel-tutorial.md) para descubrir cómo crear su primer script.
 
 ## <a name="see-also"></a>Vea también
 
