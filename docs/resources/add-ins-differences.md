@@ -3,12 +3,12 @@ title: Diferencias entre los scripts de Office y los complementos de Office
 description: El comportamiento y las diferencias de API entre Office scripts y Office complementos.
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 45993d08d85cfceb299216dddbe2e7da9fd2e404
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: 5c30406867da05952dedda684f765df5e7a7e53f
+ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232637"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52631681"
 ---
 # <a name="differences-between-office-scripts-and-office-add-ins"></a>Diferencias entre los scripts de Office y los complementos de Office
 
@@ -28,9 +28,7 @@ Office Actualmente, los scripts solo son compatibles con Excel en la Web. Toda l
 
 ## <a name="apis"></a>API
 
-No hay ninguna versión sincrónica de las API Office JavaScript para Office complementos. Las API Office scripts estándar son únicas en la plataforma y tienen numerosas optimizaciones y alteraciones para evitar el uso del `load` / `sync` paradigma.
-
-Algunas de las [API Excel JavaScript](/javascript/api/excel?view=excel-js-preview&preserve-view=true) son compatibles con las API Office [Scripts Async](../develop/excel-async-model.md). Algunos ejemplos y bloques de código de complemento se pueden porte a `Excel.run` bloques con traducción mínima. Aunque las dos plataformas comparten funcionalidad, hay diferencias. Los dos conjuntos de API principales que Office complementos tienen pero Office scripts no son eventos y las API comunes.
+Aunque las API Office JavaScript para Office Complementos y las API de scripts de Office comparten cierta funcionalidad, son plataformas diferentes. Las API Office scripts son una versión sincrónica y optimizada del Excel api de JavaScript. La diferencia principal es el uso del `load` / `sync` paradigma con complementos. Además, los complementos ofrecen API para eventos y un conjunto más amplio de funciones fuera de Excel, conocidas como API comunes.
 
 ### <a name="events"></a>Eventos
 

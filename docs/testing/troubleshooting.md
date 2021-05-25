@@ -3,12 +3,12 @@ title: Solucionar problemas Office scripts
 description: Sugerencias y técnicas de depuración para Office scripts, así como recursos de ayuda.
 ms.date: 05/17/2021
 localization_priority: Normal
-ms.openlocfilehash: ff0ac1e63084c7c541d2a4925f1f011d16fa4992
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 04ea0ea5d49d40667d249a6f4f4b109e03362940
+ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545562"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52631706"
 ---
 # <a name="troubleshoot-office-scripts"></a>Solucionar problemas Office scripts
 
@@ -84,11 +84,13 @@ Para obtener información específica sobre la ejecución de scripts Power Autom
 
 [Stack Overflow](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores dispuestos a ayudar con problemas de codificación. A menudo, podrás encontrar la solución al problema mediante una búsqueda rápida de desbordamiento de pila. Si no es así, haga su pregunta y etiquete con la etiqueta "office-scripts". Asegúrese de mencionar que está creando un script Office *,* no un Office *complemento*.
 
-Si encuentra un problema con la API de JavaScript Office, cree un problema en el repositorio de GitHub [OfficeDev/office-js.](https://github.com/OfficeDev/office-js) Los miembros del equipo del producto responderán a los problemas y proporcionarán más asistencia. La creación de un problema en el repositorio de **OfficeDev/office-js** indica que ha encontrado un error en la biblioteca de la API de JavaScript de Office que el equipo de producto debe solucionar.
+Para enviar una solicitud de característica para Office scripts, publique su idea en nuestra página De voz de usuario [o,](https://excel.uservoice.com/forums/274580-excel-for-the-web?category_id=143439)si la solicitud de característica ya existe, agregue su voto por ella. Asegúrese de presentar la solicitud en Excel para la web en la categoría "Macros, scripts y complementos".
 
-Si hay un problema con la Grabadora de acciones o el Editor, envía comentarios a través del botón Ayuda **> comentarios** en Excel.
+Si hay un problema con la Grabadora de acciones o el Editor, háganoslo saber. En el menú ...  del panel de tareas Editor de código, seleccione el botón **Enviar** comentarios para compartir cualquier problema.
 
-## <a name="see-also"></a>Consulte también
+:::image type="content" source="../images/code-editor-feedback.png" alt-text="El menú desbordamiento del Editor de código con el botón &quot;Enviar comentarios&quot;":::
+
+## <a name="see-also"></a>Vea también
 
 - [Procedimientos recomendados para Scripts de Office](../develop/best-practices.md)
 - [Límites de plataforma con Office scripts](platform-limits.md)

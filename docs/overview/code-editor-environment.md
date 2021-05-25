@@ -1,14 +1,14 @@
 ---
 title: Office Entorno editor de código de scripts
 description: Los requisitos previos y la información del entorno para Office scripts en Excel en la Web.
-ms.date: 05/10/2021
+ms.date: 05/24/2021
 localization_priority: Normal
-ms.openlocfilehash: aa54939826f8dda2a068df0f3fabf0fd3a2c842b
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: aca97c31ba970617a9fa270021a5b5b976ae4a57
+ms.sourcegitcommit: 90ca8cdf30f2065f63938f6bb6780d024c128467
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545825"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "52639883"
 ---
 # <a name="office-scripts-code-editor-environment"></a>Office Entorno editor de código de scripts
 
@@ -20,7 +20,7 @@ Los Scripts de Office se escriben en [TypeScript](https://www.typescriptlang.org
 
 Office Los scripts son en gran medida fragmentos de código autocontenido. Solo se usa una pequeña parte de la funcionalidad de TypeScript. Por lo tanto, puede editar scripts sin tener que aprender los entresijos de TypeScript. El Editor de código también controla la instalación, compilación y ejecución de código, por lo que no tiene que preocuparse por nada más que el script en sí. Es posible aprender el idioma y crear scripts sin conocimientos de programación anteriores. Sin embargo, si es nuevo en la programación, se recomienda aprender algunos aspectos básicos antes de continuar con Office scripts:
 
-[!INCLUDE [Preview note](../includes/coding-basics-references.md)]
+[!INCLUDE [Recommended coding resources](../includes/coding-basics-references.md)]
 
 ## <a name="office-scripts-javascript-api"></a>Office Scripts JavaScript API
 
@@ -43,7 +43,7 @@ La mayoría de los métodos abreviados de teclado Visual Studio Code también fu
 - [Métodos abreviados de teclado para macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf).
 - [Métodos abreviados de teclado Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Referencia de API de scripts de Office](/javascript/api/office-scripts/overview)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)

@@ -1,14 +1,14 @@
 ---
 title: Office Ejemplos de scripts
 description: Disponible Office ejemplos de scripts y escenarios.
-ms.date: 05/17/2021
+ms.date: 05/24/2021
 localization_priority: Normal
-ms.openlocfilehash: 0ea9a8a8986681fca0e45784e2923c1d3b34576d
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 6b91e20586faa57c389459b7b8bccf18e5c3bbfa
+ms.sourcegitcommit: 90ca8cdf30f2065f63938f6bb6780d024c128467
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545712"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "52639848"
 ---
 # <a name="office-scripts-samples-and-scenarios"></a>Office Ejemplos y escenarios de scripts
 
@@ -19,8 +19,6 @@ Para cada uno de los proyectos de [Conceptos](#basics) básicos y Más allá de 
 En [Escenarios,](#scenarios)hemos incluido algunos ejemplos de escenarios más grandes que muestran casos de uso reales.
 
 También agradecemos [las contribuciones de la comunidad.](#community-contributions-and-fun-samples)
-
-[!INCLUDE [Preview note](../../includes/preview-note.md)]
 
 ## <a name="basics"></a>Conceptos básicos
 

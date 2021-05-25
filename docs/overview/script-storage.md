@@ -1,14 +1,14 @@
 ---
 title: Office Propiedad y almacenamiento de archivos de scripts
 description: Información sobre cómo Office scripts se almacenan en Microsoft OneDrive y se transfieren entre propietarios.
-ms.date: 05/17/2021
+ms.date: 05/21/2021
 localization_priority: Normal
-ms.openlocfilehash: 556d784dc1fe64873866c49ab2726a4c68abc1a7
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 25683d2b6ac2e8ac47b465b24fa087af83175806
+ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545804"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52631660"
 ---
 # <a name="office-scripts-file-storage-and-ownership"></a>Office Propiedad y almacenamiento de archivos de scripts
 
@@ -28,7 +28,16 @@ Office Los scripts se almacenan en el OneDrive. Siguen las directivas de retenci
 
 Durante la edición, los archivos se almacenan temporalmente en el explorador. Debe guardar el script antes de cerrar la Excel para guardarlo en la OneDrive ubicación. No olvide guardar el archivo después de las ediciones, o de lo contrario, dichas ediciones solo estarán en la versión del explorador del archivo.
 
-## <a name="see-also"></a>Consulte también
+## <a name="audit-office-scripts-usage-at-the-admin-level"></a>Auditar Office de scripts en el nivel de administración
+
+Descubra qué inquilinos usan Office scripts con el registro de auditoría en el centro de cumplimiento. Para obtener información sobre cómo usar esta herramienta, visite Buscar en el registro de auditoría en el Centro de [seguridad & cumplimiento](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#search-the-audit-log).
+
+Para buscar quién usa Office scripts con la herramienta de búsqueda, agregue `.osts` el **campo Archivo, carpeta o sitio.** Esto busca todos los archivos con la Office de archivos scripts. Si alguien de la organización ha usado la característica Office scripts, la actividad del usuario aparece en los resultados de la búsqueda del registro de auditoría.
+
+> [!NOTE]
+> Actualmente no se registra la ejecución de un script. Solo se registran las acciones crear, ver y modificar.
+
+## <a name="see-also"></a>Vea también
 
 - [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)

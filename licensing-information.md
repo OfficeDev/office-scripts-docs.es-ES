@@ -4323,7 +4323,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-@types/office-js-preview 1.0.209 - MIT
+@types/office-js-preview 1.0.216 - MIT
 
 
 
@@ -6735,7 +6735,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-commander 2.20.3 - MIT https://github.com/tj/commander.js#readme
+commander 2.19.0 - MIT https://github.com/tj/commander.js#readme
 
 Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
@@ -6775,7 +6775,7 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 ---------------------------------------------------------
 
-commander 2.19.0 - MIT https://github.com/tj/commander.js#readme
+commander 2.20.3 - MIT https://github.com/tj/commander.js#readme
 
 Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
@@ -7194,7 +7194,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-cssesc 3.0.0 - MIT https://mths.be/cssesc
+cssesc 2.0.0 - MIT https://mths.be/cssesc
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
@@ -7211,7 +7211,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-cssesc 2.0.0 - MIT https://mths.be/cssesc
+cssesc 3.0.0 - MIT https://mths.be/cssesc
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
@@ -7475,7 +7475,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-debug 3.2.6 - MIT https://github.com/visionmedia/debug#readme
+debug 4.1.1 - MIT https://github.com/visionmedia/debug#readme
 
 Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>
 
@@ -7495,7 +7495,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-debug 4.1.1 - MIT https://github.com/visionmedia/debug#readme
+debug 3.2.6 - MIT https://github.com/visionmedia/debug#readme
 
 Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>
 
@@ -7552,14 +7552,14 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-define-property 2.0.2 - MIT https://github.com/jonschlinkert/define-property
+define-property 1.0.0 - MIT https://github.com/jonschlinkert/define-property
 
-Copyright (c) 2015-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2015, 2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2015-2018, Jon Schlinkert.
+Copyright (c) 2015, 2017, Jon Schlinkert
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -7572,14 +7572,14 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-define-property 1.0.0 - MIT https://github.com/jonschlinkert/define-property
+define-property 2.0.2 - MIT https://github.com/jonschlinkert/define-property
 
-Copyright (c) 2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2015-2018, Jon Schlinkert.
+Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2015, 2017, Jon Schlinkert
+Copyright (c) 2015-2018, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -8299,14 +8299,14 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 ---------------------------------------------------------
 
-fill-range 4.0.0 - MIT https://github.com/jonschlinkert/fill-range
+fill-range 7.0.1 - MIT https://github.com/jonschlinkert/fill-range
 
-Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-present, Jon Schlinkert.
+Copyright (c) 2019, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2014-2017, Jon Schlinkert
+Copyright (c) 2014-present, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -8319,14 +8319,14 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-fill-range 7.0.1 - MIT https://github.com/jonschlinkert/fill-range
+fill-range 4.0.0 - MIT https://github.com/jonschlinkert/fill-range
 
-Copyright (c) 2014-present, Jon Schlinkert.
-Copyright (c) 2019, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2014-present, Jon Schlinkert.
+Copyright (c) 2014-2017, Jon Schlinkert
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -9543,7 +9543,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-arrayish 0.3.2 - MIT https://github.com/qix-/node-is-arrayish#readme
+is-arrayish 0.2.1 - MIT https://github.com/qix-/node-is-arrayish#readme
 
 Copyright (c) 2015 JD Ballard
 
@@ -9562,7 +9562,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-arrayish 0.2.1 - MIT https://github.com/qix-/node-is-arrayish#readme
+is-arrayish 0.3.2 - MIT https://github.com/qix-/node-is-arrayish#readme
 
 Copyright (c) 2015 JD Ballard
 
@@ -10313,12 +10313,15 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-json3 3.3.0 - MIT http://bestiejs.github.io/json3
+json3 3.3.3 - MIT https://bestiejs.github.io/json3
 
-Copyright (c) 2012-2014 Kit Cambridge. http://kitcambridge.be Copyright 2012-2014, Kit Cambridge http://kit.mit-license.org
+Copyright (c) 2013-2015 Benjamin Tan. https://d10.github.io Copyright (c) 2012-2015 Kit Cambridge. http://kitcambridge.be Copyright 2012-2015, Kit Cambridge, Benjamin Tan http://kit.mit-license.org (c) 2012-2015 http://kitcambridge.be/ ' Kit Cambridge, https://d10.github.io/ ' Benjamin Tan
 
-Copyright (c) 2012-2014 Kit Cambridge.
+Copyright (c) 2012-2015 Kit Cambridge.
 http://kitcambridge.be/
+
+Copyright (c) 2013-2015 Benjamin Tan.
+https://d10.github.io/
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -10330,15 +10333,12 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-json3 3.3.3 - MIT https://bestiejs.github.io/json3
+json3 3.3.0 - MIT http://bestiejs.github.io/json3
 
-Copyright (c) 2013-2015 Benjamin Tan. https://d10.github.io Copyright (c) 2012-2015 Kit Cambridge. http://kitcambridge.be Copyright 2012-2015, Kit Cambridge, Benjamin Tan http://kit.mit-license.org (c) 2012-2015 http://kitcambridge.be/ ' Kit Cambridge, https://d10.github.io/ ' Benjamin Tan
+Copyright (c) 2012-2014 Kit Cambridge. http://kitcambridge.be Copyright 2012-2014, Kit Cambridge http://kit.mit-license.org
 
-Copyright (c) 2012-2015 Kit Cambridge.
+Copyright (c) 2012-2014 Kit Cambridge.
 http://kitcambridge.be/
-
-Copyright (c) 2013-2015 Benjamin Tan.
-https://d10.github.io/
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -12607,7 +12607,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss 7.0.14 - MIT https://postcss.org/
+postcss 7.0.32 - MIT https://postcss.org/
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
@@ -12626,7 +12626,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss 7.0.32 - MIT https://postcss.org/
+postcss 7.0.14 - MIT https://postcss.org/
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
@@ -13421,7 +13421,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss-selector-parser 6.0.2 - MIT https://github.com/postcss/postcss-selector-parser
+postcss-selector-parser 5.0.0 - MIT https://github.com/postcss/postcss-selector-parser
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
@@ -13438,7 +13438,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss-selector-parser 5.0.0 - MIT https://github.com/postcss/postcss-selector-parser
+postcss-selector-parser 6.0.2 - MIT https://github.com/postcss/postcss-selector-parser
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
@@ -13810,7 +13810,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-bomba 2.0.1 - MIT https://github.com/mafintosh/pump#readme
+bomba 3.0.0 - MIT https://github.com/mafintosh/pump#readme
 
 Copyright (c) 2014 Mathias Buus
 
@@ -13828,7 +13828,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-bomba 3.0.0 - MIT https://github.com/mafintosh/pump#readme
+bomba 2.0.1 - MIT https://github.com/mafintosh/pump#readme
 
 Copyright (c) 2014 Mathias Buus
 
@@ -13881,7 +13881,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-punycode 1.3.2 - MIT https://mths.be/punycode
+punycode 1.4.1 - MIT https://mths.be/punycode
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
@@ -13898,7 +13898,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-punycode 1.4.1 - MIT https://mths.be/punycode
+punycode 1.3.2 - MIT https://mths.be/punycode
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
@@ -14221,36 +14221,6 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-readable-stream 2.3.7 - MIT https://github.com/nodejs/readable-stream#readme
-
-Copyright Joyent, Inc. y otros colaboradores de Node.
-
-Node.js licencia para su uso de la siguiente manera:
-
-""" Copyright Node.js colaboradores. Todos los derechos reservados.
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-"""
-
-Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
-
-""" Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-"""
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 readable-stream 3.6.0 - MIT https://github.com/nodejs/readable-stream#readme
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
@@ -14281,19 +14251,30 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-readdirp 2.2.1 - MIT https://github.com/paulmillr/readdirp
+readable-stream 2.3.7 - MIT https://github.com/nodejs/readable-stream#readme
 
-Copyright (c) 2012-2015 Thorsten Lorenz
+Copyright Joyent, Inc. y otros colaboradores de Node.
 
-Este software se lanza bajo la licencia mit:
+Node.js licencia para su uso de la siguiente manera:
 
-Copyright (c) 2012-2015 Thorsten Lorenz
+""" Copyright Node.js colaboradores. Todos los derechos reservados.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+"""
+
+Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
+
+""" Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+"""
 
 
 ---------------------------------------------------------
@@ -14307,6 +14288,25 @@ Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller ( https://paulmillr.com) Co
 Licencia mit
 
 Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+readdirp 2.2.1 - MIT https://github.com/paulmillr/readdirp
+
+Copyright (c) 2012-2015 Thorsten Lorenz
+
+Este software se lanza bajo la licencia mit:
+
+Copyright (c) 2012-2015 Thorsten Lorenz
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -14996,7 +14996,7 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 ---------------------------------------------------------
 
-schema-utils 0.4.7 - MIT https://github.com/webpack-contrib/schema-utils
+schema-utils 2.7.0 - MIT https://github.com/webpack/schema-utils
 
 Copyright JS Foundation y otros colaboradores
 
@@ -15014,7 +15014,7 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 ---------------------------------------------------------
 
-schema-utils 2.7.0 - MIT https://github.com/webpack/schema-utils
+schema-utils 0.4.7 - MIT https://github.com/webpack-contrib/schema-utils
 
 Copyright JS Foundation y otros colaboradores
 
@@ -15863,7 +15863,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-supports-color 6.1.0 - MIT https://github.com/chalk/supports-color#readme
+supports-color 5.5.0 - MIT https://github.com/chalk/supports-color#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -15882,7 +15882,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-supports-color 5.5.0 - MIT https://github.com/chalk/supports-color#readme
+supports-color 6.1.0 - MIT https://github.com/chalk/supports-color#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -16709,7 +16709,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-util 0.10.3 - MIT https://github.com/defunctzombie/node-util
+util 0.11.1 - MIT https://github.com/defunctzombie/node-util
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
 
@@ -16725,7 +16725,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-util 0.11.1 - MIT https://github.com/defunctzombie/node-util
+util 0.10.3 - MIT https://github.com/defunctzombie/node-util
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
 

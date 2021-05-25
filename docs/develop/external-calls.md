@@ -1,23 +1,24 @@
 ---
 title: Soporte de llamadas de API externas en Scripts de Office
 description: Soporte técnico e instrucciones para realizar llamadas API externas en un script Office script.
-ms.date: 05/17/2021
+ms.date: 05/21/2021
 localization_priority: Normal
-ms.openlocfilehash: fd6ba0c57bf4cabb2d07421355cacff373f6706c
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 5d768b53112473c1774f8fe8257b197ffead4a63
+ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545085"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52631646"
 ---
 # <a name="external-api-call-support-in-office-scripts"></a>Soporte de llamadas de API externas en Scripts de Office
 
-Los autores de scripts no deben esperar un comportamiento coherente al usar [API externas](https://developer.mozilla.org/docs/Web/API) durante la fase de vista previa de la plataforma. Por lo tanto, no confíe en api externas para escenarios de script críticos.
-
-Las llamadas a API externas solo se pueden realizar a través de la aplicación Excel, no a través de Power Automate [en circunstancias normales](#external-calls-from-power-automate).
+Los scripts admiten llamadas a servicios externos. Use estos servicios para proporcionar datos y otra información al libro.
 
 > [!CAUTION]
 > Las llamadas externas pueden provocar que los datos confidenciales se exponán a extremos no deseados. El administrador puede establecer la protección del firewall frente a estas llamadas.
+
+> [!IMPORTANT]
+> Las llamadas a API externas solo se pueden realizar a través de la aplicación Excel, no a través de Power Automate [en circunstancias normales](#external-calls-from-power-automate).
 
 ## <a name="configure-your-script-for-external-calls"></a>Configurar el script para llamadas externas
 
@@ -36,7 +37,7 @@ Tendrás que aprender las interfaces del servicio externo para realizar llamadas
 
 * No hay forma de iniciar sesión o usar el tipo OAuth2 de flujos de autenticación. Todas las claves y credenciales deben codificarse de forma rígida (o leerse desde otro origen).
 * No hay ninguna infraestructura para almacenar credenciales y claves de API. El usuario tendrá que administrarlo.
-* No se admiten las cookies de documento `localStorage` `sessionStorage` ni los objetos. 
+* No se admiten las cookies de documento `localStorage` `sessionStorage` ni los objetos.
 * Las llamadas externas pueden provocar que los datos confidenciales se exponán a extremos no deseados o que los datos externos se puedan incluir en libros internos. El administrador puede establecer la protección del firewall frente a estas llamadas. Asegúrese de comprobar con las directivas locales antes de confiar en llamadas externas.
 * Asegúrese de comprobar la cantidad de rendimiento de datos antes de tomar una dependencia. Por ejemplo, extraer todo el conjunto de datos externo puede no ser la mejor opción y, en su lugar, se debe usar la paginación para obtener datos en fragmentos.
 
@@ -86,7 +87,7 @@ Tendrás que usar [HTTP](/connectors/webcontents/) con Azure AD u otras acciones
 > [!WARNING]
 > Las llamadas externas realizadas a través del conector [Power Automate Excel Online fallan](/connectors/excelonlinebusiness) para ayudar a mantener las directivas de prevención de pérdida de datos existentes. Sin embargo, los scripts que se ejecutan Power Automate se realizan fuera de la organización y fuera de los firewalls de la organización. Para obtener protección adicional contra usuarios malintencionados en este entorno externo, el administrador puede controlar el uso de Office scripts. El administrador puede deshabilitar el conector de Excel Online en Power Automate o desactivar scripts de Office para Excel en la Web a través de los controles de administrador [de scripts](/microsoft-365/admin/manage/manage-office-scripts-settings)Office.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 * [Usar objetos integrados de JavaScript en los scripts de Office](javascript-objects.md)
 * [Usar llamadas de captura externa en Scripts de Office](../resources/samples/external-fetch-calls.md)

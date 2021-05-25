@@ -1,14 +1,14 @@
 ---
 title: Diferencias entre Office scripts y macros de VBA
 description: El comportamiento y las diferencias de API entre Office scripts y Excel macros de VBA.
-ms.date: 05/18/2021
+ms.date: 05/21/2021
 localization_priority: Normal
-ms.openlocfilehash: 612a5f21d935fd262a6e9fd12a3431956105636a
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 8be7388221d0f1b9e8142177de526c5c7828b426
+ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545591"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52631674"
 ---
 # <a name="differences-between-office-scripts-and-vba-macros"></a>Diferencias entre Office scripts y macros de VBA
 
@@ -29,7 +29,7 @@ Office Los scripts usan un tiempo de ejecución universal para JavaScript. Esto 
 
 Las macros de VBA tienen el mismo espacio de seguridad que Excel. Esto les da acceso completo al escritorio. Office Los scripts solo tienen acceso al libro, no al equipo que hospeda el libro. Además, no se pueden compartir tokens de autenticación de JavaScript con scripts. Esto significa que el script no tiene los tokens del usuario que ha iniciado sesión ni hay capacidades de API para iniciar sesión en un servicio externo, por lo que no pueden usar tokens existentes para realizar llamadas externas en nombre del usuario.
 
-Los administradores tienen tres opciones para macros de VBA: permitir todas las macros en el inquilino, no permitir macros en el inquilino o permitir solo macros con certificados firmados. Esta falta de granularidad hace que sea difícil aislar un solo actor malo. Actualmente, Office scripts están en o desactivados para un inquilino. Sin embargo, estamos trabajando para dar a los administradores más control sobre scripts individuales y creadores de scripts.
+Los administradores tienen tres opciones para macros de VBA: permitir todas las macros en el inquilino, no permitir macros en el inquilino o permitir solo macros con certificados firmados. Esta falta de granularidad hace que sea difícil aislar un solo actor malo. Actualmente, Office scripts pueden estar desactivados para todo un inquilino, para todo un inquilino o para un grupo de usuarios de un inquilino. Los administradores también tienen control sobre quién puede compartir scripts con otros usuarios y quién puede usar scripts en Power Automate.
 
 ## <a name="coverage"></a>Cobertura
 
@@ -45,7 +45,7 @@ VBA no tiene un conector Power Automate. Todos los escenarios de VBA admitidos i
 
 Pruebe los [scripts de llamada desde un tutorial de flujo Power Automate manual](../tutorials/excel-power-automate-manual.md) para empezar a aprender sobre Power Automate. También puede consultar el ejemplo [De avisos](scenarios/task-reminders.md) de tareas automatizadas para ver Office scripts conectados a Teams a través de Power Automate en un escenario real.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Ejecute Office scripts con Power Automate](../develop/power-automate-integration.md)
