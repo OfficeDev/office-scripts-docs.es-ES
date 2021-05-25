@@ -3,16 +3,16 @@ layout: LandingPage
 ms.topic: landing-page
 title: Documentación de scripts de Office
 description: Recursos de aprendizaje de scripts de Office en Excel en la Web, como tutoriales, artículos conceptuales y ejemplos de código.
-ms.date: 10/30/2020
+ms.date: 05/24/2021
 localization_priority: Priority
-ms.openlocfilehash: 0d75d1326db0399f64f53b0b25bd6c7b49296e0b
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: baa015f7f6384ccc2cdd7d8a4cbadcbc16167828
+ms.sourcegitcommit: 90ca8cdf30f2065f63938f6bb6780d024c128467
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232672"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "52639904"
 ---
-# <a name="office-scripts-documentation-preview"></a>Documentación de scripts de Office (versión preliminar)
+# <a name="office-scripts-documentation"></a>Documentación de Scripts de Office
 
 Use los scripts de Office en Excel en la Web para automatizar las tareas comunes. Explore los artículos siguientes para saber cómo crear y editar scripts de Office y empiece a automatizar hoy.
 
