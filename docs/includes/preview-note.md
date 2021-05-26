@@ -1,2 +1,0 @@
-> [!NOTE]
-> Scripts de Office en Excel para la Web está disponible en versión preliminar pública. La funcionalidad aquí descrita está sujeta a cambios a medida que evolucione la característica. Puede enviar comentarios sobre Scripts de Office mediante el botón **Ayuda > Comentarios** en Excel. Puede enviar comentarios sobre la documentación al repositorio de GitHub [OfficeDev/office-scripts-docs](https://github.com/OfficeDev/office-scripts-docs/issues).
