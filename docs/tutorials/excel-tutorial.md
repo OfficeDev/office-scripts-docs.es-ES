@@ -1,14 +1,14 @@
 ---
 title: Grabar, editar y crear scripts de Office en Excel en la Web
 description: Un tutorial sobre los conceptos básicos de scripts de Office que incluye la grabación de scripts en la Grabadora de acciones y la escritura de datos en un libro.
-ms.date: 05/17/2021
+ms.date: 05/23/2021
 localization_priority: Priority
-ms.openlocfilehash: 957a36d56af476bafe2c11e7c89a37e79b820cce
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 19cd7bf6c3120d674553d37a36f45d36f46ee852
+ms.sourcegitcommit: 0343e4a9843f7ab6ec99d6ddf955050271b061c7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545029"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52655908"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
@@ -35,7 +35,7 @@ En primer lugar, necesitaremos algunos datos y un pequeño script inicial.
     |Limas |600 |500 |
     |Pomelos |900 |700 |
 
-3. Abra la pestaña **Automatizar**. Si no ve la pestaña **Automatizar**, presione la flecha desplegable para comprobar el desbordamiento de la cinta de opciones.
+3. Abra la pestaña **Automatizar**. Si no ve la pestaña **Automatizar**, presione la flecha desplegable para comprobar el desbordamiento de la cinta de opciones. Si aún no aparece, siga los consejos del artículo [Solución de problemas de Scripts de Office](../testing/troubleshooting.md#automate-tab-not-appearing-or-office-scripts-unavailable).
 4. Haga clic en el botón **Guardar acciones**.
 5. Seleccione las celdas **A2:C2** (la fila "Naranjas") y configure el color de relleno como naranja.
 6. Detenga la grabación pulsando el botón **Detener**.
