@@ -1,14 +1,14 @@
 ---
 title: Office Ejemplos de scripts
 description: Disponible Office ejemplos de scripts y escenarios.
-ms.date: 05/24/2021
+ms.date: 05/25/2021
 localization_priority: Normal
-ms.openlocfilehash: 6b91e20586faa57c389459b7b8bccf18e5c3bbfa
-ms.sourcegitcommit: 90ca8cdf30f2065f63938f6bb6780d024c128467
+ms.openlocfilehash: aac730fd8a0da76728e4a455339366a75b27a0b2
+ms.sourcegitcommit: 339ecbb9914d54f919e3475018888fb5d00abe89
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52639848"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697661"
 ---
 # <a name="office-scripts-samples-and-scenarios"></a>Office Ejemplos y escenarios de scripts
 
@@ -55,6 +55,7 @@ Office Los scripts pueden automatizar partes de la rutina diaria. Estas tareas c
 | [Analizar descargas web](../scenarios/analyze-web-downloads.md) | En este escenario se incluye un script que analiza los registros de tráfico web para determinar el país de origen de un usuario. Muestra las habilidades del análisis de texto, el uso de subfunciones en scripts, la aplicación de formato condicional y el trabajo con tablas. |
 | [Obtener y representar gráficamente datos del nivel de agua de NOAA](../scenarios/noaa-data-fetch.md) | Este escenario usa un script Office para extraer datos de un origen externo (la base de datos de corrientes y [mareas de NOAA)](https://tidesandcurrents.noaa.gov/)y representar la información resultante. Destaca las habilidades de usar `fetch` para obtener datos y usar gráficos. |
 | [Calculadora de calificación](../scenarios/grade-calculator.md) | En este escenario se incluye un script que valida el registro de un instructor para las calificaciones de su clase. Muestra las habilidades de comprobación de errores, formato de celda y expresiones regulares. |
+| [Programar entrevistas en Teams](../scenarios/schedule-interviews-in-teams.md) | En este escenario se muestra cómo usar una hoja de Excel para administrar las horas de reunión de las entrevistas y hacer un flujo a las reuniones programadas en Teams. |
 | [Avisos de tareas](../scenarios/task-reminders.md) | Este escenario usa un script Office en un flujo de Power Automate para enviar avisos a compañeros de trabajo para actualizar el estado de un proyecto. Destaca las habilidades de Power Automate integración y transferencia de datos desde y hacia scripts. |
 
 ## <a name="community-contributions-and-fun-samples"></a>Community contribuciones y muestras divertidas
