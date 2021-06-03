@@ -1,14 +1,14 @@
 ---
 title: Office Entorno editor de código de scripts
 description: Los requisitos previos y la información del entorno para Office scripts en Excel en la Web.
-ms.date: 05/24/2021
+ms.date: 05/27/2021
 localization_priority: Normal
-ms.openlocfilehash: aca97c31ba970617a9fa270021a5b5b976ae4a57
-ms.sourcegitcommit: 90ca8cdf30f2065f63938f6bb6780d024c128467
+ms.openlocfilehash: 2334b0f98dfe03d97c35e6d1f54eeb45c06a134c
+ms.sourcegitcommit: c75f71b8abde962e922927a18145dd1d9b361b05
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52639883"
+ms.lasthandoff: 06/03/2021
+ms.locfileid: "52731144"
 ---
 # <a name="office-scripts-code-editor-environment"></a>Office Entorno editor de código de scripts
 
@@ -32,9 +32,15 @@ Office Los scripts no admiten el uso de bibliotecas de JavaScript externas de te
 
 ## <a name="intellisense"></a>IntelliSense
 
-IntelliSense es una característica del Editor de código que ayuda a evitar errores de tipográficos y sintaxis a medida que edita el script. Muestra los posibles nombres de objeto y campo a medida que escribe, así como documentación en línea para cada API.
+IntelliSense es un conjunto de características del Editor de código que le ayudan a escribir código. Proporciona autocompletar, resaltado de errores de sintaxis y documentación de API en línea.
 
-El editor Excel código usa el mismo motor IntelliSense que Visual Studio Code. Para obtener más información acerca de la característica, visite [Visual Studio Code de IntelliSense características](https://code.visualstudio.com/docs/editor/intellisense#_intellisense-features).
+IntelliSense sugerencias a medida que escribe, de forma similar al texto sugerido en Excel. Al presionar la tecla Tab o Entrar, se inserta el miembro sugerido. Desencadenador IntelliSense en la ubicación actual del cursor presionando las teclas Ctrl+Espacio. Estas sugerencias son especialmente útiles al completar un método. La firma del método mostrada por IntelliSense contiene una lista de argumentos que necesita, el tipo de cada argumento, si un argumento determinado es obligatorio u opcional, y el tipo devuelto del método.
+
+Mantenga el cursor sobre un método, clase u otro objeto de código para ver más información. Mantenga el puntero sobre un error de sintaxis o una sugerencia de código, representada por una línea roja o amarilla, para ver sugerencias sobre cómo solucionar el problema. A menudo, IntelliSense una opción de "Corrección rápida" para cambiar automáticamente el código.
+
+:::image type="content" source="../images/implicit-any-editor-message.png" alt-text="Un mensaje de error en el texto activado del Editor de código con un botón &quot;Corrección rápida&quot;":::
+
+El editor Office de código de scripts usa el mismo motor IntelliSense que Visual Studio Code. Para obtener más información acerca de la característica, visite [Visual Studio Code de IntelliSense características](https://code.visualstudio.com/docs/editor/intellisense#_intellisense-features).
 
 ## <a name="keyboard-shortcuts"></a>Accesos rápidos de teclado
 
@@ -43,7 +49,7 @@ La mayoría de los métodos abreviados de teclado Visual Studio Code también fu
 - [Métodos abreviados de teclado para macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf).
 - [Métodos abreviados de teclado Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf).
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 - [Referencia de API de scripts de Office](/javascript/api/office-scripts/overview)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
