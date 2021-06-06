@@ -51,13 +51,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL AUTOR RENUNCIA A TODAS LAS GARA
 
       "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-      "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+      "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
       "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
    2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
-   3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+   3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
    4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -67,7 +67,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL AUTOR RENUNCIA A TODAS LAS GARA
 
       (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
 
-      (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de los Trabajos derivados, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de los Trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+      (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
 
       Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
@@ -78,7 +78,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL AUTOR RENUNCIA A TODAS LAS GARA
 
    7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
-   8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+   8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
    9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
@@ -149,13 +149,13 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
     "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-    "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+    "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
     "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
  2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
- 3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+ 3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
  4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -165,7 +165,7 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
     (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
 
-    (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de los Trabajos derivados, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de los Trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+    (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
 
     Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
@@ -176,7 +176,7 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
  7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
- 8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+ 8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
  9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
@@ -222,13 +222,13 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
     "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-    "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+    "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
     "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
  2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
- 3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+ 3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
  4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -238,7 +238,7 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
     (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
 
-    (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de los Trabajos derivados, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de los Trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+    (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
 
     Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
@@ -249,7 +249,7 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
  7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
- 8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+ 8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
  9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
@@ -295,13 +295,13 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
     "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-    "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+    "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
     "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
  2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
- 3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+ 3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
  4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -311,7 +311,7 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
     (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
 
-    (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de los Trabajos derivados, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de los Trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+    (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
 
     Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
@@ -322,7 +322,7 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
  7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
- 8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+ 8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
  9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
@@ -368,13 +368,13 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
     "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-    "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+    "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
     "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
  2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
- 3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+ 3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
  4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -384,7 +384,7 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
     (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
 
-    (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de los Trabajos derivados, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de los Trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+    (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
 
     Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
@@ -395,7 +395,7 @@ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. y colaborad
 
  7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
- 8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+ 8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
  9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
@@ -453,13 +453,13 @@ El formulario "Origen" significará el formulario preferido para realizar modifi
 
 "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-"Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+"Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
 "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
 2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
-3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
 4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -469,7 +469,7 @@ Debe hacer que los archivos modificados lleven avisos destacados que indiquen qu
 
 Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas; y
 
-Si el trabajo incluye un archivo de texto "NOTICE" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de las Obras derivadas; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia. Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
+Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia. Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
 5. Envío de contribuciones. A menos que usted indique explícitamente lo contrario, cualquier contribución enviada intencionadamente para su inclusión en el Trabajo por usted al Licenciante estará en los términos y condiciones de esta Licencia, sin términos ni condiciones adicionales. No obstante lo anterior, nada en este documento reemplazará ni modificará los términos de cualquier contrato de licencia independiente que haya ejecutado con el Licenciante con respecto a dichas contribuciones.
 
@@ -477,7 +477,7 @@ Si el trabajo incluye un archivo de texto "NOTICE" como parte de su distribució
 
 7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
-8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
 9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
@@ -653,7 +653,7 @@ ESTO LO PROPORCIONAN LOS TITULARES DE DERECHOS DE AUTOR Y LOS COLABORADORES "TAL
 
 ---------------------------------------------------------
 
-domutils 1.5.1 - BSD-2-Clause https://github.com/FB55/domutils
+domutils 1.7.0 - BSD-2-Clause https://github.com/FB55/domutils#readme
 
 Copyright (c) Felix Bohm
 
@@ -672,7 +672,7 @@ ESTO LO PROPORCIONAN LOS TITULARES DE DERECHOS DE AUTOR Y LOS COLABORADORES "TAL
 
 ---------------------------------------------------------
 
-domutils 1.7.0 - BSD-2-Clause https://github.com/FB55/domutils#readme
+domutils 1.5.1 - BSD-2-Clause https://github.com/FB55/domutils
 
 Copyright (c) Felix Bohm
 
@@ -1197,6 +1197,28 @@ ESTE SOFTWARE LO PROPORCIONAN LOS TITULARES DE DERECHOS DE AUTOR Y LOS COLABORAD
 
 ---------------------------------------------------------
 
+source-map 0.6.1 - BSD-3-Clause https://github.com/mozilla/source-map
+
+Copyright 2011 The Closure Compiler Copyright 2011 Mozilla Foundation and contributors Copyright 2014 Mozilla Foundation and contributors Copyright 2009-2011 Mozilla Foundation and contributors Copyright (c) 2009-2011, Mozilla Foundation and contributors
+
+
+Copyright (c) 2009-2011, Mozilla Foundation y colaboradores Reservados todos los derechos.
+
+Se permite la redistribución y el uso en formularios binarios y de origen, con o sin modificación, siempre que se cumplen las siguientes condiciones:
+
+* Las redistribuciones del código fuente deben conservar el aviso de copyright anterior, esta lista de condiciones y el siguiente aviso de declinación de responsabilidades.
+
+* Las redistribuciones en formato binario deben reproducir el aviso de copyright anterior, esta lista de condiciones y el siguiente aviso de declinación de responsabilidades en la documentación y/u otros materiales proporcionados con la distribución.
+
+* Ni los nombres de la Fundación Mozilla ni los nombres de los colaboradores del proyecto pueden usarse para avalar o promover productos derivados de este software sin un permiso escrito previo específico.
+
+ESTE SOFTWARE LO PROPORCIONAN LOS TITULARES DE DERECHOS DE AUTOR Y LOS COLABORADORES "TAL COMO ESTÁN" Y SE RECHAZAN LAS GARANTÍAS EXPLÍCITAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y IDONEIDAD PARA UN FIN DETERMINADO. EN NINGÚN CASO EL TITULAR O LOS COLABORADORES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARES O CONSECUENTES (INCLUIDOS, ENTRE OTROS, LA ADQUISICIÓN DE PRODUCTOS O SERVICIOS SUSTITUTOS; PÉRDIDA DE USO, DATOS O GANANCIAS; O INTERRUPCIÓN DEL NEGOCIO) SIN EMBARGO CAUSADA Y EN CUALQUIER TEORÍA DE RESPONSABILIDAD, YA SEA EN CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUIDA LA NEGLIGENCIA O DE OTRO MODO) QUE SURJA DE CUALQUIER MANERA FUERA DEL USO DE ESTE SOFTWARE, INCLUSO SI SE LE INFORMA DE LA POSIBILIDAD DE DICHOS DAÑOS.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 source-map 0.5.7 - BSD-3-Clause https://github.com/mozilla/source-map
 
 Copyright 2011 The Closure Compiler Copyright 2011 Mozilla Foundation and contributors Copyright 2014 Mozilla Foundation and contributors Copyright 2009-2011 Mozilla Foundation and contributors Copyright (c) 2009-2011, Mozilla Foundation and contributors
@@ -1220,28 +1242,6 @@ ESTE SOFTWARE LO PROPORCIONAN LOS TITULARES DE DERECHOS DE AUTOR Y LOS COLABORAD
 ---------------------------------------------------------
 
 source-map 0.7.3 - BSD-3-Clause https://github.com/mozilla/source-map
-
-Copyright 2011 The Closure Compiler Copyright 2011 Mozilla Foundation and contributors Copyright 2014 Mozilla Foundation and contributors Copyright 2009-2011 Mozilla Foundation and contributors Copyright (c) 2009-2011, Mozilla Foundation and contributors
-
-
-Copyright (c) 2009-2011, Mozilla Foundation y colaboradores Reservados todos los derechos.
-
-Se permite la redistribución y el uso en formularios binarios y de origen, con o sin modificación, siempre que se cumplen las siguientes condiciones:
-
-* Las redistribuciones del código fuente deben conservar el aviso de copyright anterior, esta lista de condiciones y el siguiente aviso de declinación de responsabilidades.
-
-* Las redistribuciones en formato binario deben reproducir el aviso de copyright anterior, esta lista de condiciones y el siguiente aviso de declinación de responsabilidades en la documentación y/u otros materiales proporcionados con la distribución.
-
-* Ni los nombres de la Fundación Mozilla ni los nombres de los colaboradores del proyecto pueden usarse para avalar o promover productos derivados de este software sin un permiso escrito previo específico.
-
-ESTE SOFTWARE LO PROPORCIONAN LOS TITULARES DE DERECHOS DE AUTOR Y LOS COLABORADORES "TAL COMO ESTÁN" Y SE RECHAZAN LAS GARANTÍAS EXPLÍCITAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y IDONEIDAD PARA UN FIN DETERMINADO. EN NINGÚN CASO EL TITULAR O LOS COLABORADORES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARES O CONSECUENTES (INCLUIDOS, ENTRE OTROS, LA ADQUISICIÓN DE PRODUCTOS O SERVICIOS SUSTITUTOS; PÉRDIDA DE USO, DATOS O GANANCIAS; O INTERRUPCIÓN DEL NEGOCIO) SIN EMBARGO CAUSADA Y EN CUALQUIER TEORÍA DE RESPONSABILIDAD, YA SEA EN CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUIDA LA NEGLIGENCIA O DE OTRO MODO) QUE SURJA DE CUALQUIER MANERA FUERA DEL USO DE ESTE SOFTWARE, INCLUSO SI SE LE INFORMA DE LA POSIBILIDAD DE DICHOS DAÑOS.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-source-map 0.6.1 - BSD-3-Clause https://github.com/mozilla/source-map
 
 Copyright 2011 The Closure Compiler Copyright 2011 Mozilla Foundation and contributors Copyright 2014 Mozilla Foundation and contributors Copyright 2009-2011 Mozilla Foundation and contributors Copyright (c) 2009-2011, Mozilla Foundation and contributors
 
@@ -1305,11 +1305,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1363,11 +1363,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1403,11 +1403,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1443,11 +1443,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1483,11 +1483,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1530,13 +1530,13 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
 
   a. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
 
-  b. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+  b. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
 
   c. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo. Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
 
@@ -1580,13 +1580,13 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
 
   a. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
 
-  b. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+  b. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
 
   c. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo. Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
 
@@ -1623,11 +1623,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1663,11 +1663,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1703,11 +1703,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1743,11 +1743,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1783,11 +1783,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1823,11 +1823,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1863,11 +1863,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1903,11 +1903,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1943,11 +1943,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -1983,11 +1983,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -2023,11 +2023,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -2063,11 +2063,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -2103,11 +2103,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -2143,11 +2143,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -2183,11 +2183,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -2223,11 +2223,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -2263,11 +2263,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -2303,11 +2303,11 @@ Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de co
 
 2. Renuncia. En la mayor medida permitida por, pero no en contra de, la legislación aplicable, El afirmor renuncia, abandona y renuncia de forma total, total, permanente, irrevocable e incondicionalmente a todos los derechos de autor y derechos relacionados del afirmor, así como las causas de acción asociadas, ya sean conocidas o desconocidas (incluidas las reclamaciones y causas de acción existentes, así como futuras), en el Trabajo (i) en todos los territorios del mundo , (ii) durante la duración máxima prevista por la legislación o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Renuncia"). El afirmador hace la renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmador, con la intención total de que dicha renuncia no esté sujeta a revocación, revocación, cancelación, terminación o cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso de la Obra por parte del público, tal como lo contempla la declaración de propósito expresa del Afirmador.
 
-3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la renuncia se juzgue así, el afirmor concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias. , y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
+3. Reserva de licencias públicas. Si cualquier parte de la renuncia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, la renuncia se conservará en la medida máxima permitida teniendo en cuenta la declaración de propósito expresa del afirmor. Además, en la medida en que la exención se juzgue así, el Afirmador concede a cada persona afectada una licencia libre de derechos de autor, no transferible, no sublicensable, no exclusiva, irrevocable e incondicional para ejercer los derechos de autor y los derechos relacionados del autor en el trabajo (i) en todos los territorios del mundo, (ii) para la duración máxima proporcionada por la ley o tratado aplicable (incluidas las futuras extensiones de tiempo) , (iii) en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier propósito, incluidos, sin limitación, fines comerciales, publicitarios o promocionales (la "Licencia"). La licencia se considerará efectiva a partir de la fecha en que el Afirmante aplicó cc0 al trabajo. Si cualquier parte de la Licencia por cualquier motivo se considera legalmente inválida o ineficaz en virtud de la legislación aplicable, dicha invalidez parcial o ineficacia no invalidará el resto de la Licencia y, en tal caso, El afirmador por la presente que no (i) ejercerá ninguno de sus derechos de autor y derechos relacionados restantes en el trabajo o (ii) aseverar cualquier reclamación y causa de acción asociada con respecto al trabajo , en cualquier caso contrario a la declaración de propósito expresa del afirmor.
 
 4. Limitaciones y declinaciones de responsabilidades.
    1. Este documento no exime, abandona, entrega, licencia ni afecta de otro modo a los derechos de marca comercial o de patente en poder de Affirmer.
-   2. El afirmador ofrece el trabajo tal cual y no hace declaraciones ni garantías de ningún tipo relacionadas con el Trabajo, expresas, implícitas, estatutarias o de otro tipo, incluidas, entre otras, garantías de título, comercialización, idoneidad para un fin determinado, no infracción o ausencia de defectos latentes u otros, precisión o presencia o ausencia de errores, sean o no detectables, todo en la mayor medida permitida por la ley aplicable.
+   2. El afirmador ofrece el trabajo tal cual y no realiza ninguna representación o garantía de ningún tipo con respecto al Trabajo, expresa, implícita, estatutaria o de otro tipo, incluidas, sin limitación, garantías de título, comercialización, idoneidad para un fin determinado, no infracción, o la ausencia de defectos latentes u otros defectos, precisión, o la presencia o ausencia de errores, ya sea o no detectable , todo en la mayor medida permitida en virtud de la legislación aplicable.
    3. Affirmer renuncia a la responsabilidad de borrar los derechos de otras personas que puedan aplicarse al Trabajo o cualquier uso de los mismos, incluidos, entre otros, los derechos de autor y los derechos relacionados de cualquier persona en el trabajo.
       Además, Affirmer renuncia a la responsabilidad de obtener los consentimientos, permisos u otros derechos necesarios para cualquier uso del trabajo.
    4. El afirmador comprende y reconoce que Creative Commons no es una parte de este documento y no tiene obligación ni deber con respecto a este CC0 ni al uso del trabajo.
@@ -3498,7 +3498,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL TITULAR DE LOS DERECHOS DE AUTO
 
 ---------------------------------------------------------
 
-tipo 2.0.0 - ISC https://github.com/medikoo/type#readme
+tipo 1.2.0 - ISC https://github.com/medikoo/type#readme
 
 Copyright (c) 2019, Mariusz Nowak, medikoo, medikoo.com
 
@@ -3515,7 +3515,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL AUTOR RENUNCIA A TODAS LAS GARA
 
 ---------------------------------------------------------
 
-tipo 1.2.0 - ISC https://github.com/medikoo/type#readme
+tipo 2.0.0 - ISC https://github.com/medikoo/type#readme
 
 Copyright (c) 2019, Mariusz Nowak, medikoo, medikoo.com
 
@@ -4846,13 +4846,13 @@ TÉRMINOS Y CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN
 
    "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-   "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+   "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
    "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
 2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
-3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
 4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -4862,7 +4862,7 @@ TÉRMINOS Y CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN
 
    (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
 
-   (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de los Trabajos derivados, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de los Trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+   (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
 
    Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
@@ -4873,7 +4873,7 @@ TÉRMINOS Y CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN
 
 7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
-8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
 9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
@@ -5166,7 +5166,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-ansi-regex 4.1.0 - MIT https://github.com/chalk/ansi-regex#readme
+ansi-regex 3.0.0 - MIT https://github.com/chalk/ansi-regex#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -5204,7 +5204,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-ansi-regex 3.0.0 - MIT https://github.com/chalk/ansi-regex#readme
+ansi-regex 4.1.0 - MIT https://github.com/chalk/ansi-regex#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -5862,7 +5862,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-bn.js 5.1.2 - MIT https://github.com/indutny/bn.js
+bn.js 4.11.9 - MIT https://github.com/indutny/bn.js
 
 Copyright Fedor Indutny, 2015.
 
@@ -5880,7 +5880,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-bn.js 4.11.9 - MIT https://github.com/indutny/bn.js
+bn.js 5.1.2 - MIT https://github.com/indutny/bn.js
 
 Copyright Fedor Indutny, 2015.
 
@@ -6304,7 +6304,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-camelcase 5.0.0 - MIT https://github.com/sindresorhus/camelcase#readme
+camelcase 5.3.1 - MIT https://github.com/sindresorhus/camelcase#readme
 
 (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6323,7 +6323,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-camelcase 5.3.1 - MIT https://github.com/sindresorhus/camelcase#readme
+camelcase 5.0.0 - MIT https://github.com/sindresorhus/camelcase#readme
 
 (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6470,24 +6470,6 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-chokidar 2.1.8 - MIT https://github.com/paulmillr/chokidar
-
-Copyright (c) 2012-2019 Paul Miller ( https://paulmillr.com) & Elan Shanker
-
-Licencia mit
-
-Copyright (c) <year><copyright holders>
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 chokidar 3.4.0 - MIT https://github.com/paulmillr/chokidar
 
 (c) Paul Miller <https://paulmillr.com> Copyright (c) 2012-2019 Paul Miller ( https://paulmillr.com) , Elan Shanker
@@ -6502,6 +6484,24 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+chokidar 2.1.8 - MIT https://github.com/paulmillr/chokidar
+
+Copyright (c) 2012-2019 Paul Miller ( https://paulmillr.com) & Elan Shanker
+
+Licencia mit
+
+Copyright (c) <year><copyright holders>
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 ---------------------------------------------------------
 
@@ -7455,9 +7455,9 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-debug 2.6.9 - MIT https://github.com/visionmedia/debug#readme
+debug 4.1.1 - MIT https://github.com/visionmedia/debug#readme
 
-Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2016 TJ Holowaychuk <tj@vision-media.ca>
+Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>
 
 (La licencia mit)
 
@@ -7475,9 +7475,9 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-debug 4.1.1 - MIT https://github.com/visionmedia/debug#readme
+debug 2.6.9 - MIT https://github.com/visionmedia/debug#readme
 
-Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>
+Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2016 TJ Holowaychuk <tj@vision-media.ca>
 
 (La licencia mit)
 
@@ -7572,14 +7572,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-define-property 2.0.2 - MIT https://github.com/jonschlinkert/define-property
+define-property 0.2.5 - MIT https://github.com/jonschlinkert/define-property
 
-Copyright (c) 2015-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2015 Jon Schlinkert Copyright (c) 2015, Jon Schlinkert.
 
 La licencia mit (MIT)
 
-Copyright (c) 2015-2018, Jon Schlinkert.
+Copyright (c) 2015, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -7592,13 +7591,14 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-define-property 0.2.5 - MIT https://github.com/jonschlinkert/define-property
+define-property 2.0.2 - MIT https://github.com/jonschlinkert/define-property
 
-Copyright (c) 2015 Jon Schlinkert Copyright (c) 2015, Jon Schlinkert.
+Copyright (c) 2015-2018, Jon Schlinkert.
+Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2015, Jon Schlinkert.
+Copyright (c) 2015-2018, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -8299,14 +8299,14 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 ---------------------------------------------------------
 
-fill-range 7.0.1 - MIT https://github.com/jonschlinkert/fill-range
+fill-range 4.0.0 - MIT https://github.com/jonschlinkert/fill-range
 
-Copyright (c) 2014-present, Jon Schlinkert.
-Copyright (c) 2019, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2014-present, Jon Schlinkert.
+Copyright (c) 2014-2017, Jon Schlinkert
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -8319,14 +8319,14 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-fill-range 4.0.0 - MIT https://github.com/jonschlinkert/fill-range
+fill-range 7.0.1 - MIT https://github.com/jonschlinkert/fill-range
 
-Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-present, Jon Schlinkert.
+Copyright (c) 2019, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2014-2017, Jon Schlinkert
+Copyright (c) 2014-present, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -8358,11 +8358,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-find-up 3.0.0 - MIT https://github.com/sindresorhus/find-up#readme
+find-up 2.1.0 - MIT https://github.com/sindresorhus/find-up#readme
 
 (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Licencia mit
+La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -8377,11 +8377,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-find-up 2.1.0 - MIT https://github.com/sindresorhus/find-up#readme
+find-up 3.0.0 - MIT https://github.com/sindresorhus/find-up#readme
 
 (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-La licencia mit (MIT)
+Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -8933,15 +8933,14 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-has-values 0.1.4 - MIT https://github.com/jonschlinkert/has-values
+has-values 1.0.0 - MIT https://github.com/jonschlinkert/has-values
 
-Copyright (c) 2014-2015, Jon Schlinkert.
-Copyright (c) 2014-2016, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2014-2016, Jon Schlinkert.
+Copyright (c) 2014-2017, Jon Schlinkert
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -8954,14 +8953,15 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-has-values 1.0.0 - MIT https://github.com/jonschlinkert/has-values
+has-values 0.1.4 - MIT https://github.com/jonschlinkert/has-values
 
-Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-2015, Jon Schlinkert.
+Copyright (c) 2014-2016, Jon Schlinkert.
+Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2014-2017, Jon Schlinkert
+Copyright (c) 2014-2016, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -9737,7 +9737,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-descriptor 1.0.2 - MIT https://github.com/jonschlinkert/is-descriptor
+is-descriptor 0.1.6 - MIT https://github.com/jonschlinkert/is-descriptor
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
@@ -9756,7 +9756,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-descriptor 0.1.6 - MIT https://github.com/jonschlinkert/is-descriptor
+is-descriptor 1.0.2 - MIT https://github.com/jonschlinkert/is-descriptor
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
@@ -9931,14 +9931,14 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-number 7.0.0 - MIT https://github.com/jonschlinkert/is-number
+is-number 3.0.0 - MIT https://github.com/jonschlinkert/is-number
 
-Copyright (c) 2014-present, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-2016, Jon Schlinkert Copyright (c) 2014-2015, Jon Schlinkert.
+Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2014-present, Jon Schlinkert.
+Copyright (c) 2014-2016, Jon Schlinkert
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -9951,14 +9951,14 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-number 3.0.0 - MIT https://github.com/jonschlinkert/is-number
+is-number 7.0.0 - MIT https://github.com/jonschlinkert/is-number
 
-Copyright (c) 2014-2016, Jon Schlinkert Copyright (c) 2014-2015, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-present, Jon Schlinkert.
+Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
 La licencia mit (MIT)
 
-Copyright (c) 2014-2016, Jon Schlinkert
+Copyright (c) 2014-present, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -10461,25 +10461,6 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-js-tokens 3.0.2 - MIT https://github.com/lydell/js-tokens#readme
-
-Copyright 2014, 2015, 2016, 2017 Simon Lydell Copyright (c) 2014, 2015, 2016, 2017 Simon Lydell
-
-La licencia mit (MIT)
-
-Copyright (c) 2014, 2015, 2016, 2017 Simon Lydell
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 js-tokens 4.0.0 - MIT https://github.com/lydell/js-tokens#readme
 
 Copyright 2014, 2015, 2016, 2017, 2018 Simon Lydell Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
@@ -10499,13 +10480,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-js-yaml 3.14.0 - MIT https://github.com/nodeca/js-yaml
+js-tokens 3.0.2 - MIT https://github.com/lydell/js-tokens#readme
 
-Copyright (c) 2011-2015 por Vitaly Puzrin
+Copyright 2014, 2015, 2016, 2017 Simon Lydell Copyright (c) 2014, 2015, 2016, 2017 Simon Lydell
 
-(La licencia mit)
+La licencia mit (MIT)
 
-Copyright (C) 2011-2015 por Vitaly Puzrin
+Copyright (c) 2014, 2015, 2016, 2017 Simon Lydell
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -10518,13 +10499,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-tipo de 4.0.0 - MIT https://github.com/jonschlinkert/kind-of
+js-yaml 3.14.0 - MIT https://github.com/nodeca/js-yaml
 
-Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2011-2015 por Vitaly Puzrin
 
-La licencia mit (MIT)
+(La licencia mit)
 
-Copyright (c) 2014-2017, Jon Schlinkert
+Copyright (C) 2011-2015 por Vitaly Puzrin
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -10558,6 +10539,25 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 ---------------------------------------------------------
 
 tipo de 3.2.2 - MIT https://github.com/jonschlinkert/kind-of
+
+Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+
+La licencia mit (MIT)
+
+Copyright (c) 2014-2017, Jon Schlinkert
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+tipo de 4.0.0 - MIT https://github.com/jonschlinkert/kind-of
 
 Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
 
@@ -10633,24 +10633,6 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-loader-utils 1.4.0 - MIT https://github.com/webpack/loader-utils#readme
-
-Copyright JS Foundation y otros colaboradores
-
-Copyright JS Foundation y otros colaboradores
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
-EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 loader-utils 1.2.3 - MIT https://github.com/webpack/loader-utils#readme
 
 Copyright JS Foundation y otros colaboradores
@@ -10669,11 +10651,29 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 ---------------------------------------------------------
 
-locate-path 3.0.0 - MIT https://github.com/sindresorhus/locate-path#readme
+loader-utils 1.4.0 - MIT https://github.com/webpack/loader-utils#readme
+
+Copyright JS Foundation y otros colaboradores
+
+Copyright JS Foundation y otros colaboradores
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
+EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+locate-path 2.0.0 - MIT https://github.com/sindresorhus/locate-path#readme
 
 (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Licencia mit
+La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -10688,11 +10688,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-locate-path 2.0.0 - MIT https://github.com/sindresorhus/locate-path#readme
+locate-path 3.0.0 - MIT https://github.com/sindresorhus/locate-path#readme
 
 (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-La licencia mit (MIT)
+Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -11397,7 +11397,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-monaco-editor 0.18.1 - MIT https://github.com/Microsoft/monaco-editor#readme
+monaco-editor 0.20.0 - MIT https://github.com/Microsoft/monaco-editor#readme
 
 Copyright (c) 2015 Copyright (c) Joshaven Potter Copyright (c) 2014 Taylor Hakes Copyright (c) Artyom Shalkhakov.
 Copyright (c) 2015 David Owens II Copyright (c) 2014 Forbes Lindesay Copyright (c) 2015 Nicolas Bevacqua Copyright (c) Microsoft Corporation.
@@ -11423,7 +11423,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-monaco-editor 0.20.0 - MIT https://github.com/Microsoft/monaco-editor#readme
+monaco-editor 0.18.1 - MIT https://github.com/Microsoft/monaco-editor#readme
 
 Copyright (c) 2015 Copyright (c) Joshaven Potter Copyright (c) 2014 Taylor Hakes Copyright (c) Artyom Shalkhakov.
 Copyright (c) 2015 David Owens II Copyright (c) 2014 Forbes Lindesay Copyright (c) 2015 Nicolas Bevacqua Copyright (c) Microsoft Corporation.
@@ -11725,11 +11725,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-normalize-url 1.9.1 - MIT https://github.com/sindresorhus/normalize-url#readme
+normalize-url 3.3.0 - MIT https://github.com/sindresorhus/normalize-url#readme
 
 (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-La licencia mit (MIT)
+Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -11744,11 +11744,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-normalize-url 3.3.0 - MIT https://github.com/sindresorhus/normalize-url#readme
+normalize-url 1.9.1 - MIT https://github.com/sindresorhus/normalize-url#readme
 
 (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Licencia mit
+La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -11939,7 +11939,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-object-keys 0.5.0 - MIT https://github.com/ljharb/object-keys
+object-keys 1.1.1 - MIT https://github.com/ljharb/object-keys#readme
 
 Copyright (c) 2013 Jordan Harband
 
@@ -11957,7 +11957,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-object-keys 1.1.1 - MIT https://github.com/ljharb/object-keys#readme
+object-keys 0.5.0 - MIT https://github.com/ljharb/object-keys
 
 Copyright (c) 2013 Jordan Harband
 
@@ -12607,7 +12607,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss 7.0.32 - MIT https://postcss.org/
+postcss 7.0.14 - MIT https://postcss.org/
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
@@ -12626,7 +12626,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss 7.0.14 - MIT https://postcss.org/
+postcss 7.0.32 - MIT https://postcss.org/
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
@@ -13506,7 +13506,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss-value-parser 4.1.0 - MIT https://github.com/TrySound/postcss-value-parser
+postcss-value-parser 3.3.1 - MIT https://github.com/TrySound/postcss-value-parser
 
 (c) Bogdan Chadkin Copyright (c) Bogdan Chadkin <trysound@yandex.ru>
 
@@ -13523,7 +13523,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss-value-parser 3.3.1 - MIT https://github.com/TrySound/postcss-value-parser
+postcss-value-parser 4.1.0 - MIT https://github.com/TrySound/postcss-value-parser
 
 (c) Bogdan Chadkin Copyright (c) Bogdan Chadkin <trysound@yandex.ru>
 
@@ -14221,36 +14221,6 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-readable-stream 3.6.0 - MIT https://github.com/nodejs/readable-stream#readme
-
-Copyright Joyent, Inc. y otros colaboradores de Node.
-
-Node.js licencia para su uso de la siguiente manera:
-
-""" Copyright Node.js colaboradores. Todos los derechos reservados.
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-"""
-
-Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
-
-""" Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-"""
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 readable-stream 2.3.7 - MIT https://github.com/nodejs/readable-stream#readme
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
@@ -14281,19 +14251,30 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-readdirp 3.4.0 - MIT https://github.com/paulmillr/readdirp
+readable-stream 3.6.0 - MIT https://github.com/nodejs/readable-stream#readme
 
-Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller ( https://paulmillr.com) Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller <https://paulmillr.com>
+Copyright Joyent, Inc. y otros colaboradores de Node.
 
-Licencia mit
+Node.js licencia para su uso de la siguiente manera:
 
-Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
+""" Copyright Node.js colaboradores. Todos los derechos reservados.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+"""
+
+Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
+
+""" Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+"""
 
 
 ---------------------------------------------------------
@@ -14307,6 +14288,25 @@ Copyright (c) 2012-2015 Thorsten Lorenz
 Este software se lanza bajo la licencia mit:
 
 Copyright (c) 2012-2015 Thorsten Lorenz
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+readdirp 3.4.0 - MIT https://github.com/paulmillr/readdirp
+
+Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller ( https://paulmillr.com) Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller <https://paulmillr.com>
+
+Licencia mit
+
+Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -14337,7 +14337,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-redux 4.0.5 - MIT http://redux.js.org/
+redux 4.0.1 - MIT http://redux.js.org/
 
 Copyright (c) 2015-present Dan Abramov
 
@@ -14356,7 +14356,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-redux 4.0.1 - MIT http://redux.js.org/
+redux 4.0.5 - MIT http://redux.js.org/
 
 Copyright (c) 2015-present Dan Abramov
 
@@ -14431,6 +14431,25 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
+regenerator-runtime 0.11.1 - MIT
+
+
+Copyright (c) 2014-present, Facebook, Inc.
+
+Licencia mit
+
+Copyright (c) <year><copyright holders>
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 regenerator-runtime 0.13.5 - MIT
 
 
@@ -14446,25 +14465,6 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-regenerator-runtime 0.11.1 - MIT
-
-
-Copyright (c) 2014-present, Facebook, Inc.
-
-Licencia mit
-
-Copyright (c) <year><copyright holders>
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 ---------------------------------------------------------
 
@@ -14978,6 +14978,24 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
+schema-utils 0.4.7 - MIT https://github.com/webpack-contrib/schema-utils
+
+Copyright JS Foundation y otros colaboradores
+
+Copyright JS Foundation y otros colaboradores
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
+EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 schema-utils 1.0.0 - MIT https://github.com/webpack-contrib/schema-utils
 
 Copyright JS Foundation y otros colaboradores
@@ -14997,24 +15015,6 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 ---------------------------------------------------------
 
 schema-utils 2.7.0 - MIT https://github.com/webpack/schema-utils
-
-Copyright JS Foundation y otros colaboradores
-
-Copyright JS Foundation y otros colaboradores
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
-EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-schema-utils 0.4.7 - MIT https://github.com/webpack-contrib/schema-utils
 
 Copyright JS Foundation y otros colaboradores
 
@@ -15615,7 +15615,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-string_decoder 1.3.0 - MIT https://github.com/nodejs/string_decoder
+string_decoder 1.1.1 - MIT https://github.com/nodejs/string_decoder
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
 
@@ -15646,7 +15646,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-string_decoder 1.1.1 - MIT https://github.com/nodejs/string_decoder
+string_decoder 1.3.0 - MIT https://github.com/nodejs/string_decoder
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
 
@@ -15696,6 +15696,25 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
+strip-ansi 3.0.1 - MIT https://github.com/chalk/strip-ansi
+
+(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+La licencia mit (MIT)
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 strip-ansi 4.0.0 - MIT https://github.com/chalk/strip-ansi#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
@@ -15720,25 +15739,6 @@ strip-ansi 5.2.0 - MIT https://github.com/chalk/strip-ansi#readme
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
-
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-strip-ansi 3.0.1 - MIT https://github.com/chalk/strip-ansi
-
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -17532,13 +17532,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
       "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-      "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+      "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
       "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
    2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
-   3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+   3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
    4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -17548,7 +17548,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
       (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
 
-      (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de los Trabajos derivados, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de los Trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+      (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
 
       Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
@@ -17559,7 +17559,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
    7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
-   8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+   8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
    9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
@@ -17647,13 +17647,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
       "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
 
-      "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo, pero excluyendo la comunicación marcada o designada por escrito por el propietario de derechos de autor como "No es una contribución".
+      "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" significa cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo , pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
 
       "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
 
    2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
 
-   3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, cada colaborador le concede un perpetuo, mundial, no exclusivo, sin cargo, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) licencia de patente para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las notificaciones de patente que dicho colaborador pueda licenciar y que sean necesariamente infringida por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se han realizado dichas contribuciones. enviado. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+   3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
 
    4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
 
@@ -17663,7 +17663,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
       (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
 
-      (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de los Trabajos derivados, en al menos uno de los siguientes lugares: dentro de un archivo de texto NOTICE distribuido como parte de los Trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+      (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares : dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
 
       Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
 
@@ -17674,7 +17674,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
    7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
 
-   8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato, o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar la obra (incluidos, entre otros, los daños por pérdida). de buena voluntad, parada del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha informado a dicho colaborador de la posibilidad de dichos daños.
+   8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
 
    9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
 
