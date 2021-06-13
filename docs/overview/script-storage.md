@@ -1,14 +1,14 @@
 ---
 title: Office Propiedad y almacenamiento de archivos de scripts
 description: Información sobre cómo Office scripts se almacenan en Microsoft OneDrive y se transfieren entre propietarios.
-ms.date: 05/21/2021
+ms.date: 06/04/2021
 localization_priority: Normal
-ms.openlocfilehash: 25683d2b6ac2e8ac47b465b24fa087af83175806
-ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
+ms.openlocfilehash: b7ccb3ceae99a3a10bb56d5a4e56cc869d99850e
+ms.sourcegitcommit: 7dcb13daa3a765b87295e5a453a8f123e17ee24a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52631660"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906790"
 ---
 # <a name="office-scripts-file-storage-and-ownership"></a>Office Propiedad y almacenamiento de archivos de scripts
 
@@ -22,6 +22,14 @@ Puede Office scripts se almacenan en su OneDrive. Los **archivos .osts** se encu
 
 Los scripts que se comparten con uno de los libros permanecen en el sitio del creador de scripts OneDrive. No se copian en ninguna de las carpetas locales o OneDrive cuando se ejecuta el script compartido en Excel. El **botón Hacer una copia** del Editor de código guarda una copia independiente del script en el OneDrive. Los cambios realizados en la copia no afectan al script original.
 
+### <a name="restore-deleted-scripts"></a>Restaurar scripts eliminados
+
+Cuando se elimina un script en Excel, se va a la papelera OneDrive reciclaje. Para restaurar un script eliminado, siga los pasos enumerados en Restaurar archivos o carpetas eliminados [en OneDrive](https://support.microsoft.com/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f). La restauración de **un archivo .osts** lo devuelve a la **lista Todos los scripts.**
+
+Un script eliminado no se comparte con el libro. Al restaurar un script, no **conserva** su acceso a scripts. Tendrá que volver a compartir el script.
+
+Los scripts restaurados siguen funcionando según lo esperado Power Automate flujos. No es necesario volver a crear el conector de flujo.
+
 ## <a name="file-ownership-and-retention"></a>Retención y propiedad de archivos
 
 Office Los scripts se almacenan en el OneDrive. Siguen las directivas de retención y eliminación especificadas por Microsoft OneDrive. Para obtener información sobre cómo administrar scripts creados y compartidos por un usuario que fue quitado de la organización, consulte [Retención y eliminación de OneDrive](/onedrive/retention-and-deletion).
@@ -30,14 +38,14 @@ Durante la edición, los archivos se almacenan temporalmente en el explorador. D
 
 ## <a name="audit-office-scripts-usage-at-the-admin-level"></a>Auditar Office de scripts en el nivel de administración
 
-Descubra qué inquilinos usan Office scripts con el registro de auditoría en el centro de cumplimiento. Para obtener información sobre cómo usar esta herramienta, visite Buscar en el registro de auditoría en el Centro de [seguridad & cumplimiento](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#search-the-audit-log).
+Descubra qué inquilinos usan Office scripts con el registro de auditoría en el centro de cumplimiento. Para obtener información sobre cómo usar esta herramienta, visite Buscar en el registro de auditoría en el Centro de [seguridad & cumplimiento](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide&preserve-view=true#search-the-audit-log).
 
 Para buscar quién usa Office scripts con la herramienta de búsqueda, agregue `.osts` el **campo Archivo, carpeta o sitio.** Esto busca todos los archivos con la Office de archivos scripts. Si alguien de la organización ha usado la característica Office scripts, la actividad del usuario aparece en los resultados de la búsqueda del registro de auditoría.
 
 > [!NOTE]
 > Actualmente no se registra la ejecución de un script. Solo se registran las acciones crear, ver y modificar.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
 - [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
