@@ -3,12 +3,12 @@ title: Borrar filtro de columna de tabla en función de la ubicación de celda a
 description: Obtenga información sobre cómo borrar el filtro de columna de tabla en función de la ubicación de celda activa.
 ms.date: 05/03/2021
 localization_priority: Normal
-ms.openlocfilehash: 06fba191a79f4641d4d1017bda332c7559b50e6d
-ms.sourcegitcommit: 763d341857bcb209b2f2c278a82fdb63d0e18f0a
+ms.openlocfilehash: d6f267b433be9a0ddf44edf53ed92a136eb2ded6
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285930"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074441"
 ---
 # <a name="clear-table-column-filter-based-on-active-cell-location"></a>Borrar filtro de columna de tabla en función de la ubicación de celda activa
 
@@ -18,11 +18,11 @@ Si desea obtener más información sobre cómo guardar el filtro antes de borrar
 
 _Antes de borrar el filtro de columna (observe la celda activa)_
 
-:::image type="content" source="../../images/before-filter-applied.png" alt-text="Una celda activa antes de borrar el filtro de columna":::
+:::image type="content" source="../../images/before-filter-applied.png" alt-text="Una celda activa antes de borrar el filtro de columna.":::
 
 _Después de borrar el filtro de columna_
 
-:::image type="content" source="../../images/after-filter-cleared.png" alt-text="Una celda activa después de borrar el filtro de columna":::
+:::image type="content" source="../../images/after-filter-cleared.png" alt-text="Una celda activa después de borrar el filtro de columna.":::
 
 ## <a name="sample-code-clear-table-column-filter-based-on-active-cell"></a>Código de ejemplo: borrar el filtro de columna de tabla en función de la celda activa
 

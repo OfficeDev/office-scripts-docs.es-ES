@@ -3,12 +3,12 @@ title: 'Office Escenario de ejemplo scripts: avisos de tareas automatizados'
 description: Un ejemplo que usa Power Automate tarjetas adaptables automatizan los avisos de tareas en una hoja de cálculo de administración de proyectos.
 ms.date: 11/30/2020
 localization_priority: Normal
-ms.openlocfilehash: c254a627da8442c0974263908a41275182740b6e
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 1297f10e45c515079994d659378331fc4a2be744
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545609"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074665"
 ---
 # <a name="office-scripts-sample-scenario-automated-task-reminders"></a>Office Escenario de ejemplo scripts: avisos de tareas automatizados
 
@@ -161,7 +161,7 @@ Este escenario usa [Power Automate](https://flow.microsoft.com) y [Microsoft Tea
     - **Archivo**: task-reminders.xlsx *(elegido a través del explorador de archivos)*
     - **Script**: Obtener personas
 
-    :::image type="content" source="../../images/scenario-task-reminders-first-flow-step.png" alt-text="El Power Automate que muestra el primer paso ejecutar flujo de script":::
+    :::image type="content" source="../../images/scenario-task-reminders-first-flow-step.png" alt-text="Flujo Power Automate que muestra el primer paso ejecutar flujo de script.":::
 
 12. A continuación, el flujo debe procesar cada empleado de la matriz devuelta por el script. Presione **Nuevo paso** y seleccione Publicar una tarjeta adaptable en un Teams usuario y espere una **respuesta**.
 
@@ -222,7 +222,7 @@ Este escenario usa [Power Automate](https://flow.microsoft.com) y [Microsoft Tea
     - **senderEmail:** correo *electrónico (contenido dinámico de Excel)*
     - **statusReportResponse**: response *(contenido dinámico de Teams)*
 
-    :::image type="content" source="../../images/scenario-task-reminders-last-flow-step.png" alt-text="El Power Automate que muestra el paso aplicar a cada paso":::
+    :::image type="content" source="../../images/scenario-task-reminders-last-flow-step.png" alt-text="El Power Automate que muestra el paso aplicar a cada paso.":::
 
 17. Guarde el flujo.
 
@@ -234,12 +234,12 @@ Puede seleccionar Probar **en** el diseñador de flujos o ejecutar el flujo desd
 
 ### <a name="before-running-the-flow"></a>Antes de ejecutar el flujo
 
-:::image type="content" source="../../images/scenario-task-reminders-spreadsheet-before.png" alt-text="Hoja de cálculo con un informe de estado que contiene una entrada de estado que falta":::
+:::image type="content" source="../../images/scenario-task-reminders-spreadsheet-before.png" alt-text="Hoja de cálculo con un informe de estado que contiene una entrada de estado que falta.":::
 
 ### <a name="receiving-the-adaptive-card"></a>Recepción de la tarjeta adaptable
 
-:::image type="content" source="../../images/scenario-task-reminders-adaptive-card.png" alt-text="Una tarjeta adaptable en Teams solicitar al empleado una actualización de estado":::
+:::image type="content" source="../../images/scenario-task-reminders-adaptive-card.png" alt-text="Una tarjeta adaptable en Teams solicita al empleado una actualización de estado.":::
 
 ### <a name="after-running-the-flow"></a>Después de ejecutar el flujo
 
-:::image type="content" source="../../images/scenario-task-reminders-spreadsheet-after.png" alt-text="Hoja de cálculo con un informe de estado con una entrada de estado ahora rellenada":::
+:::image type="content" source="../../images/scenario-task-reminders-spreadsheet-after.png" alt-text="Hoja de cálculo con un informe de estado con una entrada de estado ahora rellenada.":::

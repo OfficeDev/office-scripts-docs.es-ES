@@ -3,12 +3,12 @@ title: Scripts básicos para Office scripts en Excel en la Web
 description: Una colección de ejemplos de código para usar con Office scripts en Excel en la Web.
 ms.date: 05/17/2021
 localization_priority: Normal
-ms.openlocfilehash: f252934a92126212b9520223826b3b2f5161ed57
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 3bf3bd5acd10bc5999db4746a2ed62af85237e48
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545762"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074560"
 ---
 # <a name="basic-scripts-for-office-scripts-in-excel-on-the-web"></a>Scripts básicos para Office scripts en Excel en la Web
 
@@ -296,7 +296,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 En este ejemplo se busca la primera tabla dinámica del libro y se registra los valores en las celdas "Total general" (como se resalta en verde en la imagen siguiente).
 
-:::image type="content" source="../../images/sample-pivottable-grand-total-row.png" alt-text="Una tabla dinámica que muestra las ventas de frutas con la fila Grand Total resaltada en verde":::
+:::image type="content" source="../../images/sample-pivottable-grand-total-row.png" alt-text="Tabla dinámica que muestra las ventas de frutas con la fila Grand Total resaltada en verde.":::
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
@@ -324,7 +324,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este script crea una lista de selección desplegable para una celda. Usa los valores existentes del intervalo seleccionado como opciones para la lista.
 
-:::image type="content" source="../../images/sample-data-validation.png" alt-text="Una hoja de cálculo que muestra un rango de tres celdas que contienen opciones de color &quot;rojo, azul, verde&quot; y junto a ella, las mismas opciones que se muestran en una lista desplegable":::
+:::image type="content" source="../../images/sample-data-validation.png" alt-text="Una hoja de cálculo que muestra un rango de tres celdas que contienen opciones de color &quot;rojo, azul, verde&quot; y junto a ella, las mismas opciones que se muestran en una lista desplegable.":::
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {

@@ -3,12 +3,12 @@ title: Solucionar Office scripts que se ejecutan en Power Automate
 description: Sugerencias, información de plataforma y problemas conocidos con la integración entre Office scripts y Power Automate.
 ms.date: 05/18/2021
 localization_priority: Normal
-ms.openlocfilehash: 3d114b8b9aceb95285ecfc78ddbd868541b9f04c
-ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
+ms.openlocfilehash: 7ba128314c0d632a3e77792b7ee545bfb7dca71d
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52631672"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074637"
 ---
 # <a name="troubleshoot-office-scripts-running-in-power-automate"></a>Solucionar Office scripts que se ejecutan en Power Automate
 
@@ -30,7 +30,7 @@ Los siguientes métodos inician un error y se produce un error cuando se llama d
 | Clase | Método |
 |--|--|
 | [Chart](/javascript/api/office-scripts/excelscript/excelscript.chart) | `activate` |
-| [Rango](/javascript/api/office-scripts/excelscript/excelscript.range) | `select` |
+| [Range](/javascript/api/office-scripts/excelscript/excelscript.range) | `select` |
 | [Workbook](/javascript/api/office-scripts/excelscript/excelscript.workbook) | `getActiveCell` |
 | [Workbook](/javascript/api/office-scripts/excelscript/excelscript.workbook) | `getActiveChart` |
 | [Workbook](/javascript/api/office-scripts/excelscript/excelscript.workbook) | `getActiveSlicer` |
@@ -65,7 +65,7 @@ Los siguientes métodos no hacen nada en un script cuando se llama a través de 
 
 Al compilar el **paso Ejecutar script** de un flujo Power Automate, debe seleccionar qué libro forma parte del flujo. Use el explorador de archivos para seleccionar el libro, en lugar de escribir manualmente el nombre del libro.
 
-:::image type="content" source="../images/power-automate-file-browser.png" alt-text="La Power Automate ejecutar script que muestra la opción Mostrar explorador de archivos selector":::
+:::image type="content" source="../images/power-automate-file-browser.png" alt-text="La Power Automate ejecutar script que muestra la opción Mostrar explorador de archivos selector.":::
 
 Para obtener más contexto sobre la limitación Power Automate y una discusión sobre posibles soluciones alternativas para la selección dinámica de libros, vea este subproceso en microsoft [Power Automate Community](https://powerusers.microsoft.com/t5/Power-Automate-Ideas/Allow-for-dynamic-quot-file-quot-value-for-excel-quot-get-a-row/idi-p/103091#).
 
@@ -75,7 +75,7 @@ Excel archivos no tienen una ubicación o zona horaria inherentes. Cada vez que 
 
 Si el script usa fechas u horas, puede haber diferencias de comportamiento cuando el script se prueba localmente frente a cuando se ejecuta a través de Power Automate. Power Automate permite convertir, dar formato y ajustar tiempos. Consulte [Trabajar](https://flow.microsoft.com/blog/working-with-dates-and-times/) con fechas y horas dentro de los flujos para obtener instrucciones sobre cómo usar esas funciones en Power Automate y [ `main` Parámetros:](../develop/power-automate-integration.md#main-parameters-pass-data-to-a-script) pasar datos a un script para obtener información sobre cómo proporcionar esa información de hora para el script.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
 - [Solucionar problemas Office scripts](troubleshooting.md)
 - [Ejecute Office scripts con Power Automate](../develop/power-automate-integration.md)

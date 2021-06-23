@@ -3,12 +3,12 @@ title: Solucionar problemas Office scripts
 description: Sugerencias y técnicas de depuración para Office scripts, así como recursos de ayuda.
 ms.date: 05/17/2021
 localization_priority: Normal
-ms.openlocfilehash: 04ea0ea5d49d40667d249a6f4f4b109e03362940
-ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
+ms.openlocfilehash: 251ad72588422a86c52c81666164c2c4bd79bdb5
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52631706"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074651"
 ---
 # <a name="troubleshoot-office-scripts"></a>Solucionar problemas Office scripts
 
@@ -25,7 +25,7 @@ Office Los errores de scripts se ensoyen en una de dos categorías:
 
 Los errores y advertencias en tiempo de compilación se muestran inicialmente en el Editor de código. Estos se muestran con los subrayados rojos ondulados del editor. También se muestran en la pestaña **Problemas** en la parte inferior del panel de tareas Editor de código. Al seleccionar el error, se darán más detalles sobre el problema y se sugerirán soluciones. Los errores en tiempo de compilación deben solucionarse antes de ejecutar el script.
 
-:::image type="content" source="../images/explicit-any-editor-message.png" alt-text="Error del compilador que se muestra en el texto activado del Editor de código":::
+:::image type="content" source="../images/explicit-any-editor-message.png" alt-text="Error del compilador que se muestra en el texto activado del Editor de código.":::
 
 También puede ver subrayados de advertencia naranja y mensajes informativos grises. Estas indican sugerencias de rendimiento u otras posibilidades en las que el script puede tener efectos involuntarias. Estas advertencias deben examinarse estrechamente antes de descartarlas.
 
@@ -47,10 +47,10 @@ function main(workbook: ExcelScript.Workbook) {
 Tanto los errores en tiempo de compilación como en tiempo de ejecución muestran mensajes de error en la consola cuando se ejecuta un script. Dan un número de línea donde se encontró el problema. Tenga en cuenta que la causa raíz de cualquier problema puede ser una línea de código diferente a la que se indica en la consola.
 
 En la imagen siguiente se muestra el resultado de la consola del [error explícito `any` ](../develop/typescript-restrictions.md) del compilador. Tenga en cuenta `[5, 16]` el texto al principio de la cadena de error. Esto indica que el error está en la línea 5, empezando por el carácter 16.
-:::image type="content" source="../images/explicit-any-error-message.png" alt-text="La consola del Editor de código que muestra un mensaje de error explícito de &quot;cualquiera&quot;":::
+:::image type="content" source="../images/explicit-any-error-message.png" alt-text="La consola del Editor de código que muestra un mensaje de error explícito &quot;cualquiera&quot;.":::
 
 La imagen siguiente muestra el resultado de la consola de un error en tiempo de ejecución. Aquí, el script intenta agregar una hoja de cálculo con el nombre de una hoja de cálculo existente. De nuevo, anote la "Línea 2" anterior al error para mostrar la línea que se debe investigar.
-:::image type="content" source="../images/runtime-error-console.png" alt-text="La consola del Editor de código que muestra un error de la llamada &quot;addWorksheet&quot;":::
+:::image type="content" source="../images/runtime-error-console.png" alt-text="La consola del Editor de código que muestra un error de la llamada &quot;addWorksheet&quot;.":::
 
 ## <a name="console-logs"></a>Registros de consola
 
@@ -72,7 +72,7 @@ Los siguientes pasos deben ayudar a solucionar los problemas relacionados con la
 1. [Asegúrese de que su Microsoft 365 incluye Office scripts](../overview/excel.md#requirements).
 1. [Compruebe que el explorador es compatible.](platform-limits.md#browser-support)
 1. [Asegúrese de que las cookies de terceros están habilitadas](platform-limits.md#third-party-cookies).
-1. [Asegúrese de que el administrador no ha deshabilitado Office scripts en el centro Microsoft 365 de administración](/microsoft-365/admin/manage/manage-office-scripts-settings).
+1. [Asegúrese de que el administrador no ha deshabilitado Office scripts en el Centro de administración de Microsoft 365](/microsoft-365/admin/manage/manage-office-scripts-settings).
 
 [!INCLUDE [Teams support note](../includes/teams-support-note.md)]
 
@@ -84,13 +84,13 @@ Para obtener información específica sobre la ejecución de scripts Power Autom
 
 [Stack Overflow](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores dispuestos a ayudar con problemas de codificación. A menudo, podrás encontrar la solución al problema mediante una búsqueda rápida de desbordamiento de pila. Si no es así, haga su pregunta y etiquete con la etiqueta "office-scripts". Asegúrese de mencionar que está creando un script Office *,* no un Office *complemento*.
 
-Para enviar una solicitud de característica para Office scripts, publique su idea en nuestra página De voz de usuario [o,](https://excel.uservoice.com/forums/274580-excel-for-the-web?category_id=143439)si la solicitud de característica ya existe, agregue su voto por ella. Asegúrese de presentar la solicitud en Excel para la web en la categoría "Macros, scripts y complementos".
+Para enviar una solicitud de característica para Office scripts, publique su idea en nuestra página De voz de usuario [o,](https://excel.uservoice.com/forums/274580-excel-for-the-web?category_id=143439)si la solicitud de característica ya existe, agregue su voto por ella. Asegúrese de presentar la solicitud en Excel para la Web en la categoría "Macros, scripts y complementos".
 
 Si hay un problema con la Grabadora de acciones o el Editor, háganoslo saber. En el menú ...  del panel de tareas Editor de código, seleccione el botón **Enviar** comentarios para compartir cualquier problema.
 
-:::image type="content" source="../images/code-editor-feedback.png" alt-text="El menú desbordamiento del Editor de código con el botón &quot;Enviar comentarios&quot;":::
+:::image type="content" source="../images/code-editor-feedback.png" alt-text="Menú desbordado editor de código con el botón &quot;Enviar comentarios&quot;.":::
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
 - [Procedimientos recomendados para Scripts de Office](../develop/best-practices.md)
 - [Límites de plataforma con Office scripts](platform-limits.md)

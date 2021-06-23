@@ -3,12 +3,12 @@ title: Datos Excel salida como JSON
 description: Obtenga información sobre cómo generar Excel datos de tabla como JSON para usarlos en Power Automate.
 ms.date: 05/06/2021
 localization_priority: Normal
-ms.openlocfilehash: 9b8c0c48b969cfd05750ca4a6703a5ecbb9d18d2
-ms.sourcegitcommit: 763d341857bcb209b2f2c278a82fdb63d0e18f0a
+ms.openlocfilehash: fefeda4f7e60880758f8f01e03f437a70c4111d4
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285818"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074574"
 ---
 # <a name="output-excel-table-data-as-json-for-usage-in-power-automate"></a>Salida Excel datos de tabla como JSON para su uso en Power Automate
 
@@ -16,17 +16,17 @@ Excel datos de tabla se pueden representar como una matriz de objetos en forma d
 
 _Datos de tabla de entrada_
 
-:::image type="content" source="../../images/table-input.png" alt-text="Una hoja de cálculo que muestra los datos de la tabla de entrada":::
+:::image type="content" source="../../images/table-input.png" alt-text="Hoja de cálculo que muestra los datos de la tabla de entrada.":::
 
 Una variación de este ejemplo también incluye los hipervínculos en una de las columnas de la tabla. Esto permite que se presenten niveles adicionales de datos de celda en el JSON.
 
 _Datos de tabla de entrada que incluyen hipervínculos_
 
-:::image type="content" source="../../images/table-hyperlink-view.png" alt-text="Hoja de cálculo que muestra una columna de datos de tabla con formato de hipervínculos":::
+:::image type="content" source="../../images/table-hyperlink-view.png" alt-text="Hoja de cálculo que muestra una columna de datos de tabla con formato de hipervínculos.":::
 
 _Cuadro de diálogo para editar hipervínculo_
 
-:::image type="content" source="../../images/table-hyperlink-edit.png" alt-text="Cuadro de diálogo Editar hipervínculo que muestra opciones para cambiar hipervínculos":::
+:::image type="content" source="../../images/table-hyperlink-edit.png" alt-text="Cuadro de diálogo Editar hipervínculo que muestra opciones para cambiar hipervínculos.":::
 
 ## <a name="sample-excel-file"></a>Archivo Excel ejemplo
 

@@ -3,12 +3,12 @@ title: Contar filas en blanco en hojas
 description: Obtenga información sobre cómo usar Office Scripts para detectar si hay filas en blanco en lugar de datos en las hojas de cálculo y, a continuación, informe del recuento de filas en blanco que se usará en un flujo Power Automate.
 ms.date: 05/04/2021
 localization_priority: Normal
-ms.openlocfilehash: e636c9b1b24dedb73042cd9ee4d20688698ae8a7
-ms.sourcegitcommit: 763d341857bcb209b2f2c278a82fdb63d0e18f0a
+ms.openlocfilehash: 73fe0f995ee6ccaa1328b68983f0ec6887d96a09
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285853"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074581"
 ---
 # <a name="count-blank-rows-on-sheets"></a>Contar filas en blanco en hojas
 
@@ -22,11 +22,11 @@ Este proyecto incluye dos scripts:
 
 _Esta hoja devuelve el recuento de 4 filas en blanco_
 
-:::image type="content" source="../../images/blank-rows.png" alt-text="Hoja de cálculo que muestra datos con filas en blanco":::
+:::image type="content" source="../../images/blank-rows.png" alt-text="Hoja de cálculo que muestra datos con filas en blanco.":::
 
 _Esta hoja devuelve el recuento de 0 filas en blanco (todas las filas tienen algunos datos)_
 
-:::image type="content" source="../../images/no-blank-rows.png" alt-text="Una hoja de cálculo que muestra datos sin filas en blanco":::
+:::image type="content" source="../../images/no-blank-rows.png" alt-text="Hoja de cálculo que muestra datos sin filas en blanco.":::
 
 ## <a name="sample-code-count-blank-rows-on-a-given-sheet"></a>Código de ejemplo: contar filas en blanco en una hoja determinada
 
@@ -125,4 +125,4 @@ function main(workbook: ExcelScript.Workbook): number
 
 ## <a name="use-with-power-automate"></a>Usar con Power Automate
 
-:::image type="content" source="../../images/use-in-power-automate.png" alt-text="Flujo de Power Automate que muestra cómo configurar para ejecutar un script Office script":::
+:::image type="content" source="../../images/use-in-power-automate.png" alt-text="Un Power Automate que muestra cómo configurar para ejecutar un script Office.":::

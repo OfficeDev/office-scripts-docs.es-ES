@@ -3,12 +3,12 @@ title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
 ms.date: 05/24/2021
 localization_priority: Priority
-ms.openlocfilehash: 629e816ea988d6b8ffe5264c701e3a1eba6c6feb
-ms.sourcegitcommit: 90ca8cdf30f2065f63938f6bb6780d024c128467
+ms.openlocfilehash: 9c3c10e283e40f1e719e73106bcdacfcff44dbc9
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52639897"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074511"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web"></a>Conceptos básicos de los Scripts de Office en Excel en la Web
 
@@ -112,7 +112,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Al ejecutar este script se crean los siguientes datos en la hoja de cálculo actual:
 
-:::image type="content" source="../images/range-sample.png" alt-text="Una hoja de cálculo que contiene un registro de ventas compuesto por filas de valor, una columna de fórmula y encabezados con formato.":::
+:::image type="content" source="../images/range-sample.png" alt-text="Una hoja de cálculo que contiene un registro de ventas que se compone de filas de valor, una columna de fórmula y encabezados con formato.":::
 
 ### <a name="the-types-of-range-values"></a>Los tipos de valores del intervalo
 

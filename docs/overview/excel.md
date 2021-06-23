@@ -3,12 +3,12 @@ title: Scripts de Office en Excel en la Web
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
 ms.date: 05/24/2021
 localization_priority: Priority
-ms.openlocfilehash: fe1552ca51e8ef251f029aa11968725ad466a841
-ms.sourcegitcommit: 90ca8cdf30f2065f63938f6bb6780d024c128467
+ms.openlocfilehash: 93d6457338442472fc691d6d020dff99e7963b1b
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52639890"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074602"
 ---
 # <a name="office-scripts-in-excel-on-the-web"></a>Scripts de Office en Excel en la Web
 

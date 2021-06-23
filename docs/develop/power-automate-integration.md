@@ -3,12 +3,12 @@ title: Ejecute Office scripts con Power Automate
 description: Cómo obtener scripts Office para Excel en la Web trabajar con un flujo Power Automate de trabajo.
 ms.date: 05/17/2021
 localization_priority: Normal
-ms.openlocfilehash: 7562a2b2359cde67a9a47e0640515018fe23ac35
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 96b07501e07383ace5ff88a8bc6b64ef145ebd5e
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545043"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074427"
 ---
 # <a name="run-office-scripts-with-power-automate"></a>Ejecute Office scripts con Power Automate
 
@@ -99,7 +99,7 @@ Los scripts pueden devolver datos del libro que se usarán como contenido dinám
 
 La siguiente captura de pantalla muestra un Power Automate [](https://github.com/) que se desencadena cada vez que se le asigna GitHub un problema. El flujo ejecuta un script que agrega el problema a una tabla de un Excel libro. Si hay cinco o más problemas en esa tabla, el flujo envía un aviso por correo electrónico.
 
-:::image type="content" source="../images/power-automate-parameter-return-sample.png" alt-text="Editor Power Automate de flujo que muestra el flujo de ejemplo":::
+:::image type="content" source="../images/power-automate-parameter-return-sample.png" alt-text="El Power Automate de flujo que muestra el flujo de ejemplo.":::
 
 La función del script especifica el identificador de problema y el título del problema como parámetros de entrada y el script devuelve el número de `main` filas de la tabla de problemas.
 

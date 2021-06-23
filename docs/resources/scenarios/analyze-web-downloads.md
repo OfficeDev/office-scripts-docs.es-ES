@@ -3,12 +3,12 @@ title: 'Office Escenario de ejemplo scripts: analizar descargas web'
 description: Ejemplo que toma datos de tráfico de Internet sin procesar en un libro de Excel y determina la ubicación de origen, antes de organizar esa información en una tabla.
 ms.date: 04/27/2021
 localization_priority: Normal
-ms.openlocfilehash: 6c5958e9957ca49c370ae34456236bdd15f41c44
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: bdd6b43290e5432d87c4a85a35fbaf32967fbf03
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232714"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074462"
 ---
 # <a name="office-scripts-sample-scenario-analyze-web-downloads"></a>Office Escenario de ejemplo scripts: analizar descargas web
 
@@ -23,13 +23,13 @@ Desarrollará un script que analice los datos de descargas semanales en la hoja 
 - Análisis de texto
 - Subfunciones en scripts
 - Formato condicional
-- Tables
+- Tablas
 
 ## <a name="setup-instructions"></a>Instrucciones de configuración
 
 1. Descargue <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> a su OneDrive.
 
-2. Abra el libro con Excel para la web.
+2. Abra el libro con Excel para la Web.
 
 3. En la **pestaña Automatizar,** abra **Todos los scripts**.
 
@@ -217,10 +217,10 @@ Navegue a cualquiera de las hojas **de \* \*** cálculo de semana y ejecute el s
 
 ### <a name="before-running-the-script"></a>Antes de ejecutar el script
 
-:::image type="content" source="../../images/scenario-analyze-web-downloads-before.png" alt-text="Hoja de cálculo que muestra datos de tráfico web sin procesar":::
+:::image type="content" source="../../images/scenario-analyze-web-downloads-before.png" alt-text="Hoja de cálculo que muestra datos de tráfico web sin procesar.":::
 
 ### <a name="after-running-the-script"></a>Después de ejecutar el script
 
-:::image type="content" source="../../images/scenario-analyze-web-downloads-after.png" alt-text="Hoja de cálculo que muestra información de ubicación IP con formato con las filas de tráfico web anteriores":::
+:::image type="content" source="../../images/scenario-analyze-web-downloads-after.png" alt-text="Hoja de cálculo que muestra información de ubicación IP con formato con las filas de tráfico web anteriores.":::
 
-:::image type="content" source="../../images/scenario-analyze-web-downloads-table.png" alt-text="Tabla de resumen y gráfico que resume las hojas de cálculo en las que se ha ejecutado el script":::
+:::image type="content" source="../../images/scenario-analyze-web-downloads-table.png" alt-text="Tabla de resumen y gráfico que resume las hojas de cálculo en las que se ha ejecutado el script.":::

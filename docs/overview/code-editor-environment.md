@@ -3,12 +3,12 @@ title: Office Entorno editor de código de scripts
 description: Los requisitos previos y la información del entorno para Office scripts en Excel en la Web.
 ms.date: 05/27/2021
 localization_priority: Normal
-ms.openlocfilehash: 2334b0f98dfe03d97c35e6d1f54eeb45c06a134c
-ms.sourcegitcommit: c75f71b8abde962e922927a18145dd1d9b361b05
+ms.openlocfilehash: 4a8adc03e372bc769fb44b1c4e3e98c7a4531756
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2021
-ms.locfileid: "52731144"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074469"
 ---
 # <a name="office-scripts-code-editor-environment"></a>Office Entorno editor de código de scripts
 
@@ -38,9 +38,9 @@ IntelliSense sugerencias a medida que escribe, de forma similar al texto sugerid
 
 Mantenga el cursor sobre un método, clase u otro objeto de código para ver más información. Mantenga el puntero sobre un error de sintaxis o una sugerencia de código, representada por una línea roja o amarilla, para ver sugerencias sobre cómo solucionar el problema. A menudo, IntelliSense una opción de "Corrección rápida" para cambiar automáticamente el código.
 
-:::image type="content" source="../images/implicit-any-editor-message.png" alt-text="Un mensaje de error en el texto activado del Editor de código con un botón &quot;Corrección rápida&quot;":::
+:::image type="content" source="../images/implicit-any-editor-message.png" alt-text="Un mensaje de error en el texto activa del Editor de código con el botón &quot;Corrección rápida&quot;.":::
 
-El editor Office de código de scripts usa el mismo motor IntelliSense que Visual Studio Code. Para obtener más información acerca de la característica, visite [Visual Studio Code de IntelliSense características](https://code.visualstudio.com/docs/editor/intellisense#_intellisense-features).
+El editor Office de código de scripts usa el mismo motor de IntelliSense que Visual Studio Code. Para obtener más información acerca de la característica, visite [Visual Studio Code de IntelliSense características](https://code.visualstudio.com/docs/editor/intellisense#_intellisense-features).
 
 ## <a name="keyboard-shortcuts"></a>Accesos rápidos de teclado
 
@@ -49,7 +49,7 @@ La mayoría de los métodos abreviados de teclado Visual Studio Code también fu
 - [Métodos abreviados de teclado para macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf).
 - [Métodos abreviados de teclado Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf).
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Consulte también
 
 - [Referencia de API de scripts de Office](/javascript/api/office-scripts/overview)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
