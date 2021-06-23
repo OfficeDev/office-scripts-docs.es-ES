@@ -3,12 +3,12 @@ title: Devolver datos de un script a un flujo de Power Automate ejecutado autom�
 description: Un tutorial que muestra cómo enviar recordatorios por correo electrónico mediante la ejecución de Scripts de Office para Excel en la Web con Power Automate.
 ms.date: 12/15/2020
 localization_priority: Priority
-ms.openlocfilehash: e7f1051076bf84cfbbec0fcdd72777766dbcf152
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 6c1041ede630319f75ccdad453734828eaa8bd3d
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545010"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074679"
 ---
 # <a name="return-data-from-a-script-to-an-automatically-run-power-automate-flow"></a>Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente
 
@@ -129,11 +129,11 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
 1. En el menú que se muestra en la parte izquierda de la pantalla, presione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
 
-    :::image type="content" source="../images/power-automate-tutorial-1.png" alt-text="El botón Crear en Power Automate":::
+    :::image type="content" source="../images/power-automate-tutorial-1.png" alt-text="El botón Crear en Power Automate.":::
 
 1. En la sección **Empezar desde cero**, seleccione **Flujo de nube programado**.
 
-    :::image type="content" source="../images/power-automate-return-tutorial-2.png" alt-text="El botón de Flujo de nube programado en Power Automate":::
+    :::image type="content" source="../images/power-automate-return-tutorial-2.png" alt-text="El botón de Flujo de nube programado en Power Automate.":::
 
 1. Ahora debemos establecer la programación para este flujo. Nuestra hoja de cálculo tiene una nueva asignación de guardia que empieza todos los lunes en la primera mitad de 2021. Vamos a configurar el flujo para que se ejecute a primera hora los lunes por la mañana. Use las opciones siguientes para configurar el flujo de ejecución el lunes de cada semana.
 
@@ -142,7 +142,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
     - **Repetir cada**: 1 semana
     - **En estos días**: L
 
-    :::image type="content" source="../images/power-automate-return-tutorial-3.png" alt-text="El cuadro de diálogo &quot;Crear un flujo de nube programado&quot; de Power Automate donde se muestran opciones. Las opciones incluyen el nombre del flujo, la hora de inicio, la frecuencia de repetición y un día de la semana para ejecutar el flujo.":::
+    :::image type="content" source="../images/power-automate-return-tutorial-3.png" alt-text="El cuadro de diálogo 'Crear un flujo de nube programado' de Power Automate donde se muestran opciones. Las opciones incluyen el nombre del flujo, la hora de inicio, la frecuencia de repetición y un día de la semana para ejecutar el flujo.":::
 
 1. Presione **Crear**.
 
@@ -150,7 +150,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
 1. Seleccione la pestaña **Estándar** y, a continuación, seleccione **Excel Online (empresa)**.
 
-    :::image type="content" source="../images/power-automate-tutorial-4.png" alt-text="Opción de Excel Online (empresa) en Power Automate":::
+    :::image type="content" source="../images/power-automate-tutorial-4.png" alt-text="Opción de Excel Online (empresa) en Power Automate.":::
 
 1. En **Acciones**, seleccione **Ejecutar script**.
 

@@ -3,12 +3,12 @@ title: Ejecutar scripts mediante un flujo manual de Power Automate
 description: Tutorial sobre el uso de scripts de Office en Power Automate mediante un desencadenador manual.
 ms.date: 05/17/2021
 localization_priority: Priority
-ms.openlocfilehash: f4feb14f70c43497f40dae3a521353dfee63c082
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 6da852fd93599753592ea61eef443ef674ead8ef
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545832"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074504"
 ---
 # <a name="call-scripts-from-a-manual-power-automate-flow"></a>Ejecutar scripts mediante un flujo manual de Power Automate
 
@@ -67,7 +67,7 @@ Power Automate no debe usar [referencias relativas](../testing/power-automate-tr
 
 2. En el menú que se muestra en la parte izquierda de la pantalla, presione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
 
-    :::image type="content" source="../images/power-automate-tutorial-1.png" alt-text="El botón &quot;Crear&quot; de Power Automate.":::
+    :::image type="content" source="../images/power-automate-tutorial-1.png" alt-text="El botón 'Crear' de Power Automate.":::
 
 3. En la sección **Inicio desde cero**, seleccione **Flujo instantáneo**. Se creará un flujo de trabajo activado manualmente.
 
@@ -75,7 +75,7 @@ Power Automate no debe usar [referencias relativas](../testing/power-automate-tr
 
 4. En la ventana de diálogo que aparece, escriba un nombre para el flujo en el cuadro de texto **Nombre de flujo**, seleccione **Activar manualmente un flujo** de la lista de opciones en **Elija cómo desencadenar el flujo** y presione **Crear**.
 
-    :::image type="content" source="../images/power-automate-tutorial-3.png" alt-text="La opción &quot;Activar manualmente un flujo&quot; de Power Automate.":::
+    :::image type="content" source="../images/power-automate-tutorial-3.png" alt-text="La opción 'Activar manualmente un flujo' de Power Automate.":::
 
     Tenga en cuenta que un flujo activado manualmente es solo uno de los distintos tipos de flujos. En el siguiente tutorial, podrá crear un flujo que se ejecuta automáticamente al recibir un correo electrónico.
 
@@ -87,7 +87,7 @@ Power Automate no debe usar [referencias relativas](../testing/power-automate-tr
 
 7. En **Acciones**, seleccione **Ejecutar script**.
 
-    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción Ejecutar script en Power Automate":::
+    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción ejecutar script en Power Automate":::
 
 8. A continuación, seleccione el libro y el script que va a usar en el paso de flujo. En el tutorial, usará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 
