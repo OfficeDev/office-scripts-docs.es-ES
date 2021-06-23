@@ -3,12 +3,12 @@ title: Leer datos de libros con scripts de Office en Excel en la Web
 description: Un tutorial de scripts de Office sobre cómo leer datos de libros y evaluarlos en el script.
 ms.date: 01/06/2021
 localization_priority: Priority
-ms.openlocfilehash: 979ad949f999f67ee9de750c53ba4690ce6294e6
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: aa05533f0d7cd3b53e4eb616ae3216d672d026f9
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232854"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074693"
 ---
 # <a name="read-workbook-data-with-office-scripts-in-excel-on-the-web"></a>Leer datos de libros con scripts de Office en Excel en la Web
 
