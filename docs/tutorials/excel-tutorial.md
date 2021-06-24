@@ -3,12 +3,12 @@ title: Grabar, editar y crear scripts de Office en Excel en la Web
 description: Un tutorial sobre los conceptos básicos de scripts de Office que incluye la grabación de scripts en la Grabadora de acciones y la escritura de datos en un libro.
 ms.date: 05/23/2021
 localization_priority: Priority
-ms.openlocfilehash: 19cd7bf6c3120d674553d37a36f45d36f46ee852
-ms.sourcegitcommit: 0343e4a9843f7ab6ec99d6ddf955050271b061c7
+ms.openlocfilehash: f9290a3d7dc723b72bfb4913171052472f2361c5
+ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52655908"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53074672"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
@@ -42,7 +42,7 @@ En primer lugar, necesitaremos algunos datos y un pequeño script inicial.
 
     La hoja de cálculo debe tener este aspecto (no se preocupe si el color es diferente):
 
-    :::image type="content" source="../images/tutorial-1.png" alt-text="Una hoja de cálculo donde se muestra la fila de datos de ventas de fruta con la fila que contiene &quot;Naranjas&quot; resaltada en color naranja.":::
+    :::image type="content" source="../images/tutorial-1.png" alt-text="Una hoja de cálculo donde se muestra la fila de datos de ventas de fruta con la fila que contiene «Naranjas» resaltada en color naranja.":::
 
 ## <a name="edit-an-existing-script"></a>Editar un script existente
 
@@ -71,7 +71,7 @@ El script anterior pinta la fila "Naranja" de color naranja. Ahora, agreguemos u
 
 4. Para probar el script, presione **Ejecutar**. El libro tendrá ahora el siguiente aspecto:
 
-    :::image type="content" source="../images/tutorial-2.png" alt-text=" Una hoja de cálculo donde se muestra una fila de datos de ventas con la fila &quot;Naranjas&quot; resaltada en naranja y la fila &quot;Limones&quot; resaltada en amarillo.":::
+    :::image type="content" source="../images/tutorial-2.png" alt-text=" Una hoja de cálculo donde se muestra una fila de datos de ventas con la fila «Naranjas» resaltada en naranja y la fila «Limones» resaltada en amarillo.":::
 
 ## <a name="create-a-table"></a>Crear una tabla
 
