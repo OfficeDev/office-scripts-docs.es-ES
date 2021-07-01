@@ -67,6 +67,8 @@ items:
                 href: resources/samples/copy-tables-combine.md
           - name: Más allá de los aspectos básicos
             items:
+              - name: Hojas de cálculo de referencia cruzada
+                href: resources/samples/excel-cross-reference.md
               - name: Contar filas en blanco en hojas de cálculo
                 href: resources/samples/count-blank-rows.md
               - name: Imágenes de correo electrónico de gráficos y tablas
