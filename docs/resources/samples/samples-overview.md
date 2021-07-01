@@ -3,12 +3,12 @@ title: Office Ejemplos de scripts
 description: Disponible Office ejemplos de scripts y escenarios.
 ms.date: 05/25/2021
 localization_priority: Normal
-ms.openlocfilehash: aac730fd8a0da76728e4a455339366a75b27a0b2
-ms.sourcegitcommit: 339ecbb9914d54f919e3475018888fb5d00abe89
+ms.openlocfilehash: 1b7e9cdd9e23f57d59e5e878a37b50afb63965fd
+ms.sourcegitcommit: a063b3faf6c1b7c294bd6a73e46845b352f2a22d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52697661"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53202854"
 ---
 # <a name="office-scripts-samples-and-scenarios"></a>Office Ejemplos y escenarios de scripts
 
@@ -35,6 +35,7 @@ Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo jun
 
 | Project | Detalles |
 |---------|---------|
+| [Libros de referencia cruzada](excel-cross-reference.md) | En este ejemplo se Office scripts y Power Automate para hacer referencia cruzada y validar información en diferentes libros. |
 | [Contar filas en blanco en una hoja específica o en todas las hojas](count-blank-rows.md) | En este ejemplo se detecta si hay filas en blanco en hojas en las que se prevé que los datos estén presentes y, a continuación, se informa del recuento de filas en blanco para su uso en un flujo Power Automate datos. |
 | [Imágenes de tabla y gráfico de correo electrónico](email-images-chart-table.md) | En este ejemplo se Office scripts y Power Automate acciones para crear un gráfico y enviar dicho gráfico como una imagen por correo electrónico. |
 | [Llamadas de captura externa](external-fetch-calls.md) | En este ejemplo `fetch` se usa para obtener información GitHub para el script. |
