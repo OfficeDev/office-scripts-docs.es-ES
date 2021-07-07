@@ -3,12 +3,12 @@ title: Leer datos de libros con scripts de Office en Excel en la Web
 description: Un tutorial de scripts de Office sobre cómo leer datos de libros y evaluarlos en el script.
 ms.date: 01/06/2021
 localization_priority: Priority
-ms.openlocfilehash: aa05533f0d7cd3b53e4eb616ae3216d672d026f9
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 38a8c64fcf0ed998049c2b95c6d4ede148b6925b
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074693"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313991"
 ---
 # <a name="read-workbook-data-with-office-scripts-in-excel-on-the-web"></a>Leer datos de libros con scripts de Office en Excel en la Web
 
@@ -70,8 +70,8 @@ En el resto del tutorial, armonizaremos los datos de ambos con un script. En pri
 
 6. Ejecute el script.
 7. Debe ver `[Array[1]]` en la consola. No es un número por que los rangos son matrices bidimensionales de datos. Este rango bidimensional se ha registrado en la consola directamente. Afortunadamente, el Editor de código le permite ver el contenido de la matriz.
-8. Cuando se registra una matriz bidimensional en la consola, se agrupan los valores de columna en cada fila. Expanda el registro de matriz pulsando en el triángulo azul.
-9. Expanda el segundo nivel de la matriz presionando el triángulo azul recién descubierto. Ahora debería ver esto:
+8. Cuando se registra una matriz bidimensional en la consola, se agrupan los valores de columna en cada fila. Expanda el registro de matriz seleccionando el triángulo azul.
+9. Expanda el segundo nivel de la matriz seleccinando el triángulo azul recién descubierto. Ahora debería ver esto:
 
     :::image type="content" source="../images/tutorial-4.png" alt-text="El registro de consola mostrando el resultado &quot;-20,05&quot; anidado en dos matrices":::
 

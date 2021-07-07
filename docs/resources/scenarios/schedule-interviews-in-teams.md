@@ -1,14 +1,14 @@
 ---
 title: Programar entrevistas en Teams
 description: Obtenga información sobre cómo usar Office scripts para enviar una reunión Teams desde Excel datos.
-ms.date: 05/25/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 66dae536c4a51ff3e028f06bf3aef3c7509d83bb
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: cb24da12637add805d86da4d07ce878509c6a5f6
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074434"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313732"
 ---
 # <a name="office-scripts-sample-scenario-schedule-interviews-in-teams"></a>Office Escenario de ejemplo scripts: Programar entrevistas en Teams
 
@@ -32,7 +32,7 @@ Descargue el archivo <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> se usa en e
 
 ## <a name="sample-code-extract-table-data-to-schedule-invites"></a>Código de ejemplo: extraer datos de tabla para programar invitaciones
 
-Asigne a este script **el nombre Programar entrevistas** para el flujo.
+Agregue este script a la colección de scripts. Así mismo, **asigne el nombre Programar entrevistas** para el flujo.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): InterviewInvite[] {
@@ -93,7 +93,7 @@ interface InterviewInvite {
 
 ## <a name="sample-code-mark-rows-as-invited"></a>Código de ejemplo: Marcar filas como invitadas
 
-Asigne a este script **el nombre Record Sent Invites** para el flujo.
+Agregue este script a la colección de scripts. Así lo llama **Record Sent Invites** for the flow.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook, invites: InterviewInvite[]) {
@@ -135,7 +135,7 @@ interface InterviewInvite {
 ## <a name="sample-flow-run-the-interview-scheduling-scripts-and-send-the-teams-meetings"></a>Flujo de ejemplo: ejecute los scripts de programación de entrevistas y envíe las Teams reuniones
 
 1. Crear un nuevo **flujo de nube instantánea**.
-1. Seleccione **Desencadenar manualmente un flujo y** presione **Crear**.
+1. Elija **Desencadenar manualmente un flujo y** seleccione **Crear**.
 1. Agregue un **paso Nuevo que** use el conector Excel online **(empresa)** y la **acción Ejecutar script.** Complete el conector con los siguientes valores.
     1. **Ubicación**: OneDrive para la Empresa
     1. **Biblioteca de documentos**: OneDrive
@@ -155,7 +155,7 @@ interface InterviewInvite {
     1. **Archivo**: hr-interviews.xlsx *(elegido a través del explorador de archivos)*
     1. **Script**: Registrar invitaciones enviadas
     1. **invita:** **resultado** (el valor Excel) Captura de pantalla del conector :::image type="content" source="../../images/schedule-interviews-3.png" alt-text="Excel Online (Empresa)"::: completado para registrar que las invitaciones se han enviado en Power Automate.
-1. Guarde el flujo y pruébalo.
+1. Guarde el flujo y pruébalo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos.** Asegúrese de permitir el acceso cuando se le pida.
 
 ## <a name="training-video-send-a-teams-meeting-from-excel-data"></a>Vídeo de aprendizaje: Enviar una reunión Teams desde Excel datos
 

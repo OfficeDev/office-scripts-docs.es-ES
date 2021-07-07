@@ -1,14 +1,14 @@
 ---
 title: Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente
 description: Un tutorial que muestra cómo enviar recordatorios por correo electrónico mediante la ejecución de Scripts de Office para Excel en la Web con Power Automate.
-ms.date: 12/15/2020
+ms.date: 06/29/2021
 localization_priority: Priority
-ms.openlocfilehash: 6c1041ede630319f75ccdad453734828eaa8bd3d
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 6c94ba4382f9d481c0064e89b5f7afa147ab23f4
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074679"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53314005"
 ---
 # <a name="return-data-from-a-script-to-an-automatically-run-power-automate-flow"></a>Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente
 
@@ -127,7 +127,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
 1. Inicie sesión en el [sitio de Power Automate](https://flow.microsoft.com).
 
-1. En el menú que se muestra en la parte izquierda de la pantalla, presione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
+1. En el menú que se muestra en la parte izquierda de la pantalla, seleccione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
 
     :::image type="content" source="../images/power-automate-tutorial-1.png" alt-text="El botón Crear en Power Automate.":::
 
@@ -144,9 +144,9 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
     :::image type="content" source="../images/power-automate-return-tutorial-3.png" alt-text="El cuadro de diálogo 'Crear un flujo de nube programado' de Power Automate donde se muestran opciones. Las opciones incluyen el nombre del flujo, la hora de inicio, la frecuencia de repetición y un día de la semana para ejecutar el flujo.":::
 
-1. Presione **Crear**.
+1. Seleccione **Crear**.
 
-1. Presione **Nuevo paso**.
+1. Seleccione **Nuevo paso**.
 
 1. Seleccione la pestaña **Estándar** y, a continuación, seleccione **Excel Online (empresa)**.
 
@@ -165,7 +165,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
     :::image type="content" source="../images/power-automate-return-tutorial-4.png" alt-text="La configuración del conector de Power Automate para ejecutar un script.":::
 
-1. Presione **Nuevo paso**.
+1. Seleccione **Nuevo paso**.
 
 1. Finalizaremos el flujo enviando el correo electrónico de recordatorio. Seleccione **Enviar un correo electrónico (V2)** mediante la barra de búsqueda del conector. Use el control **Agregar contenido dinámico** para agregar la dirección de correo electrónico que devuelve el script. Se etiquetará como **resultado** con el icono de Excel situado al lado. Puede proporcionar el asunto y el texto de cuerpo que prefiera.
 
@@ -174,11 +174,11 @@ Este tutorial le enseña cómo devolver información de un script de Office para
     > [!NOTE]
     > Este tutorial usa Outlook. Usted puede usar el servicio de correo electrónico que prefiera, aunque algunas opciones pueden ser diferentes.
 
-1. Presione **Guardar**.
+1. Seleccione **Guardar**.
 
 ## <a name="test-the-script-in-power-automate"></a>Probar el script en Power Automate
 
-El flujo se ejecutará cada lunes por la mañana. Para probar el script ahora, presione el botón **Probar** en la esquina superior derecha de la pantalla. Seleccione **Manualmente** y presione **Ejecutar prueba** para ejecutar el flujo ahora y probar el comportamiento. Es posible que deba conceder permisos a Excel y Outlook para continuar.
+El flujo se ejecutará cada lunes por la mañana. Para probar el script ahora, seleccione el botón **Probar** en la esquina superior derecha de la pantalla. Seleccione **Manualmente** y después seleccione **Ejecutar prueba** para ejecutar el flujo ahora y probar el comportamiento. Es posible que deba conceder permisos a Excel y Outlook para continuar.
 
 :::image type="content" source="../images/power-automate-return-tutorial-6.png" alt-text="El botón Probar de Power Automate":::
 

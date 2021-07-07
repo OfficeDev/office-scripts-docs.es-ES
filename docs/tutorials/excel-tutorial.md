@@ -3,12 +3,12 @@ title: Grabar, editar y crear scripts de Office en Excel en la Web
 description: Un tutorial sobre los conceptos básicos de scripts de Office que incluye la grabación de scripts en la Grabadora de acciones y la escritura de datos en un libro.
 ms.date: 05/23/2021
 localization_priority: Priority
-ms.openlocfilehash: f9290a3d7dc723b72bfb4913171052472f2361c5
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 6bcf603211aa07920e99178c35c6f405224c29bd
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074672"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313928"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
@@ -35,10 +35,10 @@ En primer lugar, necesitaremos algunos datos y un pequeño script inicial.
     |Limas |600 |500 |
     |Pomelos |900 |700 |
 
-3. Abra la pestaña **Automatizar**. Si no ve la pestaña **Automatizar**, presione la flecha desplegable para comprobar el desbordamiento de la cinta de opciones. Si aún no aparece, siga los consejos del artículo [Solución de problemas de Scripts de Office](../testing/troubleshooting.md#automate-tab-not-appearing-or-office-scripts-unavailable).
-4. Haga clic en el botón **Guardar acciones**.
+3. Abra la pestaña **Automatizar**. Si no ve la pestaña **Automatizar**, seleccione la flecha desplegable para comprobar el desbordamiento de la cinta de opciones. Si aún no aparece, siga los consejos del artículo [Solución de problemas de Scripts de Office](../testing/troubleshooting.md#automate-tab-not-appearing-or-office-scripts-unavailable).
+4. Seleccione el botón **Guardar acciones**.
 5. Seleccione las celdas **A2:C2** (la fila "Naranjas") y configure el color de relleno como naranja.
-6. Detenga la grabación pulsando el botón **Detener**.
+6. Detenga la grabación seleccionando el botón **Detener**.
 
     La hoja de cálculo debe tener este aspecto (no se preocupe si el color es diferente):
 
@@ -48,7 +48,7 @@ En primer lugar, necesitaremos algunos datos y un pequeño script inicial.
 
 El script anterior pinta la fila "Naranja" de color naranja. Ahora, agreguemos una fila amarilla a "Limones".
 
-1. En el panel **Detalles** ya abierto, presione el botón **Editar**.
+1. En el panel **Detalles** ya abierto, seleccione el botón **Editar**.
 2. Debería ver algo parecido a este código:
 
     ```TypeScript
@@ -69,7 +69,7 @@ El script anterior pinta la fila "Naranja" de color naranja. Ahora, agreguemos u
     selectedSheet.getRange("A3:C3").getFormat().getFill().setColor("yellow");
     ```
 
-4. Para probar el script, presione **Ejecutar**. El libro tendrá ahora el siguiente aspecto:
+4. Para probar el script, seleccione **Ejecutar**. El libro tendrá ahora el siguiente aspecto:
 
     :::image type="content" source="../images/tutorial-2.png" alt-text=" Una hoja de cálculo donde se muestra una fila de datos de ventas con la fila «Naranjas» resaltada en naranja y la fila «Limones» resaltada en amarillo.":::
 

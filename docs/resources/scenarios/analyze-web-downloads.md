@@ -1,14 +1,14 @@
 ---
 title: 'Office Escenario de ejemplo scripts: analizar descargas web'
 description: Ejemplo que toma datos de tráfico de Internet sin procesar en un libro de Excel y determina la ubicación de origen, antes de organizar esa información en una tabla.
-ms.date: 04/27/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: bdd6b43290e5432d87c4a85a35fbaf32967fbf03
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: ec7ccd2a4f534be825ee4aa358f5d81becc53937
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074462"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313935"
 ---
 # <a name="office-scripts-sample-scenario-analyze-web-downloads"></a>Office Escenario de ejemplo scripts: analizar descargas web
 
@@ -29,11 +29,9 @@ Desarrollará un script que analice los datos de descargas semanales en la hoja 
 
 1. Descargue <a href="analyze-web-downloads.xlsx">analyze-web-downloads.xlsx</a> a su OneDrive.
 
-2. Abra el libro con Excel para la Web.
+1. Abra el libro con Excel para la Web.
 
-3. En la **pestaña Automatizar,** abra **Todos los scripts**.
-
-4. En el **panel de tareas Editor** de código, presione Nuevo **script** y pegue el siguiente script en el editor.
+1. En la **pestaña Automatizar,** seleccione **Nuevo script** y pegue el siguiente script en el editor.
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook) {
@@ -209,7 +207,7 @@ Desarrollará un script que analice los datos de descargas semanales en la hoja 
     }
     ```
 
-5. Cambie el nombre del script a **Analizar descargas web** y guárdelo.
+1. Cambie el nombre del script a **Analizar descargas web** y guárdelo.
 
 ## <a name="running-the-script"></a>Ejecución del script
 

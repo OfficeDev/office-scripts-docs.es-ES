@@ -1,28 +1,27 @@
 ---
 title: Scripts básicos para Office scripts en Excel en la Web
 description: Una colección de ejemplos de código para usar con Office scripts en Excel en la Web.
-ms.date: 05/17/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 3bf3bd5acd10bc5999db4746a2ed62af85237e48
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 3aaaa7fe8769f6dcd658ae91c577956b56033051
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074560"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313942"
 ---
 # <a name="basic-scripts-for-office-scripts-in-excel-on-the-web"></a>Scripts básicos para Office scripts en Excel en la Web
 
 Los ejemplos siguientes son scripts sencillos para que pruebe en sus propios libros. Para usarlos en Excel en la Web:
 
 1. Abra la pestaña **Automatizar**.
-2. Presione **editor de código**.
-3. Presione **Nuevo script** en el panel de tareas del Editor de código.
-4. Reemplace todo el script por el ejemplo que prefiera.
-5. Presione **Ejecutar** en el panel de tareas del Editor de código.
+1. Seleccione **Nuevo script**.
+1. Reemplace todo el script por el ejemplo que prefiera.
+1. Seleccione **Ejecutar** en el panel de tareas del Editor de código.
 
 ## <a name="script-basics"></a>Conceptos básicos del script
 
-Estos ejemplos muestran bloques de creación fundamentales para Office scripts. Agrégalos a los scripts para ampliar la solución y resolver problemas comunes.
+Estos ejemplos muestran bloques de creación fundamentales para Office scripts. Expanda estos scripts para ampliar la solución y resolver problemas comunes.
 
 ### <a name="read-and-log-one-cell"></a>Leer y registrar una celda
 
@@ -420,8 +419,8 @@ function main(workbook: ExcelScript.Workbook) {
 
 Le damos la bienvenida a las sugerencias de nuevos ejemplos. Si hay un escenario común que podría ayudar a otros desarrolladores de scripts, díganoslo en la sección de comentarios de la parte inferior de la página.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 * ["Conceptos básicos del rango" de Sudhi Ramamurthy en YouTube](https://youtu.be/4emjkOFdLBA)
 * [Office Ejemplos y escenarios de scripts](samples-overview.md)
-* [Grabar, editar y crear scripts de Office en Excel en la Web](../../tutorials/excel-tutorial.md)
+* [Grabar, editar y crear Scripts de Office en Excel para la Web](../../tutorials/excel-tutorial.md)

@@ -1,14 +1,14 @@
 ---
 title: Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 description: Un tutorial sobre la ejecución de Scripts de Office para Excel en la Web mediante Power Automate cuando se reciba el correo y el paso de datos de flujo al script.
-ms.date: 12/28/2020
+ms.date: 06/29/2021
 localization_priority: Priority
-ms.openlocfilehash: b459501a955f337c7a0ad4040c7d7f5d9e344b93
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 27a028d3cc2af58ca158bb631b7b266cd2a3d488
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074686"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313704"
 ---
 # <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 
@@ -31,7 +31,7 @@ Power Automate no debe usar [referencias relativas](../testing/power-automate-tr
 
 3. Seleccione **Nuevo script**.
 
-4. Reemplace el código existente con el siguiente script y presione **Ejecutar**. Esto configurará el libro con nombres de tabla dinámica, hoja de cálculo y tabla coherentes.
+4. Reemplace el código existente con el siguiente script y seleccione **Ejecutar**. Esto configurará el libro con nombres de tabla dinámica, hoja de cálculo y tabla coherentes.
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook) {
@@ -60,7 +60,7 @@ Power Automate no debe usar [referencias relativas](../testing/power-automate-tr
 
 Comencemos a crear un script que registre información de un correo electrónico. Queremos saber en qué días de la semana recibimos más correos electrónicos y cuántos remitentes únicos nos los envían. Nuestro libro tiene una tabla con columnas de **Fecha**, **Día de la semana**, **Dirección de correo electrónico** y **Asunto**. Nuestra hoja de cálculo también tiene una tabla dinámica que se dinamiza en el **Día de la semana** y **Dirección de correo electrónico** (que son las jerarquías de fila). El recuento de **Asuntos** únicos es la información agregada que se muestra (la jerarquía de datos). Haremos que nuestro script actualice esa tabla dinámica después de actualizar la tabla de correo electrónico.
 
-1. Desde el panel de tareas del **Editor de código**, seleccione **Nuevo script**.
+1. Desde el panel de tareas del Editor de código, seleccione **Nuevo script**.
 
 2. El flujo que crearemos más adelante en el tutorial enviará la información de script de cada mensaje de correo electrónico que se reciba. El script necesita aceptar esa entrada mediante parámetros en la función `main`. Reemplace el script predeterminado con el siguiente script:
 
@@ -116,7 +116,7 @@ Comencemos a crear un script que registre información de un correo electrónico
     pivotTable.refresh();
     ```
 
-8. Cambie el nombre del script **Registrar correo electrónico** y presione **Guardar script**.
+8. Cambie el nombre del script **Registrar correo electrónico** y seleccione **Guardar script**.
 
 El script ya está preparado para un flujo de trabajo de Power Automate. Debería ser similar al siguiente script:
 
@@ -154,7 +154,7 @@ function main(
 
 1. Inicie sesión en el [sitio de Power Automate](https://flow.microsoft.com).
 
-2. En el menú que se muestra en la parte izquierda de la pantalla, presione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
+2. En el menú que se muestra en la parte izquierda de la pantalla, seleccione **Crear**. Se mostrará una lista de maneras de crear flujos de trabajo nuevos.
 
     :::image type="content" source="../images/power-automate-tutorial-1.png" alt-text="El botón Crear en Power Automate.":::
 
@@ -162,14 +162,14 @@ function main(
 
     :::image type="content" source="../images/power-automate-params-tutorial-1.png" alt-text="La opción de Flujo automatizado en Power Automate.":::
 
-4. En la ventana de diálogo que aparece, escriba un nombre para su flujo en el cuadro de texto **Nombre de flujo**. A continuación, seleccione **Cuando llegue un nuevo correo electrónico** de la lista de opciones de **Elegir el desencadenador de flujo**. Es posible que tenga que buscar la opción con el cuadro de búsqueda. Por último, pulse **Crear**.
+4. En la ventana de diálogo que aparece, escriba un nombre para su flujo en el cuadro de texto **Nombre de flujo**. A continuación, seleccione **Cuando llegue un nuevo correo electrónico** de la lista de opciones de **Elegir el desencadenador de flujo**. Es posible que tenga que buscar la opción con el cuadro de búsqueda. Por último, seleccione **Crear**.
 
     :::image type="content" source="../images/power-automate-params-tutorial-2.png" alt-text="Forma parte del flujo de Power Automate que muestra el «nombre del flujo» y las opciones de «elegir el desencadenador del flujo». El nombre del flujo es «Registrar flujo de correo electrónico» y el desencadenador es la opción «Cuando llega un correo electrónico nuevo a Outlook».":::
 
     > [!NOTE]
     > Este tutorial usa Outlook. Usted puede usar el servicio de correo electrónico que prefiera, aunque algunas opciones pueden ser diferentes.
 
-5. Presione **Nuevo paso**.
+5. Seleccione **Nuevo paso**.
 
 6. Seleccione la pestaña **Estándar** y, a continuación, seleccione **Excel Online (empresa)**.
 
@@ -193,7 +193,7 @@ function main(
 
     :::image type="content" source="../images/power-automate-params-tutorial-3.png" alt-text="La acción de ejecutar script de Power Automate muestra las opciones que aparecen una vez seleccionado el script.":::
 
-9. Presione **Guardar**.
+9. Seleccione **Guardar**.
 
 El flujo ya está habilitado. El script se ejecutará automáticamente cada vez que reciba un correo electrónico a través de Outlook.
 
@@ -203,7 +203,7 @@ El flujo ya está habilitado. El script se ejecutará automáticamente cada vez 
 
     :::image type="content" source="../images/power-automate-tutorial-7.png" alt-text="El botón Mis flujos en Power Automate.":::
 
-2. Seleccione el flujo. Aquí puede ver el historial de ejecución. Puede actualizar la página o presionar el botón actualizar **Todas las ejecuciones** para actualizar el historial. El flujo se desencadenará poco después de que se reciba un correo electrónico. Pruebe el flujo enviándose un correo electrónico a sí mismo.
+2. Seleccione el flujo. Aquí puede ver el historial de ejecución. Puede actualizar la página o seleccionar el botón actualizar **Todas las ejecuciones** para actualizar el historial. El flujo se desencadenará poco después de que se reciba un correo electrónico. Pruebe el flujo enviándose un correo electrónico a sí mismo.
 
 Cuando se desencadene el flujo y se ejecute correctamente el script, debería ver que se actualizan la tabla dinámica y la tabla del libro.
 

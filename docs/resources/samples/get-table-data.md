@@ -1,14 +1,14 @@
 ---
 title: Datos Excel salida como JSON
 description: Obtenga información sobre cómo generar Excel datos de tabla como JSON para usarlos en Power Automate.
-ms.date: 05/06/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: fefeda4f7e60880758f8f01e03f437a70c4111d4
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 63379d1323f5e2084f4aa39af3f4b6e5e6d7e7bb
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074574"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313949"
 ---
 # <a name="output-excel-table-data-as-json-for-usage-in-power-automate"></a>Salida Excel datos de tabla como JSON para su uso en Power Automate
 
@@ -30,7 +30,7 @@ _Cuadro de diálogo para editar hipervínculo_
 
 ## <a name="sample-excel-file"></a>Archivo Excel ejemplo
 
-Descarga el archivo <a href="table-data-with-hyperlinks.xlsx">table-data-with-hyperlinks.xlsx</a> usado en estos ejemplos y pruébalo tú mismo.
+Descargue el archivo <a href="table-data-with-hyperlinks.xlsx">table-data-with-hyperlinks.xlsx</a> para un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
 
 ## <a name="sample-code-return-table-data-as-json"></a>Código de ejemplo: devolver datos de tabla como JSON
 

@@ -1,14 +1,14 @@
 ---
 title: Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo
 description: Obtenga información sobre cómo usar Office scripts para quitar hipervínculos de cada celda de una hoja Excel trabajo.
-ms.date: 05/06/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 048d01691377a7086bdba9ceb87ca98839cfa4d1
-ms.sourcegitcommit: 763d341857bcb209b2f2c278a82fdb63d0e18f0a
+ms.openlocfilehash: dc33eb639edac8ada29824a53440031942e59179
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285804"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313753"
 ---
 # <a name="remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a>Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo
 
@@ -17,9 +17,11 @@ ms.locfileid: "52285804"
 > [!NOTE]
 > Esto solo funciona si el recuento de celdas < 10k.
 
-## <a name="sample-code-remove-hyperlinks"></a>Código de ejemplo: Quitar hipervínculos
+## <a name="sample-excel-file"></a>Archivo Excel ejemplo
 
-Descarga el archivo <a href="remove-hyperlinks.xlsx">remove-hyperlinks.xlsx</a> usado en este ejemplo y pruébalo tú mismo.
+Descargue el archivo <a href="remove-hyperlinks.xlsx">remove-hyperlinks.xlsx</a> para un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
+
+## <a name="sample-code-remove-hyperlinks"></a>Código de ejemplo: Quitar hipervínculos
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook, sheetName: string = 'Sheet1') {

@@ -1,14 +1,14 @@
 ---
 title: Mover filas entre tablas mediante Office scripts
 description: Aprenda a mover filas entre tablas guardando filtros y procesando y reaprobando los filtros.
-ms.date: 05/06/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: c850ed055457f6733694027469a96a87e74ef66a
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 860521de166108d5a8355ea246c1bfe77e0e064b
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074455"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313760"
 ---
 # <a name="move-rows-across-tables-by-saving-filters-then-processing-and-reapplying-the-filters"></a>Mueva filas entre tablas guardando filtros y procesando y reaprobando los filtros.
 
@@ -22,7 +22,7 @@ Este script hace lo siguiente:
 
 ## <a name="sample-excel-file"></a>Archivo Excel ejemplo
 
-Descargue el archivo <a href="input-table-filters.xlsx">input-table-filters.xlsx</a> se usa en esta solución para probarlo usted mismo.
+Descargue el archivo <a href="input-table-filters.xlsx">input-table-filters.xlsx</a> para un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
 
 ## <a name="sample-code-move-rows-using-range-values"></a>Código de ejemplo: mover filas con valores de intervalo
 

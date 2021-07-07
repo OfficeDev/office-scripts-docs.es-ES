@@ -1,14 +1,14 @@
 ---
 title: Archivos de Excel referencias cruzadas con Power Automate
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para hacer referencia cruzada y dar formato a un Excel archivo.
-ms.date: 06/25/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 89c4a5fa5dcff21681fa20cd4118447d39d9b6da
-ms.sourcegitcommit: a063b3faf6c1b7c294bd6a73e46845b352f2a22d
+ms.openlocfilehash: 0776ce49cacecfa15339cc7c0cd4866daad789ff
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53202878"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313963"
 ---
 # <a name="cross-reference-excel-files-with-power-automate"></a>Archivos de Excel referencias cruzadas con Power Automate
 
@@ -20,10 +20,12 @@ Es un coordinador de eventos que está programando oradores para las próximas c
 
 ## <a name="sample-excel-files"></a>Archivos Excel ejemplo
 
-Descarga los siguientes archivos usados en esta solución para probarlos tú mismo.
+Descargue los siguientes archivos para obtener libros listos para usar para el ejemplo.
 
 1. <a href="event-data.xlsx">event-data.xlsx</a>
 1. <a href="speaker-registrations.xlsx">speaker-registrations.xlsx</a>
+
+Agregue los siguientes scripts para probar el ejemplo usted mismo.
 
 ## <a name="sample-code-get-event-data"></a>Código de ejemplo: Obtener datos de eventos
 
@@ -147,7 +149,7 @@ interface EventData {
 Este flujo extrae la información del evento del primer libro y usa los datos para validar el segundo libro.
 
 1. Inicie sesión [Power Automate](https://flow.microsoft.com) y cree un nuevo **flujo de nube instantánea.**
-1. Seleccione **Desencadenar manualmente un flujo y** presione **Crear**.
+1. Elija **Desencadenar manualmente un flujo y** seleccione **Crear**.
 1. Agregue un **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción:
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
@@ -169,4 +171,5 @@ Este flujo extrae la información del evento del primer libro y usa los datos pa
     * **Body**: result (_dynamic content from Run script **2**_)
 
     :::image type="content" source="../../images/cross-reference-flow-3.png" alt-text="El conector Office 365 Outlook completado en Power Automate.":::
-1. Guarde el flujo y, a continuación, **seleccione Probar** para probarlo. Debe recibir un correo electrónico que diga "Error encontrado. Los datos requieren su revisión". Esto indica que hay diferencias entre las filas de **speaker-registrations.xlsx** y las filas de **event-data.xlsx**. Abra **speaker-registrations.xlsx** para ver varias celdas resaltadas donde hay posibles problemas con las listas de registro de orador.
+1. Guarde el flujo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos.** Asegúrese de permitir el acceso cuando se le pida.
+1. Debe recibir un correo electrónico que diga "Error encontrado. Los datos requieren su revisión". Esto indica que hay diferencias entre las filas de **speaker-registrations.xlsx** y las filas de **event-data.xlsx**. Abra **speaker-registrations.xlsx** para ver varias celdas resaltadas donde hay posibles problemas con las listas de registro de orador.

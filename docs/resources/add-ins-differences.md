@@ -1,14 +1,14 @@
 ---
 title: Diferencias entre los scripts de Office y los complementos de Office
 description: El comportamiento y las diferencias de API entre Office scripts y Office complementos.
-ms.date: 06/02/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 17d66e37c7bf2b1263c0232bb0afb3ee4d29aa36
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: c45fa12369ed8333df0c8f85a2b49900e7079eba
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074567"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313921"
 ---
 # <a name="differences-between-office-scripts-and-office-add-ins"></a>Diferencias entre los scripts de Office y los complementos de Office
 
@@ -32,13 +32,13 @@ Aunque las API Office JavaScript para Office Complementos y las API de scripts d
 
 ### <a name="events"></a>Eventos
 
-Office Los scripts no admiten eventos de nivel de [libro](/office/dev/add-ins/excel/excel-add-ins-events). Los scripts se desencadenan si los usuarios presionan **el botón Ejecutar** para un script o a través de Power Automate. Cada script ejecuta el código en un único método y, a `main` continuación, finaliza.
+Office Los scripts no admiten eventos de nivel de [libro](/office/dev/add-ins/excel/excel-add-ins-events). Los scripts son desencadenados por los usuarios que seleccionan el **botón Ejecutar** para un script o a través de Power Automate. Cada script ejecuta el código en un único método y, a `main` continuación, finaliza.
 
 ### <a name="common-apis"></a>API comunes
 
 Office Los scripts no pueden [usar API comunes](/javascript/api/office). Si necesitas autenticación, ventanas de diálogo u otras características que solo sean compatibles con las API comunes, es probable que necesites crear un complemento de Office en lugar de un script Office.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Diferencias entre Office scripts y macros de VBA](vba-differences.md)

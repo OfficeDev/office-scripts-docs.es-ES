@@ -1,14 +1,14 @@
 ---
 title: 'Office Escenario de ejemplo de scripts: Graph datos de nivel de agua de NOAA'
 description: Ejemplo que captura datos JSON de una base de datos NOAA y los usa para crear un gráfico.
-ms.date: 04/26/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: d35af59d9eed1abc9f3844834c92752ed80de80f
-ms.sourcegitcommit: f7a7aebfb687f2a35dbed07ed62ff352a114525a
+ms.openlocfilehash: aca2a966e6a0588c597d6f01f52f2c73354de0c1
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52232693"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313767"
 ---
 # <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a>Office Escenario de ejemplo de scripts: capturar y representar datos de nivel de agua de NOAA
 
@@ -26,9 +26,7 @@ Desarrollará un script que usa el comando para consultar la base de datos de co
 
 1. Abra el libro con Excel en la Web.
 
-1. En la **pestaña Automatizar,** seleccione **Todos los scripts**.
-
-1. En el **panel de tareas Editor** de código, seleccione Nuevo **script** y pegue el siguiente script en el editor.
+1. En la **pestaña Automatizar,** seleccione **Nuevo script** y pegue el siguiente script en el editor.
 
     ```TypeScript
     /**
@@ -119,4 +117,4 @@ En cualquier hoja de cálculo, ejecute el script gráfico de nivel de agua **de 
 
 ### <a name="after-running-the-script"></a>Después de ejecutar el script
 
-:::image type="content" source="../../images/scenario-noaa-water-level-after.png" alt-text="La hoja de cálculo después de ejecutar el script muestra algunos datos de nivel de agua y un gráfico":::
+:::image type="content" source="../../images/scenario-noaa-water-level-after.png" alt-text="La hoja de cálculo después de ejecutar el script muestra algunos datos de nivel de agua y un gráfico.":::

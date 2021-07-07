@@ -1,14 +1,14 @@
 ---
 title: Agregar imágenes a un libro
 description: Obtenga información sobre cómo usar Office scripts para agregar una imagen a un libro y copiarla entre hojas.
-ms.date: 05/17/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 64c356b2d76a561276b2955263555b16de27b3ba
-ms.sourcegitcommit: a2b85168d2b5e2c4e6951f808368f7d726400df0
+ms.openlocfilehash: 2ae77ca1295cf6e55443789506242d9cf888f9a1
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592757"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313907"
 ---
 # <a name="add-images-to-a-workbook"></a>Agregar imágenes a un libro
 
@@ -24,7 +24,7 @@ El segundo ejemplo copia una imagen de una dirección URL. Esto podría usarse p
 
 ## <a name="sample-excel-file"></a>Archivo Excel ejemplo
 
-Descarga el archivo <a href="add-images.xlsx">add-images.xlsx</a> usado en estos ejemplos y pruébalo tú mismo.
+Descargue <a href="add-images.xlsx">add-images.xlsx</a> para un libro listo para usar. Agregue los siguientes scripts y pruebe el ejemplo usted mismo.
 
 ## <a name="sample-code-copy-an-image-across-worksheets"></a>Código de ejemplo: copiar una imagen en hojas de cálculo
 

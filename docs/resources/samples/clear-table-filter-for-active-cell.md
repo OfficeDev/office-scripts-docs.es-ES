@@ -1,14 +1,14 @@
 ---
 title: Borrar filtro de columna de tabla en función de la ubicación de celda activa
 description: Obtenga información sobre cómo borrar el filtro de columna de tabla en función de la ubicación de celda activa.
-ms.date: 05/03/2021
+ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: d6f267b433be9a0ddf44edf53ed92a136eb2ded6
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: f10e23b4ad948a28c5b749533ddedefe164d7142
+ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074441"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53313893"
 ---
 # <a name="clear-table-column-filter-based-on-active-cell-location"></a>Borrar filtro de columna de tabla en función de la ubicación de celda activa
 
@@ -24,9 +24,13 @@ _Después de borrar el filtro de columna_
 
 :::image type="content" source="../../images/after-filter-cleared.png" alt-text="Una celda activa después de borrar el filtro de columna.":::
 
+## <a name="sample-excel-file"></a>Archivo Excel ejemplo
+
+Descargue <a href="table-with-filter.xlsx">table-with-filter.xlsx</a> para un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
+
 ## <a name="sample-code-clear-table-column-filter-based-on-active-cell"></a>Código de ejemplo: borrar el filtro de columna de tabla en función de la celda activa
 
-El siguiente script borra el filtro de columna de tabla en función de la ubicación de celda activa y se puede aplicar a cualquier archivo Excel con una tabla. Para mayor comodidad, puede descargar y usar <a href="table-with-filter.xlsx">table-with-filter.xlsx</a>.
+El siguiente script borra el filtro de columna de tabla en función de la ubicación de celda activa y se puede aplicar a cualquier archivo Excel con una tabla.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
