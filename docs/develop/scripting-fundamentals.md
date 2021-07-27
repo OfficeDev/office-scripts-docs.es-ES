@@ -3,12 +3,12 @@ title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
 ms.date: 05/24/2021
 localization_priority: Priority
-ms.openlocfilehash: 9c3c10e283e40f1e719e73106bcdacfcff44dbc9
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 8c153a6e9d5202a2c1f5a7db5c6bad760d211994
+ms.sourcegitcommit: de25e0657e7404bb780851b52633222bc3f80e52
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074511"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53529235"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web"></a>Conceptos básicos de los Scripts de Office en Excel en la Web
 
@@ -326,3 +326,4 @@ La [Documentación de referencia de las API de scripts de Office](/javascript/ap
 - [Referencia de API de scripts de Office](/javascript/api/office-scripts/overview)
 - [Usar objetos integrados de JavaScript en los scripts de Office](javascript-objects.md)
 - [Procedimientos recomendados para Scripts de Office](best-practices.md)
+- [Centro para desarrolladores de Scripts de Office](https://developer.microsoft.com/office-scripts)

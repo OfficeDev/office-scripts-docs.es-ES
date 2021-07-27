@@ -1,14 +1,14 @@
 ---
 title: Scripts de Office en Excel en la Web
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
-ms.date: 05/24/2021
+ms.date: 07/04/2021
 localization_priority: Priority
-ms.openlocfilehash: 93d6457338442472fc691d6d020dff99e7963b1b
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: c1659eeb638d8641509438ced93f207afb261dab
+ms.sourcegitcommit: de25e0657e7404bb780851b52633222bc3f80e52
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074602"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53529214"
 ---
 # <a name="office-scripts-in-excel-on-the-web"></a>Scripts de Office en Excel en la Web
 
@@ -89,3 +89,5 @@ Complete los [Scripts de Office en Excel en el tutorial de web](../tutorials/exc
 - [Configuración de scripts de Office en M365](https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf)
 - [Introducción a los scripts de Office en Excel (en support.office.com)](https://support.office.com/article/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)
 - [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)
+- [Centro para desarrolladores de Office Scripts](https://developer.microsoft.com/office-scripts)
+
