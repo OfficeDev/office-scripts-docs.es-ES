@@ -3,12 +3,12 @@ title: Enviar por correo electrónico las imágenes de un Excel gráfico y tabla
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para extraer y enviar por correo electrónico las imágenes de un Excel gráfico y tabla.
 ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 50bc65c82df7f5fc68dbebf942c4f607bb6af60a
-ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
+ms.openlocfilehash: 003769d026eb07f9bade44a40770f6309ee52b8a
+ms.sourcegitcommit: 9d00ee1c11cdf897410e5232692ee985f01ee098
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53313844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53772333"
 ---
 # <a name="use-office-scripts-and-power-automate-to-email-images-of-a-chart-and-table"></a>Usar Office scripts y Power Automate para enviar por correo electrónico imágenes de un gráfico y una tabla
 
@@ -95,14 +95,14 @@ Este flujo ejecuta el script y envía correos electrónicos a las imágenes devu
 
 1. Crear un nuevo **flujo de nube instantánea**.
 1. Elija **Desencadenar manualmente un flujo y** seleccione **Crear**.
-1. Agregue un **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción:
+1. Agregue un **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
     * **Archivo:** el libro ([seleccionado con el seleccionador de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
     * **Script:** el nombre del script
 
     :::image type="content" source="../../images/email-chart-sample-flow-1.png" alt-text="El conector Excel Online (Empresa) completado en Power Automate.":::
-1. En este ejemplo se Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo Power Automate admite, pero el resto de los pasos supone que eligió Outlook. Agregue un **nuevo paso** que use el **conector Office 365 Outlook** y la acción Enviar y correo electrónico **(V2).** Use los siguientes valores para la acción:
+1. En este ejemplo se Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo Power Automate admite, pero el resto de los pasos supone que eligió Outlook. Agregue un **nuevo paso** que use el **conector Office 365 Outlook** y la acción Enviar y correo electrónico **(V2).** Use los siguientes valores para la acción.
     * **To**: Su cuenta de correo electrónico de prueba (o correo electrónico personal)
     * **Asunto**: Revise los datos del informe
     * Para el **campo Cuerpo,** seleccione "Vista de código" ( `</>` ) y escriba lo siguiente:

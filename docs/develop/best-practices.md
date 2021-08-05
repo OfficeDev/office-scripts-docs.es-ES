@@ -3,12 +3,12 @@ title: Procedimientos recomendados para Scripts de Office
 description: Cómo evitar problemas comunes y escribir scripts Office que puedan controlar datos o entradas inesperadas.
 ms.date: 05/10/2021
 localization_priority: Normal
-ms.openlocfilehash: 0697e6fd1fa8f437a4a585d938254deb5a05f20c
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 45dd40ad2f88aecbf66db2a623d92ca81f73657c
+ms.sourcegitcommit: 9d00ee1c11cdf897410e5232692ee985f01ee098
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53772312"
 ---
 # <a name="best-practices-in-office-scripts"></a>Procedimientos recomendados para Scripts de Office
 
@@ -79,7 +79,7 @@ function main(workbook: ExcelScript.Workbook) {
   // Continue....
 }
 
-function inputPresent( workbook: ExcelScript.Workbook): boolean {
+function inputPresent(workbook: ExcelScript.Workbook): boolean {
   // These tables must be in the workbook for the script.
   const TargetTableName = 'Table1';
   const SourceTableName = 'Table2';
@@ -134,7 +134,7 @@ Tenga en cuenta el siguiente fragmento de código que realiza una actualización
 range.setValues(someLargeValues);
 ```
 
-Si es mayor que Excel puede controlar `someLargeValues` la web, se produce `setValues()` un error en la llamada. A continuación, el script también produce un [error en tiempo de ejecución](../testing/troubleshooting.md#runtime-errors). La `try...catch` instrucción permite que el script reconozca esta condición, sin terminar inmediatamente el script y mostrar el error predeterminado.
+Si `someLargeValues` es mayor que Excel para la Web puede controlar, se produce un error en la `setValues()` llamada. A continuación, el script también produce un [error en tiempo de ejecución](../testing/troubleshooting.md#runtime-errors). La `try...catch` instrucción permite que el script reconozca esta condición, sin terminar inmediatamente el script y mostrar el error predeterminado.
 
 Un enfoque para proporcionar al usuario de script una mejor experiencia es presentarles un mensaje de error personalizado. El siguiente fragmento de código muestra `try...catch` una instrucción que registra más información de error para ayudar mejor al lector.
 

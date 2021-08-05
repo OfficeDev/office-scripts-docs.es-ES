@@ -3,12 +3,12 @@ title: Ejecutar un script en todos los archivos de Excel de una carpeta
 description: Obtenga información sobre cómo ejecutar un script en todos los Excel archivos de una carpeta en OneDrive para la Empresa.
 ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: bf9c0c486dacced5c3017b267ea65dfd215a5197
-ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
+ms.openlocfilehash: a595c31c9e0fa7066d6e18aff4d3778f727714b6
+ms.sourcegitcommit: 9d00ee1c11cdf897410e5232692ee985f01ee098
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53313900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53772326"
 ---
 # <a name="run-a-script-on-all-excel-files-in-a-folder"></a>Ejecutar un script en todos los archivos de Excel de una carpeta
 
@@ -81,13 +81,13 @@ Este flujo ejecuta el script en todos los libros de la carpeta "Ventas".
 
     :::image type="content" source="../../images/all-files-in-folder-sample-flow-1.png" alt-text="El conector OneDrive para la Empresa completo en Power Automate.":::
 1. Seleccione la carpeta "Ventas" con los libros extraídos.
-1. Para asegurarse de que solo están seleccionados los libros, elija **Nuevo paso** y, a continuación, **seleccione Condición** y establezca los siguientes valores:
+1. Para asegurarse de que solo se seleccionan los libros, elija **Nuevo paso** y, a continuación, **seleccione Condición**. Use los siguientes valores para la condición.
     1. **Name** (el OneDrive de nombre de archivo)
     1. "termina con"
-    1. "xlsx".
+    1. "xlsx"
 
     :::image type="content" source="../../images/all-files-in-folder-sample-flow-2.png" alt-text="El Power Automate condición que aplica acciones posteriores a cada archivo.":::
-1. En la **rama If yes,** agregue **el conector Excel Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción:
+1. En la **rama If yes,** agregue **el conector Excel Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción.
     1. **Ubicación**: OneDrive para la Empresa
     1. **Biblioteca de documentos**: OneDrive
     1. **Archivo:** **Identificador** (el valor OneDrive id. de archivo)

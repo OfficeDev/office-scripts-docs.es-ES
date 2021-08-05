@@ -3,12 +3,12 @@ title: Límites y requisitos de plataforma con Office scripts
 description: Límites de recursos y compatibilidad del explorador para Office scripts cuando se usan con Excel en la Web
 ms.date: 05/17/2021
 localization_priority: Normal
-ms.openlocfilehash: 7e81aaf2f96faeb67c815814fe3b7f1795651318
-ms.sourcegitcommit: 4687693f02fc90a57ba30c461f35046e02e6f5fb
+ms.openlocfilehash: 8b7afa02f73476e6e98f231a7a7162ad87607b37
+ms.sourcegitcommit: 9d00ee1c11cdf897410e5232692ee985f01ee098
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53772361"
 ---
 # <a name="platform-limits-and-requirements-with-office-scripts"></a>Límites y requisitos de plataforma con Office scripts
 
@@ -16,7 +16,7 @@ Hay algunas limitaciones de plataforma de las que debe tener en cuenta al desarr
 
 ## <a name="browser-support"></a>Compatibilidad con exploradores
 
-Office Los scripts funcionan en cualquier explorador que [admita Office para la web](https://support.microsoft.com/office/ad1303e0-a318-47aa-b409-d3a5eb44e452). Sin embargo, algunas características de JavaScript no son compatibles con Internet Explorer 11 (IE 11). Las características introducidas en [ES6 o versiones posteriores](https://www.w3schools.com/Js/js_es6.asp) no funcionarán con IE 11. Si los usuarios de la organización siguen utilizando ese explorador, asegúrese de probar los scripts en ese entorno al compartirlos.
+Office Los scripts funcionan en cualquier explorador que [admita Office para la Web](https://support.microsoft.com/office/ad1303e0-a318-47aa-b409-d3a5eb44e452). Sin embargo, algunas características de JavaScript no son compatibles con Internet Explorer 11 (IE 11). Las características introducidas en [ES6 o versiones posteriores](https://www.w3schools.com/Js/js_es6.asp) no funcionarán con IE 11. Si los usuarios de la organización siguen utilizando ese explorador, asegúrese de probar los scripts en ese entorno al compartirlos.
 
 [!INCLUDE [Teams support note](../includes/teams-support-note.md)]
 
@@ -40,12 +40,12 @@ Hay límites en la cantidad Excel datos se pueden transferir a la vez y cuántas
 
 ### <a name="excel"></a>Excel
 
-Excel para la web tiene las siguientes limitaciones al realizar llamadas al libro a través de un script:
+Excel para la Web tiene las siguientes limitaciones al realizar llamadas al libro a través de un script:
 
 - Las solicitudes y respuestas están limitadas a **5 MB.**
 - Un rango está limitado a **cinco millones de celdas.**
 
-Si encuentra errores al tratar con conjuntos de datos grandes, intente usar varios intervalos más pequeños en lugar de intervalos más grandes. Para obtener un ejemplo, vea [el ejemplo Escribir un conjunto de datos](../resources/samples/write-large-dataset.md) grande. También puede usar API como [Range.getSpecialCells](/javascript/api/office-scripts/excelscript/excelscript.range#getspecialcells-celltype--cellvaluetype-) para seleccionar celdas específicas en lugar de intervalos grandes.
+Si encuentra errores al tratar con conjuntos de datos grandes, intente usar varios intervalos más pequeños en lugar de intervalos más grandes. Para obtener un ejemplo, vea [el ejemplo Escribir un conjunto de datos](../resources/samples/write-large-dataset.md) grande. También puede usar API como [Range.getSpecialCells](/javascript/api/office-scripts/excelscript/excelscript.range#getSpecialCells_cellType__cellValueType_) para seleccionar celdas específicas en lugar de intervalos grandes.
 
 ### <a name="power-automate"></a>Power Automate
 

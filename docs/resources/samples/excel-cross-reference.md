@@ -3,12 +3,12 @@ title: Archivos de Excel referencias cruzadas con Power Automate
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para hacer referencia cruzada y dar formato a un Excel archivo.
 ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 0776ce49cacecfa15339cc7c0cd4866daad789ff
-ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
+ms.openlocfilehash: 3ee3b7851773384c9a51a041c0e93c70accbab7d
+ms.sourcegitcommit: 9d00ee1c11cdf897410e5232692ee985f01ee098
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53313963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53772319"
 ---
 # <a name="cross-reference-excel-files-with-power-automate"></a>Archivos de Excel referencias cruzadas con Power Automate
 
@@ -150,7 +150,7 @@ Este flujo extrae la información del evento del primer libro y usa los datos pa
 
 1. Inicie sesión [Power Automate](https://flow.microsoft.com) y cree un nuevo **flujo de nube instantánea.**
 1. Elija **Desencadenar manualmente un flujo y** seleccione **Crear**.
-1. Agregue un **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción:
+1. Agregue un **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
     * **Archivo**: event-data.xlsx ([seleccionado con el seleccionador de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
@@ -158,14 +158,14 @@ Este flujo extrae la información del evento del primer libro y usa los datos pa
 
     :::image type="content" source="../../images/cross-reference-flow-1.png" alt-text="El conector Excel online (empresa) para el primer script de Power Automate.":::
 
-1. Agregue un segundo **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción:
+1. Agregue un segundo **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
     * **Archivo**: speaker-registration.xlsx ([seleccionado con el seleccionador de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
     * **Script**: Validar el registro de altavoces
 
     :::image type="content" source="../../images/cross-reference-flow-2.png" alt-text="El conector Excel online (empresa) para el segundo script de Power Automate.":::
-1. En este ejemplo se Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo electrónico Power Automate admite. Agregue un **nuevo paso** que use el **conector Office 365 Outlook** y la acción Enviar y correo electrónico **(V2).** Use los siguientes valores para la acción:
+1. En este ejemplo se Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo electrónico Power Automate admite. Agregue un **nuevo paso** que use el **conector Office 365 Outlook** y la acción Enviar y correo electrónico **(V2).** Use los siguientes valores para la acción.
     * **To**: Su cuenta de correo electrónico de prueba (o correo electrónico personal)
     * **Asunto**: Resultados de validación de eventos
     * **Body**: result (_dynamic content from Run script **2**_)
