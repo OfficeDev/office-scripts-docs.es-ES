@@ -1,14 +1,14 @@
 ---
 title: Office Ejemplos de scripts
 description: Disponible Office ejemplos de scripts y escenarios.
-ms.date: 05/25/2021
+ms.date: 07/19/2021
 localization_priority: Normal
-ms.openlocfilehash: 1b7e9cdd9e23f57d59e5e878a37b50afb63965fd
-ms.sourcegitcommit: a063b3faf6c1b7c294bd6a73e46845b352f2a22d
+ms.openlocfilehash: 508c9fa61d6816faf3fbe740bdf1d587b127b064e9918aac2d789ff2d4faccff
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53202854"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57846352"
 ---
 # <a name="office-scripts-samples-and-scenarios"></a>Office Ejemplos y escenarios de scripts
 
@@ -20,7 +20,7 @@ En [Escenarios,](#scenarios)hemos incluido algunos ejemplos de escenarios más g
 
 También agradecemos [las contribuciones de la comunidad.](#community-contributions-and-fun-samples)
 
-## <a name="basics"></a>Conceptos básicos
+## <a name="basics"></a>Datos básicos
 
 | Project | Detalles |
 |---------|---------|
@@ -35,6 +35,7 @@ Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo jun
 
 | Project | Detalles |
 |---------|---------|
+| [Convertir archivos CSV en Excel libros](convert-csv.md) | En este ejemplo se Office scripts y Power Automate para crear .xlsx archivos .csv archivos. |
 | [Libros de referencia cruzada](excel-cross-reference.md) | En este ejemplo se Office scripts y Power Automate para hacer referencia cruzada y validar información en diferentes libros. |
 | [Contar filas en blanco en una hoja específica o en todas las hojas](count-blank-rows.md) | En este ejemplo se detecta si hay filas en blanco en hojas en las que se prevé que los datos estén presentes y, a continuación, se informa del recuento de filas en blanco para su uso en un flujo Power Automate datos. |
 | [Imágenes de tabla y gráfico de correo electrónico](email-images-chart-table.md) | En este ejemplo se Office scripts y Power Automate acciones para crear un gráfico y enviar dicho gráfico como una imagen por correo electrónico. |

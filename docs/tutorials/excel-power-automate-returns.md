@@ -3,12 +3,12 @@ title: Devolver datos de un script a un flujo de Power Automate ejecutado autom�
 description: Un tutorial que muestra cómo enviar recordatorios por correo electrónico mediante la ejecución de Scripts de Office para Excel en la Web con Power Automate.
 ms.date: 06/29/2021
 localization_priority: Priority
-ms.openlocfilehash: 6c94ba4382f9d481c0064e89b5f7afa147ab23f4
-ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
+ms.openlocfilehash: c928ca612e08098c85307e22185e2240f47a5adcdfe028815c4dd837b4501c9f
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53314005"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57846463"
 ---
 # <a name="return-data-from-a-script-to-an-automatically-run-power-automate-flow"></a>Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente
 
@@ -154,7 +154,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
 1. En **Acciones**, seleccione **Ejecutar script**.
 
-    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción Ejecutar script en Power Automate":::
+    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción ejecutar script en Power Automate":::
 
 1. Después, seleccione el libro y el script que va a usar en el paso del flujo. Use el libro **on-call-rotation.xlsx** que creó en OneDrive. Especifique la siguiente configuración para el conector **Ejecutar script**:
 

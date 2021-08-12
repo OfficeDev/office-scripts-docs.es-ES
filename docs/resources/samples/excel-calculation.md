@@ -3,12 +3,12 @@ title: Administrar el modo de cálculo en Excel
 description: Obtenga información sobre cómo usar Office scripts para administrar el modo de cálculo en Excel en la Web.
 ms.date: 05/06/2021
 localization_priority: Normal
-ms.openlocfilehash: a60fddc91b3a8f124a44722d0d75e6e9f239351d
-ms.sourcegitcommit: 763d341857bcb209b2f2c278a82fdb63d0e18f0a
+ms.openlocfilehash: d33c4f21b21333ccefe26effc3df70235978b480a999364793e9a45d21dfba7f
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285916"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57846711"
 ---
 # <a name="manage-calculation-mode-in-excel"></a>Administrar el modo de cálculo en Excel
 

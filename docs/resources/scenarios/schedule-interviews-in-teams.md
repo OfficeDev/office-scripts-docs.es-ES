@@ -3,12 +3,12 @@ title: Programar entrevistas en Teams
 description: Obtenga información sobre cómo usar Office scripts para enviar una reunión Teams desde Excel datos.
 ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: cb24da12637add805d86da4d07ce878509c6a5f6
-ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
+ms.openlocfilehash: 20a6eed884cc82224af8b14ccde4a64ac3a3e8dae8e69b030e51ab7217254d85
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53313732"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57846496"
 ---
 # <a name="office-scripts-sample-scenario-schedule-interviews-in-teams"></a>Office Escenario de ejemplo scripts: Programar entrevistas en Teams
 

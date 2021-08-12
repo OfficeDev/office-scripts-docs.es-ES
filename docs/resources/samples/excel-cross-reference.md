@@ -3,12 +3,12 @@ title: Archivos de Excel referencias cruzadas con Power Automate
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para hacer referencia cruzada y dar formato a un Excel archivo.
 ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: 3ee3b7851773384c9a51a041c0e93c70accbab7d
-ms.sourcegitcommit: 9d00ee1c11cdf897410e5232692ee985f01ee098
+ms.openlocfilehash: ddbcdd25791e0c1a80fedfc36ebbfbd5dd940ec6f55ef2fe2bce0cf23b6bcb61
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53772319"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57847254"
 ---
 # <a name="cross-reference-excel-files-with-power-automate"></a>Archivos de Excel referencias cruzadas con Power Automate
 

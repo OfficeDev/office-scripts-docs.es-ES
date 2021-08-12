@@ -15,8 +15,8 @@ Estas son algunas formas en las que puede colaborar con esta documentación:
 
 * Para realizar pequeños cambios en un artículo, [colabore con GitHub](#contribute-using-github).
 * Para realizar cambios importantes o cambios relacionados con el código, [colabore con Git](#contribute-using-git).
-* Notificar errores de documentación [con problemas de GitHub](https://github.com/OfficeDev/office-scripts-docs/issues).
-* Solicitar nueva documentación con [problemas de GitHub](https://github.com/OfficeDev/office-scripts-docs/issues).
+* Notificar errores de documentación [con GitHub problemas](https://github.com/OfficeDev/office-scripts-docs/issues).
+* Solicitar nueva documentación con [GitHub problemas](https://github.com/OfficeDev/office-scripts-docs/issues).
 
 ## <a name="contribute-using-github"></a>Contribuir con GitHub
 
@@ -61,7 +61,7 @@ Las solicitudes de incorporación de cambios se suelen revisar en un plazo de 10
 
 ## <a name="use-github-git-and-this-repository"></a>Usar GitHub, Git y este repositorio
 
-**Nota:** La mayor parte de la información de esta sección se puede encontrar en los artículos [de la Ayuda de GitHub.]  Si está familiarizado con Git y GitHub, vaya a la sección sobre cómo **colaborar y editar contenido** para consultar los detalles del flujo de código y contenido de este repositorio.
+**Nota:** La mayor parte de la información de esta sección se puede encontrar en [GitHub artículos de ayuda.]  Si está familiarizado con Git y GitHub, vaya a la sección sobre cómo **colaborar y editar contenido** para consultar los detalles del flujo de código y contenido de este repositorio.
 
 ### <a name="to-set-up-your-fork-of-the-repository"></a>Para configurar una bifurcación del repositorio
 
@@ -198,7 +198,7 @@ Las solicitudes de incorporación de cambios se suelen revisar en un plazo de 10
 ## <a name="more-resources"></a>Más recursos
 
 * Para obtener más información sobre Markdown, vaya al sitio del creador de Markdown [Daring Fireball].
-* Para obtener más información sobre el uso de Git y GitHub, consulte primero la [Ayuda de GitHub].
+* Para obtener más información sobre el uso de Git y GitHub, consulte primero la [GitHub ayuda].
 
 [GitHub Home]: http://github.com
 [Ayuda de GitHub]: http://help.github.com/

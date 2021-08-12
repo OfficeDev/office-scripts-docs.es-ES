@@ -5,12 +5,12 @@ title: Documentación de scripts de Office
 description: Recursos de aprendizaje de scripts de Office en Excel en la Web, como tutoriales, artículos conceptuales y ejemplos de código.
 ms.date: 05/24/2021
 localization_priority: Priority
-ms.openlocfilehash: 095fffbc0b92f4efb5dcdcde1cd5970d6fd3c3f1
-ms.sourcegitcommit: de25e0657e7404bb780851b52633222bc3f80e52
+ms.openlocfilehash: 108642efda29aa9d794b1202befda0854f5db6305f6c93ee4038727016acebb0
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53529221"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57847141"
 ---
 # <a name="office-scripts-documentation"></a>Documentación de Scripts de Office
 
@@ -74,7 +74,7 @@ Use los scripts de Office en Excel en la Web para automatizar las tareas comunes
 
 <h2>Otros recursos</h2>
 <p>Use los recursos siguientes para informarse de las API que usan los scripts de Office para interactuar con los libros de Excel en la web, formule preguntas sobre scripts de Office en Excel en la Web o solicite características para scripts de Office en Excel en la Web.</p>
-<ul class="panelContent cardsF cols cols3" style="display:flex!important;">
+<ul class="panelContent cardsF cols cols3">
     <li>
         <div class="cardSize">
             <div class="cardPadding">

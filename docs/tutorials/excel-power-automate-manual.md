@@ -3,12 +3,12 @@ title: Ejecutar scripts mediante un flujo manual de Power Automate
 description: Tutorial sobre el uso de scripts de Office en Power Automate mediante un desencadenador manual.
 ms.date: 06/29/2021
 localization_priority: Priority
-ms.openlocfilehash: 1a8b9659ec6f6354d583496ba0f3e94d4a13c01b
-ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
+ms.openlocfilehash: 7244e3b637e21d66bdc83fda2c0cd23b8445a3a6f38a35b0bc3c35cfa8a58440
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53313998"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57847670"
 ---
 # <a name="call-scripts-from-a-manual-power-automate-flow"></a>Ejecutar scripts mediante un flujo manual de Power Automate
 
@@ -87,7 +87,7 @@ Power Automate no debe usar [referencias relativas](../testing/power-automate-tr
 
 7. En **Acciones**, seleccione **Ejecutar script**.
 
-    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción Ejecutar script en Power Automate":::
+    :::image type="content" source="../images/power-automate-tutorial-5.png" alt-text="Opción de acción ejecutar script en Power Automate":::
 
 8. A continuación, seleccione el libro y el script que va a usar en el paso de flujo. En el tutorial, usará el libro que creó en OneDrive, pero puede usar cualquier libro en un sitio de OneDrive o SharePoint. Especifique la siguiente configuración para el conector **Ejecutar script**:
 

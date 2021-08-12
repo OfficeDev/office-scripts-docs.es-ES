@@ -3,12 +3,12 @@ title: Solucionar Office scripts que se ejecutan en Power Automate
 description: Sugerencias, información de plataforma y problemas conocidos con la integración entre Office scripts y Power Automate.
 ms.date: 05/18/2021
 localization_priority: Normal
-ms.openlocfilehash: 7ba128314c0d632a3e77792b7ee545bfb7dca71d
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 1746a03022b6d1aa9fc35e1a8875add301dd6a0f2d6d45cedd64308f0738d2f8
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074637"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57847210"
 ---
 # <a name="troubleshoot-office-scripts-running-in-power-automate"></a>Solucionar Office scripts que se ejecutan en Power Automate
 
@@ -75,7 +75,7 @@ Excel archivos no tienen una ubicación o zona horaria inherentes. Cada vez que 
 
 Si el script usa fechas u horas, puede haber diferencias de comportamiento cuando el script se prueba localmente frente a cuando se ejecuta a través de Power Automate. Power Automate permite convertir, dar formato y ajustar tiempos. Consulte [Trabajar](https://flow.microsoft.com/blog/working-with-dates-and-times/) con fechas y horas dentro de los flujos para obtener instrucciones sobre cómo usar esas funciones en Power Automate y [ `main` Parámetros:](../develop/power-automate-integration.md#main-parameters-pass-data-to-a-script) pasar datos a un script para obtener información sobre cómo proporcionar esa información de hora para el script.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Solucionar problemas Office scripts](troubleshooting.md)
 - [Ejecute Office scripts con Power Automate](../develop/power-automate-integration.md)

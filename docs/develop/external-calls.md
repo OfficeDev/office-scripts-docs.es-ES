@@ -3,12 +3,12 @@ title: Soporte de llamadas de API externas en Scripts de Office
 description: Soporte técnico e instrucciones para realizar llamadas API externas en un script Office script.
 ms.date: 05/21/2021
 localization_priority: Normal
-ms.openlocfilehash: 5d768b53112473c1774f8fe8257b197ffead4a63
-ms.sourcegitcommit: 09d8859d5269ada8f1d0e141f6b5a4f96d95a739
+ms.openlocfilehash: ece8c13bd2c665734e35d16c046ca58e52df564465a4df8989d90d887d897307
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52631646"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57846627"
 ---
 # <a name="external-api-call-support-in-office-scripts"></a>Soporte de llamadas de API externas en Scripts de Office
 

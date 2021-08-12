@@ -3,12 +3,12 @@ title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
 ms.date: 05/24/2021
 localization_priority: Priority
-ms.openlocfilehash: 8c153a6e9d5202a2c1f5a7db5c6bad760d211994
-ms.sourcegitcommit: de25e0657e7404bb780851b52633222bc3f80e52
+ms.openlocfilehash: b5038dde38550e63bae872b39b9222d3defe9943ccefad85a469a5c0717fb2ef
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53529235"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57846704"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web"></a>Conceptos básicos de los Scripts de Office en Excel en la Web
 

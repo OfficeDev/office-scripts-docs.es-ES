@@ -3,12 +3,12 @@ title: 'Office Escenario de ejemplo de scripts: Graph datos de nivel de agua de 
 description: Ejemplo que captura datos JSON de una base de datos NOAA y los usa para crear un gráfico.
 ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: aca2a966e6a0588c597d6f01f52f2c73354de0c1
-ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
+ms.openlocfilehash: a85078e08356aaf00702f35785146141b366a058925c3ba89ba040b46bc8d405
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53313767"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57847028"
 ---
 # <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a>Office Escenario de ejemplo de scripts: capturar y representar datos de nivel de agua de NOAA
 

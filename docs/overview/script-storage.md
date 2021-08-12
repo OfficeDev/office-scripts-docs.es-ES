@@ -3,12 +3,12 @@ title: Office Propiedad y almacenamiento de archivos de scripts
 description: Información sobre cómo Office scripts se almacenan en Microsoft OneDrive y se transfieren entre propietarios.
 ms.date: 06/04/2021
 localization_priority: Normal
-ms.openlocfilehash: b7ccb3ceae99a3a10bb56d5a4e56cc869d99850e
-ms.sourcegitcommit: 7dcb13daa3a765b87295e5a453a8f123e17ee24a
+ms.openlocfilehash: 6343b5bad366d9e4c4f349622a33b062de9c8ddd7877c3d40a49635d6aaef9cf
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906790"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57847299"
 ---
 # <a name="office-scripts-file-storage-and-ownership"></a>Office Propiedad y almacenamiento de archivos de scripts
 
@@ -45,7 +45,7 @@ Para buscar quién usa Office scripts con la herramienta de búsqueda, agregue `
 > [!NOTE]
 > Actualmente no se registra la ejecución de un script. Solo se registran las acciones crear, ver y modificar.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)

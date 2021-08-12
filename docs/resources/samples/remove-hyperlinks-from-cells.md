@@ -3,12 +3,12 @@ title: Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo
 description: Obtenga información sobre cómo usar Office scripts para quitar hipervínculos de cada celda de una hoja Excel trabajo.
 ms.date: 06/29/2021
 localization_priority: Normal
-ms.openlocfilehash: dc33eb639edac8ada29824a53440031942e59179
-ms.sourcegitcommit: 211c157ca746e266eeb079f5fa1925a1e35ab702
+ms.openlocfilehash: 498d55ea1ee7926ab124d00795825660005c5e38e73ed5d90fe8f9208a583908
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53313753"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57847432"
 ---
 # <a name="remove-hyperlinks-from-each-cell-in-an-excel-worksheet"></a>Quitar hipervínculos de cada celda de una hoja Excel hoja de cálculo
 

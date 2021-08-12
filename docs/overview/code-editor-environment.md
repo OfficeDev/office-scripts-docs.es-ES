@@ -3,12 +3,12 @@ title: Office Entorno editor de código de scripts
 description: Los requisitos previos y la información del entorno para Office scripts en Excel en la Web.
 ms.date: 05/27/2021
 localization_priority: Normal
-ms.openlocfilehash: 4a8adc03e372bc769fb44b1c4e3e98c7a4531756
-ms.sourcegitcommit: 4693c8f79428ec74695328275703af0ba1bfea8f
+ms.openlocfilehash: 5b2f7afa193dc71e13a3d6763c9e8ff8344ee3e8be18e7e996f8431e03510509
+ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53074469"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57847096"
 ---
 # <a name="office-scripts-code-editor-environment"></a>Office Entorno editor de código de scripts
 
@@ -49,7 +49,7 @@ La mayoría de los métodos abreviados de teclado Visual Studio Code también fu
 - [Métodos abreviados de teclado para macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf).
 - [Métodos abreviados de teclado Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Referencia de API de scripts de Office](/javascript/api/office-scripts/overview)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
