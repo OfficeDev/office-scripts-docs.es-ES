@@ -3,12 +3,12 @@ title: Administrar el modo de cálculo en Excel
 description: Obtenga información sobre cómo usar Office scripts para administrar el modo de cálculo en Excel en la Web.
 ms.date: 05/06/2021
 localization_priority: Normal
-ms.openlocfilehash: d33c4f21b21333ccefe26effc3df70235978b480a999364793e9a45d21dfba7f
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.openlocfilehash: ee43c3c0477f0d70078cae271081bc5e1e008960
+ms.sourcegitcommit: 6654aeae8a3ee2af84b4d4c4d8ff45b360a303eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57846711"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862155"
 ---
 # <a name="manage-calculation-mode-in-excel"></a>Administrar el modo de cálculo en Excel
 
@@ -18,7 +18,7 @@ En este ejemplo se muestra cómo usar el modo [de cálculo](/javascript/api/offi
 
 Los libros con un gran número de fórmulas pueden tardar un tiempo en volver a calcularse. En lugar de Excel control cuando se realiza un cálculo, puede administrarlos como parte del script. Esto ayudará con el rendimiento en determinados escenarios.
 
-El script de ejemplo establece el modo de cálculo en manual. Esto significa que el libro solo recalculará fórmulas cuando el script lo indique (o calcule manualmente a través [de la interfaz de usuario](https://support.microsoft.com/office/change-formula-recalculation-iteration-or-precision-in-excel-73fc7dac-91cf-4d36-86e8-67124f6bcce4)). A continuación, el script muestra el modo de cálculo actual y vuelve a calcular completamente todo el libro.
+El script de ejemplo establece el modo de cálculo en manual. Esto significa que el libro solo recalculará fórmulas cuando el script lo indique (o calcule manualmente a través [de la interfaz de usuario](https://support.microsoft.com/office/73fc7dac-91cf-4d36-86e8-67124f6bcce4)). A continuación, el script muestra el modo de cálculo actual y vuelve a calcular completamente todo el libro.
 
 ## <a name="sample-code-control-calculation-mode"></a>Código de ejemplo: Modo de cálculo de control
 
