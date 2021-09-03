@@ -37,6 +37,8 @@ items:
             href: overview/script-storage.md
           - name: Ejecutar scripts con Power Automate
             href: develop/power-automate-integration.md
+          - name: Usar archivos de macro en flujos de Power Automate
+            href: develop/macros-power-automate.md
       - name: Solución de problemas
         items:
           - name: Introducción a la solución de problemas
@@ -67,6 +69,8 @@ items:
                 href: resources/samples/copy-tables-combine.md
           - name: Más allá de los aspectos básicos
             items:
+              - name: Convertir archivos CSV
+                href: resources/samples/convert-csv.md
               - name: Hojas de cálculo de referencia cruzada
                 href: resources/samples/excel-cross-reference.md
               - name: Contar filas en blanco en hojas de cálculo
