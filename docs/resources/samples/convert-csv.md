@@ -3,12 +3,12 @@ title: Convertir archivos CSV en Excel libros
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para crear .xlsx a partir de .csv archivos.
 ms.date: 07/19/2021
 localization_priority: Normal
-ms.openlocfilehash: 0208453c1c60c5458e8f5e3978fe930d5b81377b90d402df738097c653665a2c
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.openlocfilehash: d67be06dc038fc22215426e5f7143e0af9ba9f0c
+ms.sourcegitcommit: 6654aeae8a3ee2af84b4d4c4d8ff45b360a303eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847518"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862209"
 ---
 # <a name="convert-csv-files-to-excel-workbooks"></a>Convertir archivos CSV en Excel libros
 

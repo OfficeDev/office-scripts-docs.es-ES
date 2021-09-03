@@ -3,12 +3,12 @@ title: Devolver datos de un script a un flujo de Power Automate ejecutado autom�
 description: Un tutorial que muestra cómo enviar recordatorios por correo electrónico mediante la ejecución de Scripts de Office para Excel en la Web con Power Automate.
 ms.date: 06/29/2021
 localization_priority: Priority
-ms.openlocfilehash: c928ca612e08098c85307e22185e2240f47a5adcdfe028815c4dd837b4501c9f
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.openlocfilehash: 5c021a4d146fc2c0f13c7d7ab560107a1bf5c335
+ms.sourcegitcommit: 6654aeae8a3ee2af84b4d4c4d8ff45b360a303eb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57846463"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862225"
 ---
 # <a name="return-data-from-a-script-to-an-automatically-run-power-automate-flow"></a>Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente
 
@@ -66,7 +66,7 @@ Este tutorial le enseña cómo devolver información de un script de Office para
     let tableValues = table.getRangeBetweenHeaderAndTotal().getValues();
     ```
 
-1. Las fechas de la tabla se almacenan con [el número de serie de la fecha de Excel](https://support.microsoft.com/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487). Es necesario convertir esas fechas en fechas de JavaScript para poder compararlas. Agregaremos una función auxiliar al script. Agregue el código siguiente fuera de la función `main`:
+1. Las fechas de la tabla se almacenan con [el número de serie de la fecha de Excel](https://support.microsoft.com/office/e7fe7167-48a9-4b96-bb53-5612a800b487). Es necesario convertir esas fechas en fechas de JavaScript para poder compararlas. Agregaremos una función auxiliar al script. Agregue el código siguiente fuera de la función `main`:
 
     ```TypeScript
     // Convert the Excel date to a JavaScript Date object.

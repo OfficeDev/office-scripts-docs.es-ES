@@ -3,12 +3,12 @@ title: Office Propiedad y almacenamiento de archivos de scripts
 description: Información sobre cómo Office scripts se almacenan en Microsoft OneDrive y se transfieren entre propietarios.
 ms.date: 06/04/2021
 localization_priority: Normal
-ms.openlocfilehash: 6343b5bad366d9e4c4f349622a33b062de9c8ddd7877c3d40a49635d6aaef9cf
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.openlocfilehash: 788850db9c8e07ad59ea6d42eb9958779efcb06f
+ms.sourcegitcommit: 6654aeae8a3ee2af84b4d4c4d8ff45b360a303eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847299"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862162"
 ---
 # <a name="office-scripts-file-storage-and-ownership"></a>Office Propiedad y almacenamiento de archivos de scripts
 
@@ -24,7 +24,7 @@ Los scripts que se comparten con uno de los libros permanecen en el sitio del cr
 
 ### <a name="restore-deleted-scripts"></a>Restaurar scripts eliminados
 
-Cuando se elimina un script en Excel, se va a la papelera OneDrive reciclaje. Para restaurar un script eliminado, siga los pasos enumerados en Restaurar archivos o carpetas eliminados [en OneDrive](https://support.microsoft.com/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f). La restauración de **un archivo .osts** lo devuelve a la **lista Todos los scripts.**
+Cuando se elimina un script en Excel, se va a la papelera OneDrive reciclaje. Para restaurar un script eliminado, siga los pasos enumerados en Restaurar archivos o carpetas eliminados [en OneDrive](https://support.microsoft.com/office/949ada80-0026-4db3-a953-c99083e6a84f). La restauración de **un archivo .osts** lo devuelve a la **lista Todos los scripts.**
 
 Un script eliminado no se comparte con el libro. Al restaurar un script, no **conserva** su acceso a scripts. Tendrá que volver a compartir el script.
 
@@ -45,9 +45,9 @@ Para buscar quién usa Office scripts con la herramienta de búsqueda, agregue `
 > [!NOTE]
 > Actualmente no se registra la ejecución de un script. Solo se registran las acciones crear, ver y modificar.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
-- [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)
+- [Compartir Scripts de Office en Excel para la Web](https://support.microsoft.com/office/226eddbc-3a44-4540-acfe-fccda3d1122b)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
-- [Configuración de scripts de Office en M365](https://support.office.com/article/office-scripts-settings-in-m365-19d3c51a-6ca2-40ab-978d-60fa49554dcf)
+- [Configuración de scripts de Office en M365](/microsoft-365/admin/manage/manage-office-scripts-settings)
 - [Deshacer los efectos de Scripts de Office](../testing/undo.md)
