@@ -1,14 +1,14 @@
 ---
-title: Usar archivos de macro en Power Automate flujos
+title: Usar archivos de macro en flujos de Power Automate
 description: Obtenga información sobre cómo usar archivos de macros o archivos xlsm en Power Automate flujos.
 ms.date: 09/01/2021
-localization_priority: Normal
-ms.openlocfilehash: 204eb8315f90c0ab0e20a34ec64517fbfbf304b1
-ms.sourcegitcommit: 9472e78eb186ceffdaaceb2718d5074ce55a0e74
+ms.localizationpriority: medium
+ms.openlocfilehash: ab83c62d219ec215497e02d6cfe5718c628ec1bf
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58866547"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59326908"
 ---
 # <a name="how-to-use-macro-files-in-power-automate-flows"></a>Cómo usar archivos de macro en Power Automate flujos
 

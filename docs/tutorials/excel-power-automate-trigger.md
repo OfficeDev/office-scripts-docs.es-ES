@@ -2,13 +2,13 @@
 title: Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 description: Un tutorial sobre la ejecución de Scripts de Office para Excel en la Web mediante Power Automate cuando se reciba el correo y el paso de datos de flujo al script.
 ms.date: 06/29/2021
-localization_priority: Priority
-ms.openlocfilehash: 954a7e9b48d8973310a97d7d5821341907938adde98c50fd77a36d8bd966ffb9
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: high
+ms.openlocfilehash: 333ccfc753da067111ca4dc0c3e59ce9db360e0a
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847383"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59326873"
 ---
 # <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 

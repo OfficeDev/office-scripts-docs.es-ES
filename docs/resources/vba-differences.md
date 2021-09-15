@@ -2,13 +2,13 @@
 title: Diferencias entre Office scripts y macros de VBA
 description: El comportamiento y las diferencias de API entre Office scripts y Excel macros de VBA.
 ms.date: 05/21/2021
-localization_priority: Normal
-ms.openlocfilehash: 0d94607902fa62e07ce378b94ec3b9c328937e16535b1882b6cad5bd76212b33
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: 5038f8c0195cb84a2b77065d6b4c6a53e813f6a4
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847271"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327885"
 ---
 # <a name="differences-between-office-scripts-and-vba-macros"></a>Diferencias entre Office scripts y macros de VBA
 
@@ -45,7 +45,7 @@ VBA no tiene un conector Power Automate. Todos los escenarios de VBA admitidos i
 
 Pruebe los [scripts de llamada desde un tutorial de flujo Power Automate manual](../tutorials/excel-power-automate-manual.md) para empezar a aprender sobre Power Automate. También puede consultar el ejemplo [De avisos](scenarios/task-reminders.md) de tareas automatizadas para ver Office scripts conectados a Teams a través de Power Automate en un escenario real.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 - [Scripts de Office en Excel en la Web](../overview/excel.md)
 - [Ejecute Office scripts con Power Automate](../develop/power-automate-integration.md)

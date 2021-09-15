@@ -2,13 +2,13 @@
 title: Soporte de llamadas de API externas en Scripts de Office
 description: Soporte técnico e instrucciones para realizar llamadas API externas en un script Office script.
 ms.date: 05/21/2021
-localization_priority: Normal
-ms.openlocfilehash: ece8c13bd2c665734e35d16c046ca58e52df564465a4df8989d90d887d897307
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: 14b98e49907ff989684eceb9509edf56a1a72d9e
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57846627"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59332055"
 ---
 # <a name="external-api-call-support-in-office-scripts"></a>Soporte de llamadas de API externas en Scripts de Office
 
@@ -87,7 +87,7 @@ Tendrás que usar [HTTP](/connectors/webcontents/) con Azure AD u otras acciones
 > [!WARNING]
 > Las llamadas externas realizadas a través del conector [Power Automate Excel Online fallan](/connectors/excelonlinebusiness) para ayudar a mantener las directivas de prevención de pérdida de datos existentes. Sin embargo, los scripts que se ejecutan Power Automate se realizan fuera de la organización y fuera de los firewalls de la organización. Para obtener protección adicional contra usuarios malintencionados en este entorno externo, el administrador puede controlar el uso de Office scripts. El administrador puede deshabilitar el conector de Excel Online en Power Automate o desactivar scripts de Office para Excel en la Web a través de los controles de administrador [de scripts](/microsoft-365/admin/manage/manage-office-scripts-settings)Office.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 * [Usar objetos integrados de JavaScript en los scripts de Office](javascript-objects.md)
 * [Usar llamadas de captura externa en Scripts de Office](../resources/samples/external-fetch-calls.md)

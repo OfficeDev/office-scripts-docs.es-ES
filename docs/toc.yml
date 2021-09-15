@@ -69,6 +69,8 @@ items:
                 href: resources/samples/copy-tables-combine.md
           - name: Más allá de los aspectos básicos
             items:
+              - name: Combinar hojas de cálculo en un solo libro
+                href: resources/samples/combine-worksheets-into-single-workbook.md
               - name: Convertir archivos CSV
                 href: resources/samples/convert-csv.md
               - name: Hojas de cálculo de referencia cruzada

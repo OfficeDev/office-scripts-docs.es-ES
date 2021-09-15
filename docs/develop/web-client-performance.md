@@ -2,13 +2,13 @@
 title: Mejorar el rendimiento de los scripts Office scripts
 description: Cree scripts más rápidos al comprender la comunicación entre el Excel y el script.
 ms.date: 05/17/2021
-localization_priority: Normal
-ms.openlocfilehash: e71fe3d0b25eab99d075e54a63600861d285756d98a6d6dd8490c3f4e73fab33
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: 169256bdae809c413c10f1f00240afc28be795f4
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847019"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59331167"
 ---
 # <a name="improve-the-performance-of-your-office-scripts"></a>Mejorar el rendimiento de los scripts Office scripts
 

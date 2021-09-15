@@ -2,13 +2,13 @@
 title: Usar objetos integrados de JavaScript en los scripts de Office
 description: Cómo llamar a API de JavaScript integradas desde un script Office en Excel en la Web.
 ms.date: 05/17/2021
-localization_priority: Normal
-ms.openlocfilehash: 6c15daf0429009d289a17e604caf51b807510442bf6e6fa6e42c85d7457f6164
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: bf12a405814bb626a72c1de4f4c75462ce0018ec
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57846613"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327692"
 ---
 # <a name="use-built-in-javascript-objects-in-office-scripts"></a>Usar objetos JavaScript integrados en Office scripts
 
@@ -144,7 +144,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Office Los scripts no admiten el uso de bibliotecas externas de terceros. El script solo puede usar los objetos JavaScript integrados y las API Office scripts.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 - [Objetos integrados estándar](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects)
 - [Office Entorno editor de código de scripts](../overview/code-editor-environment.md)

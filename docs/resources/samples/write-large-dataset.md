@@ -2,13 +2,13 @@
 title: Escribir un conjunto de datos grande
 description: Obtenga información sobre cómo dividir un conjunto de datos grande en operaciones de escritura más pequeñas en Office scripts.
 ms.date: 05/13/2021
-localization_priority: Normal
-ms.openlocfilehash: ec058bb1e3aabea52b0127c26b4c4a1352914fb575105ff4a90f82b222d6251d
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: 1b37c5892c3b5f9ba26bfc2cdf8b30db321751d3
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847587"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59330586"
 ---
 # <a name="write-a-large-dataset"></a>Escribir un conjunto de datos grande
 

@@ -2,13 +2,13 @@
 title: 'Office Escenario de ejemplo scripts: avisos de tareas automatizados'
 description: Un ejemplo que usa Power Automate tarjetas adaptables automatizan los avisos de tareas en una hoja de cálculo de administración de proyectos.
 ms.date: 06/29/2021
-localization_priority: Normal
-ms.openlocfilehash: 8e9ddebd6ab8f061a623f646000a722c3a95ba0d255fd8bac42cda6172078879
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: a2d4701fb7a42953de669c84dbb93104d199d5b8
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57846388"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59330051"
 ---
 # <a name="office-scripts-sample-scenario-automated-task-reminders"></a>Office Escenario de ejemplo scripts: avisos de tareas automatizados
 

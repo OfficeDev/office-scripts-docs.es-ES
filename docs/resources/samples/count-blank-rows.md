@@ -2,13 +2,13 @@
 title: Contar filas en blanco en hojas
 description: Obtenga información sobre cómo usar Office Scripts para detectar si hay filas en blanco en lugar de datos en las hojas de cálculo y, a continuación, informe del recuento de filas en blanco que se usará en un flujo Power Automate.
 ms.date: 06/29/2021
-localization_priority: Normal
-ms.openlocfilehash: 1aea3670d1bc0b50d7a7dd8d55124049c8871b413b7400b7eaf44df714e94f79
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: 103d2f96c1780b47363dcb6caab82553dd556b80
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57846994"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59332216"
 ---
 # <a name="count-blank-rows-on-sheets"></a>Contar filas en blanco en hojas
 

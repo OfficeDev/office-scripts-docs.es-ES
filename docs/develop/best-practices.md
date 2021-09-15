@@ -2,13 +2,13 @@
 title: Procedimientos recomendados para Scripts de Office
 description: Cómo evitar problemas comunes y escribir scripts Office que puedan controlar datos o entradas inesperadas.
 ms.date: 05/10/2021
-localization_priority: Normal
-ms.openlocfilehash: cdea3583120109cda05c05cb7c4f908e929bbff0d37e615b1820f67b57fbe24f
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: 49075d52587a1d2c4ed06fc2939aebc7081d4ddb
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57846620"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327843"
 ---
 # <a name="best-practices-in-office-scripts"></a>Procedimientos recomendados para Scripts de Office
 
@@ -168,7 +168,7 @@ try {
 > [!NOTE]
 > Usar `try...catch` dentro o alrededor de un bucle ralentiza el script. Para obtener más información sobre el rendimiento, vea [Avoid using `try...catch` blocks](web-client-performance.md#avoid-using-trycatch-blocks-in-or-surrounding-loops).
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
 - [Solución de problemas de información Power Automate con scripts Office datos](../testing/power-automate-troubleshooting.md)

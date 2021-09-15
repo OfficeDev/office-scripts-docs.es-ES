@@ -1,14 +1,14 @@
 ---
 title: Office Ejemplos de scripts
 description: Disponible Office ejemplos de scripts y escenarios.
-ms.date: 07/19/2021
-localization_priority: Normal
-ms.openlocfilehash: 042e49145285fe100cace1df2571f5aa06dab7d5
-ms.sourcegitcommit: 6654aeae8a3ee2af84b4d4c4d8ff45b360a303eb
+ms.date: 09/03/2021
+ms.localizationpriority: medium
+ms.openlocfilehash: 0d11e15a7e839f33a74ca8ad7f1d09dd7711347c
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862169"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59334937"
 ---
 # <a name="office-scripts-samples-and-scenarios"></a>Office Ejemplos y escenarios de scripts
 
@@ -22,7 +22,7 @@ También agradecemos [las contribuciones de la comunidad.](#community-contributi
 
 ## <a name="basics"></a>Conceptos básicos
 
-| Project | Detalles |
+| Proyecto | Detalles |
 |---------|---------|
 | [Conceptos básicos de scripting](../excel-samples.md) | Estos ejemplos muestran bloques de creación fundamentales para Office scripts. |
 | [Agregar comentarios en Excel](add-excel-comments.md) | En este ejemplo se agregan comentarios a una celda @mentioning un compañero. |
@@ -33,8 +33,9 @@ También agradecemos [las contribuciones de la comunidad.](#community-contributi
 
 Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo junto con scripts completos, archivos Excel de ejemplo usados y vídeos (hospedados en [YouTube).](https://www.youtube.com/playlist?list=PLr3zVPZrMOUMl88fs8uc2GGAePRnNe6m0)
 
-| Project | Detalles |
+| Proyecto | Detalles |
 |---------|---------|
+| [Combinar hojas de cálculo en un solo libro](combine-worksheets-into-single-workbook.md) | En este ejemplo se Office scripts y Power Automate para extraer datos de otros libros en un solo libro. |
 | [Convertir archivos CSV en Excel libros](convert-csv.md) | En este ejemplo se Office scripts y Power Automate para crear .xlsx archivos .csv archivos. |
 | [Libros de referencia cruzada](excel-cross-reference.md) | En este ejemplo se Office scripts y Power Automate para hacer referencia cruzada y validar información en diferentes libros. |
 | [Contar filas en blanco en una hoja específica o en todas las hojas](count-blank-rows.md) | En este ejemplo se detecta si hay filas en blanco en hojas en las que se prevé que los datos estén presentes y, a continuación, se informa del recuento de filas en blanco para su uso en un flujo Power Automate datos. |
@@ -64,7 +65,7 @@ Office Los scripts pueden automatizar partes de la rutina diaria. Estas tareas c
 
 ¡Agradecemos [las contribuciones](https://github.com/OfficeDev/office-scripts-docs/blob/master/Contributing.md) de nuestra Office scripts! No dude en crear una solicitud de extracción para su revisión.
 
-| Project | Detalles |
+| Proyecto | Detalles |
 |---------|---------|
 | [Juego de vida](https://techcommunity.microsoft.com/t5/excel-blog/ready-player-zero/ba-p/2246208) | El blog "Ready Player Zero" de Yutao Huang en Excel Tech Community incluye un script para modelar [*El juego*](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)de la vida de John Conway. |
 | [Animación de saludos de temporadas](community-seasons-greetings.md) | Este script fue contribuido por [Leslie Black](https://www.linkedin.com/in/lesblackconsultant/) en el ánimo de la temporada de vacaciones. Es un script divertido que muestra un árbol de Navidad cantando en Excel en la Web usando Office scripts. |

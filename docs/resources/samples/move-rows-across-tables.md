@@ -2,13 +2,13 @@
 title: Mover filas entre tablas mediante Office scripts
 description: Aprenda a mover filas entre tablas guardando filtros y procesando y reaprobando los filtros.
 ms.date: 06/29/2021
-localization_priority: Normal
-ms.openlocfilehash: 54a41bddaebd4916e8bcffc7bc24f9a219c3d6a4
-ms.sourcegitcommit: 6654aeae8a3ee2af84b4d4c4d8ff45b360a303eb
+ms.localizationpriority: medium
+ms.openlocfilehash: bffdb17516016d159e61586c116d764f7bb8f3fc
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862078"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59334972"
 ---
 # <a name="move-rows-across-tables"></a>Mover filas entre tablas
 

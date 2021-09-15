@@ -2,13 +2,13 @@
 title: Datos Excel salida como JSON
 description: Obtenga información sobre cómo generar Excel datos de tabla como JSON para usarlos en Power Automate.
 ms.date: 07/22/2021
-localization_priority: Normal
-ms.openlocfilehash: 503f60e59ec565e644b9c02b9e4b436011662a8910432783752d86396a51a8b9
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: 2b613f41618594f6f38634e4126ab8f616f1f3f4
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847464"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59332111"
 ---
 # <a name="output-excel-table-data-as-json-for-usage-in-power-automate"></a>Salida Excel datos de tabla como JSON para su uso en Power Automate
 

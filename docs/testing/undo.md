@@ -2,13 +2,13 @@
 title: Deshacer los cambios realizados por Office scripts
 description: Use el historial de versiones de Excel en la Web deshacer los cambios realizados mediante la ejecución de un script.
 ms.date: 06/29/2021
-localization_priority: Normal
-ms.openlocfilehash: 361224970a13f7b4b2f380e7970c60289a72177f089d7e3fa621e9a369ef9ce2
-ms.sourcegitcommit: 75f7ed8c2d23a104acc293f8ce29ea580b4fcdc5
+ms.localizationpriority: medium
+ms.openlocfilehash: 4a97191d0215f35839895ea7198470f5e626d407
+ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847608"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59335518"
 ---
 # <a name="undo-the-changes-made-by-office-scripts"></a>Deshacer los cambios realizados por Office scripts
 
@@ -24,6 +24,6 @@ En el Excel en el que se ejecutó el script, siga estos pasos para deshacer los 
 2. Seleccione una versión guardada antes de ejecutar el script.
 3. Seleccione **Restaurar**.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Ver también
 
 - [Ver versiones anteriores de los archivos de Office](https://support.office.com/article/View-previous-versions-of-Office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2#ID0EABBAAA=Web)

@@ -520,6 +520,103 @@ A menos que lo requiera la legislación aplicable o se haya aceptado por escrito
 
 ---------------------------------------------------------
 
+atob 2.1.2 : Apache-2.0 OR MIT OR (Apache-2.0 AND MIT) https://git.coolaj86.com/coolaj86/atob.js.git
+
+Copyright 2015 AJ ONeal Copyright (c) 2015 AJ ONeal copyright 2012-2018 AJ ONeal
+
+En su opción, puede elegir una de las siguientes licencias:
+
+  * La licencia mit (MIT)
+  * La licencia de Apache 2.0 (Apache-2.0)
+
+
+La licencia mit (MIT)
+
+Copyright (c) 2015 AJ ONeal
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TÉRMINOS Y CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN
+
+   1. Definiciones.
+
+      "Licencia" se refiere a los términos y condiciones de uso, reproducción y distribución definidos en las secciones 1 a 9 de este documento.
+
+      "Licenciante": el propietario de derechos de autor o la entidad autorizada por el propietario de los derechos de autor que concede la licencia.
+
+      "Entidad jurídica" significará la unión de la entidad que actúa y todas las demás entidades que controlan, están controladas por o están bajo control común con esa entidad. A los efectos de esta definición, "control" significa (i) la potencia, directa o indirecta, para provocar la dirección o administración de dicha entidad, ya sea por contrato o de otro modo, o (ii) la propiedad del cincuenta por ciento (50%) o más de las acciones pendientes, o (iii) la propiedad beneficiosa de dicha entidad.
+
+      "Usted" (o "Su") significará una persona o entidad jurídica que ejerza los permisos concedidos por esta Licencia.
+
+      El formulario "Origen" significará el formulario preferido para realizar modificaciones, incluidos, entre otros, el código fuente de software, el origen de documentación y los archivos de configuración.
+
+      "Objeto" se refiere a cualquier formulario resultante de la transformación mecánica o traducción de un formulario de origen, incluidos, entre otros, el código de objeto compilado, la documentación generada y las conversiones a otros tipos de medios.
+
+      "Trabajo" significará el trabajo de autoría, ya sea en el formulario Origen u Objeto, disponible en virtud de la Licencia, tal como se indica en un aviso de copyright que se incluye o adjunta al trabajo (se proporciona un ejemplo en el Apéndice siguiente).
+
+      "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
+
+      "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" se refiere a cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo,  pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
+
+      "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
+
+   2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
+
+   3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
+
+   4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
+
+      (a) Debe proporcionar a cualquier otro destinatario del Trabajo o Trabajos derivados una copia de esta Licencia; y
+
+      (b) Debe hacer que los archivos modificados lleven avisos destacados que indiquen que ha cambiado los archivos; y
+
+      (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
+
+      (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares:  dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
+
+      Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
+
+   5. Envío de contribuciones. A menos que usted indique explícitamente lo contrario, cualquier contribución enviada intencionadamente para su inclusión en el Trabajo por usted al Licenciante estará en los términos y condiciones de esta Licencia, sin términos ni condiciones adicionales.
+      No obstante lo anterior, nada en este documento reemplazará ni modificará los términos de cualquier contrato de licencia independiente que haya ejecutado con el Licenciante con respecto a dichas contribuciones.
+
+   6. Marcas comerciales. Esta Licencia no concede permiso para usar los nombres comerciales, marcas comerciales, marcas de servicio o nombres de producto del licenciante, excepto cuando sea necesario para un uso razonable y habitual al describir el origen del trabajo y reproducir el contenido del archivo NOTICE.
+
+   7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
+
+   8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
+
+   9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
+
+   FIN DE TÉRMINOS Y CONDICIONES
+
+   APÉNDICE: Cómo aplicar la licencia de Apache a su trabajo.
+
+      Para aplicar la licencia de Apache a su trabajo, adjunte el siguiente aviso reutilizable, con los campos entre corchetes " " reemplazados por {} su propia información de identificación. (¡No incluya los corchetes!)  El texto debe incluirse en la sintaxis de comentario adecuada para el formato de archivo. También se recomienda incluir un nombre de archivo o clase y una descripción de propósito en la misma "página impresa" que el aviso de copyright para facilitar la identificación en los archivos de terceros.
+
+   Copyright 2015 AJ ONeal
+
+   Licencia bajo la licencia Apache, versión 2.0 (la "Licencia"); no puede usar este archivo excepto en cumplimiento con la Licencia.
+   Puede obtener una copia de la licencia en
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   A menos que lo requiera la legislación aplicable o se haya aceptado por escrito, el software distribuido bajo la Licencia se distribuye "TAL COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sean explícitas o implícitas.
+   Consulta la Licencia para el idioma específico que rige los permisos y limitaciones de la Licencia.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 css-select 1.2.0 - BSD-2-Clause https://github.com/fb55/css-select#readme
 
 Copyright (c) Felix Bohm
@@ -4323,7 +4420,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-@types/office-js-preview 1.0.239 - MIT https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/office-js-preview
+@types/office-js-preview 1.0.242 - MIT https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/office-js-preview
 
 
 Licencia mit
@@ -5861,7 +5958,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-bn.js 4.11.9 - MIT https://github.com/indutny/bn.js
+bn.js 5.1.2 - MIT https://github.com/indutny/bn.js
 
 Copyright Fedor Indutny, 2015.
 
@@ -5879,7 +5976,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-bn.js 5.1.2 - MIT https://github.com/indutny/bn.js
+bn.js 4.11.9 - MIT https://github.com/indutny/bn.js
 
 Copyright Fedor Indutny, 2015.
 
@@ -9542,7 +9639,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-arrayish 0.3.2 - MIT https://github.com/qix-/node-is-arrayish#readme
+is-arrayish 0.2.1 - MIT https://github.com/qix-/node-is-arrayish#readme
 
 Copyright (c) 2015 JD Ballard
 
@@ -9561,7 +9658,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-arrayish 0.2.1 - MIT https://github.com/qix-/node-is-arrayish#readme
+is-arrayish 0.3.2 - MIT https://github.com/qix-/node-is-arrayish#readme
 
 Copyright (c) 2015 JD Ballard
 
@@ -10312,12 +10409,15 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-json3 3.3.0 - MIT http://bestiejs.github.io/json3
+json3 3.3.3 - MIT https://bestiejs.github.io/json3
 
-Copyright (c) 2012-2014 Kit Cambridge. http://kitcambridge.be Copyright 2012-2014, Kit Cambridge http://kit.mit-license.org
+Copyright (c) 2013-2015 Benjamin Tan. https://d10.github.io Copyright (c) 2012-2015 Kit Cambridge. http://kitcambridge.be Copyright 2012-2015, Kit Cambridge, Benjamin Tan http://kit.mit-license.org (c) 2012-2015 http://kitcambridge.be/ ' Kit Cambridge, https://d10.github.io/ ' Benjamin Tan
 
-Copyright (c) 2012-2014 Kit Cambridge.
+Copyright (c) 2012-2015 Kit Cambridge.
 http://kitcambridge.be/
+
+Copyright (c) 2013-2015 Benjamin Tan.
+https://d10.github.io/
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -10329,15 +10429,12 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-json3 3.3.3 - MIT https://bestiejs.github.io/json3
+json3 3.3.0 - MIT http://bestiejs.github.io/json3
 
-Copyright (c) 2013-2015 Benjamin Tan. https://d10.github.io Copyright (c) 2012-2015 Kit Cambridge. http://kitcambridge.be Copyright 2012-2015, Kit Cambridge, Benjamin Tan http://kit.mit-license.org (c) 2012-2015 http://kitcambridge.be/ ' Kit Cambridge, https://d10.github.io/ ' Benjamin Tan
+Copyright (c) 2012-2014 Kit Cambridge. http://kitcambridge.be Copyright 2012-2014, Kit Cambridge http://kit.mit-license.org
 
-Copyright (c) 2012-2015 Kit Cambridge.
+Copyright (c) 2012-2014 Kit Cambridge.
 http://kitcambridge.be/
-
-Copyright (c) 2013-2015 Benjamin Tan.
-https://d10.github.io/
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -11396,7 +11493,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-monaco-editor 0.20.0 - MIT https://github.com/Microsoft/monaco-editor#readme
+monaco-editor 0.18.1 - MIT https://github.com/Microsoft/monaco-editor#readme
 
 Copyright (c) 2015 Copyright (c) Joshaven Potter Copyright (c) 2014 Taylor Hakes Copyright (c) Artyom Shalkhakov.
 Copyright (c) 2015 David Owens II Copyright (c) 2014 Forbes Lindesay Copyright (c) 2015 Nicolas Bevacqua Copyright (c) Microsoft Corporation.
@@ -11422,7 +11519,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-monaco-editor 0.18.1 - MIT https://github.com/Microsoft/monaco-editor#readme
+monaco-editor 0.20.0 - MIT https://github.com/Microsoft/monaco-editor#readme
 
 Copyright (c) 2015 Copyright (c) Joshaven Potter Copyright (c) 2014 Taylor Hakes Copyright (c) Artyom Shalkhakov.
 Copyright (c) 2015 David Owens II Copyright (c) 2014 Forbes Lindesay Copyright (c) 2015 Nicolas Bevacqua Copyright (c) Microsoft Corporation.
@@ -12606,7 +12703,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss 7.0.14 - MIT https://postcss.org/
+postcss 7.0.32 - MIT https://postcss.org/
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
@@ -12625,7 +12722,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-postcss 7.0.32 - MIT https://postcss.org/
+postcss 7.0.14 - MIT https://postcss.org/
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
@@ -14232,13 +14329,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-readdirp 2.2.1 - MIT https://github.com/paulmillr/readdirp
+readdirp 3.4.0 - MIT https://github.com/paulmillr/readdirp
 
-Copyright (c) 2012-2015 Thorsten Lorenz
+Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller ( https://paulmillr.com) Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller <https://paulmillr.com>
 
-Este software se lanza bajo la licencia mit:
+Licencia mit
 
-Copyright (c) 2012-2015 Thorsten Lorenz
+Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -14251,13 +14348,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-readdirp 3.4.0 - MIT https://github.com/paulmillr/readdirp
+readdirp 2.2.1 - MIT https://github.com/paulmillr/readdirp
 
-Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller ( https://paulmillr.com) Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller <https://paulmillr.com>
+Copyright (c) 2012-2015 Thorsten Lorenz
 
-Licencia mit
+Este software se lanza bajo la licencia mit:
 
-Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
+Copyright (c) 2012-2015 Thorsten Lorenz
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
 
@@ -15814,7 +15911,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-supports-color 6.1.0 - MIT https://github.com/chalk/supports-color#readme
+supports-color 5.5.0 - MIT https://github.com/chalk/supports-color#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -15833,7 +15930,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-supports-color 5.5.0 - MIT https://github.com/chalk/supports-color#readme
+supports-color 6.1.0 - MIT https://github.com/chalk/supports-color#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -17432,103 +17529,6 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-atob 2.1.2 - MIT OR Apache-2.0 https://git.coolaj86.com/coolaj86/atob.js.git
-
-Copyright 2015 AJ ONeal Copyright (c) 2015 AJ ONeal copyright 2012-2018 AJ ONeal
-
-En su opción, puede elegir una de las siguientes licencias:
-
-  * La licencia mit (MIT)
-  * La licencia de Apache 2.0 (Apache-2.0)
-
-
-La licencia mit (MIT)
-
-Copyright (c) 2015 AJ ONeal
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
-   TÉRMINOS Y CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN
-
-   1. Definiciones.
-
-      "Licencia" se refiere a los términos y condiciones de uso, reproducción y distribución definidos en las secciones 1 a 9 de este documento.
-
-      "Licenciante": el propietario de derechos de autor o la entidad autorizada por el propietario de los derechos de autor que concede la licencia.
-
-      "Entidad jurídica" significará la unión de la entidad que actúa y todas las demás entidades que controlan, están controladas por o están bajo control común con esa entidad. A los efectos de esta definición, "control" significa (i) la potencia, directa o indirecta, para provocar la dirección o administración de dicha entidad, ya sea por contrato o de otro modo, o (ii) la propiedad del cincuenta por ciento (50%) o más de las acciones pendientes, o (iii) la propiedad beneficiosa de dicha entidad.
-
-      "Usted" (o "Su") significará una persona o entidad jurídica que ejerza los permisos concedidos por esta Licencia.
-
-      El formulario "Origen" significará el formulario preferido para realizar modificaciones, incluidos, entre otros, el código fuente de software, el origen de documentación y los archivos de configuración.
-
-      "Objeto" se refiere a cualquier formulario resultante de la transformación mecánica o traducción de un formulario de origen, incluidos, entre otros, el código de objeto compilado, la documentación generada y las conversiones a otros tipos de medios.
-
-      "Trabajo" significará el trabajo de autoría, ya sea en el formulario Origen u Objeto, disponible en virtud de la Licencia, tal como se indica en un aviso de copyright que se incluye o adjunta al trabajo (se proporciona un ejemplo en el Apéndice siguiente).
-
-      "Trabajos derivados" se refiere a cualquier trabajo, ya sea en forma de origen u objeto, que se base en (o se derive de) la obra y para el que las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, una obra original de autoría. Para los fines de esta licencia, Trabajos derivados no incluirán trabajos que permanezcan separables de las interfaces de los trabajos y los trabajos derivados de los mismos, o simplemente vincular (o enlazar por su nombre) a las interfaces de las mismas.
-
-      "Contribución" se refiere a cualquier trabajo de autoría, incluida la versión original del trabajo y las modificaciones o adiciones a dichas obras o trabajos derivados, que se envíen intencionadamente al Licenciante para su inclusión en la obra por parte del propietario de los derechos de autor o por una persona o entidad jurídica autorizada a enviar en nombre del propietario de los derechos de autor. Para los fines de esta definición, "enviado" se refiere a cualquier forma de comunicación electrónica, verbal o escrita enviada al Licenciante o a sus representantes, incluidas, entre otras, las comunicaciones en listas de correo electrónico, sistemas de control de código fuente y sistemas de seguimiento de problemas administrados por el Licenciante o en su nombre con el fin de analizar y mejorar el trabajo,  pero excluyendo las comunicaciones marcadas o designadas por escrito por el propietario de los derechos de autor como "No es una contribución".
-
-      "Colaborador" se refiere al Licenciante y a cualquier persona o entidad jurídica en nombre del cual el Licenciante haya recibido una contribución y posteriormente se incorpore al Trabajo.
-
-   2. Concesión de licencia de copyright. Sujeto a los términos y condiciones de esta Licencia, cada colaborador le concede una licencia de copyright perpetua, mundial, no exclusiva, gratuita, libre de derechos de autor irrevocable para reproducir, preparar trabajos derivados, mostrar públicamente, realizar públicamente, sublicenciar y distribuir el trabajo y tales trabajos derivados en el formulario Origen u objeto.
-
-   3. Concesión de licencia de patente. Sujeto a los términos y condiciones de esta licencia, por la presente, cada colaborador le concede una licencia de patente perpetua, mundial, no exclusiva, sin cargos, libre de derechos de autor, irrevocable (excepto como se indica en esta sección) para hacer, haber hecho, usar, ofrecer vender, vender, importar y transferir de otro modo el trabajo, cuando dicha licencia se aplique solo a las solicitudes de patente que dichos colaboradores puedan conceder y que sean necesariamente vulneradas por sus contribuciones solos o por combinación de sus contribuciones con el trabajo al que se enviaron dichas contribuciones. Si instituyó un litigio de patente contra cualquier entidad (incluida una reclamación cruzada o una reclamación en una demanda) que alegó que el trabajo o una contribución incorporada en el trabajo constituye una infracción directa o contribuiva de patente, las licencias de patente que se le concedan en virtud de esta licencia para ese trabajo finalizarán a partir de la fecha en que se presente dicho litigio.
-
-   4. Redistribución. Puede reproducir y distribuir copias de los trabajos o trabajos derivados de los mismos en cualquier medio, con o sin modificaciones, y en el formulario Origen u Objeto, siempre que cumpla las siguientes condiciones:
-
-      (a) Debe proporcionar a cualquier otro destinatario del Trabajo o Trabajos derivados una copia de esta Licencia; y
-
-      (b) Debe hacer que los archivos modificados lleven avisos destacados que indiquen que ha cambiado los archivos; y
-
-      (c) Debe conservar, en forma de origen de cualquier trabajo derivado que distribuya, todos los avisos de derechos de autor, patentes, marcas comerciales y atribución del formulario Origen del trabajo, excluyendo los avisos que no pertenecen a ninguna parte de las obras derivadas; y
-
-      (d) Si el trabajo incluye un archivo de texto "AVISO" como parte de su distribución, los trabajos derivados que distribuya deben incluir una copia legible de los avisos de atribución contenidos en dicho archivo NOTICE, excluyendo los avisos que no pertenecen a ninguna parte de las Obras derivadas, en al menos uno de los siguientes lugares:  dentro de un archivo de texto NOTICE distribuido como parte de trabajos derivados; dentro del formulario o documentación de origen, si se proporciona junto con los Trabajos derivados; o, dentro de una pantalla generada por trabajos derivados, si dichos avisos de terceros aparecen normalmente y dondequiera que aparezcan. El contenido del archivo NOTICE solo tiene fines informativos y no modifica la licencia. Puede agregar sus propios avisos de atribución dentro de Trabajos derivados que distribuya, junto o como un addendum al texto DE AVISO del trabajo, siempre que dichos avisos de atribución adicionales no se puedan interpretar como modificar la Licencia.
-
-      Puede agregar su propia declaración de copyright a Sus modificaciones y puede proporcionar términos y condiciones de licencia adicionales o diferentes para el uso, la reproducción o la distribución de Sus modificaciones, o para cualquiera de estos trabajos derivados en su conjunto, siempre que su uso, reproducción y distribución del trabajo cumpla de otro modo las condiciones indicadas en esta Licencia.
-
-   5. Envío de contribuciones. A menos que usted indique explícitamente lo contrario, cualquier contribución enviada intencionadamente para su inclusión en el Trabajo por usted al Licenciante estará en los términos y condiciones de esta Licencia, sin términos ni condiciones adicionales.
-      No obstante lo anterior, nada en este documento reemplazará ni modificará los términos de cualquier contrato de licencia independiente que haya ejecutado con el Licenciante con respecto a dichas contribuciones.
-
-   6. Marcas comerciales. Esta Licencia no concede permiso para usar los nombres comerciales, marcas comerciales, marcas de servicio o nombres de producto del licenciante, excepto cuando sea necesario para un uso razonable y habitual al describir el origen del trabajo y reproducir el contenido del archivo NOTICE.
-
-   7. Declinación de responsabilidades de garantía. A menos que lo requiera la legislación aplicable o que se haya aceptado por escrito, el Licenciante proporciona el Trabajo (y cada colaborador proporciona sus contribuciones) de forma "TAL Y COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas, incluidas, entre otras, las garantías o condiciones de TITLE, NON-INFRINGEMENT, MERCHANTABILITY o FITNESS FOR A PARTICULAR PURPOSE. Usted es el único responsable de determinar la apropiada utilización o redistribución del trabajo y asumir los riesgos asociados con el ejercicio de los permisos en virtud de esta Licencia.
-
-   8. Limitation of Liability. En ningún caso y bajo ninguna teoría legal, ya sea en agravio (incluida la negligencia), contrato o de otro modo, a menos que lo requiera la legislación aplicable (como los actos deliberados y gravemente negligentes) o aceptado por escrito, cualquier colaborador será responsable ante usted de los daños, incluidos los daños directos, indirectos, especiales, incidentales o emergentes de cualquier carácter que surjan como resultado de esta licencia o fuera del uso o la incapacidad de usar el trabajo (incluidos, pero no limitado a los daños por pérdida de buena voluntad, paralización del trabajo, error o mal funcionamiento del equipo, o cualquier otro daño comercial o pérdida), incluso si se ha advertido a dicho colaborador de la posibilidad de dichos daños.
-
-   9. Aceptar garantía o responsabilidad adicional. Al redistribuir los trabajos o trabajos derivados de los mismos, puede optar por ofrecer y cobrar una tarifa por, aceptación de soporte técnico, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos coherentes con esta Licencia. Sin embargo, al aceptar dichas obligaciones, solo puede actuar en su propio nombre y en Su única responsabilidad, no en nombre de ningún otro colaborador, y solo si acepta indemnizar, defender y mantener a cada colaborador inofensivo por cualquier responsabilidad contra la que incurran, o las reclamaciones contra, tal colaborador por su aceptación de dicha garantía o responsabilidad adicional.
-
-   FIN DE TÉRMINOS Y CONDICIONES
-
-   APÉNDICE: Cómo aplicar la licencia de Apache a su trabajo.
-
-      Para aplicar la licencia de Apache a su trabajo, adjunte el siguiente aviso reutilizable, con los campos entre corchetes " " reemplazados por {} su propia información de identificación. (¡No incluya los corchetes!)  El texto debe incluirse en la sintaxis de comentario adecuada para el formato de archivo. También se recomienda incluir un nombre de archivo o clase y una descripción de propósito en la misma "página impresa" que el aviso de copyright para facilitar la identificación en los archivos de terceros.
-
-   Copyright 2015 AJ ONeal
-
-   Licencia bajo la licencia Apache, versión 2.0 (la "Licencia"); no puede usar este archivo excepto en cumplimiento con la Licencia.
-   Puede obtener una copia de la licencia en
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   A menos que lo requiera la legislación aplicable o se haya aceptado por escrito, el software distribuido bajo la Licencia se distribuye "TAL COMO ESTÁ", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sean explícitas o implícitas.
-   Consulta la Licencia para el idioma específico que rige los permisos y limitaciones de la Licencia.
 
 
 ---------------------------------------------------------
