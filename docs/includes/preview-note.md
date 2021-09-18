@@ -1,0 +1,2 @@
+> [!NOTE]
+> Esta característica está actualmente en versión preliminar. Las características en versión preliminar están sujetas a cambios en función de los comentarios. Es posible que no estén disponibles para todos los usuarios de Office antes del lanzamiento.

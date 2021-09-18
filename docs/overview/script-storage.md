@@ -3,16 +3,16 @@ title: Office Propiedad y almacenamiento de archivos de scripts
 description: Información sobre cómo Office scripts se almacenan en Microsoft OneDrive y se transfieren entre propietarios.
 ms.date: 06/04/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a404818ad5eb118467d5ad98c8921c5f3ea29fe
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 6b82fc041c97288feefa85f2a9c9efeab0cb5705
+ms.sourcegitcommit: 5ec904cbb1f2cc00a301a5ba7ccb8ae303341267
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59326866"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447453"
 ---
 # <a name="office-scripts-file-storage-and-ownership"></a>Office Propiedad y almacenamiento de archivos de scripts
 
-Office Los scripts se almacenan **como archivos .osts** en el Microsoft OneDrive. Se almacenan por separado de un libro. Para dar acceso a otros usuarios, [comparta el script con un libro Excel .](excel.md#sharing-scripts) Esto significa que vinculas el script con el archivo, no lo adjuntas. Quien tenga acceso al archivo Excel también podrá ver, ejecutar o hacer una copia del script.
+Office Los scripts se almacenan **como archivos .osts** en el Microsoft OneDrive. Se almacenan por separado de un libro. Para dar acceso a otros usuarios, [comparta el script con un libro Excel .](excel.md#share-scripts) Esto significa que vinculas el script con el archivo, no lo adjuntas. Quien tenga acceso al archivo Excel también podrá ver, ejecutar o hacer una copia del script.
 
 A menos que comparta los scripts, nadie más podrá acceder a ellos. La OneDrive controle el acceso compartido y los permisos de todos los archivos **.osts** de script, independientemente de Excel configuración. Los scripts no se pueden vincular desde un disco local ni desde ubicaciones de nube personalizadas. Office Los scripts solo reconocen y ejecutan un script si está en la carpeta OneDrive o si se comparte con el libro.
 
@@ -45,7 +45,7 @@ Para buscar quién usa Office scripts con la herramienta de búsqueda, agregue `
 > [!NOTE]
 > Actualmente no se registra la ejecución de un script. Solo se registran las acciones crear, ver y modificar.
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Consulte también
 
 - [Compartir Scripts de Office en Excel para la Web](https://support.microsoft.com/office/226eddbc-3a44-4540-acfe-fccda3d1122b)
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)

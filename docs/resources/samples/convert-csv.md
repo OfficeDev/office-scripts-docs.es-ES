@@ -3,12 +3,12 @@ title: Convertir archivos CSV en Excel libros
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para crear .xlsx a partir de .csv archivos.
 ms.date: 07/19/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: ecfc4d143cbaf10b9ea5f02881751f2c4fa28853
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 213c6caab1d1b20d566aa0e79630c1a9b50554f7
+ms.sourcegitcommit: 5ec904cbb1f2cc00a301a5ba7ccb8ae303341267
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59333436"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447481"
 ---
 # <a name="convert-csv-files-to-excel-workbooks"></a>Convertir archivos CSV en Excel libros
 
@@ -67,7 +67,7 @@ function main(workbook: ExcelScript.Workbook, csv: string) {
 1. Establezca el flujo en **Repetir cada** "1" "Día" y seleccione **Crear**.
 1. Obtenga la plantilla Excel archivo. Esta es la base para todos los archivos .csv convertidos. Agregue un **nuevo paso** que use el **conector OneDrive para la Empresa** y la acción Obtener **contenido del** archivo. Proporcione la ruta de acceso al archivo "Template.xlsx".
     * **Archivo**: /output/Template.xlsx
-1. Cambie el nombre del paso Obtener **contenido de** archivo yendo al menú **...** de ese paso (en la esquina superior derecha del conector) y seleccionando la opción **Cambiar** nombre. Cambie el nombre del paso a "Obtener Excel plantilla".
+1. Cambie el **nombre del** paso Obtener contenido de archivo yendo al menú Obtener contenido de archivo **(...)** de ese paso (en la esquina superior derecha del conector) y seleccionando la opción **Cambiar** nombre. Cambie el nombre del paso a "Obtener Excel plantilla".
 
      :::image type="content" source="../../images/convert-csv-flow-1.png" alt-text="El conector OneDrive para la Empresa en Power Automate, cuyo nombre se cambia a Obtener Excel plantilla.":::
 1. Obtener todos los archivos de la carpeta "salida". Agregue un **nuevo paso que** use el conector **OneDrive para la Empresa** y los archivos de lista en la acción **de carpeta.** Proporcione la ruta de acceso de carpeta que contiene .csv archivos.

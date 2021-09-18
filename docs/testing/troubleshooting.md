@@ -1,14 +1,14 @@
 ---
 title: Solucionar problemas Office scripts
 description: Sugerencias y técnicas de depuración para Office scripts, así como recursos de ayuda.
-ms.date: 05/17/2021
+ms.date: 09/15/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ea133afdf302994126e8051d275d03b938df370
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 5229490e2487974f751456ef63004bcb27f7b09c
+ms.sourcegitcommit: 5ec904cbb1f2cc00a301a5ba7ccb8ae303341267
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59333982"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447488"
 ---
 # <a name="troubleshoot-office-scripts"></a>Solucionar problemas Office scripts
 
@@ -84,13 +84,11 @@ Para obtener información específica sobre la ejecución de scripts Power Autom
 
 [Stack Overflow](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores dispuestos a ayudar con problemas de codificación. A menudo, podrás encontrar la solución al problema mediante una búsqueda rápida de desbordamiento de pila. Si no es así, haga su pregunta y etiquete con la etiqueta "office-scripts". Asegúrese de mencionar que está creando un script Office *,* no un Office *complemento*.
 
-Para enviar una solicitud de característica para Office scripts, publique su idea en nuestra página De voz de usuario [o,](https://excel.uservoice.com/forums/274580-excel-for-the-web?category_id=143439)si la solicitud de característica ya existe, agregue su voto por ella. Asegúrese de presentar la solicitud en Excel para la Web en la categoría "Macros, scripts y complementos".
-
-Si hay un problema con la Grabadora de acciones o el Editor, háganoslo saber. En el menú ...  del panel de tareas Editor de código, seleccione el botón **Enviar** comentarios para compartir cualquier problema.
+Para enviar una solicitud de característica Office scripts o para informar de un problema con la característica, use el botón comentarios en el Editor de código. En el menú Más opciones **(...)** del panel  de tareas Editor de código, seleccione el botón Enviar comentarios para compartir sus necesidades de características y otras experiencias.
 
 :::image type="content" source="../images/code-editor-feedback.png" alt-text="Menú desbordado editor de código con el botón &quot;Enviar comentarios&quot;.":::
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Consulte también
 
 - [Procedimientos recomendados para Scripts de Office](../develop/best-practices.md)
 - [Límites de plataforma con Office scripts](platform-limits.md)
