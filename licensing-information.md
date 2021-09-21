@@ -534,7 +534,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 AJ ONeal
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -1389,7 +1389,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1425,7 +1425,7 @@ Para obtener más información, vea http://creativecommons.org/publicdomain/zero
 
 Copyright © Jonathan Neal y Nicolás Gallagher
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -1447,7 +1447,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1487,7 +1487,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1527,7 +1527,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1567,7 +1567,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1607,7 +1607,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
 
@@ -1657,7 +1657,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
 
@@ -1707,7 +1707,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1747,7 +1747,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1787,7 +1787,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1827,7 +1827,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1867,7 +1867,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1907,7 +1907,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1947,7 +1947,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -1987,7 +1987,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2027,7 +2027,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2067,7 +2067,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2107,7 +2107,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2147,7 +2147,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2187,7 +2187,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2227,7 +2227,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2267,7 +2267,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2307,7 +2307,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2347,7 +2347,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2387,7 +2387,7 @@ Las leyes de la mayoría de las jurisdicciones de todo el mundo confieren autom�
 
 Algunos propietarios desean renunciar de forma permanente a esos derechos a una obra con el fin de contribuir a un conjunto común de trabajos creativos, culturales y científicos ("Commons") que el público pueda basar, modificar, incorporar en otras obras, reutilizar y redistribuir de la forma más libre posible de cualquier forma y para cualquier propósito,  incluyendo, sin limitación, fines comerciales. Estos propietarios pueden contribuir a los Comunes para promover el ideal de una cultura libre y la posterior producción de trabajos creativos, culturales y científicos, o para obtener reputación o una mayor distribución de su trabajo en parte a través del uso y los esfuerzos de otros.
 
-Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración adicional o compensación, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de Derechos de autor y derechos relacionados en el trabajo, decide voluntariamente aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos, con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
+Para estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de consideración o compensación adicional, la persona que asocia CC0 con un trabajo (el "Afirmador"), en la medida en que es propietario de derechos de autor y derechos relacionados en el trabajo, opta voluntariamente por aplicar CC0 al trabajo y distribuir públicamente el trabajo bajo sus términos,  con conocimiento de sus derechos de autor y derechos relacionados en el trabajo y el significado y el efecto legal previsto de CC0 en esos derechos.
 
 1. Derechos de autor y derechos relacionados. Una obra disponible en CC0 puede estar protegida por derechos de autor y derechos relacionados o vecinos ("Derechos de autor y derechos relacionados"). Entre los derechos de autor y derechos relacionados se incluyen, entre otros, los siguientes:
    1. derecho a reproducir, adaptar, distribuir, realizar, mostrar, comunicar y traducir un trabajo;
@@ -2683,7 +2683,7 @@ Sección 8: Interpretación.
 
 =======================================================================
 
-Creative Commons no es una parte de sus licencias públicas. No obstante, Creative Commons puede optar por aplicar una de sus licencias públicas al material que publique y en esos casos se considerará el "Licenciante". El texto de las licencias públicas de Creative Commons está dedicado al dominio público bajo la dedicación de dominio público CC0. Excepto por el propósito limitado de indicar que el material se comparte bajo una licencia pública Creative Commons o según lo permitido por las directivas de Creative Commons publicadas en creativecommons.org/policies, Creative Commons no autoriza el uso de la marca comercial "Creative Commons" ni ninguna otra marca comercial o logotipo de Creative Commons sin su consentimiento escrito previo, incluidos, sin limitación, modificaciones no autorizadas en cualquiera de sus licencias públicas o cualquier otro acuerdo, entendimiento o contrato relativo al uso de material con licencia. Para evitar dudas, este párrafo no forma parte de las licencias públicas.
+Creative Commons no es una parte de sus licencias públicas. No obstante, Creative Commons puede optar por aplicar una de sus licencias públicas al material que publique y en esos casos se considerará el "Licenciante". El texto de las licencias públicas de Creative Commons está dedicado al dominio público bajo la dedicación de dominio público CC0. Excepto por el propósito limitado de indicar que el material se comparte con una licencia pública de Creative Commons o según lo permitan las directivas de Creative Commons publicadas en creativecommons.org/policies, Creative Commons no autoriza el uso de la marca comercial "Creative Commons" ni ninguna otra marca comercial o logotipo de Creative Commons sin su consentimiento previo por escrito, incluidos,  sin limitación, en relación con las modificaciones no autorizadas en cualquiera de sus licencias públicas o cualquier otro acuerdo, entendimiento o contrato relativo al uso de material con licencia. Para evitar dudas, este párrafo no forma parte de las licencias públicas.
 
 Puede ponerse en contacto con Creative Commons en creativecommons.org.
 
@@ -2977,7 +2977,7 @@ La licencia de Node sigue, también incluida en el encabezado del cual `old.js` 
 
   Copyright Joyent, Inc. y otros colaboradores de Node.
 
-  Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+  Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
   El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3736,7 +3736,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3755,7 +3755,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3774,7 +3774,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3793,7 +3793,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3812,7 +3812,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3831,7 +3831,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3850,7 +3850,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3869,7 +3869,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3888,7 +3888,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3907,7 +3907,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3926,7 +3926,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3943,7 +3943,7 @@ Copyright (c) 2012-2014 por varios colaboradores
 
 Copyright (C) 2012-2014 por varios colaboradores (vea AUTHORS)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3962,7 +3962,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -3981,7 +3981,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4000,7 +4000,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4019,7 +4019,7 @@ Licencia mit
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4039,7 +4039,7 @@ Licencia mit
 
 Copyright (c) Equipo de emociones y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4059,7 +4059,7 @@ Licencia mit
 
 Copyright (c) Equipo de emociones y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4079,7 +4079,7 @@ Licencia mit
 
 Copyright (c) Equipo de emociones y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4102,7 +4102,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4127,7 +4127,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4152,7 +4152,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4176,7 +4176,7 @@ Copyright (c) Microsoft Corporation. Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4194,7 +4194,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 James Messinger
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4212,9 +4212,9 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4232,7 +4232,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Yassine Elouafi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4252,7 +4252,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Yassine Elouafi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4272,7 +4272,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Yassine Elouafi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4292,7 +4292,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Yassine Elouafi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4312,7 +4312,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Yassine Elouafi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4332,7 +4332,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Yassine Elouafi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4351,9 +4351,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4370,9 +4370,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4389,9 +4389,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4408,9 +4408,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4425,9 +4425,9 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4444,9 +4444,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4463,9 +4463,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4482,9 +4482,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4501,9 +4501,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4520,9 +4520,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4539,9 +4539,9 @@ Copyright (c) Microsoft Corporation.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4563,7 +4563,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4588,7 +4588,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4613,7 +4613,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4638,7 +4638,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4663,7 +4663,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4688,7 +4688,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4713,7 +4713,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4734,7 +4734,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4753,7 +4753,7 @@ Licencia mit
 
 Copyright (c) 2017 Mauro Bringolf
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4772,7 +4772,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4791,7 +4791,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4810,7 +4810,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4829,7 +4829,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4848,7 +4848,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4867,7 +4867,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4887,7 +4887,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -4988,7 +4988,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5007,7 +5007,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5026,7 +5026,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5045,7 +5045,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5064,7 +5064,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5083,7 +5083,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5102,7 +5102,7 @@ Licencia mit
 
 Copyright (c) 2018 Sven Sauleau <sven@sauleau.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5119,7 +5119,7 @@ Copyright (c) 2012-2018 por varios colaboradores
 
 Copyright (C) 2012-2018 por varios colaboradores (vea AUTHORS)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5138,7 +5138,7 @@ Este software se concede bajo la licencia MIT.
 
 Copyright (C) 2013 - 2014 fengmk2 <fengmk2@gmail.com> Copyright (C) 2015 - 2016 node-modules
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5154,9 +5154,9 @@ adjust-sourcemap-loader 2.0.0 - MIT https://github.com/bholloway/adjust-sourcema
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5176,7 +5176,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017 Evgeny Poberezkin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5196,7 +5196,7 @@ Licencia mit
 
 Copyright (c) 2017 Evgeny Poberezkin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5215,7 +5215,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Evgeny Poberezkin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5232,7 +5232,7 @@ alphanum-sort 1.0.2 - MIT https://github.com/TrySound/alphanum-sort
 
 Copyright (c) Bogdan Chadkin <trysound@yandex.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5251,7 +5251,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5270,7 +5270,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5289,7 +5289,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5308,7 +5308,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5327,7 +5327,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5346,7 +5346,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5365,7 +5365,7 @@ Copyright (c) 2012 by Vitaly Puzrin Copyright (c) 2012 Vitaly Puzrin ( https://g
 
 Copyright (C) 2012 de Vitaly Puzrin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5384,7 +5384,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Christoph Hermann
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5401,7 +5401,7 @@ array-map 0.0.0 - MIT https://github.com/substack/array-map
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5417,7 +5417,7 @@ array-reduce 0.0.0 - MIT https://github.com/substack/array-reduce
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5436,7 +5436,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5455,7 +5455,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5475,7 +5475,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5495,7 +5495,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5515,7 +5515,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5534,7 +5534,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5554,7 +5554,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5571,9 +5571,9 @@ Copyright Fedor Indutny, 2013.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5588,7 +5588,7 @@ assert 1.4.1 - MIT https://github.com/defunctzombie/commonjs-assert
 Copyright (c) 2009 Thomas Robinson <280north.com> Copyright Joyent, Inc. y otros colaboradores de Node.
 
 Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5607,7 +5607,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5624,9 +5624,9 @@ Copyright (c) 2016 Paul Miller (paulmillr.com) (http://paulmillr.com)
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5644,7 +5644,7 @@ La licencia mit (MIT)
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5660,9 +5660,9 @@ babel-code-frame 6.26.0 - MIT https://babeljs.io/
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5682,7 +5682,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, 2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5702,7 +5702,7 @@ Licencia mit
 
 Copyright (c) 2016-present Vladímir Danchenkov y Maximilian Stoiber
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5719,9 +5719,9 @@ babel-plugin-syntax-jsx 6.18.0 - MIT
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5737,9 +5737,9 @@ babel-plugin-syntax-object-rest-spread 6.13.0 - MIT
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5755,9 +5755,9 @@ babel-plugin-transform-object-rest-spread 6.26.0 - MIT
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5773,9 +5773,9 @@ babel-runtime 6.26.0 - MIT
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5791,7 +5791,7 @@ Copyright (c) Mathias Bynens Copyright (c) 2012-2014 por varios colaboradores
 
 Copyright (C) 2012-2014 por varios colaboradores (vea AUTHORS)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5810,7 +5810,7 @@ Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
 
 Copyright (c) 2013 Julian Julian@juliangruber.com &lt;&gt;
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5830,7 +5830,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5849,7 +5849,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Jameson Little
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5862,13 +5862,13 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 big.js 5.2.2 - MIT https://github.com/MikeMcl/big.js#readme
 
-Copyright (c) 2018 Michael Mclaughlin Copyright (c) 2018 Michael Mclaughlin <M8ch88l@gmail.com>https://github.com/MikeMcl/big.js/LICENCE
+Copyright (c) 2018 Michael Mclaughlin Copyright (c) 2018 Michael Mclaughlin <M8ch88l@gmail.com> https://github.com/MikeMcl/big.js/LICENCE
 
 La licencia mit (expat).
 
 Copyright (c) 2018 Michael Mclaughlin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5889,7 +5889,7 @@ Licencia mit
 
 Copyright (c) 2019 Sindre Sorhus <sindresorhus@gmail.com> ( , Paul Miller https://sindresorhus.com) (https://paulmillr.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5908,7 +5908,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5927,7 +5927,7 @@ Copyright (c) 2012 Nathan Rajlich <nathan@tootallnate.net>
 
 Copyright (c) 2012 Nathan Rajlich &lt; nathan@tootallnate.net&gt;
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -5947,30 +5947,12 @@ La licencia mit (MIT)
 
 Copyright (c) 2013-2018 Petka Antonov
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.  EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-bn.js 5.1.2 - MIT https://github.com/indutny/bn.js
-
-Copyright Fedor Indutny, 2015.
-
-Licencia mit
-
-Copyright (c) <year><copyright holders>
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 ---------------------------------------------------------
 
@@ -5982,9 +5964,27 @@ Copyright Fedor Indutny, 2015.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+bn.js 5.1.2 - MIT https://github.com/indutny/bn.js
+
+Copyright Fedor Indutny, 2015.
+
+Licencia mit
+
+Copyright (c) <year> <copyright holders>
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6002,7 +6002,7 @@ Licencia mit
 
 Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6022,7 +6022,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6042,7 +6042,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6059,9 +6059,9 @@ Copyright Fedor Indutny, 2014.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6079,7 +6079,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017 browserify-aes contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6098,7 +6098,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017 Calvin Metcalf & colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6117,7 +6117,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017 Calvin Metcalf, Fedor Indutny & colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6136,7 +6136,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2015 Calvin Metcalf & colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6156,7 +6156,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2015 Devon Govett <devongovett@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6167,7 +6167,7 @@ Node.js licencia para su uso de la siguiente manera:
 
 """ Copyright Node.js colaboradores. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6177,7 +6177,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
 
 """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6197,7 +6197,7 @@ La licencia mit (MIT)
 
 Copyright 2014 Andrey Sitnik <andrey@sitnik.ru> y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6216,7 +6216,7 @@ La licencia mit (MIT)
 
 Copyright 2014 Andrey Sitnik <andrey@sitnik.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6236,7 +6236,7 @@ La licencia mit (MIT)
 
 Copyright (c) Feross Aboukhadijeh y otros colaboradores.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6255,7 +6255,7 @@ Licencia mit
 
 Copyright (c) 2016, 2018 Linus Unnebäck
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6274,7 +6274,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Daniel Cousens
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6293,7 +6293,7 @@ La licencia mit (MIT)
 
 Copyright (c) Ben Drucker <bvdrucker@gmail.com> (bendrucker.me)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6313,7 +6313,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6331,7 +6331,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6350,7 +6350,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6369,7 +6369,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Eric McCarthy
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6389,26 +6389,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-camelcase 5.0.0 - MIT https://github.com/sindresorhus/camelcase#readme
-
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-Licencia mit
-
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6427,7 +6408,26 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+camelcase 5.0.0 - MIT https://github.com/sindresorhus/camelcase#readme
+
+(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+Licencia mit
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6446,7 +6446,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6462,7 +6462,7 @@ camelize 1.0.0 - MIT https://github.com/substack/camelize
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6481,7 +6481,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Sébastien Balayn
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6500,7 +6500,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2018 Michael Pratt
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6519,7 +6519,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6538,7 +6538,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6555,7 +6555,7 @@ Copyright (c) 2018 Dmitry Shirokov
 
 Copyright (C) 2018 Dmitry Shirokov
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6572,9 +6572,9 @@ Copyright (c) 2012-2019 Paul Miller ( https://paulmillr.com) & Elan Shanker
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6592,7 +6592,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2012-2019 Paul Miller ( https://paulmillr.com) , Elan Shanker
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6612,7 +6612,7 @@ Copyright (c) 2015 Joyent Inc.
 
 Copyright (c) 2015 Joyent Inc. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6633,7 +6633,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 crypto-browserify contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6653,7 +6653,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, 2017-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6670,7 +6670,7 @@ Copyright (c) 2017 JakubPawlowicz.com
 
 Copyright (C) 2017 JakubPawlowicz.com
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6690,7 +6690,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6710,7 +6710,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6729,7 +6729,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present Sergey Berezhnoy <veged@ya.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6749,7 +6749,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, 2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6766,7 +6766,7 @@ Copyright (c) 2012 Heather Arthur
 
 Copyright (c) 2012 Heather Arthur
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6785,7 +6785,7 @@ Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
 
 Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6803,7 +6803,7 @@ Copyright (c) 2015 Dmitry Ivanov
 
 The MIT License (MIT) Copyright (c) 2015 Dmitry Ivanov
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6819,32 +6819,12 @@ Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
 
 Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-commander 2.19.0 - MIT https://github.com/tj/commander.js#readme
-
-Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-
-(La licencia mit)
-
-Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
-EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 
 ---------------------------------------------------------
@@ -6859,7 +6839,27 @@ Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
 Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
+EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+commander 2.19.0 - MIT https://github.com/tj/commander.js#readme
+
+Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
+
+(La licencia mit)
+
+Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6879,7 +6879,7 @@ Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
 Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6899,7 +6899,7 @@ La licencia mit
 
 Copyright (c) 2013 James Halliday (mail@substack.net)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6918,7 +6918,7 @@ Copyright (c) Declan de Wet
 
 Copyright © Declan de Wet
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6937,7 +6937,7 @@ Copyright (c) Componente de 2014
 
 Colaboradores de componentes de Copyright (c) 2014 <dev@component.io>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6954,7 +6954,7 @@ Copyright (c) 2015 Christoph Hermann (c) Christoph Hermann (http://stoeffel.gith
 
 Copyright © 2015 Christoph Hermann
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6970,7 +6970,7 @@ concat-map 0.0.1 - MIT https://github.com/substack/node-concat-map
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -6989,7 +6989,7 @@ La licencia mit
 
 Copyright (c) 2013 Max Ogden
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7005,7 +7005,7 @@ Copyright (c) 2012 Raynos.
 
 Copyright (c) 2012 Raynos.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7021,9 +7021,9 @@ Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7039,7 +7039,7 @@ Copyright 2013 Thorsten Lorenz.
 
 Copyright 2013 Thorsten Lorenz. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7056,7 +7056,7 @@ Copyright 2013 Thorsten Lorenz.
 
 Copyright 2013 Thorsten Lorenz. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7076,7 +7076,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2016, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7093,7 +7093,7 @@ core-js 2.6.11 - MIT https://github.com/zloirock/core-js#readme
 
 Copyright (c) 2014-2019 Denis Pushkarev
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7110,7 +7110,7 @@ Copyright Joyent, Inc. y otros colaboradores de Node.
 
 Derechos Node.js colaboradores. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7129,7 +7129,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 David Clark
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7149,7 +7149,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017 createECDH contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7168,7 +7168,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 crypto-browserify contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7187,7 +7187,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 crypto-browserify contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7206,7 +7206,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2018 Made With MOXY Lda <hello@moxy.studio>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7225,7 +7225,7 @@ La licencia mit
 
 Copyright (c) 2013 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7243,7 +7243,7 @@ Copyright (c) 2012 TJ Holowaychuk <tj@vision-media.ca>
 
 Copyright (c) 2012 TJ Holowaychuk <tj@vision-media.ca>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7259,9 +7259,9 @@ css-color-names 0.0.4 - MIT https://github.com/bahamas10/css-color-names#readme
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7279,24 +7279,7 @@ La licencia mit (MIT)
 
 Copyright 2016 Selwyn <talk@selwyn.cc>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-cssesc 2.0.0 - MIT https://mths.be/cssesc
-
-Copyright Mathias Bynens <https://mathiasbynens.be/>
-
-Copyright Mathias Bynens <https://mathiasbynens.be/>
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7313,7 +7296,24 @@ Copyright Mathias Bynens <https://mathiasbynens.be/>
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+cssesc 2.0.0 - MIT https://mths.be/cssesc
+
+Copyright Mathias Bynens <https://mathiasbynens.be/>
+
+Copyright Mathias Bynens <https://mathiasbynens.be/>
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7330,7 +7330,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7348,7 +7348,7 @@ Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7365,7 +7365,7 @@ cssnano-preset-default 4.0.7 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7382,7 +7382,7 @@ cssnano-util-get-arguments 4.0.0 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7399,7 +7399,7 @@ cssnano-util-get-match 4.0.0 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7416,7 +7416,7 @@ cssnano-util-raw-cache 4.0.1 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7433,7 +7433,7 @@ cssnano-util-same-parent 4.0.1 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7450,7 +7450,7 @@ Copyright 2011 The Closure Compiler Copyright (c) 2015-2019 by Roman Dvornov Cop
 
 Copyright (C) 2015-2019 by Roman Dvornov Copyright (C) 2011-2015 by Sergey Kryzhanovsky
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7469,7 +7469,7 @@ Licencia mit
 
 Copyright (c) 2018 Nik Coughlin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7487,7 +7487,7 @@ Licencia mit
 
 Copyright (c) 2016 Jacob Parker y Maximilian Stoiber
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7504,7 +7504,7 @@ Copyright 2011 The Closure Compiler Copyright (c) 2016-2019 by Roman Dvornov Cop
 
 Copyright (C) 2016-2019 por Roman Dvornov
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7521,7 +7521,7 @@ Copyright 2011 The Closure Compiler Copyright (c) 2016-2019 by Roman Dvornov Cop
 
 Copyright (C) 2016-2019 por Roman Dvornov
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7540,7 +7540,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7559,7 +7559,7 @@ Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2016 T
 
 Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7579,7 +7579,7 @@ Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2017 T
 
 Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7599,7 +7599,7 @@ Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2014-2017 T
 
 Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7619,7 +7619,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sam Verschueren <sam.verschueren@gmail.com> (github.com/SamVerschueren)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7638,7 +7638,7 @@ La licencia mit (MIT)
 
 Copyright (C) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7657,7 +7657,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7677,7 +7677,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, 2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7696,7 +7696,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7713,9 +7713,9 @@ Copyright Fedor Indutny, 2015.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7733,7 +7733,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 xdf
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7750,7 +7750,7 @@ Copyright (c) 2017 Calvin Metcalf
 
 Copyright (c) 2017 Calvin Metcalf
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7769,7 +7769,7 @@ Licencia mit
 
 Copyright (c) Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7820,7 +7820,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2013 Aria Minaei
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7841,7 +7841,7 @@ Licencia
 
 Copyright (c) 2014 Los colaboradores de cheeriojs
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7860,7 +7860,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7877,7 +7877,7 @@ Copyright (c) 2012 Raynos.
 
 Copyright (c) 2012 Raynos.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7895,7 +7895,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7911,9 +7911,9 @@ Copyright Fedor Indutny, 2014.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7931,7 +7931,7 @@ La licencia mit (MIT)
 
 Copyright © 2015 Kiko Beats
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7950,7 +7950,7 @@ La licencia mit (MIT)
 
 Copyright © 2015 Kiko Beats
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7969,7 +7969,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -7985,7 +7985,7 @@ Copyright (c) 2012-2016 Tobias Koppers Copyright JS Foundation y otros colaborad
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8003,9 +8003,9 @@ Copyright (c) 2012-2015 Rod Vagg ( https://github.com/rvagg) ( rvagg (https://tw
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8023,7 +8023,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 JD Ballard
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8042,7 +8042,7 @@ La licencia mit (MIT)
 
 Copyright (C) 2013-2017 Mariusz Nowak (www.medikoo.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8061,7 +8061,7 @@ La licencia mit (MIT)
 
 Copyright (C) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8079,7 +8079,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8098,7 +8098,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8118,7 +8118,7 @@ MIT
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8137,7 +8137,7 @@ La licencia mit
 
 Copyright (c) EventSource GitHub organización
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8156,7 +8156,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2011 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8175,7 +8175,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 crypto-browserify contributors
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8194,7 +8194,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2016, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8214,7 +8214,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2015, 2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8233,7 +8233,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2015, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8252,7 +8252,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Kevin Gravier
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8272,7 +8272,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8291,7 +8291,7 @@ Licencia mit
 
 Copyright (c) 2017 Evgeny Poberezkin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8310,7 +8310,7 @@ La licencia mit (MIT)
 
 Copyright (c) Denis Malinochkin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8329,7 +8329,7 @@ Este software se lanza bajo la licencia mit:
 
 Copyright (c) 2017 Evgeny Poberezkin Copyright (c) 2013 James Halliday
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8348,7 +8348,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8365,7 +8365,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8383,32 +8383,12 @@ Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
 
 Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
 EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-fill-range 7.0.1 - MIT https://github.com/jonschlinkert/fill-range
-
-Copyright (c) 2014-present, Jon Schlinkert.
-Copyright (c) 2019, Jon Schlinkert ( https://github.com/jonschlinkert) .
-
-La licencia mit (MIT)
-
-Copyright (c) 2014-present, Jon Schlinkert.
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 
 ---------------------------------------------------------
@@ -8424,7 +8404,27 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+fill-range 7.0.1 - MIT https://github.com/jonschlinkert/fill-range
+
+Copyright (c) 2014-present, Jon Schlinkert.
+Copyright (c) 2019, Jon Schlinkert ( https://github.com/jonschlinkert) .
+
+La licencia mit (MIT)
+
+Copyright (c) 2014-present, Jon Schlinkert.
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8443,7 +8443,7 @@ Licencia mit
 
 Copyright (c) James Talmage <james@talmage.io> (github.com/jamestalmage)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8462,7 +8462,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8481,7 +8481,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8500,7 +8500,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Josué Holbrook
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8519,7 +8519,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8536,9 +8536,9 @@ foreach 2.0.4 - MIT
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8557,7 +8557,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8576,7 +8576,7 @@ Licencia mit
 
 Copyright (c) 2019 TypeStrong
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8596,7 +8596,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8615,7 +8615,7 @@ La licencia mit
 
 Copyright (c) 2011 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8634,7 +8634,7 @@ Copyright (c) 2014 Hugh Kennedy
 
 Copyright (c) 2014 Hugh Kennedy
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8653,7 +8653,7 @@ fsevents 2.1.3 - MIT https://github.com/fsevents/fsevents
 
 Copyright (C) 2010-2020 by Philipp Dunkel, Ben Noordhuis, Elan Shankar, Paul Miller
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8673,7 +8673,7 @@ Copyright (c) 2010-2014 Philipp Dunkel (c) 2014 por Philipp Dunkel <pip@pipobscu
 
 Copyright (C) 2010-2014 Philipp Dunkel
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8692,7 +8692,7 @@ Copyright (c) 2011-2017 JP Richardson Copyright (c) 2011-2017 JP Richardson ( ht
 
 Copyright (c) 2011-2017 JP Richardson
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8711,7 +8711,7 @@ Copyright (c) 2011-2017 JP Richardson Copyright (c) 2011-2017 JP Richardson ( ht
 
 Copyright (c) 2011-2017 JP Richardson
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8730,7 +8730,7 @@ Licencia mit
 
 Copyright (c) 2016 Jeremy Fairbank
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8747,7 +8747,7 @@ Copyright (c) Raynos 2013.
 
 Copyright (c) Raynos 2013.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8768,7 +8768,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8789,7 +8789,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8810,7 +8810,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8829,7 +8829,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8848,7 +8848,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8867,7 +8867,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8884,7 +8884,7 @@ Copyright (c) 2013 Thiago de Arruda
 
 Copyright (c) 2013 Thiago de Arruda
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8903,7 +8903,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8922,7 +8922,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8939,9 +8939,9 @@ Copyright Fedor Indutny, 2014.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8959,7 +8959,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Kirill Fomichev
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8978,7 +8978,7 @@ Licencia mit
 
 Copyright (c) 2016 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -8998,7 +8998,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9018,7 +9018,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9039,7 +9039,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9059,7 +9059,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9076,7 +9076,7 @@ Copyright Mathias Bynens <https://mathiasbynens.be/>
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9096,7 +9096,7 @@ Copyright (c) 2015 Charlike Make Reagent ( http://j.mp/1stW47C) Copyright (c) 20
 
 Copyright (c) 2015 [Charlike Make Reagent](http://j.mp/1stW47C)
 
-> Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+> Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 >
 > El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 >
@@ -9114,7 +9114,7 @@ Licencia mit
 
 Copyright (c) React Training 2016-2018
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9131,9 +9131,9 @@ Copyright Fedor Indutny, 2017.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9151,7 +9151,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 John Otander
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9170,7 +9170,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 John Otander
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9187,7 +9187,7 @@ Copyright 2018 Steve Mao (c) Steve Mao (https://github.com/stevemao)
 
 Copyright 2018 Steve Mao
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9204,7 +9204,7 @@ Copyright (c) 2014-2016 Zoltan Frombach Copyright (c) 2010-2018 Juriy kangax Zay
 
 Copyright (c) 2010-2018 Juriy "kangax" Zaytsev
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9220,7 +9220,7 @@ htmlparser2 3.10.1 - MIT https://github.com/fb55/htmlparser2#readme
 Copyright 2010, 2011, Chris Winberry <chris@winberry.net>
 
 Copyright 2010, 2011, Chris Winberry <chris@winberry.net> . Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
  
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
  
@@ -9236,7 +9236,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9255,7 +9255,7 @@ Copyright (c) 2015 Tim Caswell ( https://github.com/creationix) y otros colabora
 
 Copyright (c) 2015 Tim Caswell ( https://github.com/creationix) y otros colaboradores. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9270,7 +9270,7 @@ Algunos archivos de la carpeta de pruebas son de joyent/node y mscedex/io.js, un
 
   """ Copyright io.js colaboradores. Todos los derechos reservados.
 
-  Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+  Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
   El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9285,7 +9285,7 @@ Algunos archivos de la carpeta de pruebas son de joyent/node y mscedex/io.js, un
   
   """ Copyright Node.js colaboradores. Todos los derechos reservados.
 
-  Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+  Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
   El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9295,7 +9295,7 @@ Algunos archivos de la carpeta de pruebas son de joyent/node y mscedex/io.js, un
   Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
 
   """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-  Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+  Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
   El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9315,7 +9315,7 @@ Este software se lanza bajo la licencia mit:
 
 Copyright (c) James Halliday
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9333,7 +9333,7 @@ Copyright (c) 2011 Alejandro Shtuchkin
 
 Copyright (c) 2011 Alejandro Shtuchkin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9353,7 +9353,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Nadav Ivgi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9368,9 +9368,9 @@ ignore 3.3.10 - MIT https://github.com/kaelzhang/node-ignore#readme
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9388,7 +9388,7 @@ Licencia mit
 
 Copyright (c) 2017 Michel Weststrate
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9407,7 +9407,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9426,7 +9426,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9445,7 +9445,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9462,9 +9462,9 @@ Copyright (c) 2013 Gary Court, Jens Taylor
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9480,7 +9480,7 @@ Copyright (c) 2013 Dominic Tarr
 
 Copyright (c) 2013 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9497,9 +9497,9 @@ indexof 0.0.1 - MIT
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9515,7 +9515,7 @@ Copyright (c) 2012 Simon Boudrias Copyright (c) 2016 Simon Boudrias (twitter vax
 
 Copyright (c) 2012 Simon Boudrias
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9533,7 +9533,7 @@ Licencia mit
 
 Copyright (c) 2013-present, Facebook, Inc.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9552,27 +9552,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-is-accessor-descriptor 0.1.6 - MIT https://github.com/jonschlinkert/is-accessor-descriptor
-
-Copyright (c) 2015, Jon Schlinkert.
-Copyright (c) 2015 Jon Schlinkert (https://github.com/jonschlinkert)
-
-La licencia mit (MIT)
-
-Copyright (c) 2015, Jon Schlinkert.
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9592,7 +9572,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9603,19 +9583,21 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-isarray 1.0.0 - MIT https://github.com/juliangruber/isarray
+is-accessor-descriptor 0.1.6 - MIT https://github.com/jonschlinkert/is-accessor-descriptor
 
-Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
+Copyright (c) 2015, Jon Schlinkert.
+Copyright (c) 2015 Jon Schlinkert (https://github.com/jonschlinkert)
 
-Licencia mit
+La licencia mit (MIT)
 
-Copyright (c) <year><copyright holders>
+Copyright (c) 2015, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
 
 ---------------------------------------------------------
 
@@ -9627,9 +9609,9 @@ Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9639,20 +9621,19 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-arrayish 0.2.1 - MIT https://github.com/qix-/node-is-arrayish#readme
+isarray 1.0.0 - MIT https://github.com/juliangruber/isarray
 
-Copyright (c) 2015 JD Ballard
+Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
 
-La licencia mit (MIT)
+Licencia mit
 
-Copyright (c) 2015 JD Ballard
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
 
 ---------------------------------------------------------
 
@@ -9666,7 +9647,26 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 JD Ballard
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+is-arrayish 0.2.1 - MIT https://github.com/qix-/node-is-arrayish#readme
+
+Copyright (c) 2015 JD Ballard
+
+La licencia mit (MIT)
+
+Copyright (c) 2015 JD Ballard
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9685,7 +9685,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9704,7 +9704,7 @@ Licencia mit
 
 Copyright (c) 2019 Sindre Sorhus <sindresorhus@gmail.com> ( , Paul Miller https://sindresorhus.com) (https://paulmillr.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9723,7 +9723,7 @@ La licencia mit (MIT)
 
 Copyright (c) Feross Aboukhadijeh
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9742,7 +9742,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9762,7 +9762,7 @@ Licencia mit
 
 Copyright (c) 2017 pigcan
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9782,7 +9782,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9802,7 +9802,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9821,7 +9821,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9842,7 +9842,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9861,7 +9861,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9881,7 +9881,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9900,7 +9900,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9919,7 +9919,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9937,7 +9937,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9957,7 +9957,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9976,7 +9976,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -9996,7 +9996,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10016,7 +10016,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10036,7 +10036,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10056,7 +10056,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10075,7 +10075,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10094,7 +10094,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10114,7 +10114,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10134,7 +10134,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10151,7 +10151,7 @@ Copyright (c) 2013 Colingo.
 
 Copyright (c) 2013 Colingo.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10170,7 +10170,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10190,7 +10190,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10210,7 +10210,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10229,7 +10229,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10246,9 +10246,9 @@ is-regexp 1.0.0 - MIT https://github.com/sindresorhus/is-regexp
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10266,7 +10266,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10285,7 +10285,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10304,7 +10304,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10324,7 +10324,7 @@ Licencia mit
 
 Copyright (c) 2018 Luca Ban - Mesqueeb
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10342,7 +10342,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 W.Y.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10362,7 +10362,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10381,7 +10381,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10398,12 +10398,29 @@ Copyright Mathias Bynens <https://mathiasbynens.be/>
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+json3 3.3.0 - MIT http://bestiejs.github.io/json3
+
+Copyright (c) 2012-2014 Kit Cambridge. http://kitcambridge.be Copyright 2012-2014, Kit Cambridge http://kit.mit-license.org
+
+Copyright (c) 2012-2014 Kit Cambridge.
+http://kitcambridge.be/
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 ---------------------------------------------------------
 
@@ -10419,24 +10436,7 @@ http://kitcambridge.be/
 Copyright (c) 2013-2015 Benjamin Tan.
 https://d10.github.io/
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-json3 3.3.0 - MIT http://bestiejs.github.io/json3
-
-Copyright (c) 2012-2014 Kit Cambridge. http://kitcambridge.be Copyright 2012-2014, Kit Cambridge http://kit.mit-license.org
-
-Copyright (c) 2012-2014 Kit Cambridge.
-http://kitcambridge.be/
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10454,7 +10454,7 @@ Licencia mit
 
 Copyright (c) 2012-2018 Aseem Kishore, y [otros].
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10475,7 +10475,7 @@ Copyright 2012-2016, JP Richardson <jprichardson@gmail.com> Copyright (c) 2012-2
 
 Copyright (c) 2012-2015, JP Richardson <jprichardson@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10494,7 +10494,7 @@ La licencia mit
 
 Copyright (c) 2012 Tim Caswell
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10511,7 +10511,7 @@ Copyright 2017 Kat Marchan
 
 Copyright 2017 Kat Marchán
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10530,7 +10530,7 @@ Licencia mit
 
 Copyright (c) 2017 Evgeny Poberezkin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10546,7 +10546,7 @@ json-stable-stringify 1.0.1 - MIT https://github.com/substack/json-stable-string
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10565,7 +10565,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014, 2015, 2016, 2017 Simon Lydell
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10584,7 +10584,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10603,7 +10603,7 @@ Copyright (c) 2011-2015 por Vitaly Puzrin
 
 Copyright (C) 2011-2015 por Vitaly Puzrin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10622,7 +10622,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10642,7 +10642,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10661,7 +10661,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10680,7 +10680,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10699,7 +10699,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Nuno Rodrigues
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10718,7 +10718,7 @@ La licencia mit
 
 Copyright (c) Tobias Koppers @sokra
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10735,7 +10735,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10753,7 +10753,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10773,7 +10773,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10792,7 +10792,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10817,7 +10817,7 @@ La siguiente licencia se aplica a todas las partes de este software excepto como
 
 ====
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10844,7 +10844,7 @@ Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/> Copyright 2
 
 Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/> Based on Underscore.js 1.7.0, copyright 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10869,7 +10869,7 @@ La siguiente licencia se aplica a todas las partes de este software excepto como
 
 ====
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10904,7 +10904,7 @@ La siguiente licencia se aplica a todas las partes de este software excepto como
 
 ====
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10939,7 +10939,7 @@ La siguiente licencia se aplica a todas las partes de este software excepto como
 
 ====
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -10974,7 +10974,7 @@ La siguiente licencia se aplica a todas las partes de este software excepto como
 
 ====
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11009,7 +11009,7 @@ La siguiente licencia se aplica a todas las partes de este software excepto como
 
 ====
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11044,7 +11044,7 @@ La siguiente licencia se aplica a todas las partes de este software excepto como
 
 ====
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11073,7 +11073,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Andrés Suárez <zertosh@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11092,7 +11092,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11111,7 +11111,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11132,7 +11132,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11149,7 +11149,7 @@ Copyright (c) 2011 Dominic Tarr
 
 Copyright (c) 2011 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11167,7 +11167,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11186,7 +11186,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Kirill Fomichev
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11205,7 +11205,7 @@ Licencia mit
 
 Copyright (c) 2019 Alejandro Reardón
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11221,9 +11221,9 @@ Copyright (c) 2012-2014 Tobias Koppers
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11239,7 +11239,7 @@ Copyright (c) 2012-2014 Tobias Koppers Copyright JS Foundation y otros colaborad
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11258,7 +11258,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2020 Teambition
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11277,7 +11277,7 @@ Licencia mit
 
 Copyright (c) 2018 Luca Ban - Mesqueeb
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11296,7 +11296,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Christian Speckner <cnspeckn@googlemail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11316,7 +11316,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11333,9 +11333,9 @@ Copyright Fedor Indutny, 2014.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11353,7 +11353,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2010 Benjamin Thomas, Robert Kieffer
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11372,7 +11372,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11391,7 +11391,7 @@ Copyright (c) 2019-present StringEpsilon <StringEpsilon@gmail.com>
 
 Copyright (c) 2017-2019 James Kyle <me@thejameskyle.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11408,7 +11408,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11426,9 +11426,9 @@ Copyright Fedor Indutny, 2017.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11443,7 +11443,7 @@ minimist 1.2.5 - MIT https://github.com/substack/minimist
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11463,7 +11463,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2015, 2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11482,7 +11482,7 @@ Copyright 2010 James Halliday (mail@substack.net)
 
 Este proyecto es software libre publicado bajo la licencia MIT/X11:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11508,7 +11508,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016: presente Microsoft Corporation
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11534,7 +11534,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016: presente Microsoft Corporation
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11553,7 +11553,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Zeit, Inc.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11572,7 +11572,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Zeit, Inc.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11596,7 +11596,7 @@ Colaboradores de COPYRIGHT (c) 2018 NAN - Rod Vagg <https://github.com/rvagg>
 
 *Colaboradores de NAN enumerados en <https://github.com/nodejs/nan#contributors>*
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11616,7 +11616,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11635,7 +11635,7 @@ Licencia mit
 
 Copyright (c) 2014-2018 Suguru Motegi Basado en Async.js, Copyright Caolan McMahon
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11654,7 +11654,7 @@ La licencia mit
 
 Copyright (C) 2012-2016 Mariusz Nowak 
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11673,7 +11673,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2018 Tobias Reich
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11692,7 +11692,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11711,7 +11711,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 David Frank
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11731,7 +11731,7 @@ Copyright (c) 2012 Tobias Koppers
 
 Copyright (c) 2012 Tobias Koppers
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11751,7 +11751,7 @@ La licencia mit
 
 Copyright (c) 2017 Sergey Rubanov (https://github.com/chicoxyzzy)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11771,7 +11771,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11791,7 +11791,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11810,7 +11810,7 @@ La licencia mit (MIT)
 
 Copyright (c) James Talmage <james@talmage.io> (github.com/jamestalmage)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11829,7 +11829,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11848,7 +11848,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11867,7 +11867,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 PostCSS
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11887,7 +11887,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11905,7 +11905,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11925,7 +11925,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11947,7 +11947,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11966,7 +11966,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -11986,7 +11986,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12005,7 +12005,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12024,7 +12024,7 @@ Licencia mit
 
 Copyright (c) 2013 James Halliday
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12043,7 +12043,7 @@ La licencia mit (MIT)
 
 Copyright (C) 2013 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12061,7 +12061,7 @@ La licencia mit (MIT)
 
 Copyright (C) 2013 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12079,7 +12079,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Mario Casciaro
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12098,7 +12098,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, 2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12122,7 +12122,7 @@ Todos los derechos reservados.
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12143,7 +12143,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12162,7 +12162,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12181,7 +12181,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Nuno Rodrigues
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12200,7 +12200,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Unshift.io, Arnout Kazemier, los colaboradores.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12220,7 +12220,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 CoderPuppy
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12239,7 +12239,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12256,7 +12256,7 @@ Copyright 2013 Mathias Buus
 
 Copyright 2013 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12275,7 +12275,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12294,7 +12294,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12313,7 +12313,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12330,7 +12330,7 @@ Copyright Joyent, Inc. y otros colaboradores de Node.
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12350,7 +12350,7 @@ La licencia mit (MIT)
 
 Copyright (c) Elan Shanker y Node.js colaboradores. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12369,7 +12369,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12388,7 +12388,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12407,7 +12407,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12426,7 +12426,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Javier Blanco
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12445,7 +12445,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12464,7 +12464,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12483,7 +12483,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Daniel Cousens
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12503,7 +12503,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12522,7 +12522,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12541,7 +12541,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12560,7 +12560,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12579,7 +12579,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12598,7 +12598,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12617,7 +12617,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12636,7 +12636,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12655,7 +12655,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12672,9 +12672,9 @@ Copyright (c) 2016 Mael Nison
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12692,26 +12692,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-postcss 7.0.32 - MIT https://postcss.org/
-
-Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
-
-La licencia mit (MIT)
-
-Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12730,7 +12711,26 @@ La licencia mit (MIT)
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+postcss 7.0.32 - MIT https://postcss.org/
+
+Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
+
+La licencia mit (MIT)
+
+Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12749,7 +12749,7 @@ La licencia mit (MIT)
 
 Copyright 2016 Dmitry Semigradsky <semigradskyd@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12768,7 +12768,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Maxime Thirouin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12787,7 +12787,7 @@ Copyright (c) PostCSS
 
 Copyright © PostCSS
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12804,7 +12804,7 @@ postcss-colormin 4.0.3 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12823,7 +12823,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Maxime Thirouin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12840,7 +12840,7 @@ postcss-convert-values 4.0.1 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12859,7 +12859,7 @@ Copyright (c) PostCSS
 
 Copyright © PostCSS
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12878,7 +12878,7 @@ Copyright (c) PostCSS
 
 Copyright © PostCSS
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12897,7 +12897,7 @@ Copyright (c) PostCSS
 
 Copyright © PostCSS
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12914,7 +12914,7 @@ postcss-discard-comments 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12931,7 +12931,7 @@ postcss-discard-duplicates 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12948,7 +12948,7 @@ postcss-discard-empty 4.0.1 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12967,7 +12967,7 @@ La licencia mit (MIT)
 
 Copyright 2016 Justineo <justice360@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -12986,7 +12986,7 @@ La licencia mit (MIT)
 
 Copyright 2015 Luis Rudge <luis@luisrudge.net>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13005,7 +13005,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Maxime Thirouin & Ian Storm Taylor
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13024,7 +13024,7 @@ La licencia mit (MIT)
 
 Copyright 2015 Maksim Koretskiy <mr.green.tv@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13043,7 +13043,7 @@ Licencia (MIT)
 
 Copyright (c) Michael Ciniawsky <michael.ciniawsky@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13062,7 +13062,7 @@ Licencia (MIT)
 
 Copyright 2017 Andrey Sitnik <andrey@sitnik.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13081,7 +13081,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 PostCSS
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13099,7 +13099,7 @@ postcss-merge-longhand 4.0.11 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13116,7 +13116,7 @@ postcss-merge-rules 4.0.3 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13133,7 +13133,7 @@ postcss-minify-font-values 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Bogdan Chadkin <trysound@yandex.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13150,7 +13150,7 @@ postcss-minify-gradients 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13169,7 +13169,7 @@ La licencia mit (MIT)
 
 Copyright 2015 Bogdan Chadkin <trysound@yandex.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13182,11 +13182,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 postcss-minify-selectors 4.0.2 - MIT https://github.com/cssnano/cssnano
 
-(c) Ben Briggs ( http://beneb.info) Copyright (c) Ben Briggs <beneb.info@gmail.com> ( Copyright http://beneb.info) Mathias Bynens <https://mathiasbynens.be/>https://github.com/mathiasbynens/mothereff.in
+(c) Ben Briggs ( http://beneb.info) Copyright (c) Ben Briggs <beneb.info@gmail.com> ( Copyright http://beneb.info) Mathias Bynens <https://mathiasbynens.be/> https://github.com/mathiasbynens/mothereff.in
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13205,7 +13205,7 @@ La licencia mit (MIT)
 
 Copyright 2015 Mark Dalgleish <mark.john.dalgleish@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13224,7 +13224,7 @@ La licencia mit (MIT)
 
 Copyright 2015 Bogdan Chadkin <trysound@yandex.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13241,7 +13241,7 @@ postcss-normalize-display-values 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13258,7 +13258,7 @@ postcss-normalize-positions 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13275,7 +13275,7 @@ postcss-normalize-repeat-style 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13292,7 +13292,7 @@ postcss-normalize-string 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13309,7 +13309,7 @@ postcss-normalize-timing-functions 4.0.2 - MIT https://github.com/cssnano/cssnan
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13326,7 +13326,7 @@ postcss-normalize-unicode 4.0.1 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13343,7 +13343,7 @@ postcss-normalize-url 4.0.1 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13360,7 +13360,7 @@ postcss-normalize-whitespace 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13377,7 +13377,7 @@ postcss-ordered-values 4.1.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13396,7 +13396,7 @@ La licencia mit (MIT)
 
 Copyright 2017 AUTHOR_NAME <AUTHOR_EMAIL>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13413,7 +13413,7 @@ postcss-reduce-initial 4.0.3 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13430,7 +13430,7 @@ postcss-reduce-transforms 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13449,7 +13449,7 @@ La licencia mit (MIT)
 
 Copyright 2016 Matthias Müller <MattDiMu@users.noreply.github.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13468,7 +13468,7 @@ La licencia mit (MIT)
 
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13487,7 +13487,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 Maxime Thirouin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13506,24 +13506,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 Maxime Thirouin
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-postcss-selector-parser 5.0.0 - MIT https://github.com/postcss/postcss-selector-parser
-
-Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
-
-Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13540,7 +13523,24 @@ Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+postcss-selector-parser 5.0.0 - MIT https://github.com/postcss/postcss-selector-parser
+
+Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
+
+Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13557,7 +13557,7 @@ Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13574,7 +13574,7 @@ postcss-svgo 4.0.2 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13591,7 +13591,7 @@ postcss-unique-selectors 4.0.1 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13608,7 +13608,7 @@ postcss-value-parser 4.1.0 - MIT https://github.com/TrySound/postcss-value-parse
 
 Copyright (c) Bogdan Chadkin <trysound@yandex.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13625,7 +13625,7 @@ postcss-value-parser 3.3.1 - MIT https://github.com/TrySound/postcss-value-parse
 
 Copyright (c) Bogdan Chadkin <trysound@yandex.ru>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13642,7 +13642,7 @@ Copyright (c) Andrew Powell <andrew@shellscape.org>
 
 Copyright (c) Andrew Powell <andrew@shellscape.org>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13661,7 +13661,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13680,7 +13680,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13699,7 +13699,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2013 Aria Minaei
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13718,7 +13718,7 @@ Copyright (c) 2013 Roman Shtylman <shtylman@gmail.com>
 
 Copyright (c) 2013 Roman Shtylman <shtylman@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13736,7 +13736,7 @@ Copyright (c) 2015 Calvin Metcalf
 
 # <a name="copyright-c-2015-calvin-metcalf"></a>Copyright (c) 2015 Calvin Metcalf
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13753,7 +13753,7 @@ Copyright (c) 2014 Taylor Hakes Copyright (c) 2014 Forbes Lindesay
 
 Copyright (c) 2014 Taylor Hakes Copyright (c) 2014 Forbes Lindesay
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13771,7 +13771,7 @@ Licencia mit
 
 Copyright (c) 2013-present, Facebook, Inc.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13792,7 +13792,7 @@ Copyright (c) 2014 Rod Vagg (c) 2013 Rod Vagg <rod@vagg.org> https://github.com/
 <a name="copyright-c-2014-rod-vagg"></a>Copyright (c) 2014 Rod Vagg
 ---------------------------
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13811,7 +13811,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13830,7 +13830,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13847,7 +13847,7 @@ Copyright (c) 2017 Calvin Metcalf
 
 Copyright (c) 2017 Calvin Metcalf
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13866,7 +13866,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13884,7 +13884,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13902,7 +13902,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13918,24 +13918,7 @@ Copyright Mathias Bynens <https://mathiasbynens.be/>
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-punycode 1.4.1 - MIT https://mths.be/punycode
-
-Copyright Mathias Bynens <https://mathiasbynens.be/>
-
-Copyright Mathias Bynens <https://mathiasbynens.be/>
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13952,7 +13935,24 @@ Copyright Mathias Bynens <https://mathiasbynens.be/>
 
 Copyright Mathias Bynens <https://mathiasbynens.be/>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+punycode 1.4.1 - MIT https://mths.be/punycode
+
+Copyright Mathias Bynens <https://mathiasbynens.be/>
+
+Copyright Mathias Bynens <https://mathiasbynens.be/>
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13969,7 +13969,7 @@ Copyright (c) 2011 Google Inc. Copyright 2009-2017 Kris Kowal Copyright 2007-200
 Copyright 2009-2017 Kristopher Michael Kowal y colaboradores
 
 Copyright 2009–2017 Kristopher Michael Kowal. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -13988,7 +13988,7 @@ Copyright Joyent, Inc. y otros colaboradores de Node.
 
 
 Copyright 2012 Irakli Gozalishvili. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14007,7 +14007,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14025,7 +14025,7 @@ Copyright Joyent, Inc. y otros colaboradores de Node.
 
 
 Copyright 2012 Irakli Gozalishvili. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14044,7 +14044,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Unshift.io, Arnout Kazemier, los colaboradores.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14064,7 +14064,7 @@ Licencia mit
 
 Copyright (c) 2017 crypto-browserify
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14083,7 +14083,7 @@ Licencia mit
 
 Copyright (c) 2017 crypto-browserify
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14102,7 +14102,7 @@ Licencia mit
 
 Copyright (c) Facebook, Inc. y sus filiales.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14121,7 +14121,7 @@ Licencia mit
 
 Copyright (c) 2013-present, Facebook, Inc.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14140,7 +14140,7 @@ Licencia mit
 
 Copyright (c) Facebook, Inc. y sus filiales.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14159,7 +14159,7 @@ Licencia mit
 
 Copyright (c) 2013-present, Facebook, Inc.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14182,7 +14182,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 Xiaoyi Chen 
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14201,7 +14201,7 @@ Licencia mit
 
 Copyright (c) Facebook, Inc. y sus filiales.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14220,7 +14220,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present Dan Abramov
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14239,7 +14239,7 @@ Licencia mit
 
 Copyright (c) React Training 2016-2018
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14258,41 +14258,11 @@ Licencia mit
 
 Copyright (c) React Training 2016-2018
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-readable-stream 3.6.0 - MIT https://github.com/nodejs/readable-stream#readme
-
-Copyright Joyent, Inc. y otros colaboradores de Node.
-
-Node.js licencia para su uso de la siguiente manera:
-
-""" Copyright Node.js colaboradores. Todos los derechos reservados.
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-"""
-
-Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
-
-""" Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-"""
 
 
 ---------------------------------------------------------
@@ -14307,7 +14277,7 @@ Node.js licencia para su uso de la siguiente manera:
 
 """ Copyright Node.js colaboradores. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14317,7 +14287,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
 
 """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14329,19 +14299,30 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-readdirp 3.4.0 - MIT https://github.com/paulmillr/readdirp
+readable-stream 3.6.0 - MIT https://github.com/nodejs/readable-stream#readme
 
-Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller ( https://paulmillr.com) Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller <https://paulmillr.com>
+Copyright Joyent, Inc. y otros colaboradores de Node.
 
-Licencia mit
+Node.js licencia para su uso de la siguiente manera:
 
-Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
+""" Copyright Node.js colaboradores. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+"""
+
+Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
+
+""" Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+"""
 
 
 ---------------------------------------------------------
@@ -14356,7 +14337,26 @@ Este software se lanza bajo la licencia mit:
 
 Copyright (c) 2012-2015 Thorsten Lorenz
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+readdirp 3.4.0 - MIT https://github.com/paulmillr/readdirp
+
+Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller ( https://paulmillr.com) Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller <https://paulmillr.com>
+
+Licencia mit
+
+Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14372,9 +14372,9 @@ recursive-readdir 2.2.2 - MIT https://github.com/jergason/recursive-readdir#read
 
 La licencia mit (MIT)
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14393,7 +14393,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present Dan Abramov
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14412,7 +14412,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present Dan Abramov
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14428,9 +14428,9 @@ redux-devtools-extension 2.13.8 - MIT https://github.com/zalmoxisus/redux-devtoo
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14448,7 +14448,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Yassine Elouafi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14468,7 +14468,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Jeremy Fairbank
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14488,7 +14488,7 @@ Licencia mit
 
 Copyright (c) 2014-present, Facebook, Inc.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14506,9 +14506,9 @@ Copyright (c) 2014-present, Facebook, Inc.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14527,7 +14527,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016, 2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14546,7 +14546,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-19 Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14565,7 +14565,7 @@ La licencia mit (MIT)
 
 Copyright (c) Steven Vachon <contact@svachon.com> (svachon.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14584,7 +14584,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Aria Minaei
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14604,7 +14604,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14625,7 +14625,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14644,7 +14644,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Unshift.io, Arnout Kazemier, los colaboradores.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14664,7 +14664,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2018 Volver a seleccionar colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14683,7 +14683,7 @@ Licencia mit
 
 Copyright (c) 2012 James Halliday
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14702,7 +14702,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14721,7 +14721,7 @@ Licencia mit
 
 Copyright (c) Michael Jackson 2016-2018
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14740,7 +14740,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2013 Simon Lydell
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14759,7 +14759,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Ben Holloway
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14777,7 +14777,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14794,7 +14794,7 @@ Copyright (c) 2011 de Roly Fentanes
 
 Copyright (C) 2011 de Roly Fentanes
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14811,9 +14811,9 @@ Copyright (c) 2014 Copyright (c) 2012-2013 TJ Holowaychuk <tj@vision-media.ca>
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14829,9 +14829,9 @@ rework-visit 1.0.0 - MIT
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14849,7 +14849,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 John Otander
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14868,7 +14868,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 John Otander
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14887,7 +14887,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 crypto-browserify
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14906,7 +14906,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Simon Boudrias
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14925,7 +14925,7 @@ La licencia mit (MIT)
 
 Copyright (c) Feross Aboukhadijeh
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14944,7 +14944,7 @@ La licencia mit (MIT)
 
 Copyright (c) Feross Aboukhadijeh
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14963,7 +14963,7 @@ Licencia mit
 
 Copyright (c) 2018 Nikita Skovoroda <chalkerx@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14979,7 +14979,7 @@ safe-regex 1.1.0 - MIT https://github.com/substack/safe-regex
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -14996,7 +14996,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15015,7 +15015,7 @@ Licencia mit
 
 Copyright (c) Facebook, Inc. y sus filiales.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15032,25 +15032,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
-EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-schema-utils 2.7.0 - MIT https://github.com/webpack/schema-utils
-
-Copyright JS Foundation y otros colaboradores
-
-Copyright JS Foundation y otros colaboradores
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15068,7 +15050,25 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT.
+EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+schema-utils 2.7.0 - MIT https://github.com/webpack/schema-utils
+
+Copyright JS Foundation y otros colaboradores
+
+Copyright JS Foundation y otros colaboradores
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15086,7 +15086,7 @@ Copyright (c) 2012 Barnesandnoble.com, llc, Donavon West y Domenic Denicola
 
 Copyright (c) 2012 Barnesandnoble.com, llc, Donavon West y Domenic Denicola
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15106,7 +15106,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15126,7 +15126,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15145,7 +15145,7 @@ La licencia mit (MIT)
 
 Copyright (c) Kevin Martensson <kevinmartensson@gmail.com> (github.com/kevva)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15164,7 +15164,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15183,7 +15183,7 @@ La licencia mit
 
 Copyright (c) 2013 James Halliday (mail@substack.net)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15201,7 +15201,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Josh Junon
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15218,9 +15218,9 @@ slash 1.0.0 - MIT https://github.com/sindresorhus/slash
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15239,7 +15239,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15258,7 +15258,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15277,7 +15277,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15296,7 +15296,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2011-2018 Los autores de sockjs-client.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15315,7 +15315,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15332,7 +15332,7 @@ Copyright 2017 JS Foundation Copyright (c) 2017 JS Foundation Copyright 2011 The
 
 Copyright 2017 JS Foundation
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15351,7 +15351,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014, 2015, 2016, 2017, 2018, 2019 Simon Lydell Copyright (c) 2019 ZHAO Jinxiang
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15370,7 +15370,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Evan Wallace
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15389,7 +15389,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Simon Lydell
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15406,7 +15406,7 @@ Copyright (c) 2011 Dominic Tarr
 
 Copyright (c) 2011 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15425,7 +15425,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15443,9 +15443,9 @@ Copyright (c) 2018 Bytes molestos y colaboradores.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15463,7 +15463,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15482,7 +15482,7 @@ Este software se lanza bajo la licencia mit:
 
 Copyright (c) James Halliday
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15499,7 +15499,7 @@ Copyright (c) 2012 Dominic Tarr
 
 Copyright (c) 2012 'Dominic Tarr'
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15518,7 +15518,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15537,7 +15537,7 @@ La licencia mit
 
 Copyright (c) 2015 John Hiesey
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15555,7 +15555,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Mathias Buus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15574,7 +15574,7 @@ La licencia mit (MIT)
 
 Copyright (c) Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15593,7 +15593,7 @@ Licencia mit
 
 Copyright (c) 2017 Khaled Al-Ansari
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15612,7 +15612,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15632,7 +15632,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15652,7 +15652,7 @@ Licencia mit
 
 Copyright (c) 2017 Khaled Al-Ansari
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15671,7 +15671,7 @@ Node.js licencia para su uso de la siguiente manera:
 
 """ Copyright Node.js colaboradores. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15681,7 +15681,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
 
 """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15702,7 +15702,7 @@ Node.js licencia para su uso de la siguiente manera:
 
 """ Copyright Node.js colaboradores. Todos los derechos reservados.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15712,7 +15712,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
 
 """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15733,7 +15733,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15752,7 +15752,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15771,7 +15771,7 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15790,7 +15790,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15811,7 +15811,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15828,9 +15828,9 @@ styled-components 4.4.1 - MIT https://styled-components.com/
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15846,7 +15846,7 @@ stylehacks 4.0.3 - MIT https://github.com/cssnano/cssnano
 
 Copyright (c) Ben Briggs <beneb.info@gmail.com> (http://beneb.info)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15863,7 +15863,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15883,7 +15883,7 @@ Licencia mit
 
 Copyright (c) 2016 Sultan Tarimo
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15899,32 +15899,13 @@ stylis-rule-sheet 0.0.10 - MIT https://github.com/thysultan/stylis.js
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-supports-color 5.5.0 - MIT https://github.com/chalk/supports-color#readme
-
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-Licencia mit
-
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
 
 ---------------------------------------------------------
 
@@ -15938,7 +15919,26 @@ Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+supports-color 5.5.0 - MIT https://github.com/chalk/supports-color#readme
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+Licencia mit
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15957,7 +15957,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15976,7 +15976,7 @@ La licencia mit
 
 Copyright © 2012–2016 Kir Belevich
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -15988,7 +15988,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 Copyright © 2012–2016 Кир Белевич
 
-Данная лицензия разрешает лицам, получившим копию данного программного обеспечения и сопутствующей документации (в дальнейшем именуемыми «Программное Обеспечение»), безвозмездно использовать Программное Обеспечение без ограничений, включая неограниченное право на использование, копирование, изменение, добавление, публикацию, распространение, сублицензирование и/или продажу копий Программного Обеспечения, также как и лицам, которым предоставляется данное Программное Обеспечение, при соблюдении следующих условий:
+Данная лицензия разрешает лицам, получившим копию данного программного обеспечения и сопутствующей документации (в дальнейшем именуемыми «Программное Обеспечение»), безвозмездно использовать Программное Обеспечение без ограничений, включая неограниченное право на использование, копирование, изменение, добавление, публикацию, распространение, сублицензирование и/или продажу копий Программного Обеспечения, также как и лицам, которым предоставляется данное Программное Обеспечение, при соблюдении сл едующих условий:
 
 Указанное выше уведомление об авторском праве и данные условия должны быть включены во все копии или значимые части данного Программного Обеспечения.
 
@@ -16007,7 +16007,7 @@ La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) Copyright (c) Ben Lesh <ben@benlesh.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16026,7 +16026,7 @@ La licencia mit
 
 Copyright (c) Tobias Koppers @sokra
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16043,7 +16043,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16060,7 +16060,7 @@ text-table 0.2.0 - MIT https://github.com/substack/text-table
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16079,7 +16079,7 @@ La licencia mit
 
 Copyright (c) 2011 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16098,7 +16098,7 @@ Copyright (c) Rod Vagg Copyright (c) Rod Vagg rvagg ( https://twitter.com/rvagg)
 
 **Copyright (c) Rod Vagg (el "Autor original") y colaboradores adicionales**
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16174,7 +16174,7 @@ La licencia mit
 
 Copyright (c) 2015 Marco Ziccardi
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16193,7 +16193,7 @@ Licencia mit
 
 Copyright (c) 2019 Alejandro Reardón
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16212,7 +16212,7 @@ Licencia mit
 
 Copyright (c) 2019 Alejandro Reardón
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16230,7 +16230,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 KARASZI István
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16249,7 +16249,7 @@ La licencia mit
 
 Copyright (c) 2016 John Hiesey
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16267,7 +16267,7 @@ Licencia mit
 
 Copyright (c) 2014 Petka Antonov 2015 Sindre Sorhus
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16287,7 +16287,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2016, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16307,7 +16307,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016-2018, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16327,7 +16327,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16347,7 +16347,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16364,9 +16364,9 @@ Copyright (c) 2016 Mael Nison
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16381,7 +16381,7 @@ tty-browserify 0.0.0 - MIT https://github.com/substack/tty-browserify
 
 Este software se lanza bajo la licencia mit:
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16398,7 +16398,7 @@ Copyright (c) 2012, Josué Bell Copyright (c) 2010, Linden Research, Inc.
 
 /* Copyright (c) 2010, Linden Research, Inc. Copyright (c) 2012, Josué Bell
 
- Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+ Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
  El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16422,7 +16422,7 @@ Licencia mit
 
 Copyright (c) Piotr Witek 2017 <piotrek.witek@gmail.com> (http://piotrwitek.github.io)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16441,7 +16441,7 @@ Copyright (c) 2018 Hoang Van Khai
 
 Copyright © 2018 Hoàng Văn Khải
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16460,7 +16460,7 @@ Copyright (c) 2018 Hoang Van Khai
 
 Copyright © 2018 Hoàng Văn Khải
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16479,7 +16479,7 @@ Copyright (c) 2018 Hoang Van Khai
 
 Copyright © 2018 Hoàng Văn Khải
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16498,7 +16498,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16519,7 +16519,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2013 Mikola Lysenko
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16535,9 +16535,9 @@ uniqs 2.0.0 - MIT https://github.com/fgnass/uniqs
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16555,7 +16555,7 @@ Copyright (c) 2017, Ryan Zimmerman <opensrc@ryanzim.com>
 
 Copyright (c) 2017, Ryan Zimmerman <opensrc@ryanzim.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16574,7 +16574,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2017 Cameron Lakenen
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sub-licencia y/o venta de copias del Software, y para permitir a las personas a las que se proporciona el Software hacerlo, con las siguientes condiciones:
+Por la presente, se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sub-licencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16594,7 +16594,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015, 2017, Jon Schlinkert
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16611,7 +16611,7 @@ Copyright (c) 2019 Angelos Pikoulas <agelos.pikoulas@gmail.com> Copyright (c) 20
 
 Copyright(c) 2014-2019 Angelos Pikoulas (agelos.pikoulas@gmail.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16630,7 +16630,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16649,7 +16649,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2013 Simon Lydell
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16669,7 +16669,7 @@ La licencia mit (MIT)
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16686,7 +16686,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16706,7 +16706,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015 Unshift.io, Arnout Kazemier, los colaboradores.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16726,7 +16726,7 @@ La licencia mit
 
 Copyright (c) 2017 Valentin Richard
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16746,7 +16746,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2015-present, Jon Schlinkert.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16762,7 +16762,7 @@ util 0.10.3 - MIT https://github.com/defunctzombie/node-util
 Copyright Joyent, Inc. y otros colaboradores de Node.
 
 Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16778,7 +16778,7 @@ util 0.11.1 - MIT https://github.com/defunctzombie/node-util
 Copyright Joyent, Inc. y otros colaboradores de Node.
 
 Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16797,7 +16797,7 @@ Licencia mit
 
 Copyright (c) 2017 Jordan Harband
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16816,7 +16816,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2014 Aria Minaei
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16835,7 +16835,7 @@ Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
 
 Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16853,9 +16853,9 @@ Copyright (c) 2010-2014 Joyent, Inc.
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16873,7 +16873,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2010-2016 Robert Kieffer y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16892,7 +16892,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2010-2016 Robert Kieffer y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16909,9 +16909,9 @@ Copyright (c) 2014-2019
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16929,7 +16929,7 @@ Licencia mit
 
 Copyright (c) Michael Jackson 2016-2018
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16948,7 +16948,7 @@ vendors 1.0.4 - MIT https://github.com/wooorm/vendors#readme
 
 Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16965,7 +16965,7 @@ vm-browserify 1.1.2 - MIT https://github.com/substack/vm-browserify#readme
 
 Licencia mit
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16982,7 +16982,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -16999,9 +16999,9 @@ watchpack-chokidar2 2.0.0 - MIT https://github.com/webpack/watchpack
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17017,7 +17017,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17037,7 +17037,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2018 Scott Mikula
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17052,9 +17052,9 @@ webpack-bundle-diff-add-reasons 0.0.1 - MIT https://github.com/Adjective-Object/
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17072,7 +17072,7 @@ La licencia mit (MIT)
 
 Copyright (c) Dane Thurber <dane.thurber@gmail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17091,7 +17091,7 @@ Licencia mit
 
 Copyright (c) 2017 JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17107,9 +17107,9 @@ webpack-stats-extract-module-ids 0.0.2 - MIT https://github.com/Adjective-Object
 
 Licencia mit
 
-Copyright (c) <year><copyright holders>
+Copyright (c) <year> <copyright holders>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17125,7 +17125,7 @@ Copyright (c) 2014-2016 GitHub, Inc.
 
 Copyright (c) 2014-2016 GitHub, Inc.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17142,7 +17142,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17159,7 +17159,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17176,7 +17176,7 @@ Copyright 2018 Google LLC Copyright 2019 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17193,7 +17193,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17210,7 +17210,7 @@ Copyright 2018 Google LLC Copyright 2019 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17227,7 +17227,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17244,7 +17244,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17261,7 +17261,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17278,7 +17278,7 @@ Copyright 2018 Google LLC Copyright 2019 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17295,7 +17295,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17312,7 +17312,7 @@ Copyright 2018 Google LLC Copyright 2019 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17329,7 +17329,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17346,7 +17346,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17363,7 +17363,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17380,7 +17380,7 @@ Copyright 2018 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17397,7 +17397,7 @@ Copyright 2018 Google LLC Copyright 2019 Google LLC
 
 Copyright 2018 Google LLC
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17420,7 +17420,7 @@ Copyright (c) 2014 LevelUP Copyright (c) 2014 Rod Vagg rvagg (https://twitter.co
 
 *Colaboradores de LevelUP enumerados en <https://github.com/rvagg/node-levelup#contributors>*
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17437,7 +17437,7 @@ Copyright JS Foundation y otros colaboradores
 
 Copyright JS Foundation y otros colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software esté equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17457,7 +17457,7 @@ La licencia mit (MIT)
 
 Copyright (c) 2016 Christian Speckner <cnspeckn@googlemail.com>
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17474,7 +17474,7 @@ Copyright (c) 2012-2014 Raynos.
 
 La licencia MIT (MIT) Copyright (c) 2012-2014 Raynos.
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17491,7 +17491,7 @@ Copyright (c) 2013-2018 sha.js contributors Copyright (c) 1998 - 2009, Paul John
 
 Copyright (c) 2013-2018 sha.js colaboradores
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17524,7 +17524,7 @@ pako 1.0.11 - MIT AND Zlib https://github.com/nodeca/pako
 
 Copyright (C) 2014-2017 por Vitaly Puzrin y Andrei Tuputcyn
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17543,7 +17543,7 @@ La licencia mit
 
 Copyright (c) 2011 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
@@ -17565,7 +17565,7 @@ La licencia mit
 
 Copyright (c) 2013 Dominic Tarr
 
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a las que el Software está equipado para ello, con las siguientes condiciones:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 

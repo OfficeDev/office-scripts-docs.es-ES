@@ -1,14 +1,14 @@
 ---
 title: Combinar libros en un solo libro
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para crear hojas de cálculo de combinación de otros libros en un solo libro.
-ms.date: 09/03/2021
+ms.date: 09/17/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d2c9492e0e2164fe34cff21d92f3df4c9bee3fe
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: ffb0fd13cf587184aec87ade36e5e0e661043b94
+ms.sourcegitcommit: c23816babcc628b52f6d8aaa4b6342e04e83a5bd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59337970"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460788"
 ---
 # <a name="combine-worksheets-into-a-single-workbook"></a>Combinar hojas de cálculo en un solo libro
 
@@ -101,7 +101,7 @@ interface WorksheetData {
     * **Archivo:** el archivo
     * **Script**: Agregar hojas de cálculo
     * **workbookName**: *Name* (contenido dinámico de **archivos de lista en la carpeta**)
-    * **worksheetInformation:** *result* (contenido dinámico del **script Run**)
+    * **worksheetInformation** (después de seleccionar el botón **Cambiar** para introducir toda la matriz, vea la nota siguiente a la siguiente imagen): *result* (contenido dinámico del **script Run**)
 
     :::image type="content" source="../../images/combine-worksheets-flow-2.png" alt-text="Las dos acciones ejecutar script dentro del control Aplicar a cada control.":::
     > [!NOTE]
