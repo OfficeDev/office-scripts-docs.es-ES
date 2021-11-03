@@ -1,20 +1,20 @@
 ---
 title: Ejecute Office scripts con Power Automate
 description: Cómo obtener scripts Office para Excel en la Web trabajar con un flujo Power Automate de trabajo.
-ms.date: 05/17/2021
+ms.date: 11/01/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: b5bddae61961a56699f99111f71c4f152382f7c6
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 1a335944230011bc8f5967004b7394f3f5958321
+ms.sourcegitcommit: 634ad2061e683ae1032c1e0b55b00ac577adc34f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327871"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725594"
 ---
 # <a name="run-office-scripts-with-power-automate"></a>Ejecute Office scripts con Power Automate
 
 [Power Automate](https://flow.microsoft.com) permite agregar scripts Office a un flujo de trabajo más grande y automatizado. Puede usar Power Automate tareas como agregar el contenido de un correo electrónico a la tabla de una hoja de cálculo o crear acciones en las herramientas de administración de proyectos en función de los comentarios del libro.
 
-## <a name="get-started"></a>Introducción
+## <a name="get-started"></a>Comenzar
 
 Si no es nuevo en Power Automate, le recomendamos que visite [Introducción a Power Automate](/power-automate/getting-started). Allí, puede obtener más información sobre todas las posibilidades de automatización disponibles. Los documentos aquí se centran en cómo Office scripts funcionan con Power Automate y cómo esto puede ayudar a mejorar la experiencia Excel usuario.
 
@@ -46,17 +46,19 @@ Al agregar parámetros de entrada a la función de un script, tenga en cuenta `m
 
 1. El primer parámetro debe ser de tipo `ExcelScript.Workbook` . Su nombre de parámetro no importa.
 
-2. Cada parámetro debe tener un tipo (como `string` o `number` ).
+1. Cada parámetro debe tener un tipo (como `string` o `number` ).
 
-3. Los tipos básicos `string` , , , , y se `number` `boolean` `unknown` `object` `undefined` admiten.
+1. Los tipos básicos `string` , , , , y se `number` `boolean` `unknown` `object` `undefined` admiten.
 
-4. Se admiten matrices de los tipos básicos enumerados anteriormente.
+1. Se admiten matrices ( ) de los tipos básicos enumerados `[]` anteriormente.
+    > [!IMPORTANT]
+    > Tenga en cuenta que el objeto `Array<T>` no es un tipo de parámetro admitido.
 
-5. Las matrices anidadas se admiten como parámetros (pero no como tipos devueltos).
+1. Las matrices anidadas se admiten como parámetros (pero no como tipos devueltos).
 
-6. Los tipos de unión se permiten si son una unión de literales pertenecientes a un único tipo (por `"Left" | "Right"` ejemplo, ). También se admiten uniones de un tipo compatible con undefined (por ejemplo, `string | undefined` ).
+1. Los tipos de unión se permiten si son una unión de literales pertenecientes a un único tipo (por `"Left" | "Right"` ejemplo, ). También se admiten uniones de un tipo compatible con undefined (por ejemplo, `string | undefined` ).
 
-7. Los tipos de objeto se permiten si contienen propiedades de `string` tipo , `number` , `boolean` matrices admitidas u otros objetos admitidos. En el ejemplo siguiente se muestran objetos anidados que se admiten como tipos de parámetros:
+1. Los tipos de objeto se permiten si contienen propiedades de `string` tipo , `number` , `boolean` matrices admitidas u otros objetos admitidos. En el ejemplo siguiente se muestran objetos anidados que se admiten como tipos de parámetros:
 
     ```TypeScript
     // Office Scripts can return an Employee object because Position only contains strings and numbers.
@@ -71,15 +73,15 @@ Al agregar parámetros de entrada a la función de un script, tenga en cuenta `m
     }
     ```
 
-8. Los objetos deben tener definida su interfaz o definición de clase en el script. Un objeto también se puede definir de forma anónima en línea, como en el ejemplo siguiente:
+1. Los objetos deben tener definida su interfaz o definición de clase en el script. Un objeto también se puede definir de forma anónima en línea, como en el ejemplo siguiente:
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook): {name: string, email: string}
     ```
 
-9. Los parámetros opcionales se permiten y se pueden anotar como tales mediante el modificador opcional `?` (por ejemplo, `function main(workbook: ExcelScript.Workbook, Name?: string)` ).
+1. Los parámetros opcionales se permiten y se pueden anotar como tales mediante el modificador opcional `?` (por ejemplo, `function main(workbook: ExcelScript.Workbook, Name?: string)` ).
 
-10. Se permiten los valores de parámetro predeterminados (por `async function main(workbook: ExcelScript.Workbook, Name: string = 'Jane Doe')` ejemplo.
+1. Se permiten los valores de parámetro predeterminados (por `async function main(workbook: ExcelScript.Workbook, Name: string = 'Jane Doe')` ejemplo.
 
 ### <a name="return-data-from-a-script"></a>Devolver datos de un script
 
@@ -87,15 +89,17 @@ Los scripts pueden devolver datos del libro que se usarán como contenido dinám
 
 1. Los tipos básicos `string` , , , y son `number` `boolean` `void` `undefined` compatibles.
 
-2. Los tipos de unión usados como tipos devueltos siguen las mismas restricciones que cuando se usan como parámetros de script.
+1. Los tipos de unión usados como tipos devueltos siguen las mismas restricciones que cuando se usan como parámetros de script.
 
-3. Los tipos de matriz se permiten si son `string` de tipo , o `number` `boolean` . También se permiten si el tipo es una unión admitida o un tipo literal admitido.
+1. Los tipos de matriz ( `[]` ) se permiten si son de tipo , o `string` `number` `boolean` . También se permiten si el tipo es una unión admitida o un tipo literal admitido.
+    > [!IMPORTANT]
+    > Tenga en cuenta que el objeto `Array<T>` no es un tipo de valor devuelto admitido.
 
-4. Los tipos de objeto usados como tipos devueltos siguen las mismas restricciones que cuando se usan como parámetros de script.
+1. Los tipos de objeto usados como tipos devueltos siguen las mismas restricciones que cuando se usan como parámetros de script.
 
-5. Se admite la escritura implícita, aunque debe seguir las mismas reglas que un tipo definido.
+1. Se admite la escritura implícita, aunque debe seguir las mismas reglas que un tipo definido.
 
-## <a name="example"></a>Ejemplo
+## <a name="example"></a>Ejemplo:
 
 La siguiente captura de pantalla muestra un Power Automate [](https://github.com/) que se desencadena cada vez que se le asigna GitHub un problema. El flujo ejecuta un script que agrega el problema a una tabla de un Excel libro. Si hay cinco o más problemas en esa tabla, el flujo envía un aviso por correo electrónico.
 
@@ -122,7 +126,7 @@ function main(
 }
 ```
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Vea también
 
 - [Ejecute Office scripts en Excel en la Web con Power Automate](../tutorials/excel-power-automate-manual.md)
 - [Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente](../tutorials/excel-power-automate-trigger.md)

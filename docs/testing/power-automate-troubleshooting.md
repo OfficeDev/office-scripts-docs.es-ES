@@ -1,14 +1,14 @@
 ---
 title: Solucionar Office scripts que se ejecutan en Power Automate
 description: Sugerencias, información de plataforma y problemas conocidos con la integración entre Office scripts y Power Automate.
-ms.date: 05/18/2021
+ms.date: 11/01/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: aa0602720233afddd88ccfb8ee86d3934892a05f
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 028c34003a6f6b00c9afc67450b249b938d445fb
+ms.sourcegitcommit: 634ad2061e683ae1032c1e0b55b00ac577adc34f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59326852"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725626"
 ---
 # <a name="troubleshoot-office-scripts-running-in-power-automate"></a>Solucionar Office scripts que se ejecutan en Power Automate
 
@@ -69,13 +69,28 @@ Al compilar el **paso Ejecutar script** de un flujo Power Automate, debe selecci
 
 Para obtener más contexto sobre la limitación Power Automate y una discusión sobre posibles soluciones alternativas para la selección dinámica de libros, vea este subproceso en microsoft [Power Automate Community](https://powerusers.microsoft.com/t5/Power-Automate-Ideas/Allow-for-dynamic-quot-file-quot-value-for-excel-quot-get-a-row/idi-p/103091#).
 
+## <a name="pass-entire-arrays-as-script-parameters"></a>Pasar matrices enteras como parámetros de script
+
+Power Automate permite a los usuarios pasar matrices a los conectores como una variable o como elementos individuales de la matriz. El valor predeterminado es pasar elementos individuales, que compilan la matriz en el flujo. Para scripts u otros conectores que toman matrices completas como argumentos, debe seleccionar el botón **Cambiar** para introducir toda la matriz para pasar la matriz como un objeto completo. Este botón está en la esquina superior derecha de cada campo de entrada de parámetro de matriz.
+
+:::image type="content" source="../images/combine-worksheets-flow-3.png" alt-text="Botón para cambiar a la entrada de una matriz completa en un cuadro de entrada de campo de control.":::
+
 ## <a name="time-zone-differences"></a>Diferencias de zona horaria
 
 Excel archivos no tienen una ubicación o zona horaria inherentes. Cada vez que un usuario abre el libro, su sesión usa la zona horaria local de ese usuario para los cálculos de fecha. Power Automate siempre usa UTC.
 
 Si el script usa fechas u horas, puede haber diferencias de comportamiento cuando el script se prueba localmente frente a cuando se ejecuta a través de Power Automate. Power Automate permite convertir, dar formato y ajustar tiempos. Consulte [Trabajar](https://flow.microsoft.com/blog/working-with-dates-and-times/) con fechas y horas dentro de los flujos para obtener instrucciones sobre cómo usar esas funciones en Power Automate y [ `main` Parámetros:](../develop/power-automate-integration.md#main-parameters-pass-data-to-a-script) pasar datos a un script para obtener información sobre cómo proporcionar esa información de hora para el script.
 
-## <a name="see-also"></a>Ver también
+## <a name="script-parameter-fields-or-returned-output-not-appearing-in-power-automate"></a>Campos de parámetro script o resultados devueltos que no aparecen en Power Automate
+
+Hay dos motivos por los que los parámetros o los datos devueltos de un script no se reflejan con precisión en el generador Power Automate flujo.
+
+- La firma del script (los parámetros o el valor devuelto) ha cambiado desde que se Excel conector de empresa **(en** línea).
+- La firma de script usa tipos no admitidos. Compruebe los tipos con [](../develop/power-automate-integration.md#main-parameters-pass-data-to-a-script) las [](../develop/power-automate-integration.md#return-data-from-a-script) listas en los parámetros y devuelve secciones de [Ejecutar Office scripts con Power Automate](../develop/power-automate-integration.md) artículo.
+
+La firma de un script se almacena con **el Excel empresarial (en línea)** cuando se crea. Quite el conector antiguo y cree uno nuevo para obtener los parámetros más recientes y devolver valores para la **acción Ejecutar script.**
+
+## <a name="see-also"></a>Vea también
 
 - [Solucionar problemas Office scripts](troubleshooting.md)
 - [Ejecute Office scripts con Power Automate](../develop/power-automate-integration.md)
