@@ -1,14 +1,14 @@
 ---
 title: Convertir archivos CSV en Excel libros
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para crear .xlsx a partir de .csv archivos.
-ms.date: 07/19/2021
+ms.date: 11/02/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 213c6caab1d1b20d566aa0e79630c1a9b50554f7
-ms.sourcegitcommit: 5ec904cbb1f2cc00a301a5ba7ccb8ae303341267
+ms.openlocfilehash: 203174aec099e426b75d1c816fb3f849b4f13152
+ms.sourcegitcommit: 8df930d9ad90001dbed7cb9bd9015ebe7bc9854e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59447481"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793268"
 ---
 # <a name="convert-csv-files-to-excel-workbooks"></a>Convertir archivos CSV en Excel libros
 
@@ -99,3 +99,43 @@ function main(workbook: ExcelScript.Workbook, csv: string) {
     :::image type="content" source="../../images/convert-csv-flow-5.png" alt-text="El conector Excel Online (Empresa) completado en Power Automate.":::
 1. Guarde el flujo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos.** Asegúrese de permitir el acceso cuando se le pida.
 1. Debe encontrar nuevos archivos .xlsx en la carpeta "salida", junto con los archivos .csv originales. Los libros nuevos contienen los mismos datos que los archivos CSV.
+
+## <a name="troubleshooting"></a>Solución de problemas
+
+El script espera que los valores separados por comas hagan un intervalo rectangular. Si el archivo .csv contiene filas con diferentes números de columnas, aparecerá un error que indica: "El número de filas o columnas de la matriz de entrada no coincide con el tamaño o las dimensiones del rango". Si no se puede hacer que los datos se ajusten a una forma rectangular, use el siguiente script en su lugar. Este script agrega los datos una fila a la vez, en lugar de como un intervalo único. Este script es menos eficaz y es notablemente más lento con conjuntos de datos grandes.
+
+```TypeScript
+function main(workbook: ExcelScript.Workbook, csv: string) {
+  let sheet = workbook.getWorksheet("Sheet1");
+
+  /* Convert the CSV data into a 2D array. */
+  // Trim the trailing new line.
+  csv = csv.trim();
+
+  // Split each line into a row.
+  let rows = csv.split("\r\n");
+  rows.forEach((value, index) => {
+    /*
+     * For each row, match the comma-separated sections.
+     * For more information on how to use regular expressions to parse CSV files,
+     * see this Stack Overflow post: https://stackoverflow.com/a/48806378/9227753
+     */
+    let row = value.match(/(?:,|\n|^)("(?:(?:"")*[^"]*)*"|[^",\n]*|(?:\n|$))/g);
+
+    // Remove the preceding comma.
+    row.forEach((cell, index) => {
+      row[index] = cell.indexOf(",") === 0 ? cell.substr(1) : cell;
+    });
+
+    // Create a 2D-array with one row.
+    let data: string[][] = [];
+    data.push(row);
+
+    // Put the data in the worksheet.
+    let range = sheet.getRangeByIndexes(index, 0, 1, data[0].length);
+    range.setValues(data);
+  });
+
+  // Add any formatting or table creation that you want.
+}
+```
