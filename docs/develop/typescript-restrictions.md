@@ -1,18 +1,18 @@
 ---
 title: Restricciones de TypeScript en Office scripts
 description: Los detalles del compilador TypeScript y linter usados por el editor de código Office scripts.
-ms.date: 07/14/2021
+ms.date: 11/09/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e63f61116bcff64ba6ad2a24a09253cccbdce10
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 7b67ccb4898823100e890aa5c8c0332d28a4522b
+ms.sourcegitcommit: ddbb1c66d627ffabbfc3b938d6e25cf6fe3cc13f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59326887"
+ms.lasthandoff: 11/12/2021
+ms.locfileid: "60924106"
 ---
 # <a name="typescript-restrictions-in-office-scripts"></a>Restricciones de TypeScript en Office scripts
 
-Office Los scripts usan el lenguaje TypeScript. En su mayoría, cualquier código TypeScript o JavaScript funcionará en Office scripts. Sin embargo, el Editor de código aplica algunas restricciones para garantizar que el script funciona de forma coherente y según lo previsto con el Excel libro.
+Office scripts usan el lenguaje TypeScript. En su mayoría, cualquier código TypeScript o JavaScript funcionará en Office scripts. Sin embargo, el Editor de código aplica algunas restricciones para garantizar que el script funciona de forma coherente y según lo previsto con el Excel libro.
 
 ## <a name="no-any-type-in-office-scripts"></a>No hay tipo de "ninguno" en Office scripts
 
@@ -47,7 +47,7 @@ Las clases e interfaces que se crean en su Office script no pueden [extender](ht
 
 ## <a name="incompatible-typescript-functions"></a>Funciones de TypeScript incompatibles
 
-Office Las API de scripts no se pueden usar en lo siguiente:
+Office API de scripts no se pueden usar en lo siguiente:
 
 * [Funciones de generador](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Iterators_and_Generators#generator_functions)
 * [Array.sort](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
@@ -83,7 +83,7 @@ let filteredArray = myArray.filter((x) => {
 
 ## <a name="unions-of-excelscript-types-and-user-defined-types-arent-supported"></a>No se admiten uniones de tipos y tipos definidos `ExcelScript` por el usuario
 
-Office Los scripts se convierten en tiempo de ejecución de bloques de código sincrónicos a asincrónicos. La comunicación con el libro a través [de las promesas](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise) está oculta del creador de scripts. Esta conversión no admite tipos de [unión](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types) que incluyan tipos y tipos `ExcelScript` definidos por el usuario. En ese caso, se devuelve al script, pero el compilador Office Script no lo espera y el creador de scripts no puede `Promise` interactuar con `Promise` .
+Office scripts se convierten en tiempo de ejecución de bloques de código sincrónicos a asincrónicos. La comunicación con el libro a través [de las promesas](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise) está oculta del creador de scripts. Esta conversión no admite tipos de [unión](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types) que incluyan tipos y tipos `ExcelScript` definidos por el usuario. En ese caso, se devuelve al script, pero el compilador Office Script no lo espera y el creador de scripts no puede `Promise` interactuar con `Promise` .
 
 En el ejemplo de código siguiente se muestra una unión no compatible entre `ExcelScript.Table` y una interfaz `MyTable` personalizada.
 
@@ -103,6 +103,25 @@ function main(workbook: ExcelScript.Workbook) {
 
 interface MyTable {
   getName(): string
+}
+```
+
+## <a name="constructors-dont-support-office-scripts-apis-and-console-statements"></a>Los constructores no admiten Office API y instrucciones de scripts `console`
+
+`console`instrucciones y muchas API Office scripts requieren sincronización con el Excel de trabajo. Estas sincronizaciones usan `await` instrucciones en la versión en tiempo de ejecución compilada del script. `await` no se admite en [constructores](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes/constructor). Si necesita clases con constructores, evite usar Office API de scripts o `console` instrucciones en esos bloques de código.
+
+En el ejemplo de código siguiente se muestra este escenario. Genera un error que indica `failed to load [code] [library]` .
+
+```TypeScript
+function main(workbook: ExcelScript.Workbook) {
+  class MyClass {
+    constructor() {
+      // Console statements and Office Scripts APIs aren't supported in constructors.
+      console.log("This won't print.");
+    }
+  }
+
+  let test = new MyClass();
 }
 ```
 
