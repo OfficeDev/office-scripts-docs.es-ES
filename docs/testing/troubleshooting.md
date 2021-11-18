@@ -1,22 +1,25 @@
 ---
 title: Solucionar problemas Office scripts
 description: Sugerencias y técnicas de depuración para Office scripts, así como recursos de ayuda.
-ms.date: 09/15/2021
+ms.date: 11/11/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 5229490e2487974f751456ef63004bcb27f7b09c
-ms.sourcegitcommit: 5ec904cbb1f2cc00a301a5ba7ccb8ae303341267
+ms.openlocfilehash: 2c43d0e4b1f4fd5675397fd79eaab1345ae39b98
+ms.sourcegitcommit: 24a6b8ae0cc57a0307fbc9b3e87432f1f4a92263
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59447488"
+ms.lasthandoff: 11/17/2021
+ms.locfileid: "61064205"
 ---
 # <a name="troubleshoot-office-scripts"></a>Solucionar problemas Office scripts
 
 A medida que desarrolla Office scripts, puede cometer errores. Está bien. Tiene las herramientas para ayudar a encontrar los problemas y hacer que los scripts funcionen perfectamente.
 
+> [!NOTE]
+> Para obtener consejos de solución de problemas específicos Office scripts con Power Automate, vea [Troubleshoot Office Scripts running in Power Automate](power-automate-troubleshooting.md).
+
 ## <a name="types-of-errors"></a>Tipos de errores
 
-Office Los errores de scripts se ensoyen en una de dos categorías:
+Office errores de scripts se en una de dos categorías:
 
 * Errores o advertencias en tiempo de compilación
 * Errores en tiempo de ejecución
@@ -76,17 +79,9 @@ Los siguientes pasos deben ayudar a solucionar los problemas relacionados con la
 
 [!INCLUDE [Teams support note](../includes/teams-support-note.md)]
 
-## <a name="troubleshoot-scripts-in-power-automate"></a>Solucionar problemas de scripts en Power Automate
-
-Para obtener información específica sobre la ejecución de scripts Power Automate, vea [Troubleshoot Office Scripts running in Power Automate](power-automate-troubleshooting.md).
-
 ## <a name="help-resources"></a>Recursos de ayuda
 
 [Stack Overflow](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores dispuestos a ayudar con problemas de codificación. A menudo, podrás encontrar la solución al problema mediante una búsqueda rápida de desbordamiento de pila. Si no es así, haga su pregunta y etiquete con la etiqueta "office-scripts". Asegúrese de mencionar que está creando un script Office *,* no un Office *complemento*.
-
-Para enviar una solicitud de característica Office scripts o para informar de un problema con la característica, use el botón comentarios en el Editor de código. En el menú Más opciones **(...)** del panel  de tareas Editor de código, seleccione el botón Enviar comentarios para compartir sus necesidades de características y otras experiencias.
-
-:::image type="content" source="../images/code-editor-feedback.png" alt-text="Menú desbordado editor de código con el botón &quot;Enviar comentarios&quot;.":::
 
 ## <a name="see-also"></a>Consulte también
 

@@ -1,4 +1,4 @@
-# <a name="office-scripts-in-excel-on-the-web-documentation"></a>Office Scripts en Excel en la Web documentación
+# <a name="office-scripts-in-excel-on-the-web-documentation"></a>Office scripts en Excel en la Web documentación
 
 Bienvenido al repositorio de documentación Office scripts. En este repositorio, puede encontrar los archivos de origen de documentación para Office tutoriales de scripts y guías de cómo hacerlo. Para una mejor experiencia, le recomendamos ver este contenido en [docs.microsoft.com](https://docs.microsoft.com/office/dev/scripts).
 
@@ -25,7 +25,6 @@ Si el problema no está relacionado con la documentación Office scripts, en su 
 
 - Para hacer una pregunta sobre el diseño de scripts de Office o la API de Office.js que ejecuta scripts de Office, publique su pregunta en Desbordamiento de pila y etiquete con la etiqueta "office-scripts" ( https://stackoverflow.com/questions/tagged/office-scripts) .
 - Para notificar un problema con la API de Office.js, cree el problema en el repositorio [officeDev/office-js](https://github.com/OfficeDev/office-js), que los miembros del equipo de producto supervisan los problemas notificados por el cliente.
-- Para enviar una solicitud de característica para Office scripts, use el botón comentarios en el Editor de código. En el menú Más opciones **(...)** del panel  de tareas Editor de código, seleccione el botón Enviar comentarios para compartir sus necesidades de características y otras experiencias.
 
 ## <a name="copyright"></a>Copyright
 
