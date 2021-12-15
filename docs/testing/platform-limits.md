@@ -1,14 +1,14 @@
 ---
 title: Límites y requisitos de plataforma con Office scripts
 description: Límites de recursos y compatibilidad del explorador para Office scripts cuando se usan con Excel en la Web
-ms.date: 05/17/2021
+ms.date: 12/14/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 6db32cd1c72850f02ee9e2a714c1a0a3bccd727d
-ms.sourcegitcommit: ea9c3685a7407a07acf802705f4f44fb007c7825
+ms.openlocfilehash: e0c2c8108bb36dc979b33e195cdc0e0e17a586ba
+ms.sourcegitcommit: 1e561d245d9ab7f2529a1b071b1fa0326e37c4ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61333494"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61513632"
 ---
 # <a name="platform-limits-and-requirements-with-office-scripts"></a>Límites y requisitos de plataforma con Office scripts
 
@@ -51,12 +51,15 @@ Si encuentra errores al tratar con conjuntos de datos grandes, intente usar vari
 
 Al usar Office scripts con Power Automate, cada usuario está limitado a **800** llamadas a la acción Ejecutar script por día . Este límite se restablece a las 12:00 UTC.
 
-La Power Automate también tiene limitaciones de uso, que se pueden encontrar en los siguientes artículos:
+La Power Automate también tiene limitaciones de uso, que se pueden encontrar en los siguientes artículos.
 
 - [Límites y configuración en Power Automate](/power-automate/limits-and-config)
 - [Problemas y limitaciones conocidos para el conector Excel Online (Empresa)](/connectors/excelonlinebusiness/#known-issues-and-limitations)
 
-## <a name="see-also"></a>Vea también
+> [!NOTE]
+> Si tiene un script de ejecución larga, tenga en cuenta el tiempo de espera de 120 segundos para las operaciones Power Automate [sincrónicas](/power-automate/limits-and-config#timeout). Deberá optimizar el [script](../develop/web-client-performance.md) o dividir la automatización Excel en varios scripts.
+
+## <a name="see-also"></a>Consulte también
 
 - [Solucionar problemas Office scripts](troubleshooting.md)
 - [Deshacer los efectos de Scripts de Office](undo.md)
