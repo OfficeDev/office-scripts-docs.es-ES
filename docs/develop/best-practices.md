@@ -1,18 +1,24 @@
 ---
 title: Procedimientos recomendados para Scripts de Office
 description: Cómo evitar problemas comunes y escribir scripts Office que puedan controlar datos o entradas inesperadas.
-ms.date: 05/10/2021
+ms.date: 12/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: c37559c978a04bd99fff044674b2f64b7758438b
-ms.sourcegitcommit: 5ec904cbb1f2cc00a301a5ba7ccb8ae303341267
+ms.openlocfilehash: 19b10cf6ea778f109edeb74fa5995628bb8bf632
+ms.sourcegitcommit: c62567dc1188527511e4618d3e04e26580d4bb44
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59447466"
+ms.lasthandoff: 01/03/2022
+ms.locfileid: "61659197"
 ---
 # <a name="best-practices-in-office-scripts"></a>Procedimientos recomendados para Scripts de Office
 
 Estos patrones y prácticas están diseñados para ayudar a que los scripts se ejecuten correctamente cada vez. Úselos para evitar problemas comunes al empezar a automatizar el flujo Excel de trabajo.
+
+## <a name="use-the-action-recorder-to-learn-new-features"></a>Usar la grabadora de acciones para aprender nuevas características
+
+Excel muchas cosas. La mayoría de ellos se pueden crear con scripts. La Grabadora de acciones registra Excel acciones y las convierte en código. Esta es la forma más sencilla de obtener información sobre cómo funcionan las diferentes características con Office scripts. Si necesita código para una acción específica, cambie a la Grabadora de acciones, realice las acciones, seleccione Copiar como código y pegue el código resultante en el script.
+
+:::image type="content" source="../images/action-recorder-copy-code.png" alt-text="Panel de tareas Grabadora de acciones con el botón &quot;Copiar como código&quot; resaltado.":::
 
 ## <a name="verify-an-object-is-present"></a>Comprobar que un objeto está presente
 
@@ -168,7 +174,7 @@ try {
 > [!NOTE]
 > Usar `try...catch` dentro o alrededor de un bucle ralentiza el script. Para obtener más información sobre el rendimiento, vea [Avoid using `try...catch` blocks](web-client-performance.md#avoid-using-trycatch-blocks-in-or-surrounding-loops).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Solución de problemas de scripts de Office](../testing/troubleshooting.md)
 - [Solución de problemas de información Power Automate con scripts Office datos](../testing/power-automate-troubleshooting.md)
