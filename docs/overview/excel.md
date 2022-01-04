@@ -2,14 +2,14 @@
 title: Scripts de Office en Excel en la Web
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
 ms.topic: overview
-ms.date: 09/17/2021
+ms.date: 12/29/2021
 ms.localizationpriority: high
-ms.openlocfilehash: 8fdb39b2e0dd35cd09d5d8c65b17d6ee3f8fd08d
-ms.sourcegitcommit: 1e561d245d9ab7f2529a1b071b1fa0326e37c4ca
+ms.openlocfilehash: baf1957fc476279e1c1e53ebe568dabe1498a4ee
+ms.sourcegitcommit: c62567dc1188527511e4618d3e04e26580d4bb44
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61513639"
+ms.lasthandoff: 01/03/2022
+ms.locfileid: "61659190"
 ---
 # <a name="office-scripts-in-excel-on-the-web"></a>Scripts de Office en Excel en la Web
 
@@ -59,9 +59,12 @@ La Grabadora de acciones graba las acciones que realiza en Excel y las guarda co
 
 Todos los scripts registrados en la Grabadora de acciones se pueden editar con el Editor de código. Esto le permite modificar y personalizar el script para adecuarlo mejor a sus necesidades concretas. También puede agregar lógica y funciones que no son accesibles directamente desde la interfaz de usuario de Excel, como condicionales (si/si no) y bucles.
 
-Una forma sencilla de descubrir de lo que son capaces los scripts de Office es grabar scripts en Excel en la Web y ver el código resultante. Una forma más detallada y estructurada de aprender es seguir nuestros [tutoriales](../tutorials/excel-tutorial.md).
+> [!TIP]
+> La grabadora de acciones dispone del botón **Copiar como código** para grabar acciones en código de script sin guardar todo el script.
+>
+> :::image type="content" source="../images/action-recorder-copy-code.png" alt-text="Panel de tareas Grabadora de acciones con el botón &quot;Copiar como código&quot; resaltado.":::
 
-Después de completar el tutorial, lea [Fundamentos de creación de scripts para Scripts de Office en Excel en la Web](../develop/scripting-fundamentals.md) para obtener más información sobre el Editor de código y sobre cómo escribir y editar sus propios scripts. Para obtener más información sobre el Editor de código y cómo se interpreta el código de un script, lea [Entorno del Editor de código de Scripts de Office](code-editor-environment.md).
+Nuestros [tutoriales](../tutorials/excel-tutorial.md) proporcionan una forma guiada y estructurada de aprender las capacidades de los scripts de Office. Después de completar los tutoriales, lea [Conceptos básicos de los Scripts de Office en Excel en la web](../develop/scripting-fundamentals.md) para obtener más información sobre el Editor de código y cómo escribir y editar sus propios scripts. Para obtener más información sobre el Editor de código y cómo se interpreta el código de un script, lea [Entorno del Editor de código de Scripts de Office](code-editor-environment.md).
 
 ## <a name="share-scripts"></a>Compartir scripts
 
