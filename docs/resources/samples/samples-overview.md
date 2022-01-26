@@ -1,16 +1,16 @@
 ---
-title: Office Ejemplos de scripts
+title: Office ejemplos de scripts
 description: Disponible Office ejemplos de scripts y escenarios.
-ms.date: 09/03/2021
+ms.date: 01/20/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d11e15a7e839f33a74ca8ad7f1d09dd7711347c
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: ca8ed15983c2171c2e9eb2291cc78d7e4d536ac8
+ms.sourcegitcommit: 161229492c85f3519c899573cf5022140026e7b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59334937"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62220410"
 ---
-# <a name="office-scripts-samples-and-scenarios"></a>Office Ejemplos y escenarios de scripts
+# <a name="office-scripts-samples-and-scenarios"></a>Office ejemplos y escenarios de scripts
 
 En esta sección se [Office soluciones](../../overview/excel.md) de automatización basadas en scripts que ayudan a los usuarios finales a lograr la automatización de las tareas diarias. Contiene escenarios realistas a los que se enfrentan los usuarios empresariales y proporciona soluciones detalladas junto con vínculos de vídeo instructivo paso a paso.
 
@@ -22,18 +22,19 @@ También agradecemos [las contribuciones de la comunidad.](#community-contributi
 
 ## <a name="basics"></a>Conceptos básicos
 
-| Proyecto | Detalles |
+| Project | Detalles |
 |---------|---------|
 | [Conceptos básicos de scripting](../excel-samples.md) | Estos ejemplos muestran bloques de creación fundamentales para Office scripts. |
 | [Agregar comentarios en Excel](add-excel-comments.md) | En este ejemplo se agregan comentarios a una celda @mentioning un compañero. |
 | [Agregar imágenes a un libro](add-image-to-workbook.md) | En este ejemplo se agrega una imagen a un libro y se copia una imagen entre hojas.|
 | [Copiar varias Excel en una sola tabla](copy-tables-combine.md) | En este ejemplo se combinan los datos de varias Excel tablas en una sola tabla que incluye todas las filas. |
+| [Crear una tabla de contenido de libro](table-of-contents.md) | En este ejemplo se crea una tabla de contenido con vínculos a cada hoja de cálculo. |
 
 ## <a name="beyond-the-basics"></a>Más allá de los aspectos básicos
 
 Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo junto con scripts completos, archivos Excel de ejemplo usados y vídeos (hospedados en [YouTube).](https://www.youtube.com/playlist?list=PLr3zVPZrMOUMl88fs8uc2GGAePRnNe6m0)
 
-| Proyecto | Detalles |
+| Project | Detalles |
 |---------|---------|
 | [Combinar hojas de cálculo en un solo libro](combine-worksheets-into-single-workbook.md) | En este ejemplo se Office scripts y Power Automate para extraer datos de otros libros en un solo libro. |
 | [Convertir archivos CSV en Excel libros](convert-csv.md) | En este ejemplo se Office scripts y Power Automate para crear .xlsx archivos .csv archivos. |
@@ -51,7 +52,7 @@ Consulte el siguiente proyecto completo que automatiza escenarios de ejemplo jun
 
 ## <a name="scenarios"></a>Escenarios
 
-Office Los scripts pueden automatizar partes de la rutina diaria. Estas tareas cotidianas a menudo existen en ecosistemas únicos, con Excel libros que se establecen de maneras particulares. Estos ejemplos de escenarios más grandes muestran estos casos de uso reales. Incluyen los scripts de Office y los libros, para que pueda ver el escenario de un extremo a otro.
+Office scripts pueden automatizar partes de su rutina diaria. Estas tareas cotidianas a menudo existen en ecosistemas únicos, con Excel libros que se establecen de maneras particulares. Estos ejemplos de escenarios más grandes muestran estos casos de uso reales. Incluyen los scripts de Office y los libros, para que pueda ver el escenario de un extremo a otro.
 
 | Escenario | Detalles |
 |---------|---------|
@@ -65,7 +66,7 @@ Office Los scripts pueden automatizar partes de la rutina diaria. Estas tareas c
 
 ¡Agradecemos [las contribuciones](https://github.com/OfficeDev/office-scripts-docs/blob/master/Contributing.md) de nuestra Office scripts! No dude en crear una solicitud de extracción para su revisión.
 
-| Proyecto | Detalles |
+| Project | Detalles |
 |---------|---------|
 | [Juego de vida](https://techcommunity.microsoft.com/t5/excel-blog/ready-player-zero/ba-p/2246208) | El blog "Ready Player Zero" de Yutao Huang en Excel Tech Community incluye un script para modelar [*El juego*](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)de la vida de John Conway. |
 | [Animación de saludos de temporadas](community-seasons-greetings.md) | Este script fue contribuido por [Leslie Black](https://www.linkedin.com/in/lesblackconsultant/) en el ánimo de la temporada de vacaciones. Es un script divertido que muestra un árbol de Navidad cantando en Excel en la Web usando Office scripts. |
