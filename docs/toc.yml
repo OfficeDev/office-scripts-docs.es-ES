@@ -63,6 +63,8 @@ items:
                 href: resources/samples/add-image-to-workbook.md
               - name: Copiar varias tablas en una sola tabla
                 href: resources/samples/copy-tables-combine.md
+              - name: Crear una tabla de contenido de libro
+                href: resources/samples/table-of-contents.md
           - name: Más allá de los aspectos básicos
             items:
               - name: Combinar hojas de cálculo en un solo libro

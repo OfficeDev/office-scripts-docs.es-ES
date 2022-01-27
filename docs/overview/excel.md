@@ -4,12 +4,12 @@ description: Breve introducción a la Grabadora de acciones y el Editor de códi
 ms.topic: overview
 ms.date: 12/29/2021
 ms.localizationpriority: high
-ms.openlocfilehash: baf1957fc476279e1c1e53ebe568dabe1498a4ee
-ms.sourcegitcommit: c62567dc1188527511e4618d3e04e26580d4bb44
+ms.openlocfilehash: 0d06bbc386f0a9189fe1abd3b25b72a43c2ac7bd
+ms.sourcegitcommit: 161229492c85f3519c899573cf5022140026e7b8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2022
-ms.locfileid: "61659190"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62220382"
 ---
 # <a name="office-scripts-in-excel-on-the-web"></a>Scripts de Office en Excel en la Web
 
@@ -72,7 +72,7 @@ Nuestros [tutoriales](../tutorials/excel-tutorial.md) proporcionan una forma gui
 
 Los Scripts de Office se pueden compartir con otros usuarios de un libro de Excel. Al compartir un script en un libro compartido, todos los usuarios con acceso al libro también pueden ver y ejecutar el script.
 
-Puede obtener más información sobre scripts compartidos y no compartidos en el artículo [Compartir Scripts de Office en Excel para la web](https://support.microsoft.com/office/226eddbc-3a44-4540-acfe-fccda3d1122b).
+Para obtener más información sobre cómo compartir y dejar de compartir scripts, consulte [Compartir Scripts de Office en Excel para la Web](https://support.microsoft.com/office/226eddbc-3a44-4540-acfe-fccda3d1122b).
 
 > [!NOTE]
 > Obtenga más información sobre cómo se almacenan los scripts en su OneDrive en [propiedad y almacenamiento de archivos de Scripts de Office](script-storage.md).
