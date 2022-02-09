@@ -1,0 +1,2 @@
+> [!NOTE]
+> Esta característica se está implementando y no está disponible para todos los usuarios. Se distribuye lentamente a un mayor número de usuarios para asegurarse de que funciona según lo previsto. Esta característica está sujeta a cambios en función de sus comentarios.
