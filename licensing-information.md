@@ -1,7 +1,7 @@
 AVISOS E INFORMACIÓN No traducir ni localizar
 
 Este software incorpora material de terceros.
-Microsoft pone cierto código de código abierto disponible en , o puede enviar un cheque o giro postal por 5,00 USD, incluido el nombre del producto, el nombre del componente de código abierto, la plataforma y el número de https://3rdpartysource.microsoft.com versión, a:
+https://3rdpartysource.microsoft.comMicrosoft pone cierto código de código abierto disponible en , o puede enviar un cheque o giro postal por 5,00 USD, incluido el nombre del producto, el nombre del componente de código abierto, la plataforma y el número de versión, a:
 
 Equipo de cumplimiento de código fuente Microsoft Corporation One Microsoft Way Redmond, WA 98052 USA
 
@@ -9,7 +9,7 @@ No obstante cualquier otro término, puede realizar ingeniería inversa de este 
 
 ---------------------------------------------------------
 
-tslib 2.3.1 - 0BSD https://www.typescriptlang.org/
+tslib 1.13.0 - 0BSD https://www.typescriptlang.org/
 
 Copyright (c) Microsoft Corporation.
 
@@ -23,7 +23,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL AUTOR RENUNCIA A TODAS LAS GARA
 
 ---------------------------------------------------------
 
-tslib 1.13.0 - 0BSD https://www.typescriptlang.org/
+tslib 2.3.1 - 0BSD https://www.typescriptlang.org/
 
 Copyright (c) Microsoft Corporation.
 
@@ -534,7 +534,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
    APÉNDICE: Cómo aplicar la licencia de Apache a su trabajo.
 
-      Para aplicar la licencia de Apache a su trabajo, adjunte el siguiente aviso reutilizable, con los campos entre corchetes " " reemplazados por {} su propia información de identificación. (¡No incluya los corchetes!)  El texto debe incluirse en la sintaxis de comentario adecuada para el formato de archivo. También se recomienda incluir un nombre de archivo o clase y una descripción de propósito en la misma "página impresa" que el aviso de copyright para facilitar la identificación en los archivos de terceros.
+      Para aplicar la licencia de Apache a su trabajo, adjunte el siguiente aviso reutilizable, con los campos entre corchetes "{}" reemplazados por su propia información de identificación. (¡No incluya los corchetes!)  El texto debe incluirse en la sintaxis de comentario adecuada para el formato de archivo. También se recomienda incluir un nombre de archivo o clase y una descripción de propósito en la misma "página impresa" que el aviso de copyright para facilitar la identificación en los archivos de terceros.
 
    Copyright 2015 AJ ONeal
 
@@ -600,7 +600,7 @@ Se permite la redistribución y el uso en formularios binarios y de origen, con 
   * Las redistribuciones del código fuente deben conservar el aviso de copyright anterior, esta lista de condiciones y el siguiente aviso de declinación de responsabilidades.
   * Las redistribuciones en formato binario deben reproducir el aviso de copyright anterior, esta lista de condiciones y el siguiente aviso de declinación de responsabilidades en la documentación y/u otros materiales proporcionados con la distribución.
 
-ESTE SOFTWARE LO PROPORCIONAN LOS TITULARES DE DERECHOS DE AUTOR Y LOS COLABORADORES "TAL COMO ESTÁN" Y SE RECHAZAN LAS GARANTÍAS EXPLÍCITAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y IDONEIDAD PARA UN FIN DETERMINADO. EN NINGÚN CASO SERÁ RESPONSABLE DE NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENTE (INCLUIDOS, ENTRE OTROS, LA ADQUISICIÓN DE PRODUCTOS O SERVICIOS <COPYRIGHT HOLDER> SUSTITUTOS; PÉRDIDA DE USO, DATOS O GANANCIAS; O INTERRUPCIÓN DEL NEGOCIO) SIN EMBARGO CAUSADA Y EN CUALQUIER TEORÍA DE RESPONSABILIDAD, YA SEA EN CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUIDA LA NEGLIGENCIA O DE OTRO MODO) QUE SURJA DE CUALQUIER MANERA FUERA DEL USO DE ESTE SOFTWARE, INCLUSO SI SE LE INFORMA DE LA POSIBILIDAD DE DICHOS DAÑOS.
+ESTE SOFTWARE LO PROPORCIONAN LOS TITULARES DE DERECHOS DE AUTOR Y LOS COLABORADORES "TAL COMO ESTÁN" Y SE RECHAZAN LAS GARANTÍAS EXPLÍCITAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y IDONEIDAD PARA UN FIN DETERMINADO. EN NINGÚN CASO <COPYRIGHT HOLDER> SERÁ RESPONSABLE DE NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENTE (INCLUIDOS, ENTRE OTROS, LA ADQUISICIÓN DE PRODUCTOS O SERVICIOS SUSTITUTOS; PÉRDIDA DE USO, DATOS O GANANCIAS; O INTERRUPCIÓN DEL NEGOCIO) SIN EMBARGO CAUSADA Y EN CUALQUIER TEORÍA DE RESPONSABILIDAD, YA SEA EN CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUIDA LA NEGLIGENCIA O DE OTRO MODO) QUE SURJA DE CUALQUIER MANERA FUERA DEL USO DE ESTE SOFTWARE, INCLUSO SI SE LE INFORMA DE LA POSIBILIDAD DE DICHOS DAÑOS.
 
 
 ---------------------------------------------------------
@@ -1088,9 +1088,9 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL AUTOR RENUNCIA A TODAS LAS GARA
 
 ----
 
-Esta biblioteca agrupa una versión de los métodos and de `fs.realpath` Node.js v0.10 en los términos de la licencia Node.js `fs.realpathSync` MIT.
+Esta biblioteca agrupa una versión de `fs.realpath` los métodos and `fs.realpathSync` de Node.js v0.10 en los términos de la licencia Node.js MIT.
 
-La licencia de Node sigue, también incluida en el encabezado del cual `old.js` contiene el código de licencia:
+La licencia de Node sigue, también incluida en el encabezado `old.js` del cual contiene el código de licencia:
 
   Copyright Joyent, Inc. y otros colaboradores de Node.
 
@@ -1119,7 +1119,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL AUTOR RENUNCIA A TODAS LAS GARA
 
 ## <a name="glob-logo"></a>Logotipo glob
 
-Logotipo de Glob creado por Tanya Brassie , con licencia bajo una licencia <http://tanyabrassie.com/> Creative Commons Attribution-ShareAlike 4.0 International License https://creativecommons.org/licenses/by-sa/4.0/
+Logotipo de Glob creado por Tanya Brassie <http://tanyabrassie.com/>, con licencia bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International License https://creativecommons.org/licenses/by-sa/4.0/
 
 
 ---------------------------------------------------------
@@ -1359,7 +1359,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ" Y EL AUTOR RENUNCIA A TODAS LAS GARA
 
 ---------------------------------------------------------
 
-@babel/marco de código 7.5.5 - MIT https://babeljs.io/
+@babel/marco de código 7.10.1 - MIT https://babeljs.io/
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
@@ -1378,7 +1378,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-@babel/marco de código 7.10.1 - MIT https://babeljs.io/
+@babel/marco de código 7.5.5 - MIT https://babeljs.io/
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
@@ -1717,31 +1717,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-@fluentui/dom-utilities 2.1.4 - MIT https://github.com/microsoft/fluentui#readme
-
-
-@fluentui/dom-utilities
-
-Copyright (c) Microsoft Corporation
-
-Todos los derechos reservados.
-
-Licencia mit
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1766,7 +1742,31 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+@fluentui/dom-utilities 2.1.4 - MIT https://github.com/microsoft/fluentui#readme
+
+
+@fluentui/dom-utilities
+
+Copyright (c) Microsoft Corporation
+
+Todos los derechos reservados.
+
+Licencia mit
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software""), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1790,7 +1790,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1814,7 +1814,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1839,7 +1839,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1864,7 +1864,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1889,7 +1889,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1915,7 +1915,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fabric-assets-license
 
@@ -1939,7 +1939,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1964,7 +1964,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -1989,7 +1989,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2014,7 +2014,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2038,7 +2038,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2063,7 +2063,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2088,7 +2088,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2113,7 +2113,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2335,7 +2335,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2360,7 +2360,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2385,7 +2385,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2410,7 +2410,7 @@ Por la presente se concede permiso, de forma gratuita, a cualquier persona que o
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA TAL COMO ESTÁ *,* SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+EL SOFTWARE SE PROPORCIONA TAL COMO *ESTÁ, SIN* GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent interfaz React está sujeto a los términos enumerados enhttps://aka.ms/fluentui-assets-license
 
@@ -2500,7 +2500,45 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ansi-escapes 3.2.0 - MIT https://github.com/sindresorhus/ansi-escapes#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+Licencia mit
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+ansi-regex 2.1.1 - MIT https://github.com/chalk/ansi-regex#readme
+
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+La licencia mit (MIT)
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+ansi-regex 3.0.0 - MIT https://github.com/chalk/ansi-regex#readme
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -2536,47 +2574,9 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-ansi-regex 3.0.0 - MIT https://github.com/chalk/ansi-regex#readme
-
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-Licencia mit
-
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-ansi-regex 2.1.1 - MIT https://github.com/chalk/ansi-regex#readme
-
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-La licencia mit (MIT)
-
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 ansi-styles 2.2.1 - MIT https://github.com/chalk/ansi-styles#readme
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -2614,7 +2614,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 array-union 1.0.2 - MIT https://github.com/sindresorhus/array-union#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -2633,7 +2633,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 array-uniq 1.0.3 - MIT https://github.com/sindresorhus/array-uniq#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -2653,7 +2653,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 array-unique 0.3.2 - MIT https://github.com/jonschlinkert/array-unique
 
 Copyright (c) 2014-2016, Jon Schlinkert Copyright (c) 2014-2015, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -2673,7 +2673,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 arr-diff 4.0.0 - MIT https://github.com/jonschlinkert/arr-diff
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -2693,7 +2693,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 arr-flatten 1.1.0 - MIT https://github.com/jonschlinkert/arr-flatten
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -2712,7 +2712,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 arrify 1.0.1 - MIT https://github.com/sindresorhus/arrify#readme
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -2847,7 +2847,7 @@ Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
 
 (MIT)
 
-Copyright (c) 2013 Julian Julian@juliangruber.com &lt;&gt;
+Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt;
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -2863,7 +2863,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 base 0.11.2 - MIT https://github.com/node-base/base
 
 Copyright (c) 2015-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -2903,7 +2903,7 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 binary-extensions 1.13.1 - MIT https://github.com/sindresorhus/binary-extensions#readme
 
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) (c) Sindre Sorhus ( https://sindresorhus.com) , Paul Miller (https://paulmillr.com)
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) (c) Sindre Sorhus (https://sindresorhus.com), Paul Miller (https://paulmillr.com)
 
 Licencia mit
 
@@ -2926,7 +2926,7 @@ Copyright (c) 2012 Nathan Rajlich <nathan@tootallnate.net>
 
 (La licencia mit)
 
-Copyright (c) 2012 Nathan Rajlich &lt; nathan@tootallnate.net&gt;
+Copyright (c) 2012 Nathan Rajlich &lt;nathan@tootallnate.net&gt;
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -2962,7 +2962,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 braces 2.3.2 - MIT https://github.com/micromatch/braces
 
 Copyright (c) 2014-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -3020,7 +3020,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 cache-base 1.0.1 - MIT https://github.com/jonschlinkert/cache-base
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -3074,7 +3074,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 tiza 1.1.3 - MIT https://github.com/chalk/chalk#readme
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -3129,7 +3129,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 chokidar 2.1.8 - MIT https://github.com/paulmillr/chokidar
 
-Copyright (c) 2012-2019 Paul Miller ( https://paulmillr.com) & Elan Shanker
+Copyright (c) 2012-2019 Paul Miller (https://paulmillr.com) & Elan Shanker
 
 Licencia mit
 
@@ -3148,7 +3148,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 class-utils 0.3.6 - MIT https://github.com/jonschlinkert/class-utils
 
 Copyright (c) 2015, 2017-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -3167,7 +3167,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 cli-cursor 2.1.0 - MIT https://github.com/sindresorhus/cli-cursor#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -3187,7 +3187,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 collection-visit 1.0.0 - MIT https://github.com/jonschlinkert/collection-visit
 
 Copyright (c) 2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -3464,31 +3464,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 decode-uri-component 0.2.0 - MIT https://github.com/samverschueren/decode-uri-component#readme
 
-(c) Sam Verschueren ( https://github.com/SamVerschueren) Copyright (c) Sam Verschueren <sam.verschueren@gmail.com>
+(c) Sam Verschueren (https://github.com/SamVerschueren) Copyright (c) Sam Verschueren <sam.verschueren@gmail.com>
 
 La licencia mit (MIT)
 
 Copyright (c) Sam Verschueren <sam.verschueren@gmail.com> (github.com/SamVerschueren)
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-define-property 1.0.0 - MIT https://github.com/jonschlinkert/define-property
-
-Copyright (c) 2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
-
-La licencia mit (MIT)
-
-Copyright (c) 2015, 2017, Jon Schlinkert
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -3520,10 +3500,30 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
+define-property 1.0.0 - MIT https://github.com/jonschlinkert/define-property
+
+Copyright (c) 2015, 2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
+
+La licencia mit (MIT)
+
+Copyright (c) 2015, 2017, Jon Schlinkert
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 define-property 2.0.2 - MIT https://github.com/jonschlinkert/define-property
 
 Copyright (c) 2015-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -3561,7 +3561,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 dir-glob 2.0.0 - MIT https://github.com/kevva/dir-glob#readme
 
-(c) Kevin Martensson ( https://github.com/kevva) Copyright (c) Kevin Martensson <kevinmartensson@gmail.com>
+(c) Kevin Martensson (https://github.com/kevva) Copyright (c) Kevin Martensson <kevinmartensson@gmail.com>
 
 Licencia mit
 
@@ -3634,7 +3634,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 escape-string-regexp 1.0.5 - MIT https://github.com/sindresorhus/escape-string-regexp
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -3672,31 +3672,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 expand-brackets 2.1.4 - MIT https://github.com/jonschlinkert/expand-brackets
 
-Copyright (c) 2015-2016, Jon Schlinkert Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2015-2016, Jon Schlinkert Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
 Copyright (c) 2015-2016, Jon Schlinkert
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-extend-shallow 3.0.2 - MIT https://github.com/jonschlinkert/extend-shallow
-
-Copyright (c) 2014-2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
-
-La licencia mit (MIT)
-
-Copyright (c) 2014-2015, 2017, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -3716,6 +3696,26 @@ Copyright (c) 2015 Jon Schlinkert Copyright (c) 2014-2015, Jon Schlinkert.
 La licencia mit (MIT)
 
 Copyright (c) 2014-2015, Jon Schlinkert.
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+extend-shallow 3.0.2 - MIT https://github.com/jonschlinkert/extend-shallow
+
+Copyright (c) 2014-2015, 2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
+
+La licencia mit (MIT)
+
+Copyright (c) 2014-2015, 2017, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -3750,7 +3750,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 extglob 2.0.4 - MIT https://github.com/micromatch/extglob
 
 Copyright (c) 2015-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -3826,7 +3826,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 cifras 2.0.0 - MIT https://github.com/sindresorhus/figures#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -3864,7 +3864,7 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 fill-range 4.0.0 - MIT https://github.com/jonschlinkert/fill-range
 
 Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -3883,7 +3883,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 find-up 2.1.0 - MIT https://github.com/sindresorhus/find-up#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -3902,7 +3902,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 find-up 3.0.0 - MIT https://github.com/sindresorhus/find-up#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -3922,7 +3922,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 for-in 1.0.2 - MIT https://github.com/jonschlinkert/for-in
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -3961,7 +3961,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 fragment-cache 0.2.1 - MIT https://github.com/jonschlinkert/fragment-cache
 
 Copyright (c) 2016-2017, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4000,7 +4000,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 fs-extra 7.0.1 - MIT https://github.com/jprichardson/node-fs-extra
 
-Copyright (c) 2011-2017 JP Richardson Copyright (c) 2011-2017 JP Richardson ( https://github.com/jprichardson) Copyright (c) 2014-2016 Jonathan Ong me@jongleberry.com and Contributors
+Copyright (c) 2011-2017 JP Richardson Copyright (c) 2011-2017 JP Richardson (https://github.com/jprichardson) Copyright (c) 2014-2016 Jonathan Ong me@jongleberry.com and Contributors
 
 (La licencia mit)
 
@@ -4041,7 +4041,7 @@ global-modules 2.0.0 - MIT https://github.com/jonschlinkert/global-modules
 
 Copyright (c) 2015-2017 Jon Schlinkert.
 Copyright (c) 2015-present, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4062,7 +4062,7 @@ prefijo global 3.0.0 - MIT https://github.com/jonschlinkert/global-prefix
 
 Copyright (c) 2015-present Jon Schlinkert.
 Copyright (c) 2015-present, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4081,7 +4081,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 globals 11.12.0 - MIT https://github.com/sindresorhus/globals#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -4100,7 +4100,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 globby 8.0.2 - MIT https://github.com/sindresorhus/globby#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -4119,7 +4119,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 gzip-size 5.1.1 - MIT https://github.com/sindresorhus/gzip-size#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -4138,7 +4138,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 has-ansi 2.0.0 - MIT https://github.com/sindresorhus/has-ansi
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -4157,7 +4157,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 has-flag 3.0.0 - MIT https://github.com/sindresorhus/has-flag#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -4174,30 +4174,10 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-has-value 1.0.0 - MIT https://github.com/jonschlinkert/has-value
-
-Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
-
-La licencia mit (MIT)
-
-Copyright (c) 2014-2017, Jon Schlinkert
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 has-value 0.3.1 - MIT https://github.com/jonschlinkert/has-value
 
 Copyright (c) 2014-2016, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4214,10 +4194,10 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-has-values 1.0.0 - MIT https://github.com/jonschlinkert/has-values
+has-value 1.0.0 - MIT https://github.com/jonschlinkert/has-value
 
-Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4238,11 +4218,31 @@ has-values 0.1.4 - MIT https://github.com/jonschlinkert/has-values
 
 Copyright (c) 2014-2015, Jon Schlinkert.
 Copyright (c) 2014-2016, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
 Copyright (c) 2014-2016, Jon Schlinkert.
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+has-values 1.0.0 - MIT https://github.com/jonschlinkert/has-values
+
+Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
+
+La licencia mit (MIT)
+
+Copyright (c) 2014-2017, Jon Schlinkert
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -4277,9 +4277,9 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 http-parser-js 0.5.2 - MIT https://github.com/creationix/http-parser-js#readme
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
-Copyright (c) 2015 Tim Caswell ( https://github.com/creationix) y otros colaboradores.
+Copyright (c) 2015 Tim Caswell (https://github.com/creationix) y otros colaboradores.
 
-Copyright (c) 2015 Tim Caswell ( https://github.com/creationix) y otros colaboradores. Todos los derechos reservados.
+Copyright (c) 2015 Tim Caswell (https://github.com/creationix) y otros colaboradores. Todos los derechos reservados.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -4318,7 +4318,7 @@ Algunos archivos de la carpeta de pruebas son de joyent/node y mscedex/io.js, un
   EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
   """
 
-  Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
+  Esta licencia se aplica a partes de Node.js originadas desde el https://github.com/joyent/node repositorio:
 
   """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
   Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
@@ -4446,7 +4446,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 is-accessor-descriptor 1.0.0 - MIT https://github.com/jonschlinkert/is-accessor-descriptor
 
 Copyright (c) 2015-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4463,7 +4463,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-isarray 1.0.0 - MIT https://github.com/juliangruber/isarray
+isarray 0.0.1 - MIT https://github.com/juliangruber/isarray
 
 Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
 
@@ -4481,7 +4481,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-isarray 0.0.1 - MIT https://github.com/juliangruber/isarray
+isarray 1.0.0 - MIT https://github.com/juliangruber/isarray
 
 Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
 
@@ -4520,7 +4520,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 is-binary-path 1.0.1 - MIT https://github.com/sindresorhus/is-binary-path
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -4539,31 +4539,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 is-buffer 1.1.6 - MIT https://github.com/feross/is-buffer#readme
 
-Copyright (c) Feross Aboukhadijeh Copyright (c) Feross Aboukhadijeh ( http://feross.org) .
+Copyright (c) Feross Aboukhadijeh Copyright (c) Feross Aboukhadijeh (http://feross.org).
 
 La licencia mit (MIT)
 
 Copyright (c) Feross Aboukhadijeh
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-is-data-descriptor 1.0.0 - MIT https://github.com/jonschlinkert/is-data-descriptor
-
-Copyright (c) 2015-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
-
-La licencia mit (MIT)
-
-Copyright (c) 2015-2017, Jon Schlinkert.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -4596,10 +4576,30 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
+is-data-descriptor 1.0.0 - MIT https://github.com/jonschlinkert/is-data-descriptor
+
+Copyright (c) 2015-2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
+
+La licencia mit (MIT)
+
+Copyright (c) 2015-2017, Jon Schlinkert.
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 is-descriptor 0.1.6 - MIT https://github.com/jonschlinkert/is-descriptor
 
 Copyright (c) 2015-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4618,7 +4618,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 is-descriptor 1.0.2 - MIT https://github.com/jonschlinkert/is-descriptor
 
 Copyright (c) 2015-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4652,25 +4652,6 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-is-extendable 1.0.1 - MIT https://github.com/jonschlinkert/is-extendable
-
-Copyright (c) 2015-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
-
-La licencia mit (MIT)
-
-Copyright (c) 2015-2017, Jon Schlinkert.
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 is-extendable 0.1.1 - MIT https://github.com/jonschlinkert/is-extendable
 
 Copyright (c) 2015 Jon Schlinkert Copyright (c) 2015, Jon Schlinkert.
@@ -4690,10 +4671,29 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
+is-extendable 1.0.1 - MIT https://github.com/jonschlinkert/is-extendable
+
+Copyright (c) 2015-2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
+
+La licencia mit (MIT)
+
+Copyright (c) 2015-2017, Jon Schlinkert.
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 is-extglob 2.1.1 - MIT https://github.com/jonschlinkert/is-extglob
 
 Copyright (c) 2014-2016, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4712,7 +4712,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 is-fullwidth-code-point 2.0.0 - MIT https://github.com/sindresorhus/is-fullwidth-code-point#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -4732,7 +4732,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 is-glob 3.1.0 - MIT https://github.com/jonschlinkert/is-glob
 
 Copyright (c) 2014-2016, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4752,7 +4752,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 is-glob 4.0.1 - MIT https://github.com/micromatch/is-glob
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2019, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2019, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4772,7 +4772,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 is-number 3.0.0 - MIT https://github.com/jonschlinkert/is-number
 
 Copyright (c) 2014-2016, Jon Schlinkert Copyright (c) 2014-2015, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4789,30 +4789,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-isobject 3.0.1 - MIT https://github.com/jonschlinkert/isobject
-
-Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
-
-La licencia mit (MIT)
-
-Copyright (c) 2014-2017, Jon Schlinkert.
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 isobject 2.1.0 - MIT https://github.com/jonschlinkert/isobject
 
 Copyright (c) 2014-2015, Jon Schlinkert.
 Copyright (c) 2014-2016, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4824,6 +4805,25 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+isobject 3.0.1 - MIT https://github.com/jonschlinkert/isobject
+
+Copyright (c) 2014-2017, Jon Schlinkert.
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
+
+La licencia mit (MIT)
+
+Copyright (c) 2014-2017, Jon Schlinkert.
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 ---------------------------------------------------------
 
@@ -4849,7 +4849,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 is-plain-object 2.0.4 - MIT https://github.com/jonschlinkert/is-plain-object
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4869,7 +4869,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 is-primitive 3.0.1 - MIT https://github.com/jonschlinkert/is-primitive
 
 Copyright (c) 2014-present, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4888,7 +4888,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 is-root 2.1.0 - MIT https://github.com/sindresorhus/is-root#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -4945,7 +4945,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 is-windows 1.0.2 - MIT https://github.com/jonschlinkert/is-windows
 
 Copyright (c) 2015-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -4964,7 +4964,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 is-wsl 1.1.0 - MIT https://github.com/sindresorhus/is-wsl#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -5000,7 +5000,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 json3 3.3.3 - MIT https://bestiejs.github.io/json3
 
-Copyright (c) 2013-2015 Benjamin Tan. https://d10.github.io Copyright (c) 2012-2015 Kit Cambridge. http://kitcambridge.be Copyright 2012-2015, Kit Cambridge, Benjamin Tan http://kit.mit-license.org (c) 2012-2015 http://kitcambridge.be/ ' Kit Cambridge, https://d10.github.io/ ' Benjamin Tan
+Copyright (c) 2013-2015 Benjamin Tan. https://d10.github.io Copyright (c) 2012-2015 Kit Cambridge. http://kitcambridge.be Copyright 2012-2015, Kit Cambridge, Benjamin Tan http://kit.mit-license.org (c) 2012-2015 http://kitcambridge.be/' Kit Cambridge, https://d10.github.io/' Benjamin Tan
 
 Copyright (c) 2012-2015 Kit Cambridge.
 http://kitcambridge.be/
@@ -5077,25 +5077,6 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-js-tokens 4.0.0 - MIT https://github.com/lydell/js-tokens#readme
-
-Copyright 2014, 2015, 2016, 2017, 2018 Simon Lydell Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
-
-La licencia mit (MIT)
-
-Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
 js-tokens 3.0.2 - MIT https://github.com/lydell/js-tokens#readme
 
 Copyright 2014, 2015, 2016, 2017 Simon Lydell Copyright (c) 2014, 2015, 2016, 2017 Simon Lydell
@@ -5115,9 +5096,47 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
+js-tokens 4.0.0 - MIT https://github.com/lydell/js-tokens#readme
+
+Copyright 2014, 2015, 2016, 2017, 2018 Simon Lydell Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
+
+La licencia mit (MIT)
+
+Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+tipo de 3.2.2 - MIT https://github.com/jonschlinkert/kind-of
+
+Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
+
+La licencia mit (MIT)
+
+Copyright (c) 2014-2017, Jon Schlinkert
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
 tipo de 4.0.0 - MIT https://github.com/jonschlinkert/kind-of
 
-Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5137,30 +5156,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 tipo de 5.1.0 - MIT https://github.com/jonschlinkert/kind-of
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-
-Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
-
-
----------------------------------------------------------
-
----------------------------------------------------------
-
-tipo de 3.2.2 - MIT https://github.com/jonschlinkert/kind-of
-
-Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
-
-La licencia mit (MIT)
-
-Copyright (c) 2014-2017, Jon Schlinkert
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -5192,7 +5192,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-loader-utils 1.4.0 - MIT https://github.com/webpack/loader-utils#readme
+loader-utils 1.2.3 - MIT https://github.com/webpack/loader-utils#readme
 
 Copyright JS Foundation y otros colaboradores
 
@@ -5210,7 +5210,7 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 ---------------------------------------------------------
 
-loader-utils 1.2.3 - MIT https://github.com/webpack/loader-utils#readme
+loader-utils 1.4.0 - MIT https://github.com/webpack/loader-utils#readme
 
 Copyright JS Foundation y otros colaboradores
 
@@ -5230,7 +5230,7 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 
 locate-path 2.0.0 - MIT https://github.com/sindresorhus/locate-path#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -5249,7 +5249,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 locate-path 3.0.0 - MIT https://github.com/sindresorhus/locate-path#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -5324,7 +5324,7 @@ map-cache 0.2.2 - MIT https://github.com/jonschlinkert/map-cache
 
 Copyright (c) 2015, Jon Schlinkert.
 Copyright (c) 2015-2016, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5343,7 +5343,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 map-visit 1.0.0 - MIT https://github.com/jonschlinkert/map-visit
 
-Copyright (c) 2015-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2015-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5437,7 +5437,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 micromatch 3.1.10 - MIT https://github.com/micromatch/micromatch
 
 Copyright (c) 2014-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5456,7 +5456,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 mimic-fn 1.2.0 - MIT https://github.com/sindresorhus/mimic-fn#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -5511,7 +5511,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 mixin-deep 1.3.2 - MIT https://github.com/jonschlinkert/mixin-deep
 
 Copyright (c) 2014-2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5533,11 +5533,11 @@ monaco-editor 0.18.1 - MIT https://github.com/Microsoft/monaco-editor#readme
 Copyright (c) 2015 Copyright (c) Joshaven Potter Copyright (c) 2014 Taylor Hakes Copyright (c) Artyom Shalkhakov.
 Copyright (c) 2015 David Owens II Copyright (c) 2014 Forbes Lindesay Copyright (c) 2015 Nicolas Bevacqua Copyright (c) Microsoft Corporation.
 Copyright (c) 2008 Microsoft Corporation Copyright (c) David Owens II, owensd.io.
-Copyright Drifty Co. http://drifty.com/ .
+Copyright Drifty Co. http://drifty.com/.
 Copyright (c) 2016: presente Microsoft Corporation Copyright Joyent, Inc. y otros colaboradores de Node.
 Copyright (c) 2007-2017 Einar Lielmanis, Liam Newman y colaboradores.
 Copyright (c) 2007-2018 Einar Lielmanis, Liam Newman y colaboradores.
-Copyright (c) 2011-2014, Christopher Jeffrey ( https://github.com/chjj/) Copyright (c) 2011-2014, Christopher Jeffrey. (licencia de MIT) https://github.com/markedjs/marked
+Copyright (c) 2011-2014, Christopher Jeffrey (https://github.com/chjj/) Copyright (c) 2011-2014, Christopher Jeffrey. (licencia de MIT) https://github.com/markedjs/marked
 
 La licencia mit (MIT)
 
@@ -5559,11 +5559,11 @@ monaco-editor 0.20.0 - MIT https://github.com/Microsoft/monaco-editor#readme
 Copyright (c) 2015 Copyright (c) Joshaven Potter Copyright (c) 2014 Taylor Hakes Copyright (c) Artyom Shalkhakov.
 Copyright (c) 2015 David Owens II Copyright (c) 2014 Forbes Lindesay Copyright (c) 2015 Nicolas Bevacqua Copyright (c) Microsoft Corporation.
 Copyright (c) 2008 Microsoft Corporation Copyright (c) David Owens II, owensd.io.
-Copyright Drifty Co. http://drifty.com/ .
+Copyright Drifty Co. http://drifty.com/.
 Copyright (c) 2016: presente Microsoft Corporation Copyright Joyent, Inc. y otros colaboradores de Node.
 Copyright (c) 2007-2017 Einar Lielmanis, Liam Newman y colaboradores.
 Copyright (c) 2007-2018 Einar Lielmanis, Liam Newman y colaboradores.
-Copyright (c) 2011-2014, Christopher Jeffrey ( https://github.com/chjj/) Copyright (c) 2011-2014, Christopher Jeffrey. (licencia de MIT) https://github.com/markedjs/marked
+Copyright (c) 2011-2014, Christopher Jeffrey (https://github.com/chjj/) Copyright (c) 2011-2014, Christopher Jeffrey. (licencia de MIT) https://github.com/markedjs/marked
 
 La licencia mit (MIT)
 
@@ -5645,7 +5645,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 nanomatch 1.2.13 - MIT https://github.com/micromatch/nanomatch
 
 Copyright (c) 2016-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5723,7 +5723,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 normalize-path 2.1.1 - MIT https://github.com/jonschlinkert/normalize-path
 
 Copyright (c) 2014-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5743,7 +5743,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 normalize-path 3.0.0 - MIT https://github.com/jonschlinkert/normalize-path
 
 Copyright (c) 2014-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5764,7 +5764,7 @@ object.pick 1.3.0 - MIT https://github.com/jonschlinkert/object.pick
 
 Copyright (c) 2014-2016, Jon Schlinkert.
 Copyright (c) 2014-2015 Jon Schlinkert, colaboradores.
-Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5783,7 +5783,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 object-assign 4.1.1 - MIT https://github.com/sindresorhus/object-assign#readme
 
-(c) Sindre Sorhus (c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -5822,7 +5822,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 object-visit 1.0.1 - MIT https://github.com/jonschlinkert/object-visit
 
 Copyright (c) 2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -5841,7 +5841,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 onetime 2.0.1 - MIT https://github.com/sindresorhus/onetime#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -5899,7 +5899,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 os-tmpdir 1.0.2 - MIT https://github.com/sindresorhus/os-tmpdir#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -5957,7 +5957,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 path-exists 3.0.0 - MIT https://github.com/sindresorhus/path-exists#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -5976,7 +5976,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 path-is-absolute 1.0.1 - MIT https://github.com/sindresorhus/path-is-absolute#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -5995,7 +5995,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 path-key 2.0.1 - MIT https://github.com/sindresorhus/path-key#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -6052,7 +6052,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 path-type 3.0.0 - MIT https://github.com/sindresorhus/path-type#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -6071,7 +6071,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 pify 3.0.0 - MIT https://github.com/sindresorhus/pify#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -6090,7 +6090,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 pify 4.0.1 - MIT https://github.com/sindresorhus/pify#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -6109,7 +6109,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 pkg-up 2.0.0 - MIT https://github.com/sindresorhus/pkg-up#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -6128,7 +6128,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 p-limit 1.3.0 - MIT https://github.com/sindresorhus/p-limit#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -6166,7 +6166,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 p-locate 2.0.0 - MIT https://github.com/sindresorhus/p-locate#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -6185,7 +6185,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 p-locate 3.0.0 - MIT https://github.com/sindresorhus/p-locate#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -6204,7 +6204,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 posix-character-classes 0.1.1 - MIT https://github.com/jonschlinkert/posix-character-classes
 
-Copyright (c) 2016-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2016-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -6292,7 +6292,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 p-try 1.0.0 - MIT https://github.com/sindresorhus/p-try#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -6311,7 +6311,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 p-try 2.2.0 - MIT https://github.com/sindresorhus/p-try#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -6447,7 +6447,7 @@ react-inspector 5.1.0 - MIT https://github.com/xyc/react-inspector
 Copyright (c) 2017 Xiaoyi Chen Copyright (c) 2001 Robert Penner (c) ,null c&&pb(c.type),b.value,null (c) 2018 Angry Bytes and contributors.
 Copyright (c) 2014-2017, Jon Schlinkert.
 Copyright (c) 2013-present, Facebook, Inc. Copyright (c) 2014-present, Facebook, Inc. Copyright (c) Facebook, Inc. y sus filiales.
-Copyright (c) 2016 Federico Zivolo y colaboradores Copyright 2010 - 2013 Sami Samhuri <sami@samhuri.net> Copyright (c) 2012-2017 Kirollos Risk ( http://kiro.me) Copyright 2013-2016 by Paul Miller ( http://paulmillr.com) Copyright KingSora Rene Haas. https://github.com/KingSora
+Copyright (c) 2016 Federico Zivolo y colaboradores Copyright 2010 - 2013 Sami Samhuri <sami@samhuri.net> Copyright (c) 2012-2017 Kirollos Risk (http://kiro.me) Copyright 2013-2016 by Paul Miller (http://paulmillr.com) Copyright KingSora Rene Haas. https://github.com/KingSora
 
 La licencia mit (MIT)
 
@@ -6555,7 +6555,7 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 """
 
-Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
+Esta licencia se aplica a partes de Node.js originadas desde el https://github.com/joyent/node repositorio:
 
 """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
@@ -6585,7 +6585,7 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 """
 
-Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
+Esta licencia se aplica a partes de Node.js originadas desde el https://github.com/joyent/node repositorio:
 
 """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
@@ -6637,7 +6637,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-redux 4.0.5 - MIT http://redux.js.org/
+redux 4.0.1 - MIT http://redux.js.org/
 
 Copyright (c) 2015-present Dan Abramov
 
@@ -6656,7 +6656,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-redux 4.0.1 - MIT http://redux.js.org/
+redux 4.0.5 - MIT http://redux.js.org/
 
 Copyright (c) 2015-present Dan Abramov
 
@@ -6735,7 +6735,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 regex-not 1.0.2 - MIT https://github.com/jonschlinkert/regex-not
 
 Copyright (c) 2016, 2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -6755,7 +6755,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 repeat-element 1.1.3 - MIT https://github.com/jonschlinkert/repeat-element
 
 Copyright (c) 2015-present, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -6776,7 +6776,7 @@ repeat-string 1.6.1 - MIT https://github.com/jonschlinkert/repeat-string
 
 Copyright (c) 2014-2015, Jon Schlinkert.
 Copyright (c) 2014-2016, Jon Schlinkert.
-Copyright (c) 2016, Jon Schlinkert ( http://github.com/jonschlinkert) .
+Copyright (c) 2016, Jon Schlinkert (http://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -6891,7 +6891,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 restore-cursor 2.0.0 - MIT https://github.com/sindresorhus/restore-cursor#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -7075,7 +7075,7 @@ EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES
 set-value 2.0.1 - MIT https://github.com/jonschlinkert/set-value
 
 Copyright (c) 2014-2017, Jon Schlinkert Copyright (c) 2014-2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -7094,7 +7094,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 shebang-command 1.2.0 - MIT https://github.com/kevva/shebang-command#readme
 
-(c) Kevin Martensson ( http://github.com/kevva) Copyright (c) Kevin Martensson <kevinmartensson@gmail.com>
+(c) Kevin Martensson (http://github.com/kevva) Copyright (c) Kevin Martensson <kevinmartensson@gmail.com>
 
 La licencia mit (MIT)
 
@@ -7113,7 +7113,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 shebang-regex 1.0.0 - MIT https://github.com/sindresorhus/shebang-regex
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -7188,7 +7188,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 snapdragon 0.8.2 - MIT https://github.com/jonschlinkert/snapdragon
 
 Copyright (c) 2015-2016, Jon Schlinkert.
-Copyright (c) 2012 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2016, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2012 TJ Holowaychuk <tj@vision-media.ca> Copyright (c) 2016, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -7207,7 +7207,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 snapdragon-node 2.1.1 - MIT https://github.com/jonschlinkert/snapdragon-node
 
-Copyright (c) 2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -7226,7 +7226,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 snapdragon-util 3.0.1 - MIT https://github.com/jonschlinkert/snapdragon-util
 
-Copyright (c) 2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -7303,7 +7303,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 split-string 3.1.0 - MIT https://github.com/jonschlinkert/split-string
 
 Copyright (c) 2015-2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -7354,7 +7354,7 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 """
 
-Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
+Esta licencia se aplica a partes de Node.js originadas desde el https://github.com/joyent/node repositorio:
 
 """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
@@ -7385,7 +7385,7 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 """
 
-Esta licencia se aplica a partes de Node.js originadas desde https://github.com/joyent/node el repositorio:
+Esta licencia se aplica a partes de Node.js originadas desde el https://github.com/joyent/node repositorio:
 
 """ Copyright Joyent, Inc. y otros colaboradores de Node. Todos los derechos reservados.
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
@@ -7403,7 +7403,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 string-width 2.1.1 - MIT https://github.com/sindresorhus/string-width#readme
 
-(c) Sindre Sorhus ( https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (https://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 Licencia mit
 
@@ -7422,7 +7422,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 strip-ansi 3.0.1 - MIT https://github.com/chalk/strip-ansi
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
 La licencia mit (MIT)
 
@@ -7439,7 +7439,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-strip-ansi 5.2.0 - MIT https://github.com/chalk/strip-ansi#readme
+strip-ansi 4.0.0 - MIT https://github.com/chalk/strip-ansi#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -7458,7 +7458,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-strip-ansi 4.0.0 - MIT https://github.com/chalk/strip-ansi#readme
+strip-ansi 5.2.0 - MIT https://github.com/chalk/strip-ansi#readme
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -7531,11 +7531,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-supports-color 6.1.0 - MIT https://github.com/chalk/supports-color#readme
+supports-color 2.0.0 - MIT https://github.com/chalk/supports-color
 
-Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+(c) Sindre Sorhus (http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-Licencia mit
+La licencia mit (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -7569,11 +7569,11 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-supports-color 2.0.0 - MIT https://github.com/chalk/supports-color
+supports-color 6.1.0 - MIT https://github.com/chalk/supports-color#readme
 
-(c) Sindre Sorhus ( http://sindresorhus.com) Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
-La licencia mit (MIT)
+Licencia mit
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -7759,7 +7759,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 to-regex 3.0.2 - MIT https://github.com/jonschlinkert/to-regex
 
 Copyright (c) 2016-2018, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -7779,7 +7779,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 to-regex-range 2.1.1 - MIT https://github.com/micromatch/to-regex-range
 
 Copyright (c) 2015-2017, Jon Schlinkert Copyright (c) 2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -7820,7 +7820,7 @@ Copyright (c) Piotr Witek Copyright (c) Piotr Witek 2017 Piotr Witek <piotrek.wi
 
 Licencia mit
 
-Copyright (c) Piotr Witek 2017 <piotrek.witek@gmail.com> (http://piotrwitek.github.io)
+Copyright (c) Piotr Witek <piotrek.witek@gmail.com> 2017 (http://piotrwitek.github.io)
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -7892,7 +7892,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 union-value 1.0.1 - MIT https://github.com/jonschlinkert/union-value
 
-Copyright (c) 2015-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2015-2017, Jon Schlinkert Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -7931,7 +7931,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 unset-value 1.0.0 - MIT https://github.com/jonschlinkert/unset-value
 
 Copyright (c) 2015, 2017, Jon Schlinkert.
-Copyright (c) 2017, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2017, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
@@ -8026,7 +8026,7 @@ usar 3.1.1 - MIT https://github.com/jonschlinkert/use
 
 Copyright (c) 2015-2017, Jon Schlinkert.
 Copyright (c) 2015-present, Jon Schlinkert.
-Copyright (c) 2018, Jon Schlinkert ( https://github.com/jonschlinkert) .
+Copyright (c) 2018, Jon Schlinkert (https://github.com/jonschlinkert).
 
 La licencia mit (MIT)
 
