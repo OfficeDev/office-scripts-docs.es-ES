@@ -1,14 +1,14 @@
 ---
 title: Convertir archivos CSV en Excel libros
-description: Obtenga información sobre cómo usar Office scripts y Power Automate para crear .xlsx a partir de .csv archivos.
-ms.date: 11/02/2021
+description: Obtenga información sobre cómo usar Office scripts y Power Automate para crear .xlsx archivos .csv archivos.
+ms.date: 02/25/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 203174aec099e426b75d1c816fb3f849b4f13152
-ms.sourcegitcommit: 8df930d9ad90001dbed7cb9bd9015ebe7bc9854e
+ms.openlocfilehash: 5e501368015840d4181c5565662638b65e213fed
+ms.sourcegitcommit: 49f527a7f54aba00e843ad4a92385af59c1d7bfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793268"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63352128"
 ---
 # <a name="convert-csv-files-to-excel-workbooks"></a>Convertir archivos CSV en Excel libros
 
@@ -16,9 +16,9 @@ Muchos servicios exportan datos como archivos de valores separados por comas (CS
 
 ## <a name="solution"></a>Solución
 
-1. Almacene los .csv y un archivo "Template" en .xlsx en blanco en una OneDrive carpeta.
-1. Cree un Office script para analizar los datos CSV en un intervalo.
-1. Cree un flujo Power Automate para leer los archivos .csv y pasar su contenido al script.
+1. Almacene los .csv y un archivo "Template" .xlsx en blanco en una OneDrive carpeta.
+1. Cree un script Office para analizar los datos CSV en un intervalo.
+1. Cree un flujo Power Automate para leer los .csv y pasar su contenido al script.
 
 ## <a name="sample-files"></a>Archivos de ejemplo
 
@@ -44,6 +44,11 @@ function main(workbook: ExcelScript.Workbook, csv: string) {
      * see this Stack Overflow post: https://stackoverflow.com/a/48806378/9227753
      */
     let row = value.match(/(?:,|\n|^)("(?:(?:"")*[^"]*)*"|[^",\n]*|(?:\n|$))/g);
+
+    // Check for blanks at the start of the row.
+    if (row[0].charAt(0) === ',') {
+      row.unshift("");
+    }
     
     // Remove the preceding comma.
     row.forEach((cell, index) => {
@@ -61,43 +66,43 @@ function main(workbook: ExcelScript.Workbook, csv: string) {
 }
 ```
 
-## <a name="power-automate-flow-create-new-xlsx-files"></a>Power Automate flujo: crear nuevos .xlsx archivo
+## <a name="power-automate-flow-create-new-xlsx-files"></a>Power Automate: crear nuevos .xlsx archivos
 
-1. Inicie sesión [Power Automate](https://flow.microsoft.com) y cree un **nuevo flujo de nube programado.**
-1. Establezca el flujo en **Repetir cada** "1" "Día" y seleccione **Crear**.
-1. Obtenga la plantilla Excel archivo. Esta es la base para todos los archivos .csv convertidos. Agregue un **nuevo paso** que use el **conector OneDrive para la Empresa** y la acción Obtener **contenido del** archivo. Proporcione la ruta de acceso al archivo "Template.xlsx".
+1. Inicie sesión [Power Automate](https://flow.microsoft.com) y cree un **nuevo flujo de nube programado**.
+1. Establece el flujo en **Repetir cada** "1" "Día" y selecciona **Crear**.
+1. Obtenga la plantilla Excel archivo. Esta es la base para todos los archivos .csv convertidos. Agregue un **nuevo paso que** use el **conector OneDrive para la Empresa** y la **acción Obtener contenido de** archivo. Proporcione la ruta de acceso al archivo "Template.xlsx".
     * **Archivo**: /output/Template.xlsx
-1. Cambie el **nombre del** paso Obtener contenido de archivo yendo al menú Obtener contenido de archivo **(...)** de ese paso (en la esquina superior derecha del conector) y seleccionando la opción **Cambiar** nombre. Cambie el nombre del paso a "Obtener Excel plantilla".
+1. Cambie el **nombre del** paso Obtener contenido de archivo yendo al menú Obtener contenido **de archivo (...)** de ese paso (en la esquina superior derecha del conector) y seleccionando la opción **Cambiar** nombre. Cambie el nombre del paso a "Obtener Excel plantilla".
 
      :::image type="content" source="../../images/convert-csv-flow-1.png" alt-text="El conector OneDrive para la Empresa en Power Automate, cuyo nombre se cambia a Obtener Excel plantilla.":::
-1. Obtener todos los archivos de la carpeta "salida". Agregue un **nuevo paso que** use el conector **OneDrive para la Empresa** y los archivos de lista en la acción **de carpeta.** Proporcione la ruta de acceso de carpeta que contiene .csv archivos.
+1. Obtener todos los archivos de la carpeta "salida". Agregue un **nuevo paso que** use el **conector OneDrive para la Empresa** y los archivos **de lista en la acción de carpeta**. Proporcione la ruta de acceso de carpeta que contiene .csv archivos.
     * **Carpeta**: /output
 
-    :::image type="content" source="../../images/convert-csv-flow-2.png" alt-text="El conector OneDrive para la Empresa completo en Power Automate.":::
-1. Agregue una condición para que el flujo solo funcione en .csv archivos. Agregue un **nuevo paso** que sea el control **Condition.** Use los siguientes valores para **condition**.
-    * **Elija un valor**: *Name* (contenido dinámico de archivos de lista en **la carpeta**). Tenga en cuenta que este contenido dinámico tiene varios resultados, por lo que un control Aplicar a **cada** control *de* valor rodea la **condición**.
+    :::image type="content" source="../../images/convert-csv-flow-2.png" alt-text="El conector OneDrive para la Empresa en Power Automate.":::
+1. Agregue una condición para que el flujo solo funcione en .csv archivos. Agregue un **nuevo paso** que sea el control **Condition** . Use los siguientes valores para **condition**.
+    * **Elija un valor**: *Nombre* (contenido dinámico de **los archivos de lista de la carpeta**). Tenga en cuenta que este contenido dinámico tiene varios resultados, por lo que un control **Aplicar a cada** control *de* valor rodea la **condición**.
     * **termina con** (de la lista desplegable)
     * **Elija un valor**: .csv
 
     :::image type="content" source="../../images/convert-csv-flow-3.png" alt-text="El control Condition completado con apply to each control around it.":::
-1. El resto del flujo se encuentra en la **sección If yes,** ya que solo queremos actuar en .csv archivos. Obtenga un archivo de .csv individual agregando un **nuevo** paso que usa el **conector de** OneDrive para la Empresa y la acción Obtener **contenido del** archivo. Use el **identificador del** contenido dinámico de los archivos de lista en **la carpeta**.
-    * **Archivo:** *Id.* (contenido dinámico del **paso Lista de archivos en carpeta)**
+1. El resto del flujo se encuentra en la **sección If yes** , ya que solo queremos actuar en .csv archivos. Obtenga un archivo de .csv individual agregando un **nuevo** paso que usa el **conector de** OneDrive para la Empresa y la **acción Obtener contenido de** archivo. Use el **identificador del** contenido dinámico de **los archivos de lista de la carpeta**.
+    * **Archivo**: *Id* . (contenido dinámico de los **archivos de lista en el paso de carpeta** )
 1. Cambie el nombre **del nuevo paso Obtener contenido de** archivo a "Obtener .csv archivo". Esto ayuda a distinguir este archivo de la Excel plantilla.
-1. Realice el nuevo archivo .xlsx, usando la plantilla Excel como contenido base. Agregue un **nuevo paso** que use el **conector OneDrive para la Empresa** y la acción **Crear** archivo. Use los siguientes valores.
-    * **Ruta de acceso de** carpeta : /output
-    * **Nombre de** archivo: *nombre sin* extensión .xlsx (elija el  contenido dinámico Nombre sin extensión de la carpeta Archivos de lista y escriba manualmente ".xlsx" después de él)
-    * **Contenido de archivo:** *Contenido de archivo* (contenido dinámico de Obtener Excel **plantilla**)
+1. Realice el nuevo archivo .xlsx, con la plantilla Excel como contenido base. Agregue un **nuevo paso** que use el **conector OneDrive para la Empresa** y la **acción Crear** archivo. Use los siguientes valores.
+    * **Ruta de acceso de** carpeta: /output
+    * **Nombre de** archivo: *nombre sin* extensión.xlsx (elija el nombre sin  contenido dinámico de extensión de los archivos  de lista en la carpeta y escriba manualmente ".xlsx" después de él)
+    * **Contenido de archivo**: *Contenido de archivo* (contenido dinámico de **Obtener Excel plantilla**)
 
      :::image type="content" source="../../images/convert-csv-flow-4.png" alt-text="Los pasos Obtener .csv archivo y Crear archivo del flujo Power Automate datos.":::
-1. Ejecute el script para copiar datos en el nuevo libro. Agregue el **Excel online (empresa)** con la acción **Ejecutar script.** Use los siguientes valores para la acción.
+1. Ejecute el script para copiar datos en el nuevo libro. Agregue el **Excel online (empresa)** con la **acción Ejecutar script**. Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
-    * **Archivo:** *Id.* (contenido dinámico de **Create file**)
+    * **Archivo**: *Identificador* (contenido dinámico de **Crear archivo**)
     * **Script**: Convertir CSV
-    * **csv**: *Contenido de archivo* (contenido dinámico de Obtener .csv **archivo**)
+    * **csv**: *contenido de archivo* (contenido dinámico de **Obtener .csv archivo**)
 
-    :::image type="content" source="../../images/convert-csv-flow-5.png" alt-text="El conector Excel Online (Empresa) completado en Power Automate.":::
-1. Guarde el flujo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos.** Asegúrese de permitir el acceso cuando se le pida.
+    :::image type="content" source="../../images/convert-csv-flow-5.png" alt-text="El conector Excel online (empresa) completado en Power Automate.":::
+1. Guarde el flujo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la **pestaña Mis flujos** . Asegúrese de permitir el acceso cuando se le pida.
 1. Debe encontrar nuevos archivos .xlsx en la carpeta "salida", junto con los archivos .csv originales. Los libros nuevos contienen los mismos datos que los archivos CSV.
 
 ## <a name="troubleshooting"></a>Solución de problemas
@@ -121,6 +126,11 @@ function main(workbook: ExcelScript.Workbook, csv: string) {
      * see this Stack Overflow post: https://stackoverflow.com/a/48806378/9227753
      */
     let row = value.match(/(?:,|\n|^)("(?:(?:"")*[^"]*)*"|[^",\n]*|(?:\n|$))/g);
+
+    // Check for blanks at the start of the row.
+    if (row[0].charAt(0) === ',') {
+      row.unshift("");
+    }
 
     // Remove the preceding comma.
     row.forEach((cell, index) => {
