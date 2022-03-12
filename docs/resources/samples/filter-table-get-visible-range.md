@@ -1,24 +1,24 @@
 ---
 title: Filtrar Excel tabla y obtener rango visible
 description: Obtenga información sobre cómo usar Office scripts para filtrar una tabla Excel y obtener el rango visible como una matriz de objetos.
-ms.date: 06/29/2021
+ms.date: 03/10/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 35c769ff1d5a088b652833826d41ecad2c317465
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 752566aae1f5e64748e9a7a4c33447129905be22
+ms.sourcegitcommit: 79ce4fad6d284b1aa71f5ad6d2938d9ad6a09fee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59333065"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63459658"
 ---
 # <a name="filter-excel-table-and-get-visible-range-as-a-json-object"></a>Filtrar Excel tabla y obtener rango visible como un objeto JSON
 
 En este ejemplo se filtra Excel tabla y se devuelve el intervalo visible como un objeto JSON. Este JSON podría proporcionarse a un flujo Power Automate como parte de una solución más grande.
 
-## <a name="example-scenario"></a>Ejemplo ficticio
+## <a name="example-scenario"></a>Escenario de ejemplo
 
 * Aplicar un filtro a una columna de tabla.
 * Extraer el intervalo visible después de filtrar.
-* Ensamblar y devolver un objeto con una [estructura JSON específica.](#sample-json)
+* Ensamblar y devolver un objeto con una [estructura JSON específica](#sample-json).
 
 ## <a name="sample-excel-file"></a>Archivo Excel ejemplo
 
@@ -60,7 +60,7 @@ function main(workbook: ExcelScript.Workbook): ReturnTemplate {
 
 // This function converts a 2D-array of values into a generic JSON object.
 function returnObjectFromValues(values: string[][]): BasicObject[] {
-  let objectArray = [];
+  let objectArray: BasicObject[] = [];
   let objectKeys: string[] = [];
   for (let i = 0; i < values.length; i++) {
     if (i === 0) {
@@ -138,4 +138,4 @@ Cada clave representa un valor único de una tabla. Cada instancia de matriz rep
 
 ## <a name="training-video-filter-an-excel-table-and-get-the-visible-range"></a>Vídeo de aprendizaje: filtrar una Excel tabla y obtener el intervalo visible
 
-[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/Mv7BrvPq84A).
+[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/Mv7BrvPq84A).

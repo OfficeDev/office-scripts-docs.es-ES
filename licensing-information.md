@@ -1001,7 +1001,7 @@ Sección 8: Interpretación.
 
 =======================================================================
 
-Creative Commons no es una parte de sus licencias públicas. No obstante, Creative Commons puede optar por aplicar una de sus licencias públicas al material que publique y en esos casos se considerará el "Licenciante". El texto de las licencias públicas de Creative Commons está dedicado al dominio público bajo la dedicación de dominio público CC0. Excepto por el propósito limitado de indicar que el material se comparte con una licencia pública de Creative Commons o según lo permitan las directivas de Creative Commons publicadas en creativecommons.org/policies, Creative Commons no autoriza el uso de la marca comercial "Creative Commons" ni ninguna otra marca comercial o logotipo de Creative Commons sin su consentimiento previo por escrito, incluidos,  sin limitación, en relación con las modificaciones no autorizadas en cualquiera de sus licencias públicas o cualquier otro acuerdo, entendimiento o contrato relativo al uso de material con licencia. Para evitar dudas, este párrafo no forma parte de las licencias públicas.
+Creative Commons no es una parte de sus licencias públicas. No obstante, Creative Commons puede optar por aplicar una de sus licencias públicas al material que publique y en esos casos se considerará el "Licenciante". El texto de las licencias públicas de Creative Commons está dedicado al dominio público bajo la dedicación de dominio público CC0. Excepto por el propósito limitado de indicar que el material se comparte con una licencia pública Creative Commons o según lo permitido por las directivas de Creative Commons publicadas en creativecommons.org/policies, Creative Commons no autoriza el uso de la marca comercial "Creative Commons" ni ninguna otra marca comercial o logotipo de Creative Commons sin su consentimiento previo por escrito, incluidos,  sin limitación, en relación con las modificaciones no autorizadas en cualquiera de sus licencias públicas o cualquier otro acuerdo, entendimiento o contrato relativo al uso de material con licencia. Para evitar dudas, este párrafo no forma parte de las licencias públicas.
 
 Puede ponerse en contacto con Creative Commons en creativecommons.org.
 
@@ -1623,7 +1623,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 ---------------------------------------------------------
 
-@babel/types 7.10.2 - MIT https://babeljs.io/
+@babel/tipos 7.10.2 - MIT https://babeljs.io/
 
 Copyright (c) 2014-present Sebastian McKenzie and other contributors
 
@@ -1848,11 +1848,11 @@ Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent inte
 
 ---------------------------------------------------------
 
-@fluentui/teclas de teclado 9.0.0-alpha.3 - MIT https://github.com/microsoft/fluentui#readme
+@fluentui teclas de teclado 9.0.0-alpha.3 - MIT https://github.com/microsoft/fluentui#readme
 
 Copyright (c) Microsoft Corporation
 
-@fluentui teclas de teclado
+@fluentui/teclas de teclado
 
 Copyright (c) Microsoft Corporation
 
@@ -1877,7 +1877,7 @@ Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent inte
 
 Copyright (c) Microsoft Corporation
 
-Fluent interfaz React: estilos de combinación
+Fluent ui React - merge-styles
 
 Copyright (c) Microsoft Corporation
 
@@ -2026,7 +2026,7 @@ Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent inte
 @fluentui/style-utilities 8.3.3 - MIT https://github.com/microsoft/fluentui#readme
 
 
-Fluent ui React- Utilidades de estilo
+Fluent ui React - Utilidades de estilo
 
 Copyright (c) Microsoft Corporation
 
@@ -2101,7 +2101,7 @@ Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent inte
 
 Copyright (c) Microsoft Corporation
 
-Fluent ui React: utilidades
+Fluent interfaz de usuario React: utilidades
 
 Copyright (c) Microsoft Corporation
 
@@ -2323,7 +2323,7 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 Copyright (c) Microsoft Corporation.
 
-Fluent interfaz React: estilos de combinación
+Fluent ui React - merge-styles
 
 Copyright (c) Microsoft Corporation
 
@@ -2398,7 +2398,7 @@ Nota: El uso de las fuentes e iconos a los que se hace referencia en Fluent inte
 
 Copyright (c) Microsoft Corporation
 
-Fluent ui React: utilidades
+Fluent interfaz de usuario React: utilidades
 
 Copyright (c) Microsoft Corporation
 
@@ -3351,7 +3351,7 @@ core-util-is 1.0.2 - MIT https://github.com/isaacs/core-util-is#readme
 
 Copyright Joyent, Inc. y otros colaboradores de Node.
 
-Derechos Node.js colaboradores. Todos los derechos reservados.
+Colaboradores Node.js derechos de autor. Todos los derechos reservados.
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, combinación, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que el Software está equipado para ello,  sujeto a las siguientes condiciones:
 
@@ -4288,7 +4288,7 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRINGEMENT. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS RELACIONES EN EL SOFTWARE.
 
 
-Algunos archivos de la carpeta de pruebas son de joyent/node y mscedex/io.js, una bifurcación de nodejs/io.js:
+Algunos archivos de la carpeta tests son de joyent/node y mscedex/io.js, una bifurcación de nodejs/io.js:
 
 - tests/iojs/test-http-parser-durability.js
 
@@ -5272,7 +5272,7 @@ Copyright OpenJS Foundation and other contributors <https://openjsf.org/> Copyri
 
 Copyright OpenJS Foundation y otros colaboradores <https://openjsf.org/>
 
-Basado en Underscore.js, los derechos de autor Jeremy Ashkenas, DocumentCloud y Los reporteros de investigación & editores <http://underscorejs.org/>
+Basado en Underscore.js, los editores de derechos de autor Jeremy Ashkenas, DocumentCloud e Investigative Reporters & Editores <http://underscorejs.org/>
 
 Este software consta de contribuciones voluntarias realizadas por muchas personas. Para obtener un historial de contribución exacto, consulte el historial de revisiones disponible en https://github.com/lodash/lodash
 
@@ -5294,7 +5294,7 @@ CC0: http://creativecommons.org/publicdomain/zero/1.0/
 
 ====
 
-Los archivos ubicados en node_modules y los directorios de proveedores son bibliotecas mantenidas externamente que usa este software que tienen sus propias licencias; te recomendamos que los leas, ya que sus términos pueden diferir de los términos anteriores.
+Los archivos ubicados en node_modules y los directorios de proveedores son bibliotecas de mantenimiento externo que usa este software que tienen sus propias licencias; te recomendamos que los leas, ya que sus términos pueden diferir de los términos anteriores.
 
 
 ---------------------------------------------------------
@@ -8188,4 +8188,3 @@ EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPL
 
 
 ---------------------------------------------------------
-

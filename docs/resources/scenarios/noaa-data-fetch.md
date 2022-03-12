@@ -1,24 +1,24 @@
 ---
-title: 'Office Escenario de ejemplo de scripts: Graph datos de nivel de agua de NOAA'
+title: 'Office ejemplo scripts: Graph datos de nivel de agua de NOAA'
 description: Ejemplo que captura datos JSON de una base de datos NOAA y los usa para crear un gráfico.
-ms.date: 06/29/2021
+ms.date: 03/08/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: f0492c79b9fc2d7d98f4433611fd8589cf52054a
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 23246185072587d292cec4e30f868c46ddc80cde
+ms.sourcegitcommit: 79ce4fad6d284b1aa71f5ad6d2938d9ad6a09fee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327892"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63459637"
 ---
-# <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a>Office Escenario de ejemplo de scripts: capturar y representar datos de nivel de agua de NOAA
+# <a name="office-scripts-sample-scenario-fetch-and-graph-water-level-data-from-noaa"></a>Office ejemplo scripts: capturar y representar datos de nivel de agua de NOAA
 
-En este escenario, debe trazar el nivel del agua en la estación Seattle de la Administración Nacional Oceánica [y Atmosférico.](https://tidesandcurrents.noaa.gov/stationhome.html?id=9447130) Usará datos externos para rellenar una hoja de cálculo y crear un gráfico.
+En este escenario, debe trazar el nivel del agua en la estación seattle de la Administración Nacional Oceánica [y Atmosférico](https://tidesandcurrents.noaa.gov/stationhome.html?id=9447130). Usará datos externos para rellenar una hoja de cálculo y crear un gráfico.
 
-Desarrollará un script que usa el comando para consultar la base de datos de corrientes y `fetch` [mareas de NOAA.](https://tidesandcurrents.noaa.gov/) Esto hará que el nivel de agua se grabe en un intervalo de tiempo determinado. La información se devolverá como JSON, por lo que parte del script lo traducirá en valores de intervalo. Una vez que los datos están en la hoja de cálculo, se usarán para crear un gráfico.
+Desarrollará un script que use el `fetch` comando para consultar la base de datos [de corrientes y mareas de NOAA](https://tidesandcurrents.noaa.gov/). Esto hará que el nivel de agua se grabe en un intervalo de tiempo determinado. La información se devolverá como JSON, por lo que parte del script lo traducirá en valores de intervalo. Una vez que los datos están en la hoja de cálculo, se usarán para crear un gráfico.
 
 ## <a name="scripting-skills-covered"></a>Habilidades de scripting cubiertas
 
-- Llamadas DE API externas ( `fetch` )
+- Llamadas DE API externas (`fetch`)
 - Análisis JSON
 - Gráficos
 
@@ -26,14 +26,14 @@ Desarrollará un script que usa el comando para consultar la base de datos de co
 
 1. Abra el libro con Excel en la Web.
 
-1. En la **pestaña Automatizar,** seleccione **Nuevo script** y pegue el siguiente script en el editor.
+1. En la **pestaña Automatizar** , seleccione **Nuevo script** y pegue el siguiente script en el editor.
 
     ```TypeScript
     /**
      * Gets data from the National Oceanic and Atmospheric Administration's Tides and Currents database. 
      * That data is used to make a chart.
      */
-    async function main(workbook: ExcelScript.Workbook): Promise<void> {
+    async function main(workbook: ExcelScript.Workbook) {
       // Get the current sheet.
       let currentSheet = workbook.getActiveWorksheet();
     
@@ -113,7 +113,7 @@ Desarrollará un script que usa el comando para consultar la base de datos de co
 
 ## <a name="running-the-script"></a>Ejecución del script
 
-En cualquier hoja de cálculo, ejecute el script gráfico de nivel de agua **de NOAA.** El script captura los datos de nivel de agua del 25 de diciembre de 2020 al 27 de diciembre de 2020. Las variables al principio del script se pueden cambiar para usar diferentes `const` fechas u obtener información de estación diferente. La [API de CO-OPS para la recuperación de](https://api.tidesandcurrents.noaa.gov/api/prod/) datos describe cómo obtener todos estos datos.
+En cualquier hoja de cálculo, ejecute el script **gráfico de nivel de agua de NOAA** . El script captura los datos de nivel de agua del 25 de diciembre de 2020 al 27 de diciembre de 2020. Las `const` variables al principio del script se pueden cambiar para usar diferentes fechas u obtener información de estación diferente. La [API de CO-OPS para la recuperación de](https://api.tidesandcurrents.noaa.gov/api/prod/) datos describe cómo obtener todos estos datos.
 
 ### <a name="after-running-the-script"></a>Después de ejecutar el script
 
