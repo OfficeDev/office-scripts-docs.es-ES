@@ -1,41 +1,35 @@
 ---
 title: Datos Excel salida como JSON
 description: Obtenga información sobre cómo generar Excel datos de tabla como JSON para usarlos en Power Automate.
-ms.date: 07/22/2021
+ms.date: 03/18/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b613f41618594f6f38634e4126ab8f616f1f3f4
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: d6f15b9b59a2dfe1c74caa11c748f5f52c4ef35e
+ms.sourcegitcommit: 62a62351a0a15a658f93336269f3f50767ca6b62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59332111"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63746352"
 ---
 # <a name="output-excel-table-data-as-json-for-usage-in-power-automate"></a>Salida Excel datos de tabla como JSON para su uso en Power Automate
 
 Excel datos de tabla se pueden representar como una matriz de objetos en forma de JSON. Cada objeto representa una fila de la tabla. Esto ayuda a extraer los datos Excel en un formato coherente que sea visible para el usuario. A continuación, los datos se pueden dar a otros sistemas a través Power Automate flujos.
 
-_Datos de tabla de entrada_
+## <a name="sample-excel-file"></a>Archivo Excel ejemplo
+
+Descargue el archivo <a href="table-data-with-hyperlinks.xlsx">table-data-with-hyperlinks.xlsx</a> para un libro listo para usar.
 
 :::image type="content" source="../../images/table-input.png" alt-text="Hoja de cálculo que muestra los datos de la tabla de entrada.":::
 
 Una variación de este ejemplo también incluye los hipervínculos en una de las columnas de la tabla. Esto permite que se presenten niveles adicionales de datos de celda en el JSON.
 
-_Datos de tabla de entrada que incluyen hipervínculos_
-
 :::image type="content" source="../../images/table-hyperlink-view.png" alt-text="Hoja de cálculo que muestra una columna de datos de tabla con formato de hipervínculos.":::
-
-_Cuadro de diálogo para editar hipervínculo_
-
-:::image type="content" source="../../images/table-hyperlink-edit.png" alt-text="Cuadro de diálogo Editar hipervínculo que muestra opciones para cambiar hipervínculos.":::
-
-## <a name="sample-excel-file"></a>Archivo Excel ejemplo
-
-Descargue el archivo <a href="table-data-with-hyperlinks.xlsx">table-data-with-hyperlinks.xlsx</a> para un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
 
 ## <a name="sample-code-return-table-data-as-json"></a>Código de ejemplo: devolver datos de tabla como JSON
 
+Agregue el siguiente script para probar el ejemplo usted mismo.
+
 > [!NOTE]
-> Puede cambiar la estructura `interface TableData` para que coincida con las columnas de la tabla. Tenga en cuenta que para los nombres de columna con espacios, asegúrese de colocar la clave entre comillas, como con `"Event ID"` en el ejemplo.
+> Puede cambiar la estructura para `interface TableData` que coincida con las columnas de la tabla. Tenga en cuenta que para los nombres de columna con espacios, asegúrese de colocar la clave entre comillas, como con en `"Event ID"` el ejemplo.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): TableData[] {
