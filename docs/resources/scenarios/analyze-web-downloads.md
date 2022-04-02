@@ -3,18 +3,18 @@ title: 'Office ejemplo scripts: analizar descargas web'
 description: Ejemplo que toma datos de tráfico de Internet sin procesar en un libro de Excel y determina la ubicación de origen, antes de organizar esa información en una tabla.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: ad889e75d5f2e4b8af4379c3875b43ff8e1beda6
-ms.sourcegitcommit: ea9c3685a7407a07acf802705f4f44fb007c7825
+ms.openlocfilehash: 9d2d0ba302c72d4ca1f1aaad5e9cee5ba40d64e9
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61333501"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585495"
 ---
 # <a name="office-scripts-sample-scenario-analyze-web-downloads"></a>Office ejemplo scripts: analizar descargas web
 
-En este escenario, tiene la tarea de analizar los informes de descarga desde el sitio web de su empresa. El objetivo de este análisis es determinar si el tráfico web viene de Estados Unidos o de otra parte del mundo.
+En este escenario, tiene la tarea de analizar los informes de descarga desde el sitio web de su empresa. El objetivo de este análisis es determinar si el tráfico web viene de la Estados Unidos o de otra parte del mundo.
 
-Sus compañeros cargan los datos sin procesar en el libro. El conjunto de datos de cada semana tiene su propia hoja de cálculo. También hay la hoja de cálculo **Resumen** con una tabla y un gráfico que muestra las tendencias semana a semana.
+Sus compañeros cargan los datos sin procesar en el libro. El conjunto de datos de cada semana tiene su propia hoja de cálculo. También hay la hoja **de cálculo Resumen** con una tabla y un gráfico que muestra las tendencias semana a semana.
 
 Desarrollará un script que analice los datos de descargas semanales en la hoja de cálculo activa. Analizará la dirección IP asociada a cada descarga y determinará si provenía o no de Estados Unidos. La respuesta se insertará en la hoja de cálculo como un valor booleano ("TRUE" o "FALSE") y el formato condicional se aplicará a esas celdas. Los resultados de la ubicación de la dirección IP se completarán en la hoja de cálculo y se copiarán en la tabla de resumen.
 
@@ -31,7 +31,7 @@ Desarrollará un script que analice los datos de descargas semanales en la hoja 
 
 1. Abra el libro con Excel para la Web.
 
-1. En la **pestaña Automatizar,** seleccione **Nuevo script** y pegue el siguiente script en el editor.
+1. En la **pestaña Automatizar** , seleccione **Nuevo script** y pegue el siguiente script en el editor.
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook) {
@@ -211,7 +211,7 @@ Desarrollará un script que analice los datos de descargas semanales en la hoja 
 
 ## <a name="running-the-script"></a>Ejecución del script
 
-Navegue a cualquiera de las hojas **de \* \*** cálculo de semana y ejecute el script **Analizar descargas web.** El script aplicará el formato condicional y el etiquetado de ubicación en la hoja actual. También actualizará la hoja **de cálculo Resumen.**
+Navegue a cualquiera de las hojas **de\*\*** cálculo de semana y ejecute el script **Analizar descargas web** . El script aplicará el formato condicional y el etiquetado de ubicación en la hoja actual. También actualizará la hoja **de cálculo Resumen** .
 
 ### <a name="before-running-the-script"></a>Antes de ejecutar el script
 

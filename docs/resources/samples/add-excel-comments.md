@@ -3,18 +3,18 @@ title: Agregar comentarios en Excel
 description: Obtenga información sobre cómo usar Office scripts para agregar comentarios en una hoja de cálculo.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ff9d56934520a98dd1de7d31077396294bde29d
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 101f07fd2f1abcd4120585162dc2b77b8aece91a
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59332400"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585600"
 ---
 # <a name="add-comments-in-excel"></a>Agregar comentarios en Excel
 
-En este ejemplo se muestra cómo agregar comentarios a una celda [@mentioning](https://support.microsoft.com/office/90701709-5dc1-41c7-aa48-b01d4a46e8c7) un compañero.
+En este ejemplo se muestra cómo agregar comentarios a una [celda @mentioning un](https://support.microsoft.com/office/90701709-5dc1-41c7-aa48-b01d4a46e8c7) compañero.
 
-## <a name="example-scenario"></a>Ejemplo ficticio
+## <a name="example-scenario"></a>Escenario de ejemplo
 
 * El líder del equipo mantiene la programación de turnos. El responsable del equipo asigna un identificador de empleado al registro de turno.
 * El líder del equipo desea notificar al empleado. Al agregar un comentario que @mentions empleado, el empleado se envía por correo electrónico con un mensaje personalizado de la hoja de cálculo.
@@ -79,4 +79,4 @@ function main(workbook: ExcelScript.Workbook) {
 
 ## <a name="training-video-add-comments"></a>Vídeo de aprendizaje: Agregar comentarios
 
-[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/CpR78nkaOFw).
+[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/CpR78nkaOFw).

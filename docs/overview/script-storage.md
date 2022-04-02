@@ -3,12 +3,12 @@ title: Office y propiedad de archivos scripts
 description: Información sobre cómo Office scripts se almacenan en Microsoft OneDrive y se transfieren entre propietarios.
 ms.date: 06/04/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 98c10ed8def417bef36d5a97eb5411648d49258e
-ms.sourcegitcommit: 49f527a7f54aba00e843ad4a92385af59c1d7bfa
+ms.openlocfilehash: 3f9e0f93c598816417a4ce920d3d481085fa8a20
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63352135"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585915"
 ---
 # <a name="office-scripts-file-storage-and-ownership"></a>Office y propiedad de archivos scripts
 

@@ -1,18 +1,18 @@
 ---
 title: Combinar datos de varias Excel tablas en una sola tabla
-description: Obtenga información sobre cómo usar Office scripts para combinar datos de varias Excel en una sola tabla.
+description: Obtenga información sobre cómo usar Office scripts para combinar datos de varias Excel tablas en una sola tabla.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 490727f39a497dd1d2e31f2fac938b6d518012a5
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: bfe2f4af579e5ee59d20e12fe4850dd9c41bcc56
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59330775"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585894"
 ---
 # <a name="combine-data-from-multiple-excel-tables-into-a-single-table"></a>Combinar datos de varias Excel tablas en una sola tabla
 
-En este ejemplo se combinan los datos de varias Excel tablas en una sola tabla que incluye todas las filas. Se supone que todas las tablas que se usan tienen la misma estructura.
+En este ejemplo se combinan los datos de varias Excel en una sola tabla que incluye todas las filas. Se supone que todas las tablas que se usan tienen la misma estructura.
 
 Hay dos variaciones de este script:
 
@@ -97,4 +97,4 @@ function main(workbook: ExcelScript.Workbook) {
 
 ## <a name="training-video-combine-data-from-multiple-excel-tables-into-a-single-table"></a>Vídeo de aprendizaje: combinar datos de varias Excel tablas en una sola tabla
 
-[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/di-8JukK3Lc).
+[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/di-8JukK3Lc).

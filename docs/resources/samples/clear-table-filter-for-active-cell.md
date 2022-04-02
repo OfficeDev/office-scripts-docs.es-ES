@@ -3,18 +3,18 @@ title: Borrar filtro de columna de tabla en función de la ubicación de celda a
 description: Obtenga información sobre cómo borrar el filtro de columna de tabla en función de la ubicación de celda activa.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: bb01292017a027e41230d786337b5bf53293a20c
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: c52f1a3501318a479744abc6f2aa15cfaf3f9ded
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59332988"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585586"
 ---
 # <a name="clear-table-column-filter-based-on-active-cell-location"></a>Borrar filtro de columna de tabla en función de la ubicación de celda activa
 
 En este ejemplo se borra el filtro de columna de tabla en función de la ubicación de la celda activa. El script detecta si la celda forma parte de una tabla, determina la columna de tabla y borra cualquier filtro que se aplique en ella.
 
-Si desea obtener más información sobre cómo guardar el filtro antes de borrarlo (y volver a aplicarlo más adelante), vea [Mover](move-rows-across-tables.md)filas entre tablas guardando filtros, un ejemplo más avanzado.
+Si desea obtener más información sobre cómo guardar el filtro antes de borrarlo (y volver a aplicarlo más adelante), vea [Mover](move-rows-across-tables.md) filas entre tablas guardando filtros, un ejemplo más avanzado.
 
 _Antes de borrar el filtro de columna (observe la celda activa)_
 

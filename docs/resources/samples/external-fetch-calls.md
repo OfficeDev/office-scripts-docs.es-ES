@@ -3,18 +3,18 @@ title: Usar llamadas de captura externa en Scripts de Office
 description: Obtenga información sobre cómo realizar llamadas API externas en Office scripts.
 ms.date: 05/14/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: d957e0536e8574681f2ec752f23f9e6ba07f5fd2
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: feff9d49f9f50f14fd83b1864568df8dab02d417
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59335751"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585530"
 ---
 # <a name="use-external-fetch-calls-in-office-scripts"></a>Usar llamadas de captura externa en Scripts de Office
 
-Este script obtiene información básica sobre los repositorios de GitHub usuario. Muestra cómo usar en `fetch` un escenario simple. Para obtener más información sobre el uso u otras llamadas externas, lea Compatibilidad con llamadas `fetch` de API externa en scripts Office [externos](../../develop/external-calls.md)
+Este script obtiene información básica sobre los repositorios de GitHub usuario. Muestra cómo usar en `fetch` un escenario simple. Para obtener más información sobre el uso u `fetch` otras llamadas externas, lea [Soporte de llamadas de API externa en Office scripts](../../develop/external-calls.md)
 
-Puede obtener más información sobre las API de GItHub que se usan en la referencia GitHub [API](https://docs.github.com/rest/reference/repos#list-repositories-for-a-user). También puede ver el resultado de la llamada api sin procesar visitando en un explorador web (asegúrese de reemplazar el marcador de posición `https://api.github.com/users/{USERNAME}/repos` {USERNAME} por su identificador GitHub usuario).
+Puede obtener más información sobre las API de GItHub que se usan en la referencia GitHub [API.](https://docs.github.com/rest/reference/repos#list-repositories-for-a-user) También puede ver el resultado de la llamada api `https://api.github.com/users/{USERNAME}/repos` sin procesar visitando en un explorador web (asegúrese de reemplazar el marcador de posición {USERNAME} por su GitHub id.).
 
 ![Ejemplo de obtener información de repositorios](../../images/git.png)
 
@@ -57,4 +57,4 @@ interface License {
 
 ## <a name="training-video-how-to-make-external-api-calls"></a>Vídeo de aprendizaje: Cómo realizar llamadas a API externas
 
-[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/fulP29J418E).
+[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/fulP29J418E).

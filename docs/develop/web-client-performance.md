@@ -1,20 +1,20 @@
 ---
-title: Mejorar el rendimiento de los scripts Office scripts
+title: Mejorar el rendimiento de los scripts de Office scripts
 description: Cree scripts más rápidos al comprender la comunicación entre el Excel y el script.
 ms.date: 05/17/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 169256bdae809c413c10f1f00240afc28be795f4
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 2deb417d41c4be663efaf83735459eab26146410
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59331167"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585635"
 ---
-# <a name="improve-the-performance-of-your-office-scripts"></a>Mejorar el rendimiento de los scripts Office scripts
+# <a name="improve-the-performance-of-your-office-scripts"></a>Mejorar el rendimiento de los scripts de Office scripts
 
-El propósito de Office scripts es automatizar series de tareas que se realizan habitualmente para ahorrar tiempo. Un script lento puede sentir que no acelera el flujo de trabajo. La mayoría de las veces, el script estará perfectamente bien y se ejecutará según lo esperado. Sin embargo, hay algunos escenarios evitables que pueden afectar al rendimiento.
+El propósito de Office scripts es automatizar las series de tareas que se realizan habitualmente para ahorrar tiempo. Un script lento puede sentir que no acelera el flujo de trabajo. La mayoría de las veces, el script estará perfectamente bien y se ejecutará según lo esperado. Sin embargo, hay algunos escenarios evitables que pueden afectar al rendimiento.
 
-La razón más común para un script lento es una comunicación excesiva con el libro. El script se ejecuta en el equipo local, mientras que el libro existe en la nube. En ciertos momentos, el script sincroniza sus datos locales con los del libro. Esto significa que cualquier operación de escritura (como ) solo se aplica al libro cuando se produce esta sincronización entre `workbook.addWorksheet()` bastidores. Del mismo modo, las operaciones de lectura (como ) solo obtienen datos `myRange.getValues()` del libro para el script en esos momentos. En cualquier caso, el script captura información antes de que actúe en los datos. Por ejemplo, el siguiente código registrará con precisión el número de filas en el intervalo usado.
+La razón más común para un script lento es una comunicación excesiva con el libro. El script se ejecuta en el equipo local, mientras que el libro existe en la nube. En ciertos momentos, el script sincroniza sus datos locales con los del libro. Esto significa que cualquier operación de escritura ( `workbook.addWorksheet()`como ) solo se aplica al libro cuando se produce esta sincronización entre bastidores. Del mismo modo, las operaciones de lectura (como `myRange.getValues()`) solo obtienen datos del libro para el script en esos momentos. En cualquier caso, el script captura información antes de que actúe en los datos. Por ejemplo, el siguiente código registrará con precisión el número de filas en el intervalo usado.
 
 ```TypeScript
 let usedRange = workbook.getActiveWorksheet().getUsedRange();
@@ -24,14 +24,14 @@ let rowCount = usedRange.getRowCount();
 console.log(rowCount);
 ```
 
-Office Las API de scripts garantizan que los datos del libro o script sean precisos y actualizados cuando sea necesario. No es necesario preocuparse por estas sincronizaciones para que el script se ejecute correctamente. Sin embargo, un conocimiento de esta comunicación de script a nube puede ayudarle a evitar llamadas de red innecesarios.
+Office API de scripts garantizan que los datos del libro o script sean precisos y actualizados cuando sea necesario. No es necesario preocuparse por estas sincronizaciones para que el script se ejecute correctamente. Sin embargo, un conocimiento de esta comunicación de script a nube puede ayudarle a evitar llamadas de red innecesarios.
 
 ## <a name="performance-optimizations"></a>Optimizaciones de rendimiento
 
 Puede aplicar técnicas sencillas para ayudar a reducir la comunicación a la nube. Los siguientes patrones ayudan a acelerar los scripts.
 
 - Lea los datos del libro una vez en lugar de repetirlo en un bucle.
-- Quite instrucciones `console.log` innecesarias.
+- Quite instrucciones innecesarias `console.log` .
 - Evite usar bloques try/catch.
 
 ### <a name="read-workbook-data-outside-of-a-loop"></a>Leer datos del libro fuera de un bucle
@@ -70,9 +70,9 @@ function main(workbook: ExcelScript.Workbook) {
 ```
 
 > [!NOTE]
-> Como experimento, intente reemplazar `usedRangeValues` en el bucle por `usedRange.getValues()` . Es posible que observe que el script tarda considerablemente más tiempo en ejecutarse cuando se trata de intervalos grandes.
+> Como experimento, intente reemplazar `usedRangeValues` en el bucle por `usedRange.getValues()`. Es posible que observe que el script tarda considerablemente más tiempo en ejecutarse cuando se trata de intervalos grandes.
 
-### <a name="avoid-using-trycatch-blocks-in-or-surrounding-loops"></a>Evitar el uso `try...catch` de bloques en bucles o entornos
+### <a name="avoid-using-trycatch-blocks-in-or-surrounding-loops"></a>Evitar el uso de `try...catch` bloques en bucles o entornos
 
 No se recomienda usar instrucciones en [`try...catch`](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/try...catch) bucles o bucles circundantes. Este es el mismo motivo por el que debe evitar leer datos en un bucle: cada iteración fuerza al script a sincronizarse con el libro para asegurarse de que no se ha producido ningún error. La mayoría de los errores se pueden evitar comprobando los objetos devueltos desde el libro. Por ejemplo, el siguiente script comprueba que la tabla devuelta por el libro existe antes de intentar agregar una fila.
 
@@ -94,13 +94,13 @@ function main(workbook: ExcelScript.Workbook) {
 }
 ```
 
-### <a name="remove-unnecessary-consolelog-statements"></a>Quitar instrucciones `console.log` innecesarias
+### <a name="remove-unnecessary-consolelog-statements"></a>Quitar instrucciones innecesarias `console.log`
 
-El registro de consola es una herramienta vital [para depurar los scripts.](../testing/troubleshooting.md) Sin embargo, obliga al script a sincronizarse con el libro para asegurarse de que la información registrada está actualizada. Considere la posibilidad de quitar instrucciones de registro innecesarias (como las que se usan para las pruebas) antes de compartir el script. Por lo general, esto no causará un problema de rendimiento notable, a menos que la `console.log()` instrucción esté en un bucle.
+El registro de consola es una herramienta vital [para depurar los scripts](../testing/troubleshooting.md). Sin embargo, obliga al script a sincronizarse con el libro para asegurarse de que la información registrada está actualizada. Considere la posibilidad de quitar instrucciones de registro innecesarias (como las que se usan para las pruebas) antes de compartir el script. Por lo general, esto no causará un problema de rendimiento notable, a menos que la `console.log()` instrucción esté en un bucle.
 
 ## <a name="case-by-case-help"></a>Ayuda caso por caso
 
-A medida que la plataforma de scripts de Office [](/adaptive-cards)se expande para funcionar con [Power Automate,](https://flow.microsoft.com/)tarjetas adaptables y otras características entre productos, los detalles de la comunicación entre scripts y libros se vuelven más complejos. Si necesita ayuda para que el script se ejecute más rápido, póngase en contacto con [Microsoft Q&A](/answers/topics/office-scripts-excel-dev.html). Asegúrese de etiquetar su pregunta con "office-scripts-dev" para que los expertos puedan encontrarlo y ayudarle.
+A medida que la plataforma de scripts de Office se expande para funcionar con [Power Automate](https://flow.microsoft.com/)[,](/adaptive-cards) tarjetas adaptables y otras características entre productos, los detalles de la comunicación entre scripts y libros se vuelven más complejos. Si necesita ayuda para que el script se ejecute más rápido, póngase en contacto con [Microsoft Q&A](/answers/topics/office-scripts-excel-dev.html). Asegúrese de etiquetar su pregunta con "office-scripts-dev" para que los expertos puedan encontrarlo y ayudarle.
 
 ## <a name="see-also"></a>Vea también
 

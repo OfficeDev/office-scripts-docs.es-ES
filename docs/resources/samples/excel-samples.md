@@ -1,16 +1,16 @@
 ---
-title: Scripts básicos para Office scripts en Excel en la Web
+title: Scripts básicos para Office scripts de Excel en la Web
 description: Una colección de ejemplos de código para usar con Office scripts en Excel en la Web.
-ms.date: 06/29/2021
+ms.date: 03/24/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: c0e852ba2afcc37f5921ff0b2256df0769535f6e
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 853b00349b246e74765eb2959b4926fad42f07c5
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59330740"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585873"
 ---
-# <a name="basic-scripts-for-office-scripts-in-excel-on-the-web"></a>Scripts básicos para Office scripts en Excel en la Web
+# <a name="basic-scripts-for-office-scripts-in-excel-on-the-web"></a>Scripts básicos para Office scripts de Excel en la Web
 
 Los ejemplos siguientes son scripts sencillos para que pruebe en sus propios libros. Para usarlos en Excel en la Web:
 
@@ -233,7 +233,7 @@ function main(workbook: ExcelScript.Workbook) {
 }
 ```
 
-En el ejemplo siguiente se lee una fecha que se almacena en Excel y se traduce a un objeto Date de JavaScript. Usa el número [de serie numérico de la](https://support.office.com/article/now-function-3337fd29-145a-4347-b2e6-20c904739c46) fecha como entrada para la fecha de JavaScript.
+En el ejemplo siguiente se lee una fecha que se almacena en Excel y se traduce a un objeto Date de JavaScript. Usa el número de serie numérico de la fecha como entrada para la fecha de JavaScript. Este número de serie se describe en el [artículo de la función NOW(](https://support.office.com/article/now-function-3337fd29-145a-4347-b2e6-20c904739c46) ).
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
@@ -383,7 +383,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 ### <a name="handle-a-spill-error-returned-from-a-formula"></a>Controlar un `#SPILL!` error devuelto desde una fórmula
 
-Este script transpone el intervalo "A1:D2" a "A4:B7" mediante la función TRANSPOSE. Si la transponer da como resultado un error, borra el intervalo de destino y vuelve a aplicar `#SPILL` la fórmula.
+Este script transpone el intervalo "A1:D2" a "A4:B7" mediante la función TRANSPOSE. Si la transponer da como resultado un `#SPILL` error, borra el intervalo de destino y vuelve a aplicar la fórmula.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
@@ -419,8 +419,8 @@ function main(workbook: ExcelScript.Workbook) {
 
 Le damos la bienvenida a las sugerencias de nuevos ejemplos. Si hay un escenario común que podría ayudar a otros desarrolladores de scripts, díganoslo en la sección de comentarios de la parte inferior de la página.
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Consulte también
 
 * ["Conceptos básicos del rango" de Sudhi Ramamurthy en YouTube](https://youtu.be/4emjkOFdLBA)
-* [Office Ejemplos y escenarios de scripts](samples-overview.md)
+* [Office ejemplos y escenarios de scripts](samples-overview.md)
 * [Grabar, editar y crear Scripts de Office en Excel para la Web](../../tutorials/excel-tutorial.md)

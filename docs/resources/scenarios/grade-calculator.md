@@ -1,16 +1,16 @@
 ---
-title: 'Office Escenario de ejemplo de scripts: calculadora de calificaciones'
+title: 'Office ejemplo scripts: calculadora de calificaciones'
 description: Muestra que determina el porcentaje y las calificaciones de letras de una clase de alumnos.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 9036c12cd05e96932171cc0aefdce8eed1cc988e
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: fd9009633e4a89e3b236f765543123b3995b9f47
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59334213"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585446"
 ---
-# <a name="office-scripts-sample-scenario-grade-calculator"></a>Office Escenario de ejemplo de scripts: calculadora de calificaciones
+# <a name="office-scripts-sample-scenario-grade-calculator"></a>Office ejemplo scripts: calculadora de calificaciones
 
 En este escenario, eres un instructor que cuenta las calificaciones de fin de curso de cada alumno. Has estado especificando las puntuaciones de sus tareas y pruebas a medida que vas. Ahora, es el momento de determinar el destino de los alumnos.
 
@@ -29,7 +29,7 @@ Desarrollará un script que totale las calificaciones de cada categoría de punt
 
 1. Abra el libro con Excel para la Web.
 
-1. En la **pestaña Automatizar,** seleccione **Nuevo script** y pegue el siguiente script en el editor.
+1. En la **pestaña Automatizar** , seleccione **Nuevo script** y pegue el siguiente script en el editor.
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook) {

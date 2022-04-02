@@ -3,21 +3,21 @@ title: Ejecutar un script en todos los archivos de Excel de una carpeta
 description: Obtenga información sobre cómo ejecutar un script en todos los Excel archivos de una carpeta en OneDrive para la Empresa.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 5da0d63fbdcf8b7333b951e226d9d34321dd6bd5
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 924fd1b0ea1d50e18877b5a7808feb906959215e
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327864"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585880"
 ---
 # <a name="run-a-script-on-all-excel-files-in-a-folder"></a>Ejecutar un script en todos los archivos de Excel de una carpeta
 
-Este proyecto realiza un conjunto de tareas de automatización en todos los archivos situados en una carpeta de OneDrive para la Empresa. También se puede usar en una SharePoint carpeta.
-Realiza cálculos en los archivos Excel, agrega formato e inserta un comentario que @mentions [compañero.](https://support.microsoft.com/office/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+Este proyecto realiza un conjunto de tareas de automatización en todos los archivos situados en una carpeta en OneDrive para la Empresa. También se puede usar en una SharePoint carpeta.
+Realiza cálculos en los archivos Excel, agrega formato e inserta un comentario que [@mentions compañero.](https://support.microsoft.com/office/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ## <a name="sample-excel-files"></a>Archivos Excel ejemplo
 
-Descargue <a href="https://github.com/OfficeDev/office-scripts-docs/blob/master/docs/resources/samples/highlight-alert-excel-files.zip?raw=true">highlight-alert-excel-files.zip</a> todos los libros que necesitará para este ejemplo. Extraiga esos archivos en una carpeta titulada **Ventas**. Agregue el siguiente script a la colección de scripts para probar el ejemplo usted mismo.
+Descargue <a href="https://github.com/OfficeDev/office-scripts-docs/blob/master/docs/resources/samples/highlight-alert-excel-files.zip?raw=true">highlight-alert-excel-files.zip</a> para todos los libros que necesitará para este ejemplo. Extraiga esos archivos en una carpeta titulada **Ventas**. Agregue el siguiente script a la colección de scripts para probar el ejemplo usted mismo.
 
 ## <a name="sample-code-add-formatting-and-insert-comment"></a>Código de ejemplo: Agregar formato e insertar comentario
 
@@ -75,27 +75,27 @@ function main(workbook: ExcelScript.Workbook) {
 
 Este flujo ejecuta el script en todos los libros de la carpeta "Ventas".
 
-1. Crear un nuevo **flujo de nube instantánea**.
+1. Cree un nuevo **flujo de nube instantánea**.
 1. Elija **Desencadenar manualmente un flujo y** seleccione **Crear**.
-1. Agregue un **nuevo paso que** use el conector **OneDrive para la Empresa** y los archivos de lista en la acción **de carpeta.**
+1. Agregue un **nuevo paso que** use el **conector OneDrive para la Empresa** y los archivos **de lista en la acción de carpeta**.
 
-    :::image type="content" source="../../images/all-files-in-folder-sample-flow-1.png" alt-text="El conector OneDrive para la Empresa completo en Power Automate.":::
+    :::image type="content" source="../../images/all-files-in-folder-sample-flow-1.png" alt-text="El conector OneDrive para la Empresa en Power Automate.":::
 1. Seleccione la carpeta "Ventas" con los libros extraídos.
-1. Para asegurarse de que solo se seleccionan los libros, elija **Nuevo paso** y, a continuación, **seleccione Condición**. Use los siguientes valores para la condición.
+1. Para asegurarse de que solo están seleccionados los libros, elija **Nuevo paso** y, a continuación, **seleccione Condición**. Use los siguientes valores para la condición.
     1. **Name** (el OneDrive de nombre de archivo)
     1. "termina con"
     1. "xlsx"
 
     :::image type="content" source="../../images/all-files-in-folder-sample-flow-2.png" alt-text="El Power Automate condición que aplica acciones posteriores a cada archivo.":::
-1. En la **rama If yes,** agregue **el conector Excel Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción.
+1. En la **rama If yes**, agregue **el conector Excel Online (Empresa)** con la **acción Ejecutar script**. Use los siguientes valores para la acción.
     1. **Ubicación**: OneDrive para la Empresa
     1. **Biblioteca de documentos**: OneDrive
-    1. **Archivo:** **Identificador** (el valor OneDrive id. de archivo)
-    1. **Script:** el nombre del script
+    1. **Archivo**: **Identificador** (el valor OneDrive id. de archivo)
+    1. **Script**: el nombre del script
 
-    :::image type="content" source="../../images/all-files-in-folder-sample-flow-3.png" alt-text="El conector Excel Online (Empresa) completado en Power Automate.":::
-1. Guarde el flujo y pruébalo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos.** Asegúrese de permitir el acceso cuando se le pida.
+    :::image type="content" source="../../images/all-files-in-folder-sample-flow-3.png" alt-text="El conector Excel online (empresa) completado en Power Automate.":::
+1. Guarde el flujo y pruébalo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la **pestaña Mis flujos** . Asegúrese de permitir el acceso cuando se le pida.
 
 ## <a name="training-video-run-a-script-on-all-excel-files-in-a-folder"></a>Vídeo de aprendizaje: ejecutar un script en todos Excel archivos de una carpeta
 
-[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/xMg711o7k6w).
+[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/xMg711o7k6w).

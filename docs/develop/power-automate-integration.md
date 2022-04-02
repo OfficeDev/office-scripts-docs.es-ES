@@ -3,20 +3,20 @@ title: Ejecutar Office scripts con Power Automate
 description: Cómo obtener scripts Office para Excel en la Web trabajar con un Power Automate de trabajo.
 ms.date: 03/08/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: f7358b79248974ddb548b54437422670a37531bf
-ms.sourcegitcommit: 79ce4fad6d284b1aa71f5ad6d2938d9ad6a09fee
+ms.openlocfilehash: dbf65086e564b20ca0fc3a4dc1c527188540be6b
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459623"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585754"
 ---
 # <a name="run-office-scripts-with-power-automate"></a>Ejecutar Office scripts con Power Automate
 
 [Power Automate](https://flow.microsoft.com) permite agregar scripts Office a un flujo de trabajo más grande y automatizado. Puede usar Power Automate tareas como agregar el contenido de un correo electrónico a la tabla de una hoja de cálculo o crear acciones en las herramientas de administración de proyectos en función de los comentarios del libro.
 
-## <a name="get-started"></a>Comenzar
+## <a name="get-started"></a>Introducción
 
-Si no es nuevo en Power Automate, le recomendamos que visite [Introducción a Power Automate](/power-automate/getting-started). Allí, puede obtener más información sobre todas las posibilidades de automatización disponibles. Los documentos aquí se centran en cómo Office scripts funcionan con Power Automate y cómo esto puede ayudar a mejorar la experiencia Excel usuario.
+Si no es nuevo en Power Automate, se recomienda visitar Comenzar [con Power Automate](/power-automate/getting-started). Allí, puede obtener más información sobre todas las posibilidades de automatización disponibles. Los documentos aquí se centran en cómo Office scripts funcionan con Power Automate y cómo esto puede ayudar a mejorar la experiencia Excel usuario.
 
 Para empezar a combinar Power Automate y Office scripts, siga el tutorial [Empezar a usar scripts con Power Automate](../tutorials/excel-power-automate-manual.md). Esto le enseñará a crear un flujo que llame a un script simple. Después de completar ese tutorial y los datos de paso [a scripts](../tutorials/excel-power-automate-trigger.md) en un tutorial de flujo de Power Automate de ejecución automática, vuelva aquí para obtener información detallada sobre cómo conectar scripts de Office Power Automate flujos.
 
@@ -112,7 +112,7 @@ function main(
 }
 ```
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
 - [Ejecute Office scripts en Excel en la Web con Power Automate](../tutorials/excel-power-automate-manual.md)
 - [Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente](../tutorials/excel-power-automate-trigger.md)

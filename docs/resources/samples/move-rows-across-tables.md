@@ -3,18 +3,18 @@ title: Mover filas entre tablas mediante Office scripts
 description: Aprenda a mover filas entre tablas guardando filtros y procesando y reaprobando los filtros.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: bffdb17516016d159e61586c116d764f7bb8f3fc
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 9780cd79a55dcb5cd2e039b5198232358b3b1413
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59334972"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585481"
 ---
 # <a name="move-rows-across-tables"></a>Mover filas entre tablas
 
 Este script hace lo siguiente:
 
-* Selecciona filas de la tabla de origen donde el valor de una columna es igual a algún valor ( `FILTER_VALUE` en el script).
+* Selecciona filas de la tabla de origen donde el valor de una columna es igual a algún valor (`FILTER_VALUE` en el script).
 * Mueve todas las filas seleccionadas a la tabla de destino de otra hoja de cálculo.
 * Vuelve a aplicar los filtros relevantes a la tabla de origen.
 
@@ -107,7 +107,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 ## <a name="training-video-move-rows-across-tables"></a>Vídeo de aprendizaje: Mover filas entre tablas
 
-[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/_3t3Pk4i2L0). Hay dos scripts que se muestran en la solución del vídeo. La diferencia principal es cómo se seleccionan las filas.
+[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/_3t3Pk4i2L0). Hay dos scripts que se muestran en la solución del vídeo. La diferencia principal es cómo se seleccionan las filas.
 
 * En la primera variante, las filas se seleccionan aplicando el filtro de tabla y leyendo el intervalo visible.
 * En el segundo, las filas se seleccionan leyendo los valores y extrayendo los valores de fila (que es lo que usa el ejemplo de esta página).

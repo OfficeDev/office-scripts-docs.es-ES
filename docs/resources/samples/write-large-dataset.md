@@ -3,25 +3,25 @@ title: Escribir un conjunto de datos grande
 description: Obtenga información sobre cómo dividir un conjunto de datos grande en operaciones de escritura más pequeñas en Office scripts.
 ms.date: 05/13/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b37c5892c3b5f9ba26bfc2cdf8b30db321751d3
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 0702ae5465caf91f5581cbdb79ca75a65e83adbc
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59330586"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585929"
 ---
 # <a name="write-a-large-dataset"></a>Escribir un conjunto de datos grande
 
-La `Range.setValues()` API coloca los datos en un intervalo. Esta API tiene limitaciones en función de varios factores, como el tamaño de los datos y la configuración de red. Esto significa que si intenta escribir una gran cantidad de información en un libro como una sola operación, tendrá que escribir los datos en lotes más pequeños para actualizar de forma confiable un rango [grande](../../testing/platform-limits.md).
+La `Range.setValues()` API coloca los datos en un intervalo. Esta API tiene limitaciones en función de varios factores, como el tamaño de los datos y la configuración de red. Esto significa que si intenta escribir una gran cantidad de información en un libro como una sola operación, deberá escribir los datos en lotes más pequeños para actualizar de forma confiable un rango [grande](../../testing/platform-limits.md).
 
-Para obtener información básica sobre el rendimiento Office scripts, lea [Mejorar el rendimiento](../../develop/web-client-performance.md)de los scripts Office .
+Para obtener información básica de rendimiento Office scripts, lea [Mejorar el rendimiento de los scripts Office scripts](../../develop/web-client-performance.md).
 
 ## <a name="sample-code-write-a-large-dataset"></a>Código de ejemplo: escribir un conjunto de datos grande
 
 Este script escribe filas de un rango en partes más pequeñas. Selecciona 1000 celdas para escribir a la vez. Ejecute el script en una hoja de cálculo en blanco para ver los lotes de actualización en acción. El resultado de la consola proporciona más información sobre lo que está sucediendo.
 
 > [!NOTE]
-> Puede cambiar el número de filas totales que se escriben cambiando el valor de `SAMPLE_ROWS` . Puede cambiar el número de celdas que se escribirán como una sola acción cambiando el valor de `CELLS_IN_BATCH` .
+> Puede cambiar el número de filas totales que se escriben cambiando el valor de `SAMPLE_ROWS`. Puede cambiar el número de celdas que se escribirán como una sola acción cambiando el valor de `CELLS_IN_BATCH`.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
@@ -148,4 +148,4 @@ function getRandomString(length: number): string {
 
 ## <a name="training-video-write-a-large-dataset"></a>Vídeo de aprendizaje: escribir un conjunto de datos grande
 
-[Vea el recorrido de Sudhi Ramamurthy por este ejemplo en YouTube](https://youtu.be/BP9Kp0Ltj7U).
+[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/BP9Kp0Ltj7U).

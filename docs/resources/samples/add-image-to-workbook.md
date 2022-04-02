@@ -3,12 +3,12 @@ title: Agregar imágenes a un libro
 description: Obtenga información sobre cómo usar Office scripts para agregar una imagen a un libro y copiarla entre hojas.
 ms.date: 07/12/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 0c4b3446df8de280b6cb557e291504ceed5ee7f7
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: b827ebe4050fa8e260ed640a73d583264955b597
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59326859"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585866"
 ---
 # <a name="add-images-to-a-workbook"></a>Agregar imágenes a un libro
 

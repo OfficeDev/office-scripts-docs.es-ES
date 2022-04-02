@@ -3,12 +3,12 @@ title: Ejecutar scripts mediante un flujo manual de Power Automate
 description: Tutorial sobre el uso de scripts de Office en Power Automate mediante un desencadenador manual.
 ms.date: 06/29/2021
 ms.localizationpriority: high
-ms.openlocfilehash: 506481c8b5ee1ae94a4e0a7fc926abc62ba7c5f9
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: e926540976dc066b3f07620c1e710dfa3abc7660
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59330866"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585943"
 ---
 # <a name="call-scripts-from-a-manual-power-automate-flow"></a>Ejecutar scripts mediante un flujo manual de Power Automate
 
@@ -100,7 +100,7 @@ Power Automate no debe usar [referencias relativas](../testing/power-automate-tr
 
 9. Seleccione **Guardar**.
 
-El flujo ya está listo para ejecutarse mediante Power Automate. Para probarlo, pulse el botón **Probar** en el editor de flujos o siga los pasos restantes del tutorial para ejecutar el flujo de la colección de flujos.
+El flujo ya está listo para ejecutarse mediante Power Automate. Puede probarlo con el botón **Probar** en el editor de flujos o siga los pasos restantes del tutorial para ejecutar el flujo desde la colección de flujos.
 
 ## <a name="run-the-script-through-power-automate"></a>Ejecutar el script mediante Power Automate
 
@@ -116,7 +116,7 @@ El flujo ya está listo para ejecutarse mediante Power Automate. Para probarlo, 
 
 4. Se mostrará un panel de tareas para ejecutar el flujo. Si se le solicita **Iniciar sesión** en Excel Online, seleccione **Continuar**.
 
-5. Seleccione **Ejecutar flujo**. Se ejecutará el flujo, que ejecuta a su vez el script de Office relacionado.
+5. Seleccione **Ejecutar flujo**. Esto ejecuta el flujo, que ejecuta el script de Office relacionado.
 
 6. Seleccione **Listo**. En consecuencia, debería actualizarse la sección **Ejecuciones**.
 

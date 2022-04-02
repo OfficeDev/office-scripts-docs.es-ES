@@ -1,22 +1,22 @@
 ---
-title: Archivos de Excel referencias cruzadas con Power Automate
+title: Referencias cruzadas Excel archivos con Power Automate
 description: Obtenga información sobre cómo usar Office scripts y Power Automate para hacer referencia cruzada y dar formato a un Excel archivo.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: adeb84140cb9884309c9f37854a29fc4d59b17ed
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 13ba6c8ba6f9232554ea6cfd5f98c308ea981683
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59332981"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585494"
 ---
-# <a name="cross-reference-excel-files-with-power-automate"></a>Archivos de Excel referencias cruzadas con Power Automate
+# <a name="cross-reference-excel-files-with-power-automate"></a>Referencias cruzadas Excel archivos con Power Automate
 
 Esta solución muestra cómo comparar datos en dos Excel para encontrar discrepancias. Usa scripts Office para analizar datos y Power Automate para comunicarse entre los libros.
 
-## <a name="example-scenario"></a>Ejemplo ficticio
+## <a name="example-scenario"></a>Escenario de ejemplo
 
-Es un coordinador de eventos que está programando oradores para las próximas conferencias. Los datos del evento se mantienen en una hoja de cálculo y los registros de altavoces en otra. Para asegurarse de que los dos libros se mantienen sincronizados, use un flujo con Office scripts para resaltar los posibles problemas.
+Es un coordinador de eventos que está programando oradores para las próximas conferencias. Los datos del evento se mantienen en una hoja de cálculo y los registros de altavoces en otra. Para asegurarse de que los dos libros se mantienen sincronizados, use un flujo con scripts Office para resaltar los posibles problemas.
 
 ## <a name="sample-excel-files"></a>Archivos Excel ejemplo
 
@@ -148,9 +148,9 @@ interface EventData {
 
 Este flujo extrae la información del evento del primer libro y usa los datos para validar el segundo libro.
 
-1. Inicie sesión [Power Automate](https://flow.microsoft.com) y cree un nuevo **flujo de nube instantánea.**
+1. Inicie sesión [Power Automate](https://flow.microsoft.com) y cree un nuevo **flujo de nube instantánea**.
 1. Elija **Desencadenar manualmente un flujo y** seleccione **Crear**.
-1. Agregue un **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción.
+1. Agregue un **paso Nuevo** que use el **conector Excel Online (Empresa)** con la **acción Ejecutar script**. Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
     * **Archivo**: event-data.xlsx ([seleccionado con el seleccionador de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
@@ -158,18 +158,18 @@ Este flujo extrae la información del evento del primer libro y usa los datos pa
 
     :::image type="content" source="../../images/cross-reference-flow-1.png" alt-text="El conector Excel online (empresa) para el primer script de Power Automate.":::
 
-1. Agregue un segundo **paso Nuevo** que use el conector Excel **Online (Empresa)** con la **acción Ejecutar script.** Use los siguientes valores para la acción.
+1. Agregue un segundo **paso Nuevo** que use **el conector Excel online (empresa)** con la **acción Ejecutar script**. Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
     * **Archivo**: speaker-registration.xlsx ([seleccionado con el seleccionador de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
-    * **Script**: Validar el registro de altavoces
+    * **Script**: validar el registro de altavoces
 
     :::image type="content" source="../../images/cross-reference-flow-2.png" alt-text="El conector Excel online (empresa) para el segundo script de Power Automate.":::
-1. En este ejemplo se Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo electrónico Power Automate admite. Agregue un **nuevo paso** que use el **conector Office 365 Outlook** y la acción Enviar y correo electrónico **(V2).** Use los siguientes valores para la acción.
-    * **To**: Su cuenta de correo electrónico de prueba (o correo electrónico personal)
+1. En este ejemplo se Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo electrónico Power Automate admite. Agregue un **nuevo paso** que use el **conector Office 365 Outlook** y la **acción Enviar y correo electrónico (V2**). Use los siguientes valores para la acción.
+    * **Para**: Su cuenta de correo electrónico de prueba (o correo electrónico personal)
     * **Asunto**: Resultados de validación de eventos
-    * **Body**: result (_dynamic content from Run script **2**_)
+    * **Cuerpo**: resultado (_contenido dinámico del **script de ejecución 2**_)
 
-    :::image type="content" source="../../images/cross-reference-flow-3.png" alt-text="El conector Office 365 Outlook completado en Power Automate.":::
-1. Guarde el flujo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos.** Asegúrese de permitir el acceso cuando se le pida.
+    :::image type="content" source="../../images/cross-reference-flow-3.png" alt-text="El conector Office 365 Outlook completo en Power Automate.":::
+1. Guarde el flujo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la **pestaña Mis flujos** . Asegúrese de permitir el acceso cuando se le pida.
 1. Debe recibir un correo electrónico que diga "Error encontrado. Los datos requieren su revisión". Esto indica que hay diferencias entre las filas de **speaker-registrations.xlsx** y las filas de **event-data.xlsx**. Abra **speaker-registrations.xlsx** para ver varias celdas resaltadas donde hay posibles problemas con las listas de registro de orador.

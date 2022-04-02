@@ -3,12 +3,12 @@ title: Leer datos de libros con scripts de Office en Excel en la Web
 description: Un tutorial de scripts de Office sobre cómo leer datos de libros y evaluarlos en el script.
 ms.date: 01/06/2021
 ms.localizationpriority: high
-ms.openlocfilehash: 739ad5bd1fa395c5081442246241cd598ce7c39c
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: c1bc867b6df91a7dedde4020177ed87682d060f9
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59335906"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64586041"
 ---
 # <a name="read-workbook-data-with-office-scripts-in-excel-on-the-web"></a>Leer datos de libros con scripts de Office en Excel en la Web
 
@@ -149,4 +149,4 @@ Ahora que sabemos cómo leer y escribir en una sola celda, vamos a aplicar este 
 
 Abra el Editor de código y pruebe algunos de nuestros [Ejemplos para scripts de Office en Excel en la Web](../resources/samples/excel-samples.md). Para obtener más información sobre la creación de scripts de Office, consulte también [Fundamentos para scripts de Office en Excel en la Web](../develop/scripting-fundamentals.md).
 
-La siguiente serie de tutoriales de Scripts de Office se centra en el uso de Scripts de Office con Power Automate. Obtenga más información sobre las ventajas de combinar las dos plataformas en [Ejecutar Scripts de Office con Power Automate](../develop/power-automate-integration.md) o consulte el tutorial [Llamar a scripts desde un flujo manual de Power Automate](excel-power-automate-manual.md) para crear un flujo de Power Automate que use un script de Office.
+La siguiente serie con tutoriales de Scripts de Office se centra en el uso de scripts con Power Automate. Obtenga más información sobre las ventajas de combinar las dos plataformas en [Ejecutar scripts de Office con Power Automate](../develop/power-automate-integration.md) o pruebe el tutorial de [Scripts de llamada desde un flujo de Power Automate manual](excel-power-automate-manual.md) para crear un flujo de Power Automate que usa un script de Office.

@@ -4,12 +4,12 @@ description: Breve introducción a la Grabadora de acciones y el Editor de códi
 ms.topic: overview
 ms.date: 02/25/2022
 ms.localizationpriority: high
-ms.openlocfilehash: 88c5c6179b1f459e2e20e6dd0dcd80d71829c714
-ms.sourcegitcommit: 49f527a7f54aba00e843ad4a92385af59c1d7bfa
+ms.openlocfilehash: 6e2370d71d7452490243ab492705b8bf037b7115
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63352146"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585656"
 ---
 # <a name="office-scripts-in-excel-on-the-web"></a>Scripts de Office en Excel en la Web
 

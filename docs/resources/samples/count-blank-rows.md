@@ -1,21 +1,21 @@
 ---
 title: Contar filas en blanco en hojas
-description: Obtenga información sobre cómo usar Office Scripts para detectar si hay filas en blanco en lugar de datos en las hojas de cálculo y, a continuación, informe del recuento de filas en blanco que se usará en un flujo Power Automate.
+description: Obtenga información sobre cómo usar Office scripts para detectar si hay filas en blanco en lugar de datos en hojas de cálculo y, a continuación, informe del recuento de filas en blanco que se usará en un flujo Power Automate datos.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 103d2f96c1780b47363dcb6caab82553dd556b80
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: 1ae513928b885994dc7f6d1b8ad66d694b61e7b7
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59332216"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585565"
 ---
 # <a name="count-blank-rows-on-sheets"></a>Contar filas en blanco en hojas
 
 Este proyecto incluye dos scripts:
 
-* [Contar filas en blanco en una hoja determinada:](#sample-code-count-blank-rows-on-a-given-sheet)recorre el intervalo usado en una hoja de cálculo determinada y devuelve un recuento de filas en blanco.
-* [Contar filas en blanco en todas las hojas:](#sample-code-count-blank-rows-on-all-sheets)recorre el intervalo usado en todas las hojas de cálculo _y_ devuelve un recuento de filas en blanco.
+* [Contar filas en blanco en una hoja determinada](#sample-code-count-blank-rows-on-a-given-sheet): recorre el intervalo usado en una hoja de cálculo determinada y devuelve un recuento de filas en blanco.
+* [Contar filas en blanco en todas las hojas](#sample-code-count-blank-rows-on-all-sheets): recorre el intervalo usado en todas las hojas de _cálculo y_ devuelve un recuento de filas en blanco.
 
 > [!NOTE]
 > Para nuestro script, una fila en blanco es cualquier fila donde no hay datos. La fila puede tener formato.

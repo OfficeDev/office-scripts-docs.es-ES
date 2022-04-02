@@ -3,12 +3,12 @@ title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
 ms.date: 05/24/2021
 ms.localizationpriority: high
-ms.openlocfilehash: 090b5b71a9becf76186e852198fdee0e5c040866
-ms.sourcegitcommit: d3ed4bdeeba805d97c930394e172e8306a0cf484
+ms.openlocfilehash: e2ba7eaa956f2009c9017bbfd1f390f56eb9008e
+ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59326894"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64585726"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web"></a>Conceptos básicos de los Scripts de Office en Excel en la Web
 
@@ -63,7 +63,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 ## <a name="ranges"></a>Ranges
 
-Un rango es un grupo de celdas adyacentes en el libro. Normalmente, los scripts usan la notación de estilo A1 (por ejemplo, **B3** para la única celda de la columna **B** y la fila **3** o **C2:F4** para las celdas de las columnas de **C** a **F** y las filas de **2** a **4**) para definir rangos.
+Un rango es un grupo de celdas contiguas en el libro. Normalmente, los scripts usan la notación de estilo A1 (por ejemplo, **B3** para la única celda de la columna **B** y la fila **3** o **C2:F4** para las celdas de las columnas de **C** a **F** y las filas de **2** a **4**) para definir rangos.
 
 Los rangos tienen tres propiedades fundamentales: valores, fórmulas y formato. Estas propiedades obtienen o establecen los valores de celda, las fórmulas que se deben evaluar y el formato visual de las celdas. Se obtiene acceso a ellos a través de `getValues`, `getFormulas`y `getFormat`. Se pueden cambiar los valores y las fórmulas con `setValues` y `setFormulas`, mientras que el formato es un objeto `RangeFormat` formado por varios objetos más pequeños que se configuran por separado.
 
@@ -240,7 +240,7 @@ function main(workbook: ExcelScript.Workbook) {
 ```
 
 > [!TIP]
-> La mayoría de los objetos de Excel tienen un método `setName`. Esto facilita acceder a los objetos de Excel más adelante en el script o en otros scripts para el mismo libro.
+> La mayoría de los objetos de Excel tienen un `setName`método. Esto facilita acceder a los objetos de Excel más adelante en el script o en otros scripts para el mismo libro.
 
 ### <a name="verify-an-object-exists-in-the-collection"></a>Comprobar la existencia de un objeto en la colección
 
