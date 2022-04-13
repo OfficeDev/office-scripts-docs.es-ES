@@ -1,14 +1,14 @@
 ---
 title: Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente
 description: Un tutorial que muestra cómo enviar recordatorios por correo electrónico mediante la ejecución de Scripts de Office para Excel en la Web con Power Automate.
-ms.date: 06/29/2021
+ms.date: 04/12/2022
 ms.localizationpriority: high
-ms.openlocfilehash: e100fac263dee8f1f39529bd83610576e68eb2e6
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 7d232b4688132532dd2bc029588d6244a4a64ef8
+ms.sourcegitcommit: 8bcd743bebfacafa548b936ca99ad6d4918e7bcd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64586055"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64826691"
 ---
 # <a name="return-data-from-a-script-to-an-automatically-run-power-automate-flow"></a>Devolver datos de un script a un flujo de Power Automate ejecutado automáticamente
 
@@ -135,10 +135,10 @@ Este tutorial le enseña cómo devolver información de un script de Office para
 
     :::image type="content" source="../images/power-automate-return-tutorial-2.png" alt-text="El botón de Flujo de nube programado en Power Automate.":::
 
-1. Ahora debemos establecer la programación para este flujo. Nuestra hoja de cálculo tiene una nueva asignación de guardia que empieza todos los lunes en la primera mitad de 2021. Vamos a configurar el flujo para que se ejecute a primera hora los lunes por la mañana. Use las opciones siguientes para configurar el flujo de ejecución el lunes de cada semana.
+1. Ahora debemos establecer la programación para este flujo. Nuestra hoja de cálculo tiene una nueva asignación de guardia que empieza todos los lunes en la primera mitad de 2022. Vamos a configurar el flujo para que se ejecute a primera hora los lunes por la mañana. Use las opciones siguientes para configurar el flujo de ejecución el lunes de cada semana.
 
     - **Nombre de flujo**: notificar a la persona de guardia
-    - **Inicio**: 4/1/21 a la 01:00
+    - **Inicio**: 3/1/22 a la 01:00
     - **Repetir cada**: 1 semana
     - **En estos días**: L
 
