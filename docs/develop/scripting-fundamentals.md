@@ -3,12 +3,12 @@ title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
 ms.date: 05/24/2021
 ms.localizationpriority: high
-ms.openlocfilehash: e2ba7eaa956f2009c9017bbfd1f390f56eb9008e
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 633772655ca9346055d33682c36f35a5a8610cc8
+ms.sourcegitcommit: 4e3d3aa25fe4e604b806fbe72310b7a84ee72624
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585726"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65077040"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web"></a>Conceptos básicos de los Scripts de Office en Excel en la Web
 
@@ -319,11 +319,14 @@ La [Documentación de referencia de las API de scripts de Office](/javascript/ap
 - [Workbook](/javascript/api/office-scripts/excelscript/excelscript.workbook)
 - [Worksheet](/javascript/api/office-scripts/excelscript/excelscript.worksheet)
 
-## <a name="see-also"></a>Consulta también
+Para obtener información específica del modelo de objetos de tabla dinámica, consulte [Trabajar con tablas dinámicas en Scripts de Office](pivottables.md).
+
+## <a name="see-also"></a>Vea también
 
 - [Grabar, editar y crear scripts de Office en Excel en la Web](../tutorials/excel-tutorial.md)
 - [Leer datos de libros con scripts de Office en Excel en la Web](../tutorials/excel-read-tutorial.md)
 - [Referencia de API de scripts de Office](/javascript/api/office-scripts/overview)
+- [Trabajar con tablas dinámicas en Scripts de Office](pivottables.md)
 - [Usar objetos integrados de JavaScript en los scripts de Office](javascript-objects.md)
 - [Procedimientos recomendados para Scripts de Office](best-practices.md)
 - [Centro para desarrolladores de Scripts de Office](https://developer.microsoft.com/office-scripts)
