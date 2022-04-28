@@ -111,6 +111,8 @@ items:
                 href: resources/scenarios/task-reminders.md
           - name: Contribuciones de la comunidad
             items:
+              - name: Botón Reloj de fichar
+                href: resources/scenarios/punch-clock.md
               - name: Saludos cordiales
                 href: resources/samples/community-seasons-greetings.md
       - name: Scripts de Office y otras plataformas
