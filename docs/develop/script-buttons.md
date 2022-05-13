@@ -2,14 +2,14 @@
 title: Ejecución de scripts de Office en Excel con botones
 description: Agregue botones a los libros que controlan Office scripts en Excel.
 ms.topic: overview
-ms.date: 04/28/2022
+ms.date: 05/09/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 070e392c05752d0e34b9797384275c1e1ca13447
-ms.sourcegitcommit: f1550e457c220a2d1498907e925768aba0c36dc3
+ms.openlocfilehash: fde34d62f9abe897a8b93195ab37a75cfc73f619
+ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "65187227"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65393687"
 ---
 # <a name="run-office-scripts-in-excel-with-buttons"></a>Ejecución de scripts de Office en Excel con botones
 
@@ -29,6 +29,11 @@ En la captura de pantalla siguiente se muestra la página de detalles del script
 
 Para dejar de compartir un script mediante un botón, vaya al menú **Más opciones (...)** de la página de detalles del script y seleccione **Detener el uso compartido**. Esto quitará todos los botones que ejecutan el script. Al eliminar un solo botón, se quita el script de ese botón, incluso si la operación se deshace o si el botón se corta y pega.
 
-## <a name="script-buttons-on-excel-for-windows"></a>Botones de script en Excel para Windows
+## <a name="script-buttons-with-excel-on-windows"></a>Botones de script con Excel en Windows
 
 Estos botones de script también funcionan en Windows. Cree el botón en Excel en la Web y los usuarios de Windows pueden ejecutar el script con el clic de un botón. Tenga en cuenta que no puede editar scripts en Excel en Windows. Solo puede editar scripts en Excel en la Web.
+
+Es posible que algunas API de scripts de Office no sean compatibles con Excel en Windows, especialmente las compilaciones más antiguas. Estas incluyen API y API más recientes para las características de solo web. Si un script contiene API no admitidas, el script no se ejecuta y, en su lugar, el panel de tareas **Estado de ejecución** de script muestra un mensaje de advertencia que indica: "Este script debe ejecutarse actualmente en Excel para la Web. Abra el libro en el explorador e inténtelo de nuevo o póngase en contacto con el propietario del script para obtener ayuda."  
+
+> [!IMPORTANT]
+> Los botones de script requieren [que WebView2](/deployoffice/webview2-install) funcione con Excel en Windows. Esto se instala de forma predeterminada con las versiones más recientes de Excel en el escritorio, pero si no puede hacer clic en los botones de scripts, visite [Descargar el motor en tiempo de ejecución de WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section) y descargue el motor del explorador.
