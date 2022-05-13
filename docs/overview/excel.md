@@ -1,19 +1,19 @@
 ---
-title: Scripts de Office en Excel en la Web
+title: Scripts de Office en Excel
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
 ms.topic: overview
 ms.date: 02/25/2022
 ms.localizationpriority: high
-ms.openlocfilehash: 3c5423344bb1d0f619ea1933a2681dc7e5fd8ba1
-ms.sourcegitcommit: f1550e457c220a2d1498907e925768aba0c36dc3
+ms.openlocfilehash: a85e8dad8d6e99ee3b4c5558cd2c1b8417956fb3
+ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "65187234"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65393638"
 ---
-# <a name="office-scripts-in-excel-on-the-web"></a>Scripts de Office en Excel en la Web
+# <a name="office-scripts-in-excel"></a>Scripts de Office en Excel
 
-Los scripts de Office en Excel en la Web le permiten automatizar las tareas cotidianas. Puede grabar las acciones de Excel con la Grabadora de acciones, lo que creará automáticamente un script en TypeScript. También puede crear y editar los scripts con el Editor de código. Puede compartir scripts en la organización para que los compañeros de trabajo también puedan automatizar sus flujos de trabajo.
+Los Scripts de Office en Excel le permiten automatizar sus tareas diarias. Dentro de Excel en la Web, puede registrar las acciones con la grabadora de acciones. Esto crea un script de lenguaje TypeScript que se puede ejecutar de nuevo en cualquier momento. También puede crear y editar los scripts con el Editor de código. Puede compartir scripts en la organización para que los compañeros de trabajo también puedan automatizar sus flujos de trabajo.
 
 En esta serie de documentos aprenderá a usar estas herramientas. Le presentaremos la Grabadora de acciones, para que pueda grabar las acciones que realiza en Excel de forma habitual. También le informaremos de cómo escribir o actualizar sus propios scripts con el Editor de código.
 
@@ -25,7 +25,7 @@ En esta serie de documentos aprenderá a usar estas herramientas. Le presentarem
 
 Para usar los Scripts de Office, necesita lo siguiente:
 
-1. [Excel en la Web](https://www.office.com/launch/excel) (no se admiten otras plataformas, como el escritorio).
+1. [Excel en la Web](https://www.office.com/launch/excel) (Excel para Windows solo puede usar Scripts de Office con [botones de script](../develop/script-buttons.md)).
 1. OneDrive para la Empresa.
 1. Cualquier licencia de Microsoft 365 comercial o educativa con acceso a las aplicaciones de escritorio de Microsoft Office 365, como:
 
@@ -72,7 +72,7 @@ Los Scripts de Office se pueden compartir con otros usuarios de un libro de Exce
 
 :::image type="content" source="../images/script-sharing.png" alt-text="La página Detalles del script que muestra la opción &quot;Compartir con otros en este libro&quot;.":::
 
-Agregue botones que ejecuten scripts para ayudar a sus compañeros a descubrir sus valiosas soluciones. Obtenga más información sobre los botones de script en [Ejecutar Scripts de Office con botones](../develop/script-buttons.md).
+Agregue botones que ejecuten scripts para ayudar a sus compañeros a descubrir sus valiosas soluciones y permitirles ejecutar scripts en Excel en el escritorio. Obtenga más información sobre los botones de script en [Ejecutar Scripts de Office con botones](../develop/script-buttons.md).
 
 :::image type="content" source="../images/add-button.png" alt-text="Un botón de la hoja de cálculo que ejecuta un script al hacer clic en él.":::
 
