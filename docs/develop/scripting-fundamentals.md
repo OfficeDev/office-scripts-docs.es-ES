@@ -3,16 +3,16 @@ title: Conceptos básicos de los scripts de Office en Excel en la Web
 description: Información del modelo de objetos y otras nociones básicas necesarias antes de escribir scripts de Office.
 ms.date: 05/24/2021
 ms.localizationpriority: high
-ms.openlocfilehash: 633772655ca9346055d33682c36f35a5a8610cc8
-ms.sourcegitcommit: 4e3d3aa25fe4e604b806fbe72310b7a84ee72624
+ms.openlocfilehash: bd51f814de60da8006413096f4d6aad125f78fab
+ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65077040"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65393603"
 ---
 # <a name="scripting-fundamentals-for-office-scripts-in-excel-on-the-web"></a>Conceptos básicos de los Scripts de Office en Excel en la Web
 
-En este artículo se presentan los aspectos técnicos de los scripts de Office. Obtendrá información sobre cómo funcionan conjuntamente los objetos de Excel y cómo se sincroniza el editor de código con un libro.
+En este artículo se presentan los aspectos técnicos de los scripts de Office. Aprenderá las partes críticas del código de script basado en TypeScript y cómo funcionan conjuntamente los objetos y las API de Excel.
 
 ## <a name="typescript-the-language-of-office-scripts"></a>TypeScript: el lenguaje de Scripts de Office
 
@@ -194,7 +194,7 @@ Ejecutar este script en la hoja de cálculo con la tabla anterior crea el gráfi
 
 Cuando un objeto de Excel tiene una colección de uno o varios objetos del mismo tipo, los almacena en una matriz. Por ejemplo, un objeto `Workbook` contiene una `Worksheet[]`. Se accede a esta matriz con el método `Workbook.getWorksheets()`. Los métodos `get` que están en plural, como `Worksheet.getCharts()`, devuelven la colección de objetos completa como una matriz. Verá este patrón en las API de Scripts de Office: el objeto `Worksheet` tiene un método `getTables()` que devuelve una `Table[]`, el objeto `Table` tiene un método `getColumns()` que devuelve una `TableColumn[]`, etc.
 
-La matriz devuelta es una matriz normal, por lo que tiene todas las operaciones de matriz normales disponibles para su script. También puede obtener acceso a objetos individuales de la colección con el valor del índice de matriz. Por ejemplo, `workbook.getTables()[0]` devuelve la primera tabla de la colección. Para obtener más información sobre el uso de la funcionalidad de matriz integrada en el marco de Scripts de Office, vea [Trabajar con colecciones](javascript-objects.md#work-with-collections). 
+La matriz devuelta es una matriz normal, por lo que tiene todas las operaciones de matriz normales disponibles para su script. También puede obtener acceso a objetos individuales de la colección con el valor del índice de matriz. Por ejemplo, `workbook.getTables()[0]` devuelve la primera tabla de la colección. Para obtener más información sobre el uso de la funcionalidad de matriz integrada en el marco de Scripts de Office, vea [Trabajar con colecciones](javascript-objects.md#work-with-collections).
 
 También tiene acceso a los objetos individuales de la colección mediante un método `get`. Los métodos `get` que están en singular, como `Worksheet.getTable(name)`, devuelven un único objeto y requieren un identificador o nombre para el objeto específico. Este id. o nombre normalmente se establece en el script o en la interfaz de usuario de Excel.
 
