@@ -3,12 +3,12 @@ title: Grabar, editar y crear scripts de Office en Excel en la Web
 description: Un tutorial sobre los conceptos básicos de scripts de Office que incluye la grabación de scripts en la Grabadora de acciones y la escritura de datos en un libro.
 ms.date: 05/23/2021
 ms.localizationpriority: high
-ms.openlocfilehash: 15f55eff0d042f862d6607099882ad123369e676
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 30caa66787bce9c4341069461ea54ef3c63d9601
+ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585824"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65393631"
 ---
 # <a name="record-edit-and-create-office-scripts-in-excel-on-the-web"></a>Grabar, editar y crear scripts de Office en Excel en la Web
 
@@ -61,7 +61,7 @@ El script anterior pinta la fila "Naranja" de color naranja. Ahora, agreguemos u
 
     Este código obtiene la hoja de cálculo actual del libro. Después, establece el color de relleno del rango **A2:C2**.
 
-    Los rangos son una parte fundamental de las secuencias de comandos de Office en Excel en la Web. Un rango es un bloque de celdas contiguo y rectangular que contiene valores, fórmulas y formatos. Constituyen la estructura básica de las celdas y se usan para realizar la mayoría de las tareas de scripts.
+    Los rangos son una parte fundamental de los scripts de Office en Excel. Un rango es un bloque de celdas contiguo y rectangular que contiene valores, fórmulas y formatos. Constituyen la estructura básica de las celdas y se usan para realizar la mayoría de las tareas de scripts.
 
 3. Agregue la línea siguiente al final del script (entre el lugar en el que se establece el `color` y aparece el `}` de cierre):
 
