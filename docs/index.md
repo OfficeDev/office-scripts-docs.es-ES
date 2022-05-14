@@ -2,19 +2,19 @@
 layout: LandingPage
 ms.topic: landing-page
 title: Documentación de scripts de Office
-description: Recursos de aprendizaje de scripts de Office en Excel en la Web, como tutoriales, artículos conceptuales y ejemplos de código.
+description: Recursos para aprender scripts de Office en Excel, incluidos tutoriales, artículos conceptuales y ejemplos de código.
 ms.date: 05/24/2021
 ms.localizationpriority: high
-ms.openlocfilehash: 2f9a380408a2df793886093c10b685f918483489
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: b98c746ec89b61f05c3a6ded04100c0a1efc20bc
+ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585670"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65393694"
 ---
-# <a name="office-scripts-documentation"></a>Documentación de Scripts de Office
+# <a name="office-scripts-documentation"></a>Documentación de scripts de Office
 
-Use los scripts de Office en Excel en la Web para automatizar las tareas comunes. Explore los artículos siguientes para saber cómo crear y editar scripts de Office y empiece a automatizar hoy.
+Use los scripts de Office en Excel para automatizar las tareas comunes. Explore los artículos siguientes para saber cómo crear y editar scripts de Office y empiece a automatizar hoy.
 
 <ul class="panelContent cardsF cols cols3 rows2">
     <li>
@@ -73,7 +73,7 @@ Use los scripts de Office en Excel en la Web para automatizar las tareas comunes
 ---
 
 <h2>Otros recursos</h2>
-<p>Use los recursos siguientes para informarse de las API que usan los scripts de Office para interactuar con los libros de Excel en la web, formule preguntas sobre scripts de Office en Excel en la Web o solicite características para scripts de Office en Excel en la Web.</p>
+<p>Use los siguientes recursos para obtener información sobre las API que usan los scripts de Office, formular preguntas sobre scripts de Office o solicitar características para scripts de Office.</p>
 <ul class="panelContent cardsF cols cols3 rows2">
     <li>
         <div class="cardSize">
