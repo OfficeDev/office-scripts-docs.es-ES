@@ -1,24 +1,24 @@
 ---
-title: Referencias cruzadas Excel archivos con Power Automate
-description: Obtenga información sobre cómo usar Office scripts y Power Automate para hacer referencia cruzada y dar formato a un Excel archivo.
-ms.date: 06/29/2021
+title: Archivos de Excel de referencia cruzada con Power Automate
+description: Obtenga información sobre cómo usar scripts de Office y Power Automate para hacer referencia cruzada y dar formato a un archivo Excel.
+ms.date: 06/06/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 13ba6c8ba6f9232554ea6cfd5f98c308ea981683
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 02c06b6376d3726b3e1b44255df14aa64be196ea
+ms.sourcegitcommit: f5fc9146d5c096e3a580a3fa8f9714147c548df4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585494"
+ms.lasthandoff: 06/12/2022
+ms.locfileid: "66038675"
 ---
-# <a name="cross-reference-excel-files-with-power-automate"></a>Referencias cruzadas Excel archivos con Power Automate
+# <a name="cross-reference-excel-files-with-power-automate"></a>Archivos de Excel de referencia cruzada con Power Automate
 
-Esta solución muestra cómo comparar datos en dos Excel para encontrar discrepancias. Usa scripts Office para analizar datos y Power Automate para comunicarse entre los libros.
+Esta solución muestra cómo comparar datos entre dos archivos Excel para encontrar discrepancias. Usa scripts de Office para analizar datos y Power Automate para comunicarse entre los libros.
 
 ## <a name="example-scenario"></a>Escenario de ejemplo
 
-Es un coordinador de eventos que está programando oradores para las próximas conferencias. Los datos del evento se mantienen en una hoja de cálculo y los registros de altavoces en otra. Para asegurarse de que los dos libros se mantienen sincronizados, use un flujo con scripts Office para resaltar los posibles problemas.
+Usted es un coordinador de eventos que está programando oradores para las próximas conferencias. Los datos de eventos se conservan en una hoja de cálculo y en los registros del hablante en otra. Para asegurarse de que los dos libros se mantienen sincronizados, use un flujo con scripts de Office para resaltar los posibles problemas.
 
-## <a name="sample-excel-files"></a>Archivos Excel ejemplo
+## <a name="sample-excel-files"></a>Archivos de Excel de ejemplo
 
 Descargue los siguientes archivos para obtener libros listos para usar para el ejemplo.
 
@@ -27,7 +27,7 @@ Descargue los siguientes archivos para obtener libros listos para usar para el e
 
 Agregue los siguientes scripts para probar el ejemplo usted mismo.
 
-## <a name="sample-code-get-event-data"></a>Código de ejemplo: Obtener datos de eventos
+## <a name="sample-code-get-event-data"></a>Código de ejemplo: Obtención de datos de eventos
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): string {
@@ -65,7 +65,7 @@ interface EventData {
 }
 ```
 
-## <a name="sample-code-validate-speaker-registrations"></a>Código de ejemplo: Validar registros de orador
+## <a name="sample-code-validate-speaker-registrations"></a>Código de ejemplo: Validación de registros de orador
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook, keys: string): string {
@@ -144,32 +144,33 @@ interface EventData {
 }
 ```
 
-## <a name="power-automate-flow-check-for-inconsistencies-across-the-workbooks"></a>Power Automate de datos: compruebe si hay incoherencias en los libros
+## <a name="power-automate-flow-check-for-inconsistencies-across-the-workbooks"></a>flujo de Power Automate: comprobar si hay incoherencias en los libros
 
-Este flujo extrae la información del evento del primer libro y usa los datos para validar el segundo libro.
+Este flujo extrae la información del evento del primer libro y usa esos datos para validar el segundo libro.
 
-1. Inicie sesión [Power Automate](https://flow.microsoft.com) y cree un nuevo **flujo de nube instantánea**.
-1. Elija **Desencadenar manualmente un flujo y** seleccione **Crear**.
-1. Agregue un **paso Nuevo** que use el **conector Excel Online (Empresa)** con la **acción Ejecutar script**. Use los siguientes valores para la acción.
+1. Inicie sesión en [Power Automate](https://flow.microsoft.com) y cree un flujo **de nube instantáneo**.
+1. Elija **Desencadenar manualmente un flujo** y seleccione **Crear**.
+1. Agregue un **nuevo paso** que use el conector **Excel Online (Empresa)** con la acción **Ejecutar script**. Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
-    * **Archivo**: event-data.xlsx ([seleccionado con el seleccionador de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
-    * **Script**: Obtener datos de eventos
+    * **Archivo**: event-data.xlsx ([seleccionado con el selector de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
+    * **Script**: Obtención de datos de eventos
 
-    :::image type="content" source="../../images/cross-reference-flow-1.png" alt-text="El conector Excel online (empresa) para el primer script de Power Automate.":::
+    :::image type="content" source="../../images/cross-reference-flow-1.png" alt-text="El conector Excel Online (Business) completado para el primer script de Power Automate.":::
 
-1. Agregue un segundo **paso Nuevo** que use **el conector Excel online (empresa)** con la **acción Ejecutar script**. Use los siguientes valores para la acción.
+1. Agregue un segundo **paso Nuevo** que use el conector **Excel Online (Empresa)** con la acción **Ejecutar script**. Esto usa los valores devueltos del script **Get event data (Obtener datos de evento** ) como entrada para el script **validate event data (Validar datos de eventos** ). Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
-    * **Archivo**: speaker-registration.xlsx ([seleccionado con el seleccionador de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
-    * **Script**: validar el registro de altavoces
+    * **Archivo**: speaker-registration.xlsx ([seleccionado con el selector de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
+    * **Script**: Validación del registro del hablante
+    * **keys**: result (_contenido dinámico del **script de ejecución**_)
 
-    :::image type="content" source="../../images/cross-reference-flow-2.png" alt-text="El conector Excel online (empresa) para el segundo script de Power Automate.":::
-1. En este ejemplo se Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo electrónico Power Automate admite. Agregue un **nuevo paso** que use el **conector Office 365 Outlook** y la **acción Enviar y correo electrónico (V2**). Use los siguientes valores para la acción.
+    :::image type="content" source="../../images/cross-reference-flow-2.png" alt-text="El conector Excel Online (Business) completado para el segundo script de Power Automate.":::
+1. En este ejemplo se usa Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo electrónico Power Automate admita. Agregue un **nuevo paso** que use el conector **de Office 365 Outlook** y la acción **Enviar y enviar correo electrónico (V2).** Esto usa los valores devueltos del script **Validate speaker registration (Validar el script de registro del hablante** ) como contenido del cuerpo del correo electrónico. Use los siguientes valores para la acción.
     * **Para**: Su cuenta de correo electrónico de prueba (o correo electrónico personal)
     * **Asunto**: Resultados de validación de eventos
     * **Cuerpo**: resultado (_contenido dinámico del **script de ejecución 2**_)
 
-    :::image type="content" source="../../images/cross-reference-flow-3.png" alt-text="El conector Office 365 Outlook completo en Power Automate.":::
-1. Guarde el flujo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la **pestaña Mis flujos** . Asegúrese de permitir el acceso cuando se le pida.
-1. Debe recibir un correo electrónico que diga "Error encontrado. Los datos requieren su revisión". Esto indica que hay diferencias entre las filas de **speaker-registrations.xlsx** y las filas de **event-data.xlsx**. Abra **speaker-registrations.xlsx** para ver varias celdas resaltadas donde hay posibles problemas con las listas de registro de orador.
+    :::image type="content" source="../../images/cross-reference-flow-3.png" alt-text="Conector de Office 365 Outlook completado en Power Automate.":::
+1. Guarde el flujo. Use el botón **Probar** de la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos** . Asegúrese de permitir el acceso cuando se le solicite.
+1. Debería recibir un correo electrónico que dice "Error de coincidencia encontrado. Los datos requieren su revisión". Esto indica que hay diferencias entre las filas de **speaker-registrations.xlsx** y las filas de **event-data.xlsx**. Abra **speaker-registrations.xlsx** para ver varias celdas resaltadas donde hay posibles problemas con las listas de registro del hablante.
