@@ -1,38 +1,40 @@
 ---
 title: Programar entrevistas en Teams
-description: Obtenga información sobre cómo usar Office scripts para enviar una reunión Teams desde Excel datos.
+description: Obtenga información sobre cómo usar scripts de Office para enviar una reunión de Teams desde Excel datos.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 25b70f2ee3f71c101d4ee20068c020edb5e0ac77
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 1c07eed0ce8392cf6d08f7836970753194f54b05
+ms.sourcegitcommit: dd01979d34b3499360d2f79a56f8a8f24f480eed
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585432"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "66088060"
 ---
-# <a name="office-scripts-sample-scenario-schedule-interviews-in-teams"></a>Office ejemplo scripts: Programar entrevistas en Teams
+# <a name="office-scripts-sample-scenario-schedule-interviews-in-teams"></a>Escenario de ejemplo de scripts de Office: Programar entrevistas en Teams
 
-En este escenario, es un reclutador de recursos humanos que programa reuniones de entrevista con candidatos en Teams. La programación de entrevistas de los candidatos se administra en un Excel. Deberá enviar la invitación a la reunión Teams a los candidatos y entrevistadores. A continuación, debe actualizar el Excel con la confirmación de que Teams reuniones se han enviado.
+En este escenario, usted es un reclutador de RR. HH. que programa reuniones de entrevistas con candidatos en Teams. Administra la programación de entrevistas de los candidatos en un archivo de Excel. Tendrá que enviar el Teams invitación a la reunión tanto al candidato como a los entrevistadores. A continuación, debe actualizar el archivo de Excel con la confirmación de que se han enviado Teams reuniones.
 
-La solución tiene tres pasos que se combinan en un solo Power Automate flujo.
+La solución tiene tres pasos que se combinan en un único flujo de Power Automate.
 
-1. Un script extrae datos de una tabla y devuelve una matriz de objetos como datos JSON.
-1. A continuación, los datos se envían **al Teams Crear una Teams de reunión** para enviar invitaciones.
+1. Un script extrae datos de una tabla y devuelve una matriz de objetos como datos [JSON](https://www.w3schools.com/whatis/whatis_json.asp) .
+1. A continuación, los datos se envían a la Teams **Crear una acción de reunión Teams** para enviar invitaciones.
 1. Los mismos datos JSON se envían a otro script para actualizar el estado de la invitación.
 
-## <a name="scripting-skills-covered"></a>Habilidades de scripting cubiertas
+Para obtener más información sobre cómo trabajar con JSON, lea [Uso de JSON para pasar datos a scripts de Office y desde ellos](../../develop/use-json.md).
 
-* Power Automate flujos
-* Teams integración
+## <a name="scripting-skills-covered"></a>Aptitudes de scripting cubiertas
+
+* flujos de Power Automate
+* integración Teams
 * Análisis de tablas
 
-## <a name="sample-excel-file"></a>Archivo Excel ejemplo
+## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
 
-Descarga el archivo <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> usado en esta solución y pruébalo tú mismo. Asegúrese de cambiar al menos una de las direcciones de correo electrónico para que reciba una invitación.
+Descargue el archivo <a href="hr-schedule.xlsx">hr-schedule.xlsx</a> usado en esta solución y pruébelo usted mismo! Asegúrese de cambiar al menos una de las direcciones de correo electrónico para que reciba una invitación.
 
-## <a name="sample-code-extract-table-data-to-schedule-invites"></a>Código de ejemplo: extraer datos de tabla para programar invitaciones
+## <a name="sample-code-extract-table-data-to-schedule-invites"></a>Código de ejemplo: Extracción de datos de tabla para programar invitaciones
 
-Agregue este script a la colección de scripts. Así mismo, **asigne el nombre Programar entrevistas** para el flujo.
+Agregue este script a la colección de scripts. Asígnele el nombre **Programar entrevistas** para el flujo.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook): InterviewInvite[] {
@@ -93,7 +95,7 @@ interface InterviewInvite {
 
 ## <a name="sample-code-mark-rows-as-invited"></a>Código de ejemplo: Marcar filas como invitadas
 
-Agregue este script a la colección de scripts. Así lo llama **Record Sent Invites** for the flow.
+Agregue este script a la colección de scripts. Asígnele el nombre **Grabar invitaciones enviadas** para el flujo.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook, invites: InterviewInvite[]) {
@@ -132,31 +134,31 @@ interface InterviewInvite {
 }
 ```
 
-## <a name="sample-flow-run-the-interview-scheduling-scripts-and-send-the-teams-meetings"></a>Flujo de ejemplo: ejecute los scripts de programación de entrevistas y envíe las Teams reuniones
+## <a name="sample-flow-run-the-interview-scheduling-scripts-and-send-the-teams-meetings"></a>Flujo de ejemplo: ejecute los scripts de programación de entrevistas y envíe las reuniones de Teams
 
-1. Cree un nuevo **flujo de nube instantánea**.
-1. Elija **Desencadenar manualmente un flujo y** seleccione **Crear**.
-1. Agregue un **nuevo paso que** use el **conector Excel online (empresa)** y la **acción Ejecutar script**. Complete el conector con los siguientes valores.
+1. Cree un flujo **de nube instantáneo**.
+1. Elija **Desencadenar manualmente un flujo** y seleccione **Crear**.
+1. Agregue un **nuevo paso** que use el conector **Excel Online (Empresa)** y la acción **Ejecutar script**. Complete el conector con los siguientes valores.
     1. **Ubicación**: OneDrive para la Empresa
     1. **Biblioteca de documentos**: OneDrive
-    1. **Archivo**: hr-interviews.xlsx *(elegido a través del explorador de archivos)*
-    1. **Script**: Programar entrevistas Captura de pantalla del conector Excel Online (Empresa) para obtener datos de entrevista :::image type="content" source="../../images/schedule-interviews-1.png" alt-text="del libro en Power Automate.":::
-1. Agregue un **paso Nuevo que** use la **acción Crear una Teams reunión**. A medida que seleccione contenido dinámico en el conector Excel, se generará un valor **Aplicar a cada** bloque para el flujo. Complete el conector con los siguientes valores.
-    1. **Identificador de calendario**: Calendario
+    1. **Archivo**: hr-interviews.xlsx *(elegido mediante el explorador de archivos)*
+    1. **Script**: Programar entrevistas :::image type="content" source="../../images/schedule-interviews-1.png" alt-text="Captura de pantalla del conector Excel online (empresa) completado para obtener datos de entrevistas del libro en Power Automate.":::
+1. Agregue un **paso Nuevo** que use la acción **Crear una reunión Teams**. Al seleccionar contenido dinámico en el conector de Excel, se generará un objeto **Apply to each block (Aplicar a cada** bloque) para el flujo. Complete el conector con los siguientes valores.
+    1. **Id. de calendario**: Calendario
     1. **Asunto**: Entrevista de Contoso
-    1. **Mensaje**: **Mensaje** (el Excel valor)
-    1. **Zona horaria**: hora estándar del Pacífico
-    1. **Hora de** inicio: **StartTime** (el Excel valor)
-    1. **Hora de finalización**: **FinishTime** (el Excel valor)
-    1. **Asistentes necesarios**: **CandidateEmail** ; **InterviewerEmail** (los valores Excel) Captura de pantalla del conector Teams para programar reuniones :::image type="content" source="../../images/schedule-interviews-2.png" alt-text="en Power Automate.":::
-1. En el mismo **Aplicar a cada** bloque, agregue otro **conector Excel Online (Empresa)** con la **acción Ejecutar script**. Use los siguientes valores.
+    1. **Mensaje**: **Mensaje** (el valor de Excel)
+    1. **Zona horaria**: Hora estándar del Pacífico
+    1. **Hora de inicio**: **StartTime** (el valor Excel)
+    1. **Hora de finalización**: **FinishTime** (el valor de Excel)
+    1. **Asistentes necesarios**: **CandidateEmail** ; **InterviewerEmail** (los valores de Excel) :::image type="content" source="../../images/schedule-interviews-2.png" alt-text="Captura de pantalla del conector de Teams completado para programar reuniones en Power Automate.":::
+1. En el mismo bloque **Aplicar a cada** bloque, agregue otro **conector Excel Online (Empresa)** con la acción **Ejecutar script**. Use los siguientes valores.
     1. **Ubicación**: OneDrive para la Empresa
     1. **Biblioteca de documentos**: OneDrive
-    1. **Archivo**: hr-interviews.xlsx *(elegido a través del explorador de archivos)*
-    1. **Script**: Registrar invitaciones enviadas
-    1. **invites**: **resultado** (el valor Excel) Captura de pantalla del conector :::image type="content" source="../../images/schedule-interviews-3.png" alt-text="Excel Online (Empresa)"::: completado para registrar que las invitaciones se han enviado en Power Automate.
-1. Guarde el flujo y pruébalo. Use el **botón Probar** en la página del editor de flujo o ejecute el flujo a través de la **pestaña Mis flujos** . Asegúrese de permitir el acceso cuando se le pida.
+    1. **Archivo**: hr-interviews.xlsx *(elegido mediante el explorador de archivos)*
+    1. **Script**: invitaciones enviadas de registros
+    1. **invites**: **resultado** (el valor Excel) :::image type="content" source="../../images/schedule-interviews-3.png" alt-text="Captura de pantalla del conector Excel Online (Empresa) completado para registrar que las invitaciones se han enviado en Power Automate.":::
+1. Guarde el flujo y pruébelo. Use el botón **Probar** de la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos** . Asegúrese de permitir el acceso cuando se le solicite.
 
-## <a name="training-video-send-a-teams-meeting-from-excel-data"></a>Vídeo de aprendizaje: Enviar una reunión Teams desde Excel datos
+## <a name="training-video-send-a-teams-meeting-from-excel-data"></a>Vídeo de entrenamiento: Envío de una reunión de Teams desde datos Excel
 
-[Vea a Sudhi Ramamurthy recorrer una versión de este ejemplo en YouTube](https://youtu.be/HyBdx52NOE8). Su versión usa un script más sólido que controla el cambio de columnas y los tiempos de reunión obsoletos.
+[Vea cómo Sudhi Ramamurthy recorre una versión de este ejemplo en YouTube](https://youtu.be/HyBdx52NOE8). Su versión usa un script más sólido que controla las columnas cambiantes y los tiempos de reunión obsoletos.

@@ -1,28 +1,28 @@
 ---
 title: Soporte de llamadas de API externas en Scripts de Office
-description: Soporte técnico e instrucciones para realizar llamadas a API externas en un script Office usuario.
-ms.date: 05/21/2021
+description: Compatibilidad e instrucciones para realizar llamadas API externas en un script de Office.
+ms.date: 06/10/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: abcd548c9b62ce9bd5c40866915ae50a6d1cc5be
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: b847400893184533c250ab99b640563ff0cbdb3e
+ms.sourcegitcommit: dd01979d34b3499360d2f79a56f8a8f24f480eed
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585740"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "66088046"
 ---
 # <a name="external-api-call-support-in-office-scripts"></a>Soporte de llamadas de API externas en Scripts de Office
 
 Los scripts admiten llamadas a servicios externos. Use estos servicios para proporcionar datos y otra información al libro.
 
 > [!CAUTION]
-> Las llamadas externas pueden provocar que los datos confidenciales se exponán a extremos no deseados. El administrador puede establecer la protección del firewall frente a estas llamadas.
+> Las llamadas externas pueden dar lugar a la exposición de datos confidenciales a puntos de conexión no deseados. El administrador puede establecer la protección del firewall frente a estas llamadas.
 
 > [!IMPORTANT]
 > Las llamadas a API externas solo se pueden realizar a través de la aplicación Excel, no a través de Power Automate [en circunstancias normales](#external-calls-from-power-automate).
 
-## <a name="configure-your-script-for-external-calls"></a>Configurar el script para llamadas externas
+## <a name="configure-your-script-for-external-calls"></a>Configuración del script para llamadas externas
 
-Las llamadas externas [son asincrónicas](https://developer.mozilla.org/docs/Learn/JavaScript/Asynchronous/Async_await) y requieren que el script esté marcado como `async`. Agregue el `async` prefijo a la `main` función y haga que devuelva un `Promise`, como se muestra aquí:
+Las llamadas externas son [asincrónicas](https://developer.mozilla.org/docs/Learn/JavaScript/Asynchronous/Async_await) y requieren que el script esté marcado como `async`. Agregue el prefijo a `main` la `async` función y haga que devuelva un `Promise`, como se muestra aquí:
 
 ```typescript
 async function main(workbook: ExcelScript.Workbook) : Promise <void>
@@ -31,26 +31,26 @@ async function main(workbook: ExcelScript.Workbook) : Promise <void>
 > [!NOTE]
 > Los scripts que devuelven otra información pueden devolver un `Promise` de ese tipo. Por ejemplo, si el script necesita devolver un `Employee` objeto, la firma de devolución sería `: Promise <Employee>`
 
-Tendrás que aprender las interfaces del servicio externo para realizar llamadas a ese servicio. Si está usando o `fetch` LAS [API de REST](https://wikipedia.org/wiki/Representational_state_transfer), debe determinar la estructura JSON de los datos devueltos. Para la entrada y salida desde el script, considere la posibilidad de realizar una `interface` para que coincida con las estructuras JSON necesarias. Esto proporciona al script más seguridad de tipo. Puede ver un ejemplo de esto en [Using fetch from Office Scripts](../resources/samples/external-fetch-calls.md).
+Tendrá que aprender las interfaces del servicio externo para realizar llamadas a ese servicio. Si usa `fetch` o [api rest](https://wikipedia.org/wiki/Representational_state_transfer), debe determinar la estructura JSON de los datos devueltos. Para la entrada y la salida del script, considere la posibilidad de crear una `interface` para que coincida con las estructuras JSON necesarias. Esto proporciona al script más seguridad de tipos. Puede ver un ejemplo de esto en [Uso de la captura de scripts de Office](../resources/samples/external-fetch-calls.md).
 
-### <a name="limitations-with-external-calls-from-office-scripts"></a>Limitaciones con llamadas externas desde Office scripts
+### <a name="limitations-with-external-calls-from-office-scripts"></a>Limitaciones con llamadas externas desde scripts de Office
 
-* No hay forma de iniciar sesión o usar el tipo OAuth2 de flujos de autenticación. Todas las claves y credenciales deben codificarse de forma rígida (o leerse desde otro origen).
-* No hay ninguna infraestructura para almacenar credenciales y claves de API. El usuario tendrá que administrarlo.
-* No se admiten `localStorage`las cookies de `sessionStorage` documento ni los objetos.
-* Las llamadas externas pueden provocar que los datos confidenciales se exponán a extremos no deseados o que los datos externos se puedan incluir en libros internos. El administrador puede establecer la protección del firewall frente a estas llamadas. Asegúrese de comprobar con las directivas locales antes de confiar en llamadas externas.
+* No hay ninguna manera de iniciar sesión o usar flujos de autenticación de tipo OAuth2. Todas las claves y credenciales deben codificarse de forma rígida (o leerlas desde otro origen).
+* No hay ninguna infraestructura para almacenar las claves y las credenciales de API. El usuario tendrá que administrar esto.
+* No se admiten las cookies, `localStorage`y los `sessionStorage` objetos de documento.
+* Las llamadas externas pueden dar lugar a la exposición de datos confidenciales a puntos de conexión no deseados o a datos externos que se van a incluir en libros internos. El administrador puede establecer la protección del firewall frente a estas llamadas. Asegúrese de comprobar con las directivas locales antes de confiar en llamadas externas.
 * Asegúrese de comprobar la cantidad de rendimiento de datos antes de tomar una dependencia. Por ejemplo, extraer todo el conjunto de datos externo puede no ser la mejor opción y, en su lugar, se debe usar la paginación para obtener datos en fragmentos.
 
 ## <a name="retrieve-information-with-fetch"></a>Recuperar información con `fetch`
 
-La [API de captura](https://developer.mozilla.org/docs/Web/API/Fetch_API) recupera información de servicios externos. Es una `async` API, por lo que debe ajustar la firma `main` del script. Realice la función `main` `async`. También debe asegurarse de la llamada `await` y la `fetch` recuperación `json` . Esto garantiza que las operaciones se completen antes de que finalice el script.
+La [API de captura](https://developer.mozilla.org/docs/Web/API/Fetch_API) recupera información de servicios externos. Es una `async` API, por lo que debe ajustar la `main` firma del script. Haga que la `main` función `async`. También debe asegurarse de la `await` `fetch` llamada y `json` recuperación. Esto garantiza que esas operaciones se completen antes de que finalice el script.
 
-Los datos JSON recuperados por `fetch` deben coincidir con una interfaz definida en el script. El valor devuelto debe asignarse a un tipo específico [porque Office scripts no admiten el `any` tipo](typescript-restrictions.md#no-any-type-in-office-scripts). Debe consultar la documentación del servicio para ver cuáles son los nombres y tipos de las propiedades devueltas. A continuación, agregue la interfaz o las interfaces correspondientes al script.
+Los datos JSON recuperados por `fetch` deben coincidir con una interfaz definida en el script. El valor devuelto debe asignarse a un tipo específico porque [Office scripts no admiten el `any` tipo](typescript-restrictions.md#no-any-type-in-office-scripts). Debe consultar la documentación del servicio para ver cuáles son los nombres y tipos de las propiedades devueltas. A continuación, agregue la interfaz o las interfaces coincidentes al script.
 
-El siguiente script usa para `fetch` recuperar datos JSON del servidor de prueba en la dirección URL determinada. Tenga en cuenta `JSONData` la interfaz para almacenar los datos como un tipo de coincidencia.
+El siguiente script usa `fetch` para recuperar datos JSON del servidor de prueba en la dirección URL especificada. Tenga en cuenta la `JSONData` interfaz para almacenar los datos como un tipo coincidente.
 
 ```TypeScript
-async function main(workbook: ExcelScript.Workbook){
+async function main(workbook: ExcelScript.Workbook) {
   // Retrieve sample JSON data from a test server.
   let fetchResult = await fetch('https://jsonplaceholder.typicode.com/todos/1');
 
@@ -73,22 +73,23 @@ interface JSONData {
 }
 ```
 
-### <a name="other-fetch-samples"></a>Otras `fetch` muestras
+### <a name="other-fetch-samples"></a>Otros `fetch` ejemplos
 
-* El [ejemplo Use external fetch calls in Office Scripts](../resources/samples/external-fetch-calls.md) muestra cómo obtener información básica sobre los repositorios de GitHub usuario.
-* Escenario [de ejemplo de scripts de Office:](../resources/scenarios/noaa-data-fetch.md) Graph datos de nivel de agua de NOAA muestra el comando de captura que se usa para recuperar registros de la base de datos de corrientes y mareos de la Administración nacional oceánica y atmosférica.
+* El ejemplo [Uso de llamadas de captura externas en scripts de Office](../resources/samples/external-fetch-calls.md) muestra cómo obtener información básica sobre los repositorios de GitHub de un usuario.
+* El [escenario de ejemplo Office Scripts: Graph datos de nivel de agua de NOAA](../resources/scenarios/noaa-data-fetch.md) muestra el comando fetch que se usa para recuperar registros de la base de datos Mareas y corrientes de la Administración Nacional Oceánica y Atmosférica.
 
 ## <a name="external-calls-from-power-automate"></a>Llamadas externas desde Power Automate
 
-Se produce un error en cualquier llamada a la API externa cuando se ejecuta un script con Power Automate. Esta es una diferencia de comportamiento entre ejecutar un script a través de la aplicación Excel y a través de Power Automate. Asegúrese de comprobar las referencias de los scripts antes de crearlas en un flujo.
+Se produce un error en cualquier llamada API externa cuando se ejecuta un script con Power Automate. Se trata de una diferencia de comportamiento entre ejecutar un script a través de la aplicación Excel y a través de Power Automate. Asegúrese de comprobar las referencias de los scripts antes de compilarlas en un flujo.
 
-Tendrás que usar [HTTP](/connectors/webcontents/) con Azure AD u otras acciones equivalentes para extraer datos de un servicio externo o insertarlo en él.
+Tendrá que usar [HTTP con Azure AD](/connectors/webcontents/) u otras acciones equivalentes para extraer datos o insertarlos en un servicio externo.
 
 > [!WARNING]
-> Las llamadas externas realizadas a través del Power Automate [Excel en](/connectors/excelonlinebusiness) línea no se pueden realizar para ayudar a mantener las directivas de prevención de pérdida de datos existentes. Sin embargo, los scripts que se ejecutan Power Automate se realizan fuera de la organización y fuera de los firewalls de la organización. Para obtener protección adicional contra usuarios malintencionados en este entorno externo, el administrador puede controlar el uso de Office scripts. El administrador puede deshabilitar el conector de Excel Online en Power Automate o desactivar Office scripts para Excel en la Web a través de los controles de administrador [Office Scripts](/microsoft-365/admin/manage/manage-office-scripts-settings).
+> Las llamadas externas realizadas a través de Power Automate [Excel conector en línea](/connectors/excelonlinebusiness) producen un error para ayudar a mantener las directivas de prevención de pérdida de datos existentes. Sin embargo, los scripts que se ejecutan a través de Power Automate se realizan fuera de la organización y fuera de los firewalls de la organización. Para una protección adicional frente a usuarios malintencionados en este entorno externo, el administrador puede controlar el uso de scripts de Office. El administrador puede deshabilitar el conector de Excel Online en Power Automate o desactivar Office scripts para Excel en la Web a través de [los controles de administrador de scripts de Office](/microsoft-365/admin/manage/manage-office-scripts-settings).
 
 ## <a name="see-also"></a>Consulte también
 
+* [Uso de JSON para pasar datos hacia y desde scripts de Office](use-json.md)
 * [Usar objetos integrados de JavaScript en los scripts de Office](javascript-objects.md)
 * [Usar llamadas de captura externa en Scripts de Office](../resources/samples/external-fetch-calls.md)
-* [Office ejemplo scripts: Graph datos de nivel de agua de NOAA](../resources/scenarios/noaa-data-fetch.md)
+* [Escenario de ejemplo de scripts de Office: Graph datos de nivel de agua de NOAA](../resources/scenarios/noaa-data-fetch.md)
