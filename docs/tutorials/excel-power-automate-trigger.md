@@ -1,14 +1,14 @@
 ---
 title: Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 description: Un tutorial sobre la ejecución de Scripts de Office para Excel en la Web mediante Power Automate cuando se reciba el correo y el paso de datos de flujo al script.
-ms.date: 06/29/2021
+ms.date: 06/10/2022
 ms.localizationpriority: high
-ms.openlocfilehash: ae57bb52b07df0822f1fac8c931c90de8614a770
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 73a551df09eadba1f6e75de35e17e1c5a93498e9
+ms.sourcegitcommit: dd01979d34b3499360d2f79a56f8a8f24f480eed
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64586062"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "66088144"
 ---
 # <a name="pass-data-to-scripts-in-an-automatically-run-power-automate-flow"></a>Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente
 
@@ -210,6 +210,18 @@ Cuando se desencadene el flujo y se ejecute correctamente el script, debería ve
 :::image type="content" source="../images/power-automate-params-tutorial-4.png" alt-text="Una hoja de cálculo que muestra la tabla de correo electrónico después de que el flujo se haya ejecutado tres veces.":::
 
 :::image type="content" source="../images/power-automate-params-tutorial-5.png" alt-text="Una hoja de cálculo que muestra la tabla dinámica después de que el flujo se haya ejecutado tres veces.":::
+
+## <a name="troubleshooting"></a>Solución de problemas
+
+Recibir varios correos electrónicos al mismo tiempo puede causar conflictos de combinación en Excel. Este riesgo se mitiga configurando el conector de correo electrónico para que solo actúe en un correo electrónico a la vez. Para hacerlo:
+
+1. Seleccione el botón **Menu (…)** en el conector de correo electrónico y, a continuación, seleccione **Configuración**.
+
+    :::image type="content" source="../images/outlook-connector-settings-1.png" alt-text="La opción de configuración resaltada en el menú del conector.":::
+
+1. En la **Configuración** en las opciones emergentes, establezca **Control de simultaneidad** en **Activado**. A continuación, establezca el **grado de paralelismo** en **1**.
+
+    :::image type="content" source="../images/outlook-connector-settings-2.png" alt-text="Las opciones de simultaneidad en el menú de configuración.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 
