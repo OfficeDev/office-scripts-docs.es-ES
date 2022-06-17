@@ -4,12 +4,12 @@ description: Agregue botones a los libros que controlan Office scripts en Excel.
 ms.topic: overview
 ms.date: 05/09/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: fde34d62f9abe897a8b93195ab37a75cfc73f619
-ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
+ms.openlocfilehash: cc19a13a97d4d11f73cb91bc46b70afff3eadf03
+ms.sourcegitcommit: aecbd5baf1e2122d836c3eef3b15649e132bc68e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65393687"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "66128219"
 ---
 # <a name="run-office-scripts-in-excel-with-buttons"></a>Ejecución de scripts de Office en Excel con botones
 
@@ -36,4 +36,4 @@ Estos botones de script también funcionan en Windows. Cree el botón en Excel e
 Es posible que algunas API de scripts de Office no sean compatibles con Excel en Windows, especialmente las compilaciones más antiguas. Estas incluyen API y API más recientes para las características de solo web. Si un script contiene API no admitidas, el script no se ejecuta y, en su lugar, el panel de tareas **Estado de ejecución** de script muestra un mensaje de advertencia que indica: "Este script debe ejecutarse actualmente en Excel para la Web. Abra el libro en el explorador e inténtelo de nuevo o póngase en contacto con el propietario del script para obtener ayuda."  
 
 > [!IMPORTANT]
-> Los botones de script requieren [que WebView2](/deployoffice/webview2-install) funcione con Excel en Windows. Esto se instala de forma predeterminada con las versiones más recientes de Excel en el escritorio, pero si no puede hacer clic en los botones de scripts, visite [Descargar el motor en tiempo de ejecución de WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section) y descargue el motor del explorador.
+> Los botones de script requieren [que WebView2](/deployoffice/webview2-install) funcione con Excel en Windows. Esto se instala de forma predeterminada con las versiones más recientes de Excel en el escritorio, pero si no puede hacer clic en los botones de scripts, visite [Descargar el motor en tiempo de ejecución de WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download-section) y descargue el motor del explorador.

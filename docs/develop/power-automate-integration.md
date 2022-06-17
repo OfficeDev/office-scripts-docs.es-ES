@@ -1,14 +1,14 @@
 ---
 title: Ejecución de scripts de Office con Power Automate
 description: Cómo obtener scripts de Office para Excel en la Web trabajar con un flujo de trabajo de Power Automate.
-ms.date: 03/08/2022
+ms.date: 05/16/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 67e48d297a8db16661ce394a11f2e425bc0a33be
-ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
+ms.openlocfilehash: 85c335eeb736ec544eccb2fbdbe819bdbef6848c
+ms.sourcegitcommit: aecbd5baf1e2122d836c3eef3b15649e132bc68e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65393680"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "66128233"
 ---
 # <a name="run-office-scripts-with-power-automate"></a>Ejecución de scripts de Office con Power Automate
 
@@ -26,6 +26,9 @@ Para empezar a combinar scripts de Power Automate y Office, siga el tutorial [In
 
 > [!IMPORTANT]
 > La acción "Ejecutar script" proporciona a las personas que usan el conector de Excel acceso significativo al libro y a sus datos. Además, hay riesgos de seguridad con scripts que realizan llamadas API externas, como se explica en [Llamadas externas desde Power Automate](external-calls.md). Si el administrador está preocupado por la exposición de datos altamente confidenciales, puede desactivar el conector de Excel Online o restringir el acceso a Office Scripts a través de [los controles de administrador de scripts de Office](/microsoft-365/admin/manage/manage-office-scripts-settings).
+
+> [!IMPORTANT]
+> Power Automate **no** admite scripts almacenados en SharePoint en este momento.
 
 ## <a name="data-transfer-in-flows-for-scripts"></a>Transferencia de datos en flujos para scripts
 
@@ -112,7 +115,7 @@ function main(
 }
 ```
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Recursos adicionales
 
 - [Ejecutar scripts mediante un flujo manual de Power Automate](../tutorials/excel-power-automate-manual.md)
 - [Pasar datos a scripts en un flujo de Power Automate ejecutado automáticamente](../tutorials/excel-power-automate-trigger.md)

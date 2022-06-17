@@ -3,12 +3,12 @@ title: Soporte de llamadas de API externas en Scripts de Office
 description: Compatibilidad e instrucciones para realizar llamadas API externas en un script de Office.
 ms.date: 06/10/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: b847400893184533c250ab99b640563ff0cbdb3e
-ms.sourcegitcommit: dd01979d34b3499360d2f79a56f8a8f24f480eed
+ms.openlocfilehash: 472b2e1b4aa38366b68b573fa959deee616b9dbe
+ms.sourcegitcommit: aecbd5baf1e2122d836c3eef3b15649e132bc68e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "66088046"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "66128226"
 ---
 # <a name="external-api-call-support-in-office-scripts"></a>Soporte de llamadas de API externas en Scripts de Office
 
@@ -18,7 +18,7 @@ Los scripts admiten llamadas a servicios externos. Use estos servicios para prop
 > Las llamadas externas pueden dar lugar a la exposición de datos confidenciales a puntos de conexión no deseados. El administrador puede establecer la protección del firewall frente a estas llamadas.
 
 > [!IMPORTANT]
-> Las llamadas a API externas solo se pueden realizar a través de la aplicación Excel, no a través de Power Automate [en circunstancias normales](#external-calls-from-power-automate).
+> Las llamadas a API externas solo se pueden realizar a través de la aplicación Excel, no a través de Power Automate [en circunstancias normales](#external-calls-from-power-automate). Tampoco se admiten llamadas externas para scripts almacenados en un sitio de SharePoint.
 
 ## <a name="configure-your-script-for-external-calls"></a>Configuración del script para llamadas externas
 
@@ -87,7 +87,7 @@ Tendrá que usar [HTTP con Azure AD](/connectors/webcontents/) u otras acciones 
 > [!WARNING]
 > Las llamadas externas realizadas a través de Power Automate [Excel conector en línea](/connectors/excelonlinebusiness) producen un error para ayudar a mantener las directivas de prevención de pérdida de datos existentes. Sin embargo, los scripts que se ejecutan a través de Power Automate se realizan fuera de la organización y fuera de los firewalls de la organización. Para una protección adicional frente a usuarios malintencionados en este entorno externo, el administrador puede controlar el uso de scripts de Office. El administrador puede deshabilitar el conector de Excel Online en Power Automate o desactivar Office scripts para Excel en la Web a través de [los controles de administrador de scripts de Office](/microsoft-365/admin/manage/manage-office-scripts-settings).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Recursos adicionales
 
 * [Uso de JSON para pasar datos hacia y desde scripts de Office](use-json.md)
 * [Usar objetos integrados de JavaScript en los scripts de Office](javascript-objects.md)
