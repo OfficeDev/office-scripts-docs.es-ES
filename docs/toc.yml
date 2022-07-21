@@ -71,6 +71,8 @@ items:
                 href: resources/samples/copy-tables-combine.md
               - name: Crear una tabla de contenido de libro
                 href: resources/samples/table-of-contents.md
+              - name: Quitar filtros de columna de tabla
+                href: resources/samples/clear-table-filter-for-active-cell.md
           - name: Más allá de los aspectos básicos
             items:
               - name: Combinar hojas de cálculo en un solo libro
