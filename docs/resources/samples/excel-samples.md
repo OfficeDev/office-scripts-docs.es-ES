@@ -3,12 +3,12 @@ title: Scripts básicos para scripts de Office en Excel
 description: Colección de ejemplos de código que se van a usar con scripts de Office en Excel.
 ms.date: 06/24/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: b6588dc4109799a7d615d0bee38c82a2bcd16743
-ms.sourcegitcommit: 82fb78e6907b7c3b95c5c53cfc83af4ea1067a78
+ms.openlocfilehash: eea455cbaa2cbc96556e71deec1a9fbd4cdbeea7
+ms.sourcegitcommit: dd632402cb46ec8407a1c98456f1bc9ab96ffa46
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2022
-ms.locfileid: "66572352"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66918821"
 ---
 # <a name="basic-scripts-for-office-scripts-in-excel"></a>Scripts básicos para scripts de Office en Excel
 
@@ -148,6 +148,65 @@ function main(workbook: ExcelScript.Workbook) {
 
     // Highlight the blank cells with a yellow background.
     blankCells.getFormat().getFill().setColor("yellow");
+}
+```
+
+### <a name="unhide-all-rows-and-columns"></a>Mostrar todas las filas y columnas
+
+Este script obtiene el rango usado de la hoja de cálculo, comprueba si hay filas y columnas ocultas y las muestra. 
+
+```Typescript
+function main(workbook: ExcelScript.Workbook) {
+    // Get the currently selected sheet.
+    const selectedSheet = workbook.getActiveWorksheet();
+
+    // Get the entire data range.
+    const range = selectedSheet.getUsedRange();
+
+    // If the used range is empty, end the script.
+    if (!range) {
+      console.log(`No data on this sheet.`)
+      return;
+    }
+
+    // If no columns are hidden, log message, else, unhide columns
+    if (range.getColumnHidden() == false) {
+      console.log(`No columns hidden`);
+    } else {
+      range.setColumnHidden(false);
+    }
+
+    // If no rows are hidden, log message, else, unhide rows.
+    if (range.getRowHidden() == false) {
+      console.log(`No rows hidden`);
+    } else {
+      range.setRowHidden(false);
+    }
+}
+
+### Freeze Currently Selected Cells
+
+This script checks what cells are currently selected and freezes that selection, so those cells are always visible.
+
+```Typescript
+function main(workbook: ExcelScript.Workbook) {
+    // Get the currently selected sheet.
+    const selectedSheet = workbook.getActiveWorksheet();
+
+    // Get the current selected range.
+    const selectedRange = workbook.getSelectedRange();
+
+    // If no cells are selected, end the script. 
+    if (!selectedRange) {
+      console.log(`No cells in the worksheet are selected.`);
+      return;
+    }
+
+    // Log the address of the selected range
+    console.log(`Selected range for the worksheet: ${selectedRange.getAddress()}`);
+
+    // Freeze the selected range.
+    selectedSheet.getFreezePanes().freezeAt(selectedRange);
 }
 ```
 
@@ -466,7 +525,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Agradecemos las sugerencias para nuevos ejemplos. Si hay un escenario común que ayude a otros desarrolladores de scripts, díganoslo en la sección de comentarios de la parte inferior de la página.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
 * ["Conceptos básicos del rango" de Sudhi Ramamurthy en YouTube](https://youtu.be/4emjkOFdLBA)
 * [Ejemplos y escenarios de Scripts de Office](samples-overview.md)

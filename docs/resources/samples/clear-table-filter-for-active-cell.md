@@ -1,70 +1,61 @@
 ---
-title: Borrar filtro de columna de tabla en función de la ubicación de celda activa
+title: Quitar filtros de columna de tabla
 description: Obtenga información sobre cómo borrar el filtro de columna de tabla en función de la ubicación de celda activa.
-ms.date: 06/29/2021
+ms.date: 07/15/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: c52f1a3501318a479744abc6f2aa15cfaf3f9ded
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 21a79abfdd4aeac79af4a0f9ea4a581d45b9706b
+ms.sourcegitcommit: dd632402cb46ec8407a1c98456f1bc9ab96ffa46
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585586"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66918814"
 ---
-# <a name="clear-table-column-filter-based-on-active-cell-location"></a>Borrar filtro de columna de tabla en función de la ubicación de celda activa
+# <a name="remove-table-column-filters"></a>Quitar filtros de columna de tabla
 
-En este ejemplo se borra el filtro de columna de tabla en función de la ubicación de la celda activa. El script detecta si la celda forma parte de una tabla, determina la columna de tabla y borra cualquier filtro que se aplique en ella.
+En este ejemplo se quitan los filtros de una columna de tabla, en función de la ubicación de celda activa. El script detecta si la celda forma parte de una tabla, determina la columna de tabla y borra cualquier filtro que se aplique a ella.
 
-Si desea obtener más información sobre cómo guardar el filtro antes de borrarlo (y volver a aplicarlo más adelante), vea [Mover](move-rows-across-tables.md) filas entre tablas guardando filtros, un ejemplo más avanzado.
+Si desea obtener más información sobre cómo guardar el filtro antes de borrarlo (y volver a aplicarlo más adelante), consulte [Mover filas entre tablas guardando filtros](move-rows-across-tables.md), un ejemplo más avanzado.
 
-_Antes de borrar el filtro de columna (observe la celda activa)_
+## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
 
-:::image type="content" source="../../images/before-filter-applied.png" alt-text="Una celda activa antes de borrar el filtro de columna.":::
+Descargue <a href="table-with-filter.xlsx">table-with-filter.xlsx</a> de un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
 
-_Después de borrar el filtro de columna_
+## <a name="sample-code-clear-table-column-filter-based-on-active-cell"></a>Código de ejemplo: Borrar filtro de columna de tabla en función de la celda activa
 
-:::image type="content" source="../../images/after-filter-cleared.png" alt-text="Una celda activa después de borrar el filtro de columna.":::
-
-## <a name="sample-excel-file"></a>Archivo Excel ejemplo
-
-Descargue <a href="table-with-filter.xlsx">table-with-filter.xlsx</a> para un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
-
-## <a name="sample-code-clear-table-column-filter-based-on-active-cell"></a>Código de ejemplo: borrar el filtro de columna de tabla en función de la celda activa
-
-El siguiente script borra el filtro de columna de tabla en función de la ubicación de celda activa y se puede aplicar a cualquier archivo Excel con una tabla.
+El siguiente script borra el filtro de columna de tabla en función de la ubicación de celda activa y se puede aplicar a cualquier archivo de Excel con una tabla.
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
-    // Get the active cell.
-    const cell = workbook.getActiveCell();
+  // Get the active cell.
+  const cell = workbook.getActiveCell();
 
-    // Get all tables associated with that cell.
-    const tables = cell.getTables();
-    
-    // If there is no table on the selection, end the script.
-    if (tables.length !== 1) {
-      console.log("The selection is not in a table.");
-      return;
-    }
+  // Get the tables associated with that cell.
+  // Since tables can't overlap, this will be one table at most.
+  const currentTable = cell.getTables()[0];
 
-    // Get the first table associated with the active cell.
-    const currentTable = tables[0];
+  // If there is no table on the selection, end the script.
+  if (!currentTable) {
+    console.log("The selection is not in a table.");
+    return;
+  }
 
-    // Log key information about the table.
-    console.log(currentTable.getName());
-    console.log(currentTable.getRange().getAddress());
+  // Get the table header above the current cell by referencing its column.
+  const entireColumn = cell.getEntireColumn();
+  const intersect = entireColumn.getIntersection(currentTable.getRange());
+  const headerCellValue = intersect.getCell(0, 0).getValue() as string;
 
-    // Get the table header above the current cell by referencing its column.
-    const entireColumn = cell.getEntireColumn();
-    const intersect = entireColumn.getIntersection(currentTable.getRange());
-    console.log(intersect.getAddress());
+  // Get the TableColumn object matching that header.
+  const tableColumn = currentTable.getColumnByName(headerCellValue);
 
-    const headerCellValue = intersect.getCell(0,0).getValue() as string;
-    console.log(headerCellValue);
-
-    // Get the TableColumn object matching that header.
-    const tableColumn = currentTable.getColumnByName(headerCellValue);
-
-    // Clear the filter on that table column.
-    tableColumn.getFilter().clear();
+  // Clear the filters on that table column.
+  tableColumn.getFilter().clear();
 }
 ```
+
+## <a name="before-clearing-column-filter-notice-the-active-cell"></a>Antes de borrar el filtro de columna (observe la celda activa)
+
+:::image type="content" source="../../images/before-filter-applied.png" alt-text="Celda activa antes de borrar el filtro de columna.":::
+
+## <a name="after-clearing-column-filter"></a>Después de borrar el filtro de columna
+
+:::image type="content" source="../../images/after-filter-cleared.png" alt-text="Celda activa después de borrar el filtro de columna.":::
