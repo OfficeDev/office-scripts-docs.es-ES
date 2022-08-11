@@ -3,12 +3,12 @@ title: Scripts básicos para scripts de Office en Excel
 description: Colección de ejemplos de código que se van a usar con scripts de Office en Excel.
 ms.date: 06/24/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: eea455cbaa2cbc96556e71deec1a9fbd4cdbeea7
-ms.sourcegitcommit: dd632402cb46ec8407a1c98456f1bc9ab96ffa46
+ms.openlocfilehash: 3d17e2cf2314ccd6c07d81e53337fcd63a474fd8
+ms.sourcegitcommit: 33fe0f6807daefb16b148fd73c863de101f47cea
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66918821"
+ms.lasthandoff: 08/08/2022
+ms.locfileid: "67281906"
 ---
 # <a name="basic-scripts-for-office-scripts-in-excel"></a>Scripts básicos para scripts de Office en Excel
 
@@ -183,12 +183,13 @@ function main(workbook: ExcelScript.Workbook) {
       range.setRowHidden(false);
     }
 }
+```
 
-### Freeze Currently Selected Cells
+### <a name="freeze-currently-selected-cells"></a>Inmovilizar celdas seleccionadas actualmente
 
-This script checks what cells are currently selected and freezes that selection, so those cells are always visible.
+Este script comprueba qué celdas están seleccionadas actualmente y inmoviliza esa selección, por lo que esas celdas siempre están visibles.
 
-```Typescript
+```TypeScript
 function main(workbook: ExcelScript.Workbook) {
     // Get the currently selected sheet.
     const selectedSheet = workbook.getActiveWorksheet();
@@ -525,7 +526,7 @@ function main(workbook: ExcelScript.Workbook) {
 
 Agradecemos las sugerencias para nuevos ejemplos. Si hay un escenario común que ayude a otros desarrolladores de scripts, díganoslo en la sección de comentarios de la parte inferior de la página.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 * ["Conceptos básicos del rango" de Sudhi Ramamurthy en YouTube](https://youtu.be/4emjkOFdLBA)
 * [Ejemplos y escenarios de Scripts de Office](samples-overview.md)
