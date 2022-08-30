@@ -1,14 +1,14 @@
 ---
 title: Ejecutar scripts mediante un flujo manual de Power Automate
 description: Tutorial sobre el uso de scripts de Office en Power Automate mediante un desencadenador manual.
-ms.date: 06/29/2021
+ms.date: 08/22/2022
 ms.localizationpriority: high
-ms.openlocfilehash: e926540976dc066b3f07620c1e710dfa3abc7660
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
-ms.translationtype: HT
+ms.openlocfilehash: c7d7df926ac00f4f9ee5ad47ae52089e5c46d2cc
+ms.sourcegitcommit: 4a26aa16a9c8cbedb2bb9f482235ea52a88cf08f
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585943"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "67424274"
 ---
 # <a name="call-scripts-from-a-manual-power-automate-flow"></a>Ejecutar scripts mediante un flujo manual de Power Automate
 
@@ -120,9 +120,13 @@ El flujo ya está listo para ejecutarse mediante Power Automate. Puede probarlo
 
 6. Seleccione **Listo**. En consecuencia, debería actualizarse la sección **Ejecuciones**.
 
-7. Actualice la página para ver los resultados de Power Automate. Si se ha realizado correctamente, podrá ver las celdas actualizadas en el libro de trabajo. Si se ha producido un error, compruebe la configuración del flujo y ejecútelo de nuevo.
+7. Actualice la página para ver los resultados de Power Automate. Si se ha producido un error, compruebe la configuración del flujo y ejecútelo de nuevo.
 
     :::image type="content" source="../images/power-automate-tutorial-9.png" alt-text="Resultado de Power Automate que muestra una ejecución de flujo satisfactoria":::
+
+8. Abra el libro para ver las celdas actualizadas. Debería ver la fecha actual en la celda **A1** y la hora actual en la celda **B1**. Power Automate usa la hora universal coordinada (UTC), por lo que es probable que la hora se desfase de la zona horaria actual.
+
+    :::image type="content" source="../images/power-automate-tutorial-10.png" alt-text="Libro que muestra los valores de fecha y hora en las celdas A1 y B1.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 
