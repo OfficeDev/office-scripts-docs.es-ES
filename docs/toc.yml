@@ -73,6 +73,8 @@ items:
                 href: resources/samples/table-of-contents.md
               - name: Quitar filtros de columna de tabla
                 href: resources/samples/clear-table-filter-for-active-cell.md
+              - name: Informe de cambios diarios en Power Automate
+                href: resources/samples/report-day-to-day-changes.md
           - name: Más allá de los aspectos básicos
             items:
               - name: Combinar hojas de cálculo en un solo libro

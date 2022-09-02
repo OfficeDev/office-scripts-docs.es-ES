@@ -3,12 +3,12 @@ title: Salida de datos de Excel como JSON
 description: Obtenga información sobre cómo generar datos de tabla de Excel como JSON para usarlos en Power Automate.
 ms.date: 06/27/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 6453d9f0e92f9b3fcccc6e3ec9c1b6c9af49859c
-ms.sourcegitcommit: 82fb78e6907b7c3b95c5c53cfc83af4ea1067a78
+ms.openlocfilehash: 5078d2d86c92aacb0c0c2438b7298a523c132522
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2022
-ms.locfileid: "66572345"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572671"
 ---
 # <a name="output-excel-table-data-as-json-for-usage-in-power-automate"></a>Salida de datos de tabla de Excel como JSON para su uso en Power Automate
 
@@ -16,7 +16,7 @@ Los datos de la tabla de Excel se pueden representar como una matriz de objetos 
 
 ## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
 
-Descargue el <a href="table-data-with-hyperlinks.xlsx"> archivotable-data-with-hyperlinks.xlsx</a> de un libro listo para usar.
+Descargue el [ archivotable-data-with-hyperlinks.xlsx](table-data-with-hyperlinks.xlsx) de un libro listo para usar.
 
 :::image type="content" source="../../images/table-input.png" alt-text="Hoja de cálculo que muestra los datos de la tabla de entrada.":::
 

@@ -1,32 +1,32 @@
 ---
 title: Agregar imágenes a un libro
-description: Obtenga información sobre cómo usar Office scripts para agregar una imagen a un libro y copiarla entre hojas.
+description: Obtenga información sobre cómo usar scripts de Office para agregar una imagen a un libro y copiarla entre hojas.
 ms.date: 07/12/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: b827ebe4050fa8e260ed640a73d583264955b597
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 78c7779cf4d524ed62bf8d419135863228b23d33
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585866"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572608"
 ---
 # <a name="add-images-to-a-workbook"></a>Agregar imágenes a un libro
 
-En este ejemplo se muestra cómo trabajar con imágenes mediante un script Office en Excel.
+En este ejemplo se muestra cómo trabajar con imágenes mediante un script de Office en Excel.
 
 ## <a name="scenario"></a>Escenario
 
-Las imágenes ayudan con la personalción de marca, la identidad visual y las plantillas. Ayudan a hacer que un libro sea más que una tabla gigante.
+Las imágenes ayudan con la personalización de marca, la identidad visual y las plantillas. Ayudan a crear un libro más que una mesa gigante.
 
 El primer ejemplo copia una imagen de una hoja de cálculo a otra. Esto podría usarse para colocar el logotipo de su empresa en la misma posición en cada hoja.
 
-El segundo ejemplo copia una imagen de una dirección URL. Esto podría usarse para copiar las fotos que un compañero almacenaba en una carpeta compartida en un libro relacionado.
+En el segundo ejemplo se copia una imagen de una dirección URL. Esto se podría usar para copiar las fotos que un compañero almacenó en una carpeta compartida en un libro relacionado.
 
-## <a name="sample-excel-file"></a>Archivo Excel ejemplo
+## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
 
-Descargue <a href="add-images.xlsx">add-images.xlsx</a> para un libro listo para usar. Agregue los siguientes scripts y pruebe el ejemplo usted mismo.
+Descargue [add-images.xlsx](add-images.xlsx) de un libro listo para usar. Agregue los siguientes scripts y pruebe el ejemplo usted mismo.
 
-## <a name="sample-code-copy-an-image-across-worksheets"></a>Código de ejemplo: copiar una imagen en hojas de cálculo
+## <a name="sample-code-copy-an-image-across-worksheets"></a>Código de ejemplo: Copia de una imagen entre hojas de cálculo
 
 ```TypeScript
 /**

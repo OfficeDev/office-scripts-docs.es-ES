@@ -1,26 +1,26 @@
 ---
 title: Crear una tabla de contenido de libro
-description: Aprenda a crear una tabla de contenido con vínculos a cada hoja de cálculo.
+description: Obtenga información sobre cómo crear una tabla de contenido con vínculos a cada hoja de cálculo.
 ms.date: 01/20/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: b2d69609514c2e1e87f9c0590ea10152fc7d5e7d
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 5b158160ecb9ac29df547c6da6552e21c9875be3
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585523"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572517"
 ---
 # <a name="create-a-workbook-table-of-contents"></a>Crear una tabla de contenido de libro
 
 En este ejemplo se muestra cómo crear una tabla de contenido para el libro. Cada entrada de la tabla de contenido es un hipervínculo a una de las hojas de cálculo del libro.
 
-:::image type="content" source="../../images/table-of-contents-sample.png" alt-text="La hoja de cálculo de la tabla de contenido que muestra vínculos a las otras hojas de cálculo.":::
+:::image type="content" source="../../images/table-of-contents-sample.png" alt-text="La hoja de cálculo de tabla de contenido que muestra vínculos a las otras hojas de cálculo.":::
 
-## <a name="sample-excel-file"></a>Archivo Excel ejemplo
+## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
 
-Descargue <a href="table-of-contents.xlsx">table-of-contents.xlsx</a> para un libro listo para usar. Agregue el siguiente script y pruebe el ejemplo usted mismo.
+Descargue [table-of-contents.xlsx](table-of-contents.xlsx) de un libro listo para usar. Agregue el siguiente script y pruebe el ejemplo usted mismo.
 
-## <a name="sample-code-create-a-workbook-table-of-contents"></a>Código de ejemplo: Crear una tabla de contenido del libro
+## <a name="sample-code-create-a-workbook-table-of-contents"></a>Código de ejemplo: Creación de una tabla de contenido de libro
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {

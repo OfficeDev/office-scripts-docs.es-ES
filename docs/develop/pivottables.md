@@ -1,18 +1,18 @@
 ---
-title: Trabajar con tablas dinámicas en scripts de Office
-description: Obtenga información sobre el modelo de objetos para tablas dinámicas en la API de JavaScript de scripts de Office.
+title: Trabajar con tablas dinámicas en Scripts de Office
+description: Obtenga información sobre el modelo de objetos para tablas dinámicas en la API de JavaScript de Scripts de Office.
 ms.date: 04/20/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 579f94140214674912c9610e707123924e4aef18
-ms.sourcegitcommit: 4e3d3aa25fe4e604b806fbe72310b7a84ee72624
+ms.openlocfilehash: a457c41bd1205f4e17636c43d7ba78addc80d0e4
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65077110"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572587"
 ---
-# <a name="work-with-pivottables-in-office-scripts"></a>Trabajar con tablas dinámicas en scripts de Office
+# <a name="work-with-pivottables-in-office-scripts"></a>Trabajar con tablas dinámicas en Scripts de Office
 
-Las tablas dinámicas permiten analizar rápidamente grandes colecciones de datos. Con su poder viene la complejidad. Las API de scripts de Office permiten personalizar una tabla dinámica para satisfacer sus necesidades, pero el ámbito del conjunto de API hace que empezar sea un desafío. En este artículo se muestra cómo realizar tareas comunes de tabla dinámica y se explican clases y métodos importantes.
+Las tablas dinámicas permiten analizar rápidamente grandes colecciones de datos. Con su poder viene la complejidad. Las API de scripts de Office le permiten personalizar una tabla dinámica para satisfacer sus necesidades, pero el ámbito del conjunto de API hace que empezar sea un desafío. En este artículo se muestra cómo realizar tareas comunes de tabla dinámica y se explican clases y métodos importantes.
 
 > [!NOTE]
 > Para comprender mejor el contexto de los términos utilizados por las API, lea primero la documentación de la tabla dinámica de Excel. Comience con [Crear una tabla dinámica para analizar los datos de la hoja de cálculo](https://support.microsoft.com/office/a9a84538-bfe9-40a9-a8e9-f99134456576).
@@ -21,17 +21,17 @@ Las tablas dinámicas permiten analizar rápidamente grandes colecciones de dato
 
 :::image type="content" source="../images/pivottable-object-model.png" alt-text="Imagen simplificada de las clases, métodos y propiedades que se usan al trabajar con tablas dinámicas.":::
 
-La [tabla dinámica](/javascript/api/office-scripts/excelscript/excelscript.pivottable) es el objeto central de las tablas dinámicas de la API de scripts de Office.
+La [tabla dinámica](/javascript/api/office-scripts/excelscript/excelscript.pivottable) es el objeto central de las tablas dinámicas en la API de scripts de Office.
 
 - El objeto [Workbook](/javascript/api/office-scripts/excelscript/excelscript.workbook) tiene una colección de todas las [tablas dinámicas](/javascript/api/office-scripts/excelscript/excelscript.pivottable). Cada [hoja de cálculo](/javascript/api/office-scripts/excelscript/excelscript.worksheet) también contiene una colección de tabla dinámica que es local a esa hoja.
 - Una [tabla dinámica](/javascript/api/office-scripts/excelscript/excelscript.pivottable) contiene [PivotHierarchies](/javascript/api/office-scripts/excelscript/excelscript.pivothierarchy). Una jerarquía se puede considerar como una columna de una tabla.
 - [PivotHierarchies](/javascript/api/office-scripts/excelscript/excelscript.pivothierarchy) se puede agregar como filas o columnas ([RowColumnPivotHierarchy](/javascript/api/office-scripts/excelscript/excelscript.rowcolumnpivothierarchy)), datos ([DataPivotHierarchy](/javascript/api/office-scripts/excelscript/excelscript.datapivothierarchy)) o filtros ([FilterPivotHierarchy](/javascript/api/office-scripts/excelscript/excelscript.filterpivothierarchy)).
-- Cada [pivotHierarchy](/javascript/api/office-scripts/excelscript/excelscript.pivothierarchy) contiene exactamente un [campo dinámico](/javascript/api/office-scripts/excelscript/excelscript.pivotfield). Las estructuras de tabla dinámica fuera de Excel pueden contener varios campos por jerarquía, por lo que este diseño existe para admitir opciones futuras. Para Office scripts, los campos y las jerarquías se asignan a la misma información.
+- Cada [pivotHierarchy](/javascript/api/office-scripts/excelscript/excelscript.pivothierarchy) contiene exactamente un [campo dinámico](/javascript/api/office-scripts/excelscript/excelscript.pivotfield). Las estructuras de tabla dinámica fuera de Excel pueden contener varios campos por jerarquía, por lo que este diseño existe para admitir opciones futuras. En el caso de los scripts de Office, los campos y las jerarquías se asignan a la misma información.
 - Un [campo dinámico](/javascript/api/office-scripts/excelscript/excelscript.pivotfield) contiene varios [elementos PivotItem](/javascript/api/office-scripts/excelscript/excelscript.pivotitem). Cada objeto PivotItem es un valor único en el campo. Piense en cada elemento como un valor de la columna de tabla. Los elementos también pueden ser valores agregados, como sumas, si el campo se usa para los datos.
 - [PivotLayout](/javascript/api/office-scripts/excelscript/excelscript.pivotlayout) define cómo se muestran los [pivotfields](/javascript/api/office-scripts/excelscript/excelscript.pivotfield) y [pivotitems](/javascript/api/office-scripts/excelscript/excelscript.pivotitem).
 - [PivotFilters filtra los](/javascript/api/office-scripts/excelscript/excelscript.pivotfilters) datos de la [tabla dinámica](/javascript/api/office-scripts/excelscript/excelscript.pivottable) con criterios diferentes.
 
-Examine cómo funcionan estas relaciones en la práctica. En los datos siguientes se describen las ventas de frutas de varias granjas de servidores. Es la base de todos los ejemplos de este artículo. Use <a href="pivottable-sample.xlsx">pivottable-sample.xlsx</a> para seguir.
+Examine cómo funcionan estas relaciones en la práctica. En los datos siguientes se describen las ventas de frutas de varias granjas de servidores. Es la base de todos los ejemplos de este artículo. Use [pivottable-sample.xlsx](pivottable-sample.xlsx) para seguir.
 
 :::image type="content" source="../images/pivottable-raw-data.png" alt-text="Colección de ventas de frutas de diferentes tipos de granjas.":::
 

@@ -1,18 +1,18 @@
 ---
-title: 'escenario de ejemplo de scripts de Office: botón de reloj de perforación'
+title: 'Escenario de ejemplo de Scripts de Office: botón de reloj de perforación'
 description: En este ejemplo se agrega un botón de reloj perforado y se permite que un usuario entre y salga del reloj con la hora actual.
 ms.date: 04/26/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: de56fb651d6f6088620678cfd72ce662875eafa7
-ms.sourcegitcommit: e6428a5214fa38aef036a952a0e3c09dbf6e4d3e
+ms.openlocfilehash: ac128a33b653506b6168bd4acfe1713bf6d26759
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2022
-ms.locfileid: "65109315"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572685"
 ---
-# <a name="office-scripts-sample-scenario-punch-clock-button"></a>escenario de ejemplo de scripts de Office: botón de reloj de perforación
+# <a name="office-scripts-sample-scenario-punch-clock-button"></a>Escenario de ejemplo de Scripts de Office: botón de reloj de perforación
 
-La idea de escenario y el script utilizados en este ejemplo fueron aportados por el miembro de la comunidad de scripts de Office [Brian Gonzalez](https://github.com/b-gonzalez).
+La idea de escenario y el script utilizados en este ejemplo fueron aportados por [brian González](https://github.com/b-gonzalez), miembro de la comunidad de Office Scripts.
 
 En este escenario, creará una hoja de horas para un empleado que le permite grabar sus horas de inicio y finalización con la pulsación de un [botón](../../develop/script-buttons.md). En función de lo que se haya grabado anteriormente, al presionar el botón se iniciará su día (entrada del reloj) o finalizará su día (salida del reloj). El ejemplo funciona tanto para Excel en la Web como para Windows.
 
@@ -20,7 +20,7 @@ En este escenario, creará una hoja de horas para un empleado que le permite gra
 
 ## <a name="setup-instructions"></a>Instrucciones de instalación
 
-1. Descargue <a href="punch-clock-sample.xlsx">punch-clock-sample.xlsx</a> en su OneDrive.
+1. Descargue [punch-clock-sample.xlsx](punch-clock-sample.xlsx) en Su OneDrive.
 
     :::image type="content" source="../../images/punch-clock-sample-1.png" alt-text="Tabla con tres columnas: &quot;Clock In&quot;, &quot;Clock Out&quot; y &quot;Duration&quot;.":::
 
@@ -131,7 +131,7 @@ En este escenario, creará una hoja de horas para un empleado que le permite gra
 
 1. Guarde el libro.
 
-## <a name="run-the-script"></a>Ejecución del script
+## <a name="run-the-script"></a>Ejecutar el script
 
 Presione el botón **Punch clock (Reloj de perforación** ) para ejecutar el script. Registra la hora actual en "Entrada de reloj" o "Salida del reloj", dependiendo de lo que se haya escrito anteriormente.
 

@@ -1,34 +1,34 @@
 ---
 title: Agregar comentarios en Excel
-description: Obtenga información sobre cómo usar Office scripts para agregar comentarios en una hoja de cálculo.
+description: Obtenga información sobre cómo usar scripts de Office para agregar comentarios en una hoja de cálculo.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 101f07fd2f1abcd4120585162dc2b77b8aece91a
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 90f072805e6798a4f9d6e74889ccca15610c87bd
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585600"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572496"
 ---
 # <a name="add-comments-in-excel"></a>Agregar comentarios en Excel
 
-En este ejemplo se muestra cómo agregar comentarios a una [celda @mentioning un](https://support.microsoft.com/office/90701709-5dc1-41c7-aa48-b01d4a46e8c7) compañero.
+En este ejemplo se muestra cómo agregar comentarios a una celda, incluido [@mentioning](https://support.microsoft.com/office/90701709-5dc1-41c7-aa48-b01d4a46e8c7) un compañero.
 
 ## <a name="example-scenario"></a>Escenario de ejemplo
 
-* El líder del equipo mantiene la programación de turnos. El responsable del equipo asigna un identificador de empleado al registro de turno.
-* El líder del equipo desea notificar al empleado. Al agregar un comentario que @mentions empleado, el empleado se envía por correo electrónico con un mensaje personalizado de la hoja de cálculo.
+* El responsable del equipo mantiene la programación de turnos. El responsable del equipo asigna un identificador de empleado al registro de turnos.
+* El jefe del equipo desea notificar al empleado. Al agregar un comentario que @mentions el empleado, el empleado se envía por correo electrónico con un mensaje personalizado de la hoja de cálculo.
 * Posteriormente, el empleado puede ver el libro y responder al comentario a su conveniencia.
 
 ## <a name="solution"></a>Solución
 
-1. El script extrae información de los empleados de la hoja de cálculo del empleado.
-1. A continuación, el script agrega un comentario (incluido el correo electrónico de empleado relevante) a la celda correspondiente en el registro de turno.
+1. El script extrae información del empleado de la hoja de cálculo del empleado.
+1. A continuación, el script agrega un comentario (incluido el correo electrónico del empleado correspondiente) a la celda adecuada del registro de turnos.
 1. Los comentarios existentes en la celda se quitan antes de agregar el nuevo comentario.
 
-## <a name="sample-excel-file"></a>Archivo Excel ejemplo
+## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
 
-Descargue <a href="excel-comments.xlsx">excel-comments.xlsx</a> para un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
+Descargue [excel-comments.xlsx](excel-comments.xlsx) de un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
 
 ## <a name="sample-code-add-comments"></a>Código de ejemplo: Agregar comentarios
 
@@ -77,6 +77,6 @@ function main(workbook: ExcelScript.Workbook) {
 }
 ```
 
-## <a name="training-video-add-comments"></a>Vídeo de aprendizaje: Agregar comentarios
+## <a name="training-video-add-comments"></a>Vídeo de entrenamiento: Adición de comentarios
 
-[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/CpR78nkaOFw).
+[Vea cómo Sudhi Ramamurthy recorre este ejemplo en YouTube](https://youtu.be/CpR78nkaOFw).

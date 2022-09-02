@@ -1,14 +1,14 @@
 ---
-title: Mover filas entre tablas mediante Office scripts
-description: Aprenda a mover filas entre tablas guardando filtros y procesando y reaprobando los filtros.
+title: Mover filas entre tablas mediante scripts de Office
+description: Obtenga información sobre cómo mover filas entre tablas guardando filtros y procesando y volviendo a aplicar los filtros.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: 9780cd79a55dcb5cd2e039b5198232358b3b1413
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: a7c28c4fef91402b8889d749a03f3aab5e615521
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585481"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572622"
 ---
 # <a name="move-rows-across-tables"></a>Mover filas entre tablas
 
@@ -16,13 +16,13 @@ Este script hace lo siguiente:
 
 * Selecciona filas de la tabla de origen donde el valor de una columna es igual a algún valor (`FILTER_VALUE` en el script).
 * Mueve todas las filas seleccionadas a la tabla de destino de otra hoja de cálculo.
-* Vuelve a aplicar los filtros relevantes a la tabla de origen.
+* Vuelve a aplicar los filtros pertinentes a la tabla de origen.
 
-## <a name="sample-excel-file"></a>Archivo Excel ejemplo
+## <a name="sample-excel-file"></a>Archivo de Excel de ejemplo
 
-Descargue el archivo <a href="input-table-filters.xlsx">input-table-filters.xlsx</a> para un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
+Descargue el [ archivoinput-table-filters.xlsx](input-table-filters.xlsx) de un libro listo para usar. Agregue el siguiente script para probar el ejemplo usted mismo.
 
-## <a name="sample-code-move-rows-using-range-values"></a>Código de ejemplo: mover filas con valores de intervalo
+## <a name="sample-code-move-rows-using-range-values"></a>Código de ejemplo: Mover filas con valores de intervalo
 
 ```TypeScript
 function main(workbook: ExcelScript.Workbook) {
@@ -105,9 +105,9 @@ function main(workbook: ExcelScript.Workbook) {
 }
 ```
 
-## <a name="training-video-move-rows-across-tables"></a>Vídeo de aprendizaje: Mover filas entre tablas
+## <a name="training-video-move-rows-across-tables"></a>Vídeo de entrenamiento: Traslado de filas entre tablas
 
-[Vea el recorrido de Sudhi Ramamurthy a través de esta muestra en YouTube](https://youtu.be/_3t3Pk4i2L0). Hay dos scripts que se muestran en la solución del vídeo. La diferencia principal es cómo se seleccionan las filas.
+[Vea cómo Sudhi Ramamurthy recorre este ejemplo en YouTube](https://youtu.be/_3t3Pk4i2L0). En la solución del vídeo se muestran dos scripts. La principal diferencia es cómo se seleccionan las filas.
 
 * En la primera variante, las filas se seleccionan aplicando el filtro de tabla y leyendo el intervalo visible.
 * En el segundo, las filas se seleccionan leyendo los valores y extrayendo los valores de fila (que es lo que usa el ejemplo de esta página).

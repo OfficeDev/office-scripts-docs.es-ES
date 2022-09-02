@@ -1,35 +1,35 @@
 ---
-title: 'Office ejemplo scripts: calculadora de calificaciones'
-description: Muestra que determina el porcentaje y las calificaciones de letras de una clase de alumnos.
+title: 'Escenario de ejemplo de Scripts de Office: calculadora de calificaciones'
+description: Muestra que determina el porcentaje y las calificaciones de letra para una clase de alumnos.
 ms.date: 06/29/2021
 ms.localizationpriority: medium
-ms.openlocfilehash: fd9009633e4a89e3b236f765543123b3995b9f47
-ms.sourcegitcommit: 7023b9e23499806901a5ecf8ebc460b76887cca6
+ms.openlocfilehash: 7dda3ebe84dc3edd10998cbe2c4cd0806da11411
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64585446"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572531"
 ---
-# <a name="office-scripts-sample-scenario-grade-calculator"></a>Office ejemplo scripts: calculadora de calificaciones
+# <a name="office-scripts-sample-scenario-grade-calculator"></a>Escenario de ejemplo de Scripts de Office: calculadora de calificaciones
 
-En este escenario, eres un instructor que cuenta las calificaciones de fin de curso de cada alumno. Has estado especificando las puntuaciones de sus tareas y pruebas a medida que vas. Ahora, es el momento de determinar el destino de los alumnos.
+En este escenario, es un instructor que analiza las calificaciones de fin de curso de todos los alumnos. Ha estado escribiendo las puntuaciones de sus asignaciones y pruebas a medida que avanza. Ahora, es el momento de determinar el destino de los estudiantes.
 
-Desarrollará un script que totale las calificaciones de cada categoría de puntos. A continuación, asignará una nota de letra a cada alumno en función del total. Para garantizar la precisión, agregarás un par de comprobaciones para ver si las puntuaciones individuales son demasiado bajas o altas. Si la puntuación de un alumno es menor que cero o más que el valor de punto posible, el script marcará la celda con un relleno rojo y no total de los puntos del alumno. Esta será una indicación clara de los registros que necesita comprobar. También agregará algún formato básico a las calificaciones para que pueda ver rápidamente la parte superior e inferior de la clase.
+Desarrollará un script que totale las calificaciones de cada categoría de punto. A continuación, asignará una calificación de letra a cada alumno en función del total. Para ayudar a garantizar la precisión, agregará un par de comprobaciones para ver si alguna puntuación individual es demasiado baja o alta. Si la puntuación de un alumno es menor que cero o más que el valor de punto posible, el script marcará la celda con un relleno rojo y no sumará los puntos de ese alumno. Esto será una indicación clara de qué registros debe comprobar. También agregará algún formato básico a las calificaciones para que pueda ver rápidamente la parte superior e inferior de la clase.
 
-## <a name="scripting-skills-covered"></a>Habilidades de scripting cubiertas
+## <a name="scripting-skills-covered"></a>Aptitudes de scripting cubiertas
 
 - Formato de celda
 - Comprobación de errores
 - Expresiones regulares
 - Formato condicional
 
-## <a name="setup-instructions"></a>Instrucciones de configuración
+## <a name="setup-instructions"></a>Instrucciones de instalación
 
-1. Descargue <a href="grade-calculator.xlsx">grade-calculator.xlsx</a> a su OneDrive.
+1. Descargue [grade-calculator.xlsx](grade-calculator.xlsx) en Su OneDrive.
 
 1. Abra el libro con Excel para la Web.
 
-1. En la **pestaña Automatizar** , seleccione **Nuevo script** y pegue el siguiente script en el editor.
+1. En la pestaña **Automatizar** , seleccione **Nuevo script** y pegue el siguiente script en el editor.
 
     ```TypeScript
     function main(workbook: ExcelScript.Workbook) {
@@ -176,7 +176,7 @@ Desarrollará un script que totale las calificaciones de cada categoría de punt
 
 ## <a name="running-the-script"></a>Ejecución del script
 
-Ejecute el script **calculadora de** calificaciones en la única hoja de cálculo. El script totalirá las calificaciones y asignará a cada alumno una nota de letra. Si las calificaciones individuales tienen más puntos que la asignación o la prueba, la calificación infractora se marca en rojo y el total no se calcula. Además, las calificaciones "A" se resaltan en verde, mientras que las calificaciones "D" y "F" se resaltan en amarillo.
+Ejecute el script **calculadora de calificaciones** en la única hoja de cálculo. El script sumará las calificaciones y asignará a cada alumno una calificación de letra. Si alguna calificación individual tiene más puntos que la asignación o prueba vale la pena, la calificación infractora se marca como roja y el total no se calcula. Además, los grados "A" se resaltan en verde, mientras que los grados "D" y "F" están resaltados en amarillo.
 
 ### <a name="before-running-the-script"></a>Antes de ejecutar el script
 
@@ -184,4 +184,4 @@ Ejecute el script **calculadora de** calificaciones en la única hoja de cálcul
 
 ### <a name="after-running-the-script"></a>Después de ejecutar el script
 
-:::image type="content" source="../../images/scenario-grade-calculator-after.png" alt-text="Hoja de cálculo que muestra los datos de puntuación del alumno con celdas no válidas en totales rojos para filas de alumnos válidas.":::
+:::image type="content" source="../../images/scenario-grade-calculator-after.png" alt-text="Hoja de cálculo que muestra los datos de puntuación de alumnos con celdas no válidas en totales rojos para filas de alumnos válidas.":::

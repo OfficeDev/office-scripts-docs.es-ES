@@ -1,14 +1,14 @@
 ---
 title: Ejemplos de scripts de Office
 description: Escenarios y ejemplos de Scripts de Office disponibles.
-ms.date: 06/14/2022
+ms.date: 08/25/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 5959bc472dbec04526dcf912a8bd67e2554aa251
-ms.sourcegitcommit: dd632402cb46ec8407a1c98456f1bc9ab96ffa46
+ms.openlocfilehash: 5798da37bd4166d18b41c005c4d8cc8a4b6c401d
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66918828"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572489"
 ---
 # <a name="office-scripts-samples-and-scenarios"></a>Ejemplos y escenarios de Scripts de Office
 
@@ -18,7 +18,7 @@ Para cada uno de los proyectos de [Conceptos básicos](#basics) y [Más allá de
 
 En Escenarios, hemos incluido algunos [ejemplos](#scenarios) de escenarios más grandes que muestran casos de uso reales.
 
-También agradecemos [las contribuciones de la comunidad](#community-contributions-and-fun-samples). Estos ejemplos son Open Source.
+También agradecemos [las contribuciones de la comunidad](#community-contributions-and-fun-samples). Estos ejemplos se código abierto.
 
 > [!IMPORTANT]
 > Asegúrese de cumplir los requisitos previos para los scripts de Office antes de probar los ejemplos. Los requisitos de la suscripción y la cuenta de Microsoft 365 se encuentran en la [sección "Requisitos" de información general de Office Scripts for Excel](../../overview/excel.md#requirements).
@@ -33,6 +33,7 @@ También agradecemos [las contribuciones de la comunidad](#community-contributio
 | [Copia de varias tablas de Excel en una sola tabla](copy-tables-combine.md) | Este ejemplo combina datos de varias tablas de Excel en una sola tabla que incluye todas las filas. |
 | [Crear una tabla de contenido de libro](table-of-contents.md) | En este ejemplo se crea una tabla de contenido con vínculos a cada hoja de cálculo. |
 | [Quitar filtros de columna de tabla](clear-table-filter-for-active-cell.md) | En este ejemplo se borran todos los filtros de una columna de tabla. |
+| [Registrar los cambios diarios en Excel y notificarlos con un flujo de Power Automate](report-day-to-day-changes.md) | En este ejemplo se usa un flujo programado de Power Automate para registrar lecturas diarias e informar de los cambios. |
 
 ## <a name="beyond-the-basics"></a>Más allá de los aspectos básicos
 

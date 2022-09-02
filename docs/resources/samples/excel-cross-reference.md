@@ -1,20 +1,20 @@
 ---
 title: Archivos de Excel de referencia cruzada con Power Automate
-description: Obtenga información sobre cómo usar scripts de Office y Power Automate para hacer referencia cruzada y dar formato a un archivo Excel.
+description: Obtenga información sobre cómo usar scripts de Office y Power Automate para realizar referencias cruzadas y dar formato a un archivo de Excel.
 ms.date: 06/06/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: a470ee4c59d0fc0a5612a54326a0dec3ab3a59d6
-ms.sourcegitcommit: dd01979d34b3499360d2f79a56f8a8f24f480eed
+ms.openlocfilehash: b32249dc7cb1e8c1b841a4db6caaff3b4d2998ec
+ms.sourcegitcommit: a6504f8b0d6b717457c6e0b5306c35ad3900914e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "66088123"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67572678"
 ---
 # <a name="cross-reference-excel-files-with-power-automate"></a>Archivos de Excel de referencia cruzada con Power Automate
 
-Esta solución muestra cómo comparar datos entre dos archivos Excel para encontrar discrepancias. Usa scripts de Office para analizar datos y Power Automate para comunicarse entre los libros.
+Esta solución muestra cómo comparar datos entre dos archivos de Excel para buscar discrepancias. Usa scripts de Office para analizar datos y Power Automate para comunicarse entre los libros.
 
-En este ejemplo se pasan datos entre libros mediante objetos [JSON](https://www.w3schools.com/whatis/whatis_json.asp) . Para obtener más información sobre cómo trabajar con JSON, lea [Uso de JSON para pasar datos a scripts de Office y desde ellos](../../develop/use-json.md).
+En este ejemplo se pasan datos entre libros mediante objetos [JSON](https://www.w3schools.com/whatis/whatis_json.asp) . Para obtener más información sobre cómo trabajar con JSON, lea [Uso de JSON para pasar datos hacia y desde scripts de Office](../../develop/use-json.md).
 
 ## <a name="example-scenario"></a>Escenario de ejemplo
 
@@ -24,8 +24,8 @@ Usted es un coordinador de eventos que está programando oradores para las próx
 
 Descargue los siguientes archivos para obtener libros listos para usar para el ejemplo.
 
-1. <a href="event-data.xlsx">event-data.xlsx</a>
-1. <a href="speaker-registrations.xlsx">speaker-registrations.xlsx</a>
+1. [event-data.xlsx](event-data.xlsx)
+1. [speaker-registrations.xlsx](speaker-registrations.xlsx)
 
 Agregue los siguientes scripts para probar el ejemplo usted mismo.
 
@@ -146,33 +146,33 @@ interface EventData {
 }
 ```
 
-## <a name="power-automate-flow-check-for-inconsistencies-across-the-workbooks"></a>flujo de Power Automate: comprobar si hay incoherencias en los libros
+## <a name="power-automate-flow-check-for-inconsistencies-across-the-workbooks"></a>Flujo de Power Automate: comprobación de incoherencias en los libros
 
 Este flujo extrae la información del evento del primer libro y usa esos datos para validar el segundo libro.
 
-1. Inicie sesión en [Power Automate](https://flow.microsoft.com) y cree un flujo **de nube instantáneo**.
+1. Inicie sesión en [Power Automate](https://flow.microsoft.com) y cree un nuevo **flujo de nube instantánea**.
 1. Elija **Desencadenar manualmente un flujo** y seleccione **Crear**.
-1. Agregue un **nuevo paso** que use el conector **Excel Online (Empresa)** con la acción **Ejecutar script**. Use los siguientes valores para la acción.
+1. Agregue un **nuevo paso** que use el conector **de Excel Online (Empresa)** con la acción **Ejecutar script** . Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
     * **Archivo**: event-data.xlsx ([seleccionado con el selector de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
     * **Script**: Obtención de datos de eventos
 
-    :::image type="content" source="../../images/cross-reference-flow-1.png" alt-text="El conector Excel Online (Business) completado para el primer script de Power Automate.":::
+    :::image type="content" source="../../images/cross-reference-flow-1.png" alt-text="Conector de Excel Online (Empresa) completado para el primer script en Power Automate.":::
 
-1. Agregue un segundo **paso Nuevo** que use el conector **Excel Online (Empresa)** con la acción **Ejecutar script**. Esto usa los valores devueltos del script **Get event data (Obtener datos de evento** ) como entrada para el script **validate event data (Validar datos de eventos** ). Use los siguientes valores para la acción.
+1. Agregue un segundo **paso Nuevo** que use el conector **de Excel Online (Empresa)** con la acción **Ejecutar script** . Esto usa los valores devueltos del script **Get event data (Obtener datos de evento** ) como entrada para el script **validate event data (Validar datos de eventos** ). Use los siguientes valores para la acción.
     * **Ubicación**: OneDrive para la Empresa
     * **Biblioteca de documentos**: OneDrive
     * **Archivo**: speaker-registration.xlsx ([seleccionado con el selector de archivos](../../testing/power-automate-troubleshooting.md#select-workbooks-with-the-file-browser-control))
     * **Script**: Validación del registro del hablante
     * **keys**: result (_contenido dinámico del **script de ejecución**_)
 
-    :::image type="content" source="../../images/cross-reference-flow-2.png" alt-text="El conector Excel Online (Business) completado para el segundo script de Power Automate.":::
-1. En este ejemplo se usa Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo electrónico Power Automate admita. Agregue un **nuevo paso** que use el conector **de Office 365 Outlook** y la acción **Enviar y enviar correo electrónico (V2).** Esto usa los valores devueltos del script **Validate speaker registration (Validar el script de registro del hablante** ) como contenido del cuerpo del correo electrónico. Use los siguientes valores para la acción.
+    :::image type="content" source="../../images/cross-reference-flow-2.png" alt-text="Conector de Excel Online (Empresa) completado para el segundo script en Power Automate.":::
+1. En este ejemplo se usa Outlook como cliente de correo electrónico. Puede usar cualquier conector de correo electrónico compatible con Power Automate. Agregue un **nuevo paso** que use el conector **Office 365 Outlook** y la acción **Enviar y enviar correo electrónico (V2).** Esto usa los valores devueltos del script **Validate speaker registration (Validar el script de registro del hablante** ) como contenido del cuerpo del correo electrónico. Use los siguientes valores para la acción.
     * **Para**: Su cuenta de correo electrónico de prueba (o correo electrónico personal)
     * **Asunto**: Resultados de validación de eventos
     * **Cuerpo**: resultado (_contenido dinámico del **script de ejecución 2**_)
 
-    :::image type="content" source="../../images/cross-reference-flow-3.png" alt-text="Conector de Office 365 Outlook completado en Power Automate.":::
+    :::image type="content" source="../../images/cross-reference-flow-3.png" alt-text="El conector de Outlook Office 365 completado en Power Automate.":::
 1. Guarde el flujo. Use el botón **Probar** de la página del editor de flujo o ejecute el flujo a través de la pestaña **Mis flujos** . Asegúrese de permitir el acceso cuando se le solicite.
 1. Debería recibir un correo electrónico que dice "Error de coincidencia encontrado. Los datos requieren su revisión". Esto indica que hay diferencias entre las filas de **speaker-registrations.xlsx** y las filas de **event-data.xlsx**. Abra **speaker-registrations.xlsx** para ver varias celdas resaltadas donde hay posibles problemas con las listas de registro del hablante.
