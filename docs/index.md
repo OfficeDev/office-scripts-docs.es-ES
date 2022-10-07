@@ -3,14 +3,14 @@ layout: LandingPage
 ms.topic: landing-page
 title: Documentación de scripts de Office
 description: Recursos para aprender scripts de Office en Excel, incluidos tutoriales, artículos conceptuales y ejemplos de código.
-ms.date: 05/24/2021
+ms.date: 09/12/2022
 ms.localizationpriority: high
-ms.openlocfilehash: b98c746ec89b61f05c3a6ded04100c0a1efc20bc
-ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
-ms.translationtype: HT
+ms.openlocfilehash: 3219d7c508381ab34615c5f6cc5a16507a9b021a
+ms.sourcegitcommit: 64d506257bee282fb01aedbf4d090781b06e4900
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65393694"
+ms.lasthandoff: 10/07/2022
+ms.locfileid: "68495484"
 ---
 # <a name="office-scripts-documentation"></a>Documentación de scripts de Office
 
@@ -73,7 +73,7 @@ Use los scripts de Office en Excel para automatizar las tareas comunes. Explore 
 ---
 
 <h2>Otros recursos</h2>
-<p>Use los siguientes recursos para obtener información sobre las API que usan los scripts de Office, formular preguntas sobre scripts de Office o solicitar características para scripts de Office.</p>
+<p>Use los siguientes recursos para obtener información sobre las API de scripts de Office, formular preguntas sobre los scripts de Office o solicitar características para scripts de Office.</p>
 <ul class="panelContent cardsF cols cols3 rows2">
     <li>
         <div class="cardSize">

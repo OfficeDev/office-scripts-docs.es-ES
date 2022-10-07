@@ -2,14 +2,14 @@
 title: Scripts de Office en Excel
 description: Breve introducción a la Grabadora de acciones y el Editor de código para scripts de Office.
 ms.topic: overview
-ms.date: 02/25/2022
+ms.date: 10/05/2022
 ms.localizationpriority: high
-ms.openlocfilehash: a85e8dad8d6e99ee3b4c5558cd2c1b8417956fb3
-ms.sourcegitcommit: 34c7740c9bff0e4c7426e01029f967724bfee566
-ms.translationtype: HT
+ms.openlocfilehash: 02a45e5aae468cff2c61e18b35c54ba656d0484b
+ms.sourcegitcommit: 64d506257bee282fb01aedbf4d090781b06e4900
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65393638"
+ms.lasthandoff: 10/07/2022
+ms.locfileid: "68495477"
 ---
 # <a name="office-scripts-in-excel"></a>Scripts de Office en Excel
 
@@ -25,7 +25,11 @@ En esta serie de documentos aprenderá a usar estas herramientas. Le presentarem
 
 Para usar los Scripts de Office, necesita lo siguiente:
 
-1. [Excel en la Web](https://www.office.com/launch/excel) (Excel para Windows solo puede usar Scripts de Office con [botones de script](../develop/script-buttons.md)).
+1. [Excel en la Web](https://www.office.com/launch/excel) (Excel en Windows solo puede usar scripts de Office con [botones de script](../develop/script-buttons.md)).
+
+    > [!TIP]
+    > Los scripts de Office ahora están disponibles en Office en Windows y en Mac para [Office Insiders](https://insider.office.com/).
+
 1. OneDrive para la Empresa.
 1. Cualquier licencia de Microsoft 365 comercial o educativa con acceso a las aplicaciones de escritorio de Microsoft Office 365, como:
 

@@ -1,25 +1,25 @@
 ---
 title: Solución de problemas de scripts de Office
 description: Sugerencias y técnicas de depuración para scripts de Office, así como recursos de ayuda.
-ms.date: 11/11/2021
+ms.date: 10/05/2022
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e673d39b6249ccc7598b832d6478cc8dc0751f6
-ms.sourcegitcommit: f5fc9146d5c096e3a580a3fa8f9714147c548df4
+ms.openlocfilehash: 4fe4a9b17d51d078403d1a46abed774d38eeaa80
+ms.sourcegitcommit: 64d506257bee282fb01aedbf4d090781b06e4900
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2022
-ms.locfileid: "66038682"
+ms.lasthandoff: 10/07/2022
+ms.locfileid: "68495470"
 ---
 # <a name="troubleshoot-office-scripts"></a>Solución de problemas de scripts de Office
 
-A medida que desarrolle scripts Office, puede cometer errores. Está bien. Tiene las herramientas para ayudar a encontrar los problemas y conseguir que los scripts funcionen perfectamente.
+A medida que desarrolle scripts de Office, puede cometer errores. Está bien. Tiene las herramientas para ayudar a encontrar los problemas y conseguir que los scripts funcionen perfectamente.
 
 > [!NOTE]
-> Para obtener consejos de solución de problemas específicos de scripts de Office con Power Automate, consulte [Solución de problemas de scripts Office que se ejecutan en Power Automate](power-automate-troubleshooting.md).
+> Para obtener consejos de solución de problemas específicos de scripts de Office con Power Automate, consulte [Solución de problemas de scripts de Office que se ejecutan en Power Automate](power-automate-troubleshooting.md).
 
 ## <a name="types-of-errors"></a>Tipos de errores
 
-Office errores de scripts se dividen en una de dos categorías:
+Los errores de scripts de Office se dividen en una de dos categorías:
 
 * Errores o advertencias en tiempo de compilación
 * Errores en tiempo de ejecución
@@ -68,21 +68,24 @@ Las cadenas pasadas a `console.log` se muestran en la consola de registro del Ed
 
 Los registros no afectan al libro.
 
-## <a name="automate-tab-not-appearing-or-office-scripts-unavailable"></a>La pestaña Automatizar no aparece ni Office scripts no disponibles
+## <a name="automate-tab-not-appearing-or-office-scripts-unavailable"></a>No aparece la pestaña Automatizar o scripts de Office no están disponibles
 
 Los pasos siguientes deben ayudar a solucionar cualquier problema relacionado con la pestaña **Automatizar** que no aparezca en Excel en la Web.
 
 1. [Asegúrese de que la licencia de Microsoft 365 incluye scripts de Office](../overview/excel.md#requirements).
 1. [Compruebe que el explorador es compatible](platform-limits.md#browser-support).
 1. [Asegúrese de que las cookies de terceros están habilitadas](platform-limits.md#third-party-cookies).
-1. [Asegúrese de que el administrador no ha deshabilitado Office scripts en el Centro de administración de Microsoft 365](/microsoft-365/admin/manage/manage-office-scripts-settings).
+1. [Asegúrese de que el administrador no ha deshabilitado los scripts de Office en el Centro de administración de Microsoft 365](/microsoft-365/admin/manage/manage-office-scripts-settings).
 1. Asegúrese de que no ha iniciado sesión como usuario externo o invitado en el inquilino.
 
 [!INCLUDE [Teams support note](../includes/teams-support-note.md)]
 
+> [!NOTE]
+> Hay un problema conocido que impide que los scripts almacenados en SharePoint aparezcan siempre en la lista usada recientemente. Esto ocurre cuando el administrador desactiva Exchange Web Services (EWS). Los scripts basados en SharePoint siguen siendo accesibles y se pueden usar a través del cuadro de diálogo de archivo.
+
 ## <a name="help-resources"></a>Recursos de ayuda
 
-[Stack Overflow](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores dispuestos a ayudar con los problemas de codificación. A menudo, podrá encontrar la solución al problema a través de una búsqueda rápida de Stack Overflow. Si no es así, formule su pregunta y etiquete con la etiqueta "office-scripts". Asegúrese de mencionar que está creando un *script* de Office, no un *complemento* de Office.
+[Stack Overflow](https://stackoverflow.com/questions/tagged/office-scripts) es una comunidad de desarrolladores dispuestos a ayudar con los problemas de codificación. A menudo, podrá encontrar la solución al problema a través de una búsqueda rápida de Stack Overflow. Si no es así, formule su pregunta y etiquete con la etiqueta "office-scripts". Asegúrese de mencionar que está creando un *script* de Office, no un *complemento de* Office.
 
 ## <a name="see-also"></a>Vea también
 
