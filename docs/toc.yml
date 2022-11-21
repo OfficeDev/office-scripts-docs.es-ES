@@ -17,7 +17,7 @@ items:
             href: tutorials/excel-power-automate-trigger.md
           - name: Pasar datos desde un script al flujo de Power Automate
             href: tutorials/excel-power-automate-returns.md
-      - name: Aspectos básicos de los scripts
+      - name: Aspectos básicos del script
         href: develop/scripting-fundamentals.md
       - name: Conceptos
         items:
